@@ -58,21 +58,21 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: othylmann
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: othylmann
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -81,7 +81,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: othylmann
 pinboard_count: 3
 
 # Delicious
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-51635-10
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

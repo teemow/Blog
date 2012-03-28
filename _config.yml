@@ -1,11 +1,11 @@
 # ----------------------- #
 #      Main Configs       #
-# ----------------------- #
+#  ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://thylmann.net
+title: Oliver Thylmann
+subtitle: The ramblings of somebody that likes to do that.
+author: Oliver Thylmann
 simple_search: http://google.com/search
 description:
 

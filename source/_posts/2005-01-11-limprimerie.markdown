@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;l'imprimerie&quot;&gt;&lt;img src=&quot;http://photos1.flickr.com/3243762_3c2a05ed54_m.jpg&quot; alt=&quot;l'imprimerie&quot; /&gt;](http://www.flickr.com/photos/oliver/3243762/)&lt;p&gt;Eating belge in cologne&lt;/p&gt;
+[ title=&quot;l'imprimerie&quot;&gt;&lt;img src=&quot;http://photos1.flickr.com/3243762_3c2a05ed54_m.jpg&quot; alt=&quot;l'imprimerie&quot; /&gt;](http://www.flickr.com/photos/oliver/3243762/)Eating belge in cologne
 
 

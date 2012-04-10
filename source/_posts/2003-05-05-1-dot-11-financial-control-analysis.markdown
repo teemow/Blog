@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This will be about the value proposition that your company has based on the relationships with your competitors, customers, collaborators and co-workers.
 
 
-&lt;!-- more --&gt;
+
 
 
 To analyse financials you need to look at things like variances, a so called Variance analysis which will include both price (Ho much more money spent due to higher price) and quantity (How much more money spent due to more products at budget price) variance.

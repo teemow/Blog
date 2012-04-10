@@ -8,10 +8,10 @@ author: Oliver Thylmann
 ---
 
 
-Marketing Wonk has posted about &lt;a title=&quot;'Ring Back Tones' New Mobile Marketing Medium&quot; href=&quot;http://www.marketingwonk.com/archives/2004/02/06/ring_back_tones_new_mobile_marketing_medium/index.php?rss1&quot;&gt;&lt;i&gt;'Ring Back Tones' New Mobile Marketing Medium&lt;/i&gt;&lt;/a&gt;, pointing to [this article](http://www.brandrepublic.com/digitalbulletin/news_story.cfm?articleID=201614&amp;Origin=DB06022004) on Brand Republic. Brand Republic simply points out that Ring Back Tones, the sounds you hear when you call somebody instead of the standard boring ring, will be very big in the future and that T-Mobile is launching it in Europe, predicting 20% penetration within the end of the year.
+Marketing Wonk has posted about &lt;a title=&quot;'Ring Back Tones' New Mobile Marketing Medium&quot; href=&quot;http://www.marketingwonk.com/archives/2004/02/06/ring_back_tones_new_mobile_marketing_medium/index.php?rss1&quot;&gt;*'Ring Back Tones' New Mobile Marketing Medium*, pointing to [this article](http://www.brandrepublic.com/digitalbulletin/news_story.cfm?articleID=201614&amp;Origin=DB06022004) on Brand Republic. Brand Republic simply points out that Ring Back Tones, the sounds you hear when you call somebody instead of the standard boring ring, will be very big in the future and that T-Mobile is launching it in Europe, predicting 20% penetration within the end of the year.
 
 
-&lt;!-- more --&gt;
+
 
 
 The juicy bit comes from Marketing Wonk, as they point out that we might be hearing ads instead of ring tones in the future. This might actually be an interesting thing. I mean you can take 10 seconds to pick up anyway and you can push over a marketing message in 10 seconds.

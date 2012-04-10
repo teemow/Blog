@@ -14,7 +14,7 @@ It's not about the 2500 EURs really, which I will likely reach on the card (curr
 
 For one I am pissed, but on the other side I know that a company will have to be able to change their mind but they should be truthful to themselves and to their customers. That will be a huge advantage in the future for a company to be able to do that. You will need to be able to say in a letter:
 
-&lt;I&gt;Dear Customer,
+*Dear Customer,
 
 Sadly we will have to make a few adjustments to the way we bill you for your VISA Card with your CitiBest Account. We thought we could make the card free for all and the marketing department obviously loved it. Sadly there are too many people who simply have the card but don't use it, in which case we make a loss with it.
 
@@ -22,7 +22,7 @@ We thought long and hard what would be best and found that those who use the car
 
 We hope you understand and are looking forward to your feedback, seriously. 
 
-Your Citibank VISA Team.&lt;/I&gt;
+Your Citibank VISA Team.*
 
 Of course, this is just a thing I have written down without much thought but it gives across the point. Now I will go looking for another bank account ;)
 

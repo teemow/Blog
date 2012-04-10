@@ -29,10 +29,10 @@ The only thing that I can think of to help in this system is to deeply integrate
 This is what should have happened at Les Blogs. dotBen, how Ben called himself, wasn't being rude in the chat, because it is the way he expresses himself. And we could have known that because he was at Les Blogs, he is a generally nice guy. The conference was getting big enough though that you couldn't be sure of that, because there could be any number of people in there that were an asshole. Had he called himself with his full name in the back channel, this wouldn't have happened most likely and that's a big part of what Mena touched upon. We need to make sure that we know who is blogging what, and we need to make sure that we know that person's connections. I could for example envision a system where when I look at a blog, and can see the route to that person in LinkedIn and OpenBC from me to them. This would allow me to treat them in the right way, to be sure that the common language from any of my communities of practices will be understood.
 
 So thanks a lot for Mena to have  the courage to bring it up, and sorry to have been there when she snapped a bit, which shouldn't have happened but (!) which really brought the conversation to the right level. Thanks to Ben for standing up when he was asked to. I bow my head to both of you.
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ben&quot;&gt;Ben&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Blogging&quot;&gt;Blogging&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Cluetrain&quot;&gt;Cluetrain&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Communities%20of%20Practice&quot;&gt;Communities of Practice&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Conversations&quot;&gt;Conversations&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mena&quot;&gt;Mena&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/lesblogs&quot;&gt;lesblogs&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Social%20Networking&quot;&gt;Social Networking&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

@@ -11,7 +11,7 @@ author: Oliver Thylmann
 You always get these e-mails where you need to do a list of things and suddenly something amazing comes out of it? This one I got from TMF!
 
 
-&lt;!-- more --&gt;
+
 
 
 This is creepy!

@@ -8,10 +8,10 @@ author: Oliver Thylmann
 ---
 
 
-I actually read the [german translation](http://www.amazon.de/exec/obidos/ASIN/385842546X/) of [Revelation$](http://www.amazon.com/exec/obidos/tg/detail/-/2912485282/) and I haven't found an english version. The book is about the inner workings of [Clearstream](http://www.clearstream.com/), kind of the bank of banks, used for example for storeing stock certificates. I noticed Clearstream when I moved my portfolio from Deutsche Bank to Citibank and got mailings stating that X shares of stock Y are in Clearstream locker Z in New York or some other city. The book starts with a very nice quote from Kurt Marti (1981) which I will try to translate from the german version: &lt;I&gt;Where would we come, if everyone said, where would we come and nobody went, to take a look, where one would come if one went.&lt;/I&gt;. But on to the review of the book.
+I actually read the [german translation](http://www.amazon.de/exec/obidos/ASIN/385842546X/) of [Revelation$](http://www.amazon.com/exec/obidos/tg/detail/-/2912485282/) and I haven't found an english version. The book is about the inner workings of [Clearstream](http://www.clearstream.com/), kind of the bank of banks, used for example for storeing stock certificates. I noticed Clearstream when I moved my portfolio from Deutsche Bank to Citibank and got mailings stating that X shares of stock Y are in Clearstream locker Z in New York or some other city. The book starts with a very nice quote from Kurt Marti (1981) which I will try to translate from the german version: *Where would we come, if everyone said, where would we come and nobody went, to take a look, where one would come if one went.*. But on to the review of the book.
 
 
-&lt;!-- more --&gt;
+
 
 
 I have been interested in the financial markets for some time now and when I heard of &quot;Revelation$&quot; via a friend, I thought the book would fit my interest very well. This I still believe, it did fit. The problem is that it is written more like a complicated research report (which it is), lacking a really coherent story line. 

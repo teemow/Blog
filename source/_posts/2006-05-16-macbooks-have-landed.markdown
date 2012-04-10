@@ -14,9 +14,9 @@ The [MacBook](http://www.apple.com/macbook/macbook.html) is here, as I [first re
 
 P.S.: I admit, I might even be one of those but I am trying to not to give in.
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Apple&quot;&gt;Apple&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Black&quot;&gt;Black&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Macbook&quot;&gt;Macbook&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

@@ -11,10 +11,10 @@ author: Oliver Thylmann
 Here we consider a company as a conduit of funds. The higher the risk the higher the return required by investors and hence what the company must achieve. In terms of NPV (net present value), you should only do projects, as a company, that bring a positive NPV. The discount rate you use in your cost of capital, being the average return your equity and debt investors require. With a positive NPV, the project is adding value. It's that simple... ok, almost :)
 
 
-&lt;!-- more --&gt;
 
 
-&lt;b&gt;Determining the market cost of equity&lt;/b&gt;
+
+**Determining the market cost of equity**
 
 First you need to find the risk-free rate of return, which would be something that can be considered a safe investment. Treasury Bills are such a thing, which, given the credit-worthiness of most countries out there can be said to be relatively safe. Nominal interest rates will include an expected inflation and if the real one differs then investors will earn more or less in real terms, being an inflation risk.
 
@@ -22,7 +22,7 @@ For longer periods, government bonds could be taken, which have a given yield to
 
 Then you have the equity risk premium. The equity rate of return could be said to be the rate of return of the stock market, which you can invest in via an index or tracker fund (highly suggested if you are thinking about investing mind you). The difference between the equity rate of return and the risk free rate is the equity risk premium. In the last 100 years or so, this can be said to have been between 5.6% and 6.6%, on average. As both risk free rate and return on equity are influenced by inflation, the premium should be constant. 
 
-&lt;b&gt;Determining the individual cost of equity&lt;/b&gt;
+**Determining the individual cost of equity**
 
 This can be shown to depend on the return of the share in relation to the market. Harry Markowitz developed the portfolio theory in relation to this, or more clearly, in relation to the benefit that can be gained by combining shares into a portfolio. Several assumptions need to be made here though:
 - all investment decisions are made within a single period framework (one time frame)
@@ -56,7 +56,7 @@ P = Sum over ( D_1 / ((1+E(R))^n))
 
 The problem here is that you do not know wha the dividends will be and often companies in high growth do not give out dividends in the arguement that the money is better reinvested in the business.
 
-The simplified version of this is the &lt;i&gt;Gordon growth model&lt;/i&gt;, which presumes that you have a constant growth g:
+The simplified version of this is the *Gordon growth model*, which presumes that you have a constant growth g:
 
 P = D_1 / (E(R) - g)
 
@@ -66,7 +66,7 @@ E(R) = (D/P) +g
 
 To find the growth in dividends, take a look at forecasted real growth and expected inflation. This way you can compare across boundaries and allows you to compare the CoE of the Gordon growth model with your result from CAPM. 
 
-&lt;b&gt;Capital Structure and WACC&lt;/b&gt;
+**Capital Structure and WACC**
 
 The two main types of finance, dept and equity, make up the capital structure of a company. Debt is normally taken as risk free, even though it isn't. Credit ratings show the danger attributed to the debt resulting in different interest payable on debt. As the risk free rate Treasury Bill yield or LIBOR (London Interbank Offered Rate) is often taken, even though companies with very low risk rating can potentially borrow at below LIBOR. 
 
@@ -95,7 +95,7 @@ Adjustments should be made to the hurdle rate in case there are special risks in
 
 ÃŸ(asset) = D/(D+E) x ÃŸ(debt)x(1-T) + E/(D+E) x ÃŸ(equity)
 
-&lt;b&gt;Dividend policy&lt;/b&gt;
+**Dividend policy**
 
 Here managers can again influence the financing structure of the company. The first idea is that a dividend today is worth more than a potential gain in the future (tell that to Microsoft though ;)). In the early days, investors only looked at dividends but in 1959 dividend yields dipped below bond yields, showing that investors started looking at capital gains too.
 

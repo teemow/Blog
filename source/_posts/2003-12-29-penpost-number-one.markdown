@@ -9,7 +9,7 @@ author: Oliver Thylmann
 
 
 &lt;img alt=&quot;penpost1.jpg&quot; src=&quot;http://owt.typepad.com/blog/images/penpost1.jpg&quot; width=&quot;277&quot; height=&quot;237&quot; border=&quot;0&quot; /&gt;
-&lt;br /&gt;
+
 There we have it. Actually, no, this is not a penpost only. What this is 
 is the introduction to the idea. I just got the Nokia Digital Pen and the 
 Nokia 6600 Mobile Phone is in the mail. The two together, with the help 

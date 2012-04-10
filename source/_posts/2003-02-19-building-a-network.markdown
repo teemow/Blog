@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Found this on the Afghan News Network. &lt;a title=&quot;Afghan News Network - News Story&quot; href=&quot;http://www.myafghan.com/news2.asp?id=264892626&quot;&gt;Expat e-mail: Afghanistan&lt;/a&gt;. It's a mail from a freelance engineer who moved to Afghanistan to help build up their wireless network infrastructure. When there is sometimes not even electricity, I call that a challenge and probably very rewarding too, both economically but more than that personal.
+Found this on the Afghan News Network. &lt;a title=&quot;Afghan News Network - News Story&quot; href=&quot;http://www.myafghan.com/news2.asp?id=264892626&quot;&gt;Expat e-mail: Afghanistan. It's a mail from a freelance engineer who moved to Afghanistan to help build up their wireless network infrastructure. When there is sometimes not even electricity, I call that a challenge and probably very rewarding too, both economically but more than that personal.
 
 

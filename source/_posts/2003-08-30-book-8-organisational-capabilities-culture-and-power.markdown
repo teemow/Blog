@@ -11,7 +11,7 @@ author: Oliver Thylmann
 
 
 
-&lt;em&gt;(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))&lt;/em&gt;
+*(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))*
 
 &lt;em /&gt;The organisational paradigm are the beliefs and assumptions that make up &quot;an organisation's view of itself and its environment&quot; (Johnson, 1988). Together with:
 - stories and myths
@@ -27,7 +27,7 @@ Deal and Kennedy (1982) defined culture as 'the way we do things around here'. S
 
 A richer culture definition comes from Wilson and Rosenfeld (1990, p.229):
 
-&lt;em&gt;...the basic values, ideologies and assumptions which guide and fashion individual and business behaviour. These values are evident in more tangible factors such as stories, ritual, language, and jargon, office decoration and layout and prevailing modes of dress among staff.&lt;/em&gt;
+*...the basic values, ideologies and assumptions which guide and fashion individual and business behaviour. These values are evident in more tangible factors such as stories, ritual, language, and jargon, office decoration and layout and prevailing modes of dress among staff.*
 
 This shows that organisational culture (what the &quot;other&quot; members value) is a very difficult to define beast, with corporate culture (what the dominant members value) being a small part of it. Often the values of the dominant are more important than of other individuals or even of society.
 
@@ -55,7 +55,7 @@ In the top-down model the fate of the company might be aligned with the fate of 
 
 Japanese companies seem to create knowledge in the middle management through a spiral conversion process involving top and front-line employees. They serve as the strategic knot. Knowledge can be interpreted differently in a different context and middle-management is used to orient knowledge creation towards a purposeful end, making available frameworks to sense making of new knowledge. Top management creates a dream and middle management develops concrete concepts for the front-line.
 
-&lt;strong&gt;Culture, Power and Change&lt;/strong&gt;
+**Culture, Power and Change**
 
 The paradigm is the outcome of all elements of the cultural web and cultural change likely needs to attack this paradigm head on, it must be challenged, discredited and devalued. This can be done by:
 - use of an outsider who has little commitment to the current paradigm
@@ -80,9 +80,9 @@ In terms of recovery and turnaround strategies there are a few things that gener
 
 Important here is cash flow.  It is also important to focus on those 20 per cent of the factors involved that have 80% of the impact (Pareto principle).
 
-&lt;strong&gt;Power&lt;/strong&gt;
+**Power**
 
-Mintzberg (1983): &lt;em&gt;Power is the capacity to effect (or affect) organisational outcomes&lt;/em&gt;
+Mintzberg (1983): *Power is the capacity to effect (or affect) organisational outcomes*
 
 A relationship is needed for power to be present. This relationship leads to interdependencies and then one can argue that power is about the degree of dependence on the othe part of the relationship. The power of a unit can be seen in:
 - the importance of the resource
@@ -105,5 +105,5 @@ Remember the following about managing strategy and power:
 - long-term external relationships are gaining importance and shared expectations are needed here
 - you need to balance power
 
-Lord Acton (1887): &lt;em&gt;Power tends to corrupt and absolute power corrupts absolutely.&lt;/em&gt;
+Lord Acton (1887): *Power tends to corrupt and absolute power corrupts absolutely.*
 

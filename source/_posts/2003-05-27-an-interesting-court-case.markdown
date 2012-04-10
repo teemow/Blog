@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-This could make a perfect move. Technology, hacking, sms, mobility, friendship, anger, sex, internet, posters, video, ... everything in there. &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/archive/28229.html&quot;&gt;Great Read!&lt;/a&gt;
+This could make a perfect move. Technology, hacking, sms, mobility, friendship, anger, sex, internet, posters, video, ... everything in there. &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/archive/28229.html&quot;&gt;Great Read!
 
 

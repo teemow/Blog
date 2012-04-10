@@ -8,5 +8,5 @@ author: Oliver Thylmann
 ---
 
 
-DigitalGlobe has a &lt;a title=&quot;DigitalGlobe | Baghdad Image Gallery&quot; href=&quot;http://www.digitalglobe.com/gallery/baghdad/&quot;&gt;Baghdad Image Gallery&lt;/a&gt; online. There are some very very good satelite images from september 10th 2002 available and some good ones from March 27th. I am currently downloading a 50 MB Image of downtown Bagdad from September 10th. :)
+DigitalGlobe has a &lt;a title=&quot;DigitalGlobe | Baghdad Image Gallery&quot; href=&quot;http://www.digitalglobe.com/gallery/baghdad/&quot;&gt;Baghdad Image Gallery online. There are some very very good satelite images from september 10th 2002 available and some good ones from March 27th. I am currently downloading a 50 MB Image of downtown Bagdad from September 10th. :)
 

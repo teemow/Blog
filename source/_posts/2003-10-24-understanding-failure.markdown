@@ -12,11 +12,11 @@ I just found a very good interview via [Ralf's site](http://www.design-managemen
 
 Here is an example:
 
-&lt;I&gt;Dotlich: [...] All leaders who fail do so for one of two reasons: what they do, including the decisions they make, and who they are-how they handle the leadership role: whether they listen, how they treat people. I think character is destiny. The higher you go, the more significant that factor is in the destiny of an organization. The higher you go, I tell CEOs, the funnier your jokes get, the brighter your insights, the smarter your strategy. But at that level, people don't tell you things. Good CEOs surround themselves with people who tell the truth; they have a learning orientation. But we have created an environment where we have made CEOs into heroes and princes. In many cases, it's almost impossible to tell them the truth.&lt;/I&gt;
+*Dotlich: [...] All leaders who fail do so for one of two reasons: what they do, including the decisions they make, and who they are-how they handle the leadership role: whether they listen, how they treat people. I think character is destiny. The higher you go, the more significant that factor is in the destiny of an organization. The higher you go, I tell CEOs, the funnier your jokes get, the brighter your insights, the smarter your strategy. But at that level, people don't tell you things. Good CEOs surround themselves with people who tell the truth; they have a learning orientation. But we have created an environment where we have made CEOs into heroes and princes. In many cases, it's almost impossible to tell them the truth.*
 
 or
 
-&lt;I&gt;Finkelstein: Remarkable about some of the interviews was that there was a fair amount of honesty. For instance, Quaker CEO William Smithburg, with respect to Quaker and Snapple, admitted, &quot;We should have had another team looking at the no side of the Quaker deal. We were so gung-ho that we thought that this was another Gatorade.&quot; But they didn't, and it wasn't.&lt;/I&gt;
+*Finkelstein: Remarkable about some of the interviews was that there was a fair amount of honesty. For instance, Quaker CEO William Smithburg, with respect to Quaker and Snapple, admitted, &quot;We should have had another team looking at the no side of the Quaker deal. We were so gung-ho that we thought that this was another Gatorade.&quot; But they didn't, and it wasn't.*
 
 Sometimes the interview is a bit blurry but that's just strategy and leadership I believe. The entire topic is a bit blurry and unclear. That's what makes it so hard.
 

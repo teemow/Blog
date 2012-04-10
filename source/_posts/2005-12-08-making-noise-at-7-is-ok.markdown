@@ -11,6 +11,6 @@ author: Oliver Thylmann
 [&lt;img src=&quot;http://owt.typepad.com/photos/uncategorized/08122005053.jpg&quot; border=&quot;0&quot; alt=&quot;Thu 08/12/2005 18:29 08122005053&quot; /&gt;](http://owt.typepad.com/photos/uncategorized/08122005053.jpg)
 Thu 08/12/2005 18:29 08122005053
 
-&lt;br /&gt;
+
 
 

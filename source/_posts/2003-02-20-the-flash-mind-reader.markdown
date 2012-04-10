@@ -8,5 +8,5 @@ author: Oliver Thylmann
 ---
 
 
-Adrian &lt;a title=&quot;Numeric Mind Reader Demystified&quot; href=&quot;http://adrian.ziemkowski.com/livejournal/psychic_numbers.php&quot;&gt;explains the math&lt;/a&gt; behind the Flash Mind Reader. Interesting.
+Adrian &lt;a title=&quot;Numeric Mind Reader Demystified&quot; href=&quot;http://adrian.ziemkowski.com/livejournal/psychic_numbers.php&quot;&gt;explains the math behind the Flash Mind Reader. Interesting.
 

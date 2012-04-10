@@ -16,9 +16,9 @@ The user generated content market got another lesson today, or rather [Digg](htt
 
 Now [Kevin posted](http://blog.digg.com/?p=74) and they have given in to the users. The sad thing is, they might loose the company over this, but we'll see. Here are Kevin's (possibly) famous last words:
 
-&lt;em&gt;But now, after seeing hundreds of stories and reading thousands of comments, youâ€™ve made it clear. Youâ€™d rather see Digg go down fighting than bow down to a bigger company. We hear you, and effective immediately we wonâ€™t delete stories or comments containing the code and will deal with whatever the consequences might be.&lt;/em&gt;
+*But now, after seeing hundreds of stories and reading thousands of comments, youâ€™ve made it clear. Youâ€™d rather see Digg go down fighting than bow down to a bigger company. We hear you, and effective immediately we wonâ€™t delete stories or comments containing the code and will deal with whatever the consequences might be.*
 
-&lt;em&gt;If we lose, then what the hell, at least we died trying.&lt;/em&gt;
+*If we lose, then what the hell, at least we died trying.*
 
 There you see the power of user generated content and it's not an easy thing to grasp. Are you just a conduit, just a platform for people to use? Can you be liable? It's very difficult for all parties involved to understand that playing field and lots of &quot;fun&quot; stuff will probably happen in the next few months.
 

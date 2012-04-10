@@ -15,9 +15,9 @@ Ok, I [egoSurfed](http://www.egosurf.org/) [myself](http://www.egosurf.org/searc
 
 &lt;img width=&quot;511&quot; vspace=&quot;4&quot; hspace=&quot;4&quot; height=&quot;200&quot; border=&quot;1&quot; align=&quot;middle&quot; alt=&quot;Oliver Thylmann - egoSurf&quot; src=&quot;http://blog.thylmann.net/Picture%201-2.jpg&quot; /&gt;
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/egoSurf&quot;&gt;egoSurf&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Me%20Brand&quot;&gt;Me Brand&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Search&quot;&gt;Search&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

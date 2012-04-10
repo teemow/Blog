@@ -11,10 +11,10 @@ author: Oliver Thylmann
 This one is in german, but it might become useful for somebody who wants to make sure their address is used only for intended purposes. I received this via mail from a friend.
 
 
-&lt;!-- more --&gt;
 
 
-&lt;I&gt;Gemäß Bundesdatenschutzgesetz (BDSG) fordere ich Sie auf:
+
+*Gemäß Bundesdatenschutzgesetz (BDSG) fordere ich Sie auf:
 
 1. Sie haben mir gegenüber unverzüglich offenzulegen, welche Daten
 außer den oben aufgeführten Adressen Sie über meine durch diesen
@@ -45,6 +45,6 @@ Wochen beginnend mit dem Datum dieses Schreibens.
 
 7. Für die aus diesem Schreiben resultierende, selbstverständlich
 ausdrücklich erwünschte Kommunikation benutzen Sie bitte
-ausschließlich meine Adresse x@y.z.&lt;/I&gt;
+ausschließlich meine Adresse x@y.z.*
 
 

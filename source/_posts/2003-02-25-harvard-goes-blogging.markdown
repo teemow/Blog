@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Now hardvard goes blogging! They even [hired Dave Winer](http://news.com.com/2008-1082-985714.html?tag=fd_nc_1). &lt;a title=&quot;&quot; href=&quot;http://blogs.law.harvard.edu/&quot;&gt;Check this!&lt;/a&gt;
+Now hardvard goes blogging! They even [hired Dave Winer](http://news.com.com/2008-1082-985714.html?tag=fd_nc_1). &lt;a title=&quot;&quot; href=&quot;http://blogs.law.harvard.edu/&quot;&gt;Check this!
 
 

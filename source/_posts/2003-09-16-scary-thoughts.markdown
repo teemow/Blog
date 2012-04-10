@@ -11,10 +11,10 @@ author: Oliver Thylmann
 The following is about what might happen if the CEO of Siemens would become german chancelor. The real clue here is that it makes very clear what companies are really doing these days. Amazing. It's in german but you can try [Babelfish](http://bablefish.altavista.com/).
 
 
-&lt;!-- more --&gt;
 
 
-&lt;I&gt;Mecklenburg-Vorpommern als Atomtestgel&amp;auml;nde an die USA verkauft, Berlin, Brandenburg und Sachsen-Anhalt an Polen abgetreten, die Arbeitslosenzahl massiv gesenkt und die Staatsverschuldung radikal reduziert: Heinrich von Pierer, der ehemalige Siemens-Chef, hat in den vier Jahren seiner Kanzlerschaft viel erreicht. STERN sprach mit dem Bundeskanzler &amp;uuml;ber seine Erfolge und k&amp;uuml;nftigen Pl&amp;auml;ne.
+
+*Mecklenburg-Vorpommern als Atomtestgel&amp;auml;nde an die USA verkauft, Berlin, Brandenburg und Sachsen-Anhalt an Polen abgetreten, die Arbeitslosenzahl massiv gesenkt und die Staatsverschuldung radikal reduziert: Heinrich von Pierer, der ehemalige Siemens-Chef, hat in den vier Jahren seiner Kanzlerschaft viel erreicht. STERN sprach mit dem Bundeskanzler &amp;uuml;ber seine Erfolge und k&amp;uuml;nftigen Pl&amp;auml;ne.
  
 STERN: Sehr geehrter Herr Bundeskanzler, Kritiker werfen Ihnen vor, sie seien bei der Sanierung Deutschlands &amp;uuml;bertrieben brutal vorgegangen.
  
@@ -80,6 +80,6 @@ v. Pierer: Dazu m&amp;ouml;chte ich zum jetzigen Zeitpunkt nur sagen, dass Gro&a
  
 STERN: Herr Bundeskanzler, wir danken Ihnen f&amp;uuml;r dieses Gespr&amp;auml;ch.
  
-v. Pierer: Gern geschehen. Und vergessen Sie nicht, am Ausgang die Geb&amp;uuml;hren f&amp;uuml;r das Interview in die Staatskasse einzuzahlen. Ach ja, bevor ich's vergesse: Dieses Interview was powered by Coca Cola light&lt;/I&gt;
+v. Pierer: Gern geschehen. Und vergessen Sie nicht, am Ausgang die Geb&amp;uuml;hren f&amp;uuml;r das Interview in die Staatskasse einzuzahlen. Ach ja, bevor ich's vergesse: Dieses Interview was powered by Coca Cola light*
 
 

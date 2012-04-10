@@ -11,12 +11,12 @@ author: Oliver Thylmann
 There are some books that get your thinking going on business and this is definitely one of them, especially because it is very well balanced. Thomas W. Malone tries to push the boundaries of your thinking in the book while agreeing that not all we did previously is bad. I am now done with the book, loved it and am almost 4 pages of small writing richer, both on the book and of other subjects that popped into my head while reading this book. In short, it is highly suggested reading. If you want further info on what kind of ideas came into my head when reading the book, read on.
 
 
-&lt;!-- more --&gt;
+
 
 
 First, I need to check out AES Corporation. I already learned about them some time ago, even checked out the shares, but forgot about it again. They are one of the biggest energy producers out there and are highly decentralised. Rank and file employees decide about multi-million dollar acquisitions and a group of workers invested 12 million of cash that the company had after getting some training on money markets from a consultant, even beating the internal department that does nothing else.
 
-Malone argues that &quot;&lt;I&gt;When most people think about decentralization, they stop at loose hierarchies {...} decentralization as delegation of many decisions {...}. What if, instead, it [power] originated there [lower levels]?&lt;/i&gt;&quot; This sounds a bit weird, but if you really think about it, this is a totally different mind set. 
+Malone argues that &quot;*When most people think about decentralization, they stop at loose hierarchies {...} decentralization as delegation of many decisions {...}. What if, instead, it [power] originated there [lower levels]?*&quot; This sounds a bit weird, but if you really think about it, this is a totally different mind set. 
 
 The film industry is already very decentralized in that a film is normally made up of a big group of freelancers that just come together for a film. Some might work together more often, but that's that. With this move to more decentralization, there was some safety that was lost though, job security if you want, and that needs to be dealt with, for which he has some suggestions which I really like.
 

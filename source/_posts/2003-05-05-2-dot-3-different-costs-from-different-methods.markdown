@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Everything you do involves approximations and sophistication can give rise to misplaced confidence in the accuracy of the output. This might be false. Again, there are two case studies.
 
 
-&lt;!-- more --&gt;
+
 
 
 A: a university student cost report

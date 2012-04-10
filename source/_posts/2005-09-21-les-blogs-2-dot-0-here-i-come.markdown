@@ -14,5 +14,5 @@ The venue doesn't seem to be clear yet, so I'll wait for the hotel. Maybe we can
 
 &lt;p align=&quot;center&quot;&gt;
 [ title=&quot;Les Blogs 2.0&quot;&gt;&lt;img src=&quot;http://www.loiclemeur.com/france/lesblogs2logo.gif&quot; height=&quot;94&quot; width=&quot;120&quot; border=&quot;1&quot; hspace=&quot;4&quot; vspace=&quot;4&quot; alt=&quot;Les Blogs 2.0&quot; /&gt;](http://lesblogs.typepad.com/)
-&lt;/p&gt;
+
 

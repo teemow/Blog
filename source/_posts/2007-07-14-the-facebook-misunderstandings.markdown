@@ -22,6 +22,6 @@ To take a look at the other side you should read [this post](http://www.watchmoj
 
 This is what some people think is nuts, and I have to admit I am one of them. $8 billion is just too steep, unless somebody buys it that really needs the expertise and entry into the web area and has an amazing sales team to make money of the site. Let's see what happens. I have obviously been wrong before.
 
-&lt;strong&gt;Update&lt;/strong&gt;: Of course if they would IPO, then long term it might end up at several billion USD, hence the idea of the IPO. I wouldn't sell either ... but not for the valuation part but simply because Facebook might become a real company with long term potential.
+**Update**: Of course if they would IPO, then long term it might end up at several billion USD, hence the idea of the IPO. I wouldn't sell either ... but not for the valuation part but simply because Facebook might become a real company with long term potential.
 
 

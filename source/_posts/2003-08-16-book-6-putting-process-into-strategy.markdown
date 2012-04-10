@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 
 
-&lt;em&gt;(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))&lt;/em&gt;
+*(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))*
 
 &lt;em /&gt;The book starts with Agenti's (1980) corporate planning process. This goes through five stages, from target setting, gap analysis, strategic appraisal, strategy formulation to strategy implementation. There is a good figure on page 6-6 for this one. In essence it says that analysis should preceed choice and choice should preceed implementation.
 
@@ -20,7 +20,7 @@ Time is a crucial competitive advantage when moving from part to part of the pro
 
 To speed things up you either need to complete each process faster or do them next to each other at the same time. There is a list of Eccles' factors for strategic change on page 6-11
 
-&lt;strong&gt;strategic decisions&lt;/strong&gt;
+**strategic decisions**
 
 As of Simon (1977) at the heart of strategic management lies the concept of making decisions to reach corporate objectives. This leads to the decision making process in which you need to first recognize that a decision needs to be made, search for information, evaluate that information, decide and then to a post decision evaluation. There are a number of ways to come to a decisions though.
 
@@ -42,7 +42,7 @@ Impediments and delays (as of Hickson et al.) come from:
 Not all decisions are alike. Constricted decisions involve many sources of expertise but no additional information is looked for.
 Sporadic decisions are characterised by delays and impediments and flued decisions involve variable information, negotiation, senior management involvement and need less time.
 
-&lt;strong&gt;Patterns of strategic decisions&lt;/strong&gt;
+**Patterns of strategic decisions**
 
 Mintzberg and Water (1985) define strategy as &quot;a pattern in a stream of actions&quot;.
 
@@ -114,11 +114,11 @@ This is illustrated in Mintzberg's imposed strategy
 
 The strategy development process has been put into an integrated model by Bailey and Johnson (1995), which includes six dimensions of strategy development: Planning, Political, Incrementalism, Command, Cultural, Enforced choice. In each company there are different degrees of the different dimensions.
 
-&lt;strong&gt;Strategic Thinking&lt;/strong&gt;
+**Strategic Thinking**
 
 Weick and Roberts (1993) argue that strategic thinking is not only about the right mental model and cognitive style, but also about a feeling for actions and mental models of others.
 
-&lt;strong&gt;Organisational Learning&lt;/strong&gt;
+**Organisational Learning**
 
 Organisations that are learning more successfully build a greater pool of capabilities. Walsh and Ungson (1991) found six sources of information that can be learning from:
 - culture, with heroes, symbols, ... can be guiding

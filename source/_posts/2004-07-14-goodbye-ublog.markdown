@@ -12,5 +12,5 @@ We can all say goodbye to Ublog, the french distributor/re-seller of Six Apart's
 
 P.S.: Happy Birthday [Loic](http://www.loiclemeur.com/)! What a persent you got there :)
 
-&lt;b&gt;Update&lt;/b&gt;: And now Mena is reporting that [Barak becomes CEO](http://www.sixapart.com/corner/archives/2004/07/barak_at_six_ap.shtml) of Six Apart. Great choice Mena! You started to have the need to be [everywhere](http://owt.typepad.com/blog/2004/07/blogtalk_20.html) and that would have broken you sooner or later. Now go advance blogging!
+**Update**: And now Mena is reporting that [Barak becomes CEO](http://www.sixapart.com/corner/archives/2004/07/barak_at_six_ap.shtml) of Six Apart. Great choice Mena! You started to have the need to be [everywhere](http://owt.typepad.com/blog/2004/07/blogtalk_20.html) and that would have broken you sooner or later. Now go advance blogging!
 

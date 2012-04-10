@@ -14,10 +14,10 @@ I had a very good first day at Les Blogs and I had some wonderful chats with peo
 [&lt;img width=&quot;400&quot; vspace=&quot;4&quot; hspace=&quot;4&quot; height=&quot;300&quot; border=&quot;1&quot; alt=&quot;Les Blogs 2.0 Party&quot; src=&quot;http://blog.thylmann.net/06122005043-tm.jpg&quot; /&gt;](http://blog.thylmann.net/06122005043.jpg)
 
 It's already nice to see that this day starts out with more discussion and more diverse opinions and it is not all shiny anymore. Will become a good day. Oh, and you notice that it's a geeky crowd, with a quick scan giving me more than 20 different bluetooth devices that all have a real name. :)
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/lesblogs&quot;&gt;lesblogs&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

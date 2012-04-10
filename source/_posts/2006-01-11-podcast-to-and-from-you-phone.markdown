@@ -14,11 +14,11 @@ Florian  to [Phonecaster.de](http://phonecaster.de/index.html), a german service
 
 The other nice thing is that you can [record your own podcasts from your phone](http://phonecaster.de/record.html). Simple call 0931 663927 999 and you get an accountnumber and a pin and they publish what you say as a special RSS Feed. Nice stuff.
 
-&lt;strong&gt;Update&lt;/strong&gt;: I have a [useless podcast](feed://feeds.feedburner.com/owtPodCast) :) (And no, I just say that I don't have a clue what to say, but this might be usably in the future :)
-&lt;!-- technorati tags start --&gt;
+**Update**: I have a [useless podcast](feed://feeds.feedburner.com/owtPodCast) :) (And no, I just say that I don't have a clue what to say, but this might be usably in the future :)
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Phonecaster.de&quot;&gt;Phonecaster.de&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Podcasting&quot;&gt;Podcasting&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

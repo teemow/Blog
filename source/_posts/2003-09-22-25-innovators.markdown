@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Check out this &lt;a title=&quot;CRN&quot; href=&quot;http://www.crn.com/sections/special/innovator/&quot;&gt;CRN story&lt;/a&gt;, a special report about 25 Innovators.
+Check out this &lt;a title=&quot;CRN&quot; href=&quot;http://www.crn.com/sections/special/innovator/&quot;&gt;CRN story, a special report about 25 Innovators.
 
 

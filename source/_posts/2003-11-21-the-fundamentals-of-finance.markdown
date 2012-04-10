@@ -8,87 +8,87 @@ author: Oliver Thylmann
 ---
 
 
-&lt;p&gt;(comment: As originally posted on the [OUBS Blog](http://blog.thylmann.net/category/oubs/))&lt;/p&gt;
+(comment: As originally posted on the [OUBS Blog](http://blog.thylmann.net/category/oubs/))
 
-&lt;p&gt;This is the first course book on the Finance part of the MBA at the OUBS. It deals primarly with understanding the way corporations get financing and their relationships with financiers. Here both private and public sector are taken into account. A major part of all of this is money, which fulfils three functions:
+This is the first course book on the Finance part of the MBA at the OUBS. It deals primarly with understanding the way corporations get financing and their relationships with financiers. Here both private and public sector are taken into account. A major part of all of this is money, which fulfils three functions:
 - being a medium of exchange
 - being a store of value
-- being a unit of account&lt;/p&gt;
+- being a unit of account
 
-&lt;p&gt;This is actually interesting in relation to the founding concept of VISA, which was:
-&lt;em&gt;If anything imaginable was possible, if there were no constraints whatever, what would be the nature of an ideal organization to create and world's premier system for the exchange of value?&lt;/em&gt; (From Dee Hock, Birth of the Chaordic Age)&lt;/p&gt;
+This is actually interesting in relation to the founding concept of VISA, which was:
+*If anything imaginable was possible, if there were no constraints whatever, what would be the nature of an ideal organization to create and world's premier system for the exchange of value?* (From Dee Hock, Birth of the Chaordic Age)
 
-&lt;p&gt;The book looks both at the internal and external parts of financial management, which is often not about finance but about ratios that are a lot easier to compare.&lt;/p&gt;
+The book looks both at the internal and external parts of financial management, which is often not about finance but about ratios that are a lot easier to compare.
 
-&lt;p&gt;Finance has had a broad effect on our world, both in the private sector, where things have moved from maximize size to optimize size through finance, and in the public sector where privatisation has grown and public sector enterprises are generally being managed from a financial viewpoint too.&lt;/p&gt;
+Finance has had a broad effect on our world, both in the private sector, where things have moved from maximize size to optimize size through finance, and in the public sector where privatisation has grown and public sector enterprises are generally being managed from a financial viewpoint too.
 
-&lt;p&gt;Finance must always weight short-term spending versus long-term goals. This is also why often the chain of command between those who implement the strategy and those who go into detail is often very short in finance. You need to see the broad picture and the detail. Some questions will be asked repeatedly:
+Finance must always weight short-term spending versus long-term goals. This is also why often the chain of command between those who implement the strategy and those who go into detail is often very short in finance. You need to see the broad picture and the detail. Some questions will be asked repeatedly:
 - which projects should a company invest in?
-- how should it procure financing to pay for them?&lt;/p&gt;
+- how should it procure financing to pay for them?
 
-&lt;p&gt;This brings us to four basic themes in finance:
+This brings us to four basic themes in finance:
 - information, accountability and control
 - return
 - risk
-- markets and market efficiency.&lt;/p&gt;
+- markets and market efficiency.
 
-&lt;p&gt;In terms of financial vocabulary you need to remember that there is a different between US and UK terminology even though things are moving closer together with globalisation.&lt;/p&gt;
+In terms of financial vocabulary you need to remember that there is a different between US and UK terminology even though things are moving closer together with globalisation.
 
-&lt;p&gt;The mathematics of finance are extensive, but reoccuring themes are things like net present value and discounted cash flow. You need to remember that mathematics can do a lot of things, including giving you the wrong answer. You need to look at whether the system you used will give you the right answer.&lt;/p&gt;
+The mathematics of finance are extensive, but reoccuring themes are things like net present value and discounted cash flow. You need to remember that mathematics can do a lot of things, including giving you the wrong answer. You need to look at whether the system you used will give you the right answer.
 
-&lt;p&gt;&lt;strong&gt;Finance, Accounting and Corporate Governance&lt;/strong&gt;&lt;/p&gt;
+**Finance, Accounting and Corporate Governance**
 
-&lt;p&gt;This part is mainly in relation to our first theme, being information, accountability and control. Finance and accounting are actually often closely related within a company even though they are concerned with different thing. Finance is mainly about making decisions for the future while accounting is about the past. This is also the difference about what a treasurer and a financial controller does. The treasurer is looking at liquidity, external funds, financial risks, relationships to providers of funds, analyst and the financial press. The financial controller is looking more at building annual accounts or monthly accounts for managers, including budgets with their key relationships being the auditors.&lt;/p&gt;
+This part is mainly in relation to our first theme, being information, accountability and control. Finance and accounting are actually often closely related within a company even though they are concerned with different thing. Finance is mainly about making decisions for the future while accounting is about the past. This is also the difference about what a treasurer and a financial controller does. The treasurer is looking at liquidity, external funds, financial risks, relationships to providers of funds, analyst and the financial press. The financial controller is looking more at building annual accounts or monthly accounts for managers, including budgets with their key relationships being the auditors.
 
-&lt;p&gt;The corporate governance part can be best explained with agency theory.&lt;/p&gt;
+The corporate governance part can be best explained with agency theory.
 
-&lt;p&gt;&lt;em&gt;... a contract under which one or more persons (the principals) engage another person (the agent) to perform some service on their behalf which involves delegating some decision-making authority to the agent.&lt;/em&gt; - Jensen and Meckling (1976)&lt;/p&gt;
+*... a contract under which one or more persons (the principals) engage another person (the agent) to perform some service on their behalf which involves delegating some decision-making authority to the agent.* - Jensen and Meckling (1976)
 
-&lt;p&gt;Here we need to remember that the agent might have other information than the principal and the principal never 100% knows what the agent's decisions are based on. There is a moral hazard then about the agent knowing that he cannot be exactly monitored and doing things in his interest while appearing to do them in the principals interest, but only appearing so.&lt;/p&gt;
+Here we need to remember that the agent might have other information than the principal and the principal never 100% knows what the agent's decisions are based on. There is a moral hazard then about the agent knowing that he cannot be exactly monitored and doing things in his interest while appearing to do them in the principals interest, but only appearing so.
 
-&lt;p&gt;Legislators are now trying to control the situation by a framework for reporting guidelines for limited liability companies where the problem is highlighted as the owners are not owning the company but only shares. The relationship with between shareholders and the management of the company needs to be somehow regulated to make it clear what the terms of that relationship are in light of potential conflict.&lt;/p&gt;
+Legislators are now trying to control the situation by a framework for reporting guidelines for limited liability companies where the problem is highlighted as the owners are not owning the company but only shares. The relationship with between shareholders and the management of the company needs to be somehow regulated to make it clear what the terms of that relationship are in light of potential conflict.
 
-&lt;p&gt;The information asymmetry has been address by disclosure requirements for corporations while linking corporate performance to management pay has been established to closer link the interests of management and shareholders. In light of problem in this relationship there are now corporate governance codex in different shapes and sizes in most countires. In the UK there is the 'Principles of Good Governance' and 'Codes of Best Practice'. In Germany there is now the [Der deutsche Corporate Governance Codex](http://www.bmj.bund.de/)'. Some of the effects can be seen in annual reports.&lt;/p&gt;
+The information asymmetry has been address by disclosure requirements for corporations while linking corporate performance to management pay has been established to closer link the interests of management and shareholders. In light of problem in this relationship there are now corporate governance codex in different shapes and sizes in most countires. In the UK there is the 'Principles of Good Governance' and 'Codes of Best Practice'. In Germany there is now the [Der deutsche Corporate Governance Codex](http://www.bmj.bund.de/)'. Some of the effects can be seen in annual reports.
 
-&lt;p&gt;Looking closer at changes in corporate reporting from 1951 to 2001, it can be seen that reports have become a lot more elaborate growing something like seven times in size. They are also often more understandable (to benefit the small shareholder) and have more information about directors compensation.&lt;/p&gt;
+Looking closer at changes in corporate reporting from 1951 to 2001, it can be seen that reports have become a lot more elaborate growing something like seven times in size. They are also often more understandable (to benefit the small shareholder) and have more information about directors compensation.
 
-&lt;p&gt;&lt;strong&gt;Return on Investment&lt;/strong&gt;&lt;/p&gt;
+**Return on Investment**
 
-&lt;p&gt;Our second theme was return, and a fair one at that. The idea is to find a way to think about how much it is worth to wait to have money. In terms of return, you should think about percentage return and take into account the total returns, including potential tax benefits, appreciation, interest and whatever else is giving you monetary value. And you need to include the time value of money, which is worth more to you today than would be in 10 years, the same $100 that is. Here to take into account your time preference for money, your risk premium and an adjustment for inflation.&lt;/p&gt;
+Our second theme was return, and a fair one at that. The idea is to find a way to think about how much it is worth to wait to have money. In terms of return, you should think about percentage return and take into account the total returns, including potential tax benefits, appreciation, interest and whatever else is giving you monetary value. And you need to include the time value of money, which is worth more to you today than would be in 10 years, the same $100 that is. Here to take into account your time preference for money, your risk premium and an adjustment for inflation.
 
-&lt;p&gt;Time preference is about that given a choice, you would rather have money today than tomorrow, as it would lower your choices (once the money is gone it's gone) and the price depends on the supply and demand. Time preference is estimated between 2-2.5% in relation to the government dept market and 3-3.5% in case of Treasury economists. Once you established your rate, it is likely to remain stable over time.&lt;/p&gt;
+Time preference is about that given a choice, you would rather have money today than tomorrow, as it would lower your choices (once the money is gone it's gone) and the price depends on the supply and demand. Time preference is estimated between 2-2.5% in relation to the government dept market and 3-3.5% in case of Treasury economists. Once you established your rate, it is likely to remain stable over time.
 
-&lt;p&gt;Then we have inflation. Remember that the inflation is always an estimate and largely depends on what you spend your money on. So if we have a time preference of 3% and want to lend you $100 for a year, then we would want $103 in a years time in case there is no inflation. Presuming we have an inflation of 5% then we would need to get $105 x 103% = $108.15. These 8.15% are called the nominal rate of return, while the 3% are called the real rate of return.&lt;/p&gt;
+Then we have inflation. Remember that the inflation is always an estimate and largely depends on what you spend your money on. So if we have a time preference of 3% and want to lend you $100 for a year, then we would want $103 in a years time in case there is no inflation. Presuming we have an inflation of 5% then we would need to get $105 x 103% = $108.15. These 8.15% are called the nominal rate of return, while the 3% are called the real rate of return.
 
-&lt;p&gt;&lt;strong&gt;Investment Risk&lt;/strong&gt;&lt;/p&gt;
+**Investment Risk**
 
-&lt;p&gt;Here we are looking at both the second and third theme, being return and risk. In general there is a risk/return tradeoff or rather, an uncertainty attached to a certain return really materialising. You can find this value by looking at the mean return of a set of data and then calculating the standard deviation. The fun thing of the standard deviation is that for 2S, 95.4% of the expected values for the return are included in the probability. If you get a mean return of 10% and have a standard deviation of 2% then you can say with 95% certainty that your real return will between 8% and 12%.&lt;/p&gt;
+Here we are looking at both the second and third theme, being return and risk. In general there is a risk/return tradeoff or rather, an uncertainty attached to a certain return really materialising. You can find this value by looking at the mean return of a set of data and then calculating the standard deviation. The fun thing of the standard deviation is that for 2S, 95.4% of the expected values for the return are included in the probability. If you get a mean return of 10% and have a standard deviation of 2% then you can say with 95% certainty that your real return will between 8% and 12%.
 
-&lt;p&gt;What are the risk factors though. Here maturity, liquidity, variability of income, default or credit risk, event risk and interest rate risk are important. There are two financial instruments that we need to understand, equity and dept.&lt;/p&gt;
+What are the risk factors though. Here maturity, liquidity, variability of income, default or credit risk, event risk and interest rate risk are important. There are two financial instruments that we need to understand, equity and dept.
 
-&lt;p&gt;Borrowers for example want to keep money as long as possible while investors want their money back as fast as possible. This conflict is reconciled through the stock market or secondary capital market, with the primary capital market being the issuance of securities by companies who then get money. The secondary capital market is rather about management of liquidity of issued securities.&lt;/p&gt;
+Borrowers for example want to keep money as long as possible while investors want their money back as fast as possible. This conflict is reconciled through the stock market or secondary capital market, with the primary capital market being the issuance of securities by companies who then get money. The secondary capital market is rather about management of liquidity of issued securities.
 
-&lt;p&gt;In general, return and risk can be looked at closer through DCF (discounted cash flow) and NPV (net present value) analysis. DCF allows you to evaluate two investments with maturity, cash flow and risk in mind and NPV lets you decide whether to go ahead with an investment. You need to discount cash flows with your required rate of return in this case. The difference between the value of the discounted cash flow and the cost of investment can be the seen as the NPV of the investment.&lt;/p&gt;
+In general, return and risk can be looked at closer through DCF (discounted cash flow) and NPV (net present value) analysis. DCF allows you to evaluate two investments with maturity, cash flow and risk in mind and NPV lets you decide whether to go ahead with an investment. You need to discount cash flows with your required rate of return in this case. The difference between the value of the discounted cash flow and the cost of investment can be the seen as the NPV of the investment.
 
-&lt;p&gt;&lt;strong&gt;The market context&lt;/strong&gt;&lt;/p&gt;
+**The market context**
 
-&lt;p&gt;Here the last of the four themes comes in, being markets and market efficiency. In general financial markets bring a large number of buyers and sellers together, allowing them to easily find each other. This does not remove volatility though. The question is whether markets are valueing investments fairly at all time, meaning that they are efficient, nobody has more information than anybody else and hence you all know what something is worth and have the same idea about the price. In a perfect market there would also be no entry or exit barrier and no transaction costs.&lt;/p&gt;
+Here the last of the four themes comes in, being markets and market efficiency. In general financial markets bring a large number of buyers and sellers together, allowing them to easily find each other. This does not remove volatility though. The question is whether markets are valueing investments fairly at all time, meaning that they are efficient, nobody has more information than anybody else and hence you all know what something is worth and have the same idea about the price. In a perfect market there would also be no entry or exit barrier and no transaction costs.
 
-&lt;p&gt;It hence becomes obvious that financial markets are not perfect. Then the question becomes if they are totally imperfect, meaning that they are totally random and profit does not only come from coincidence? Based on research from the 1950s and 1960s, you cannot predict the way the stock markets turn, something being called the random walk theory. The problem was seen in the fact that information needs to filter through, but all available information was priced into a stock. This is the idea of the efficient markets hypothesis (EMH).&lt;/p&gt;
+It hence becomes obvious that financial markets are not perfect. Then the question becomes if they are totally imperfect, meaning that they are totally random and profit does not only come from coincidence? Based on research from the 1950s and 1960s, you cannot predict the way the stock markets turn, something being called the random walk theory. The problem was seen in the fact that information needs to filter through, but all available information was priced into a stock. This is the idea of the efficient markets hypothesis (EMH).
 
-&lt;p&gt;The EMH is found in Roberts (1967) and Fama (1970). Fama argued that &quot;in an efficient market at any point in time the actual price of a security will be a good estimate of its intrinsic value&quot;. The important point though is that this is based on all available information and the things that the market believes to be happening in the future. There are different levels of EMH:&lt;/p&gt;
+The EMH is found in Roberts (1967) and Fama (1970). Fama argued that &quot;in an efficient market at any point in time the actual price of a security will be a good estimate of its intrinsic value&quot;. The important point though is that this is based on all available information and the things that the market believes to be happening in the future. There are different levels of EMH:
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Strong-form EMH: All public information establishes a price and if some private information tells you that the price is too low, you buy until demand and supply makes it right again. This is hard to prove though. Only the person that first acts on inside information wins. This of course is hard to prove.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Semi-strong form EMH: Here the market is efficient when all publicly available information is quickly reflected in the stock price. Here, even fundamental analysis cannot produce consistently higher returns.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Weak form EMH: Here all information that is reflected in the stock price is old, or already available information. Any new information is unrelated to the available information, as it is new, and hence stock prices movements of new information cannot be predicted. This brings us back to the random walk theory. The study of past movements cannot predict future prices (chart analysis)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;The arguement against all of this is that investors are not that rational but that their is a herd instinct, churn in protfolios, under- or over-react, and more. Other anomalies include the 'small firm' effect (they grow more in value than the market), the January effect (outperformance of small cap stocks was done in January), mean reversion (stocks travel arround their mean, meaning that they fall lower if they climbed higher).&lt;/p&gt;
+* Strong-form EMH: All public information establishes a price and if some private information tells you that the price is too low, you buy until demand and supply makes it right again. This is hard to prove though. Only the person that first acts on inside information wins. This of course is hard to prove.
+* Semi-strong form EMH: Here the market is efficient when all publicly available information is quickly reflected in the stock price. Here, even fundamental analysis cannot produce consistently higher returns.
+* Weak form EMH: Here all information that is reflected in the stock price is old, or already available information. Any new information is unrelated to the available information, as it is new, and hence stock prices movements of new information cannot be predicted. This brings us back to the random walk theory. The study of past movements cannot predict future prices (chart analysis)
 
-&lt;p&gt;Looking at real market data from 1900 to 2000 to get some hard statistics, researchers found the problem of finding a (at least partly) correct inflation, getting all the data, and getting over a bias of survivors about what would have been bought without hindsight. The found two things very interesting. First, there is a close relations been theoretical seperate market, even at the start at the century and not only in the last 20 years. Second, higher risk and higher return indeed go hand in hand.&lt;/p&gt;
 
-&lt;p&gt;Otherwise, get the book out and get some more interesting stats that I won't repeat here.&lt;/p&gt;
+The arguement against all of this is that investors are not that rational but that their is a herd instinct, churn in protfolios, under- or over-react, and more. Other anomalies include the 'small firm' effect (they grow more in value than the market), the January effect (outperformance of small cap stocks was done in January), mean reversion (stocks travel arround their mean, meaning that they fall lower if they climbed higher).
+
+Looking at real market data from 1900 to 2000 to get some hard statistics, researchers found the problem of finding a (at least partly) correct inflation, getting all the data, and getting over a bias of survivors about what would have been bought without hindsight. The found two things very interesting. First, there is a close relations been theoretical seperate market, even at the start at the century and not only in the last 20 years. Second, higher risk and higher return indeed go hand in hand.
+
+Otherwise, get the book out and get some more interesting stats that I won't repeat here.
 
 
 

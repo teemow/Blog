@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/51/184918312_240fec0f6e.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/184918312/)&lt;br /&gt;	[the vibe is good](http://www.flickr.com/photos/oliver/184918312/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Looking forward to the game&lt;/p&gt;
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/51/184918312_240fec0f6e.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/184918312/)	[the vibe is good](http://www.flickr.com/photos/oliver/184918312/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					Looking forward to the game
 
 

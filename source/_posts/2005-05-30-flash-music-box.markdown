@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Now that's some cool flash: &lt;a title=&quot;music box&quot; href=&quot;http://www.tokyoplastic.com/musicbox.html&quot;&gt;music box&lt;/a&gt;.
+Now that's some cool flash: &lt;a title=&quot;music box&quot; href=&quot;http://www.tokyoplastic.com/musicbox.html&quot;&gt;music box.
 
 

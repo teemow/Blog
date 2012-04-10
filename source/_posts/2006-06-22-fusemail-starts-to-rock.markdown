@@ -18,9 +18,9 @@ Above that I just synchronized my Contacts and Calendar via SyncML from my Nokia
 If you are looking for a reliable email solution, take a look. There is an Outlook Sync client for those in the windows world, but due to SyncML it also works well with non-Windows people. Here at [Ormigo](http://ormigo.com/) we now have two Windows systems, two Macs and one Linux machine, meaning that we want it to work everywhere. Fusemail does that.
 
 Thanks also to our reseller [GID mbH](http://www.gid-mbh.de/). I can be a pain sometimes, I know ;)
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/email&quot;&gt;email&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Fusemail&quot;&gt;Fusemail&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/SyncML&quot;&gt;SyncML&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-&lt;b&gt;Update&lt;/b&gt;: Well now I found out that this is pretty much &quot;Mobile Terminated Premium SMS&quot;, which means if you enter your number you pay, the SMS is just a confirmation that you did. Pretty common already. So not all that special but I was fooled by some PR jargon again... which shows they are good though ;) Enterpayment is a biller for the adult market. :)
+**Update**: Well now I found out that this is pretty much &quot;Mobile Terminated Premium SMS&quot;, which means if you enter your number you pay, the SMS is just a confirmation that you did. Pretty common already. So not all that special but I was fooled by some PR jargon again... which shows they are good though ;) Enterpayment is a biller for the adult market. :)
 
 [HandyPay](http://www.handypay.de/) has just been launched in Germany. It's a new company [Enterpayment](http://www.enterpayment.de/), which seems to be a sister company of [Jamba](http://www.jamba.de/). This is likely the first real mobile phone payment system that will work in Germany. All you do is leave your mobile phone number as payment, you get a special pin and you can authorize the payment. Plain and simple, deducted from your phone bill. Very nice I have to say. It makes me wonder a bit though that T-Mobile and Vodafone are Partners, because for all I know, they were working on a mobile phone payment standard together.
 

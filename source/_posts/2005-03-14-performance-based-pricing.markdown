@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;performance based pricing&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/6539148_345e3833c2_m.jpg&quot; alt=&quot;performance based pricing&quot; /&gt;](http://www.flickr.com/photos/oliver/6539148/)&lt;p&gt;&lt;/p&gt;
+[ title=&quot;performance based pricing&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/6539148_345e3833c2_m.jpg&quot; alt=&quot;performance based pricing&quot; /&gt;](http://www.flickr.com/photos/oliver/6539148/)
 
 

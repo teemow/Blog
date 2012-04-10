@@ -16,5 +16,5 @@ In general you are bug hunter, but your personal goal is to not have anything to
 
 Interested? Contact me a oliver(at)ormigo.com. Looking forward to hearing from you and chatting about how we can make this work for you and build a great product together.
 
-&lt;!-- technorati tags start --&gt;&lt;p&gt;Technorati Tags: [ rel=&quot;tag&quot;&gt;Developers](http://www.technorati.com/tag/Developers), [ rel=&quot;tag&quot;&gt;Jobs](http://www.technorati.com/tag/Jobs), [ rel=&quot;tag&quot;&gt;Ormigo](http://www.technorati.com/tag/Ormigo), [ rel=&quot;tag&quot;&gt;Q&amp;A](http://www.technorati.com/tag/Q&amp;A), [ rel=&quot;tag&quot;&gt;Quality Assurance](http://www.technorati.com/tag/Quality Assurance)&lt;/p&gt;&lt;!-- technorati tags end --&gt;
+
 

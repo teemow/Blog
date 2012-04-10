@@ -11,7 +11,7 @@ author: Oliver Thylmann
 As you might have noticed from the posts that happened in the last 24 hours, as well as the new [Dubai 2004 Photo Album](http://owt.typepad.com/photos/dubai_/), I am back from my Dubai holiday. 10 days of relaxation, reading, sun and fun. It was great.
 
 
-&lt;!-- more --&gt;
+
 
 
 The hotel in Jebel Ali was very nice and the beach area and pools even nicer. The ocean had the exactly right temperature to be easy to get in and still remain refreshing, with a good set of waves from time to time. The 10 days just flew past us and we could actually have added another 3 days to the mix to get the relaxation process settled in. 10 days just seems to be the absolute bottom limit.

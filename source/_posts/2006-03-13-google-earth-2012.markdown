@@ -12,14 +12,14 @@ author: Oliver Thylmann
 
 
 
-&lt;p&gt;Rainer Wasserfuhr has some thoughts about [Google Earth 2012](http://wasserfuhr.com/nodes/node.jsp?id=1949). I translate from German:
-&lt;em&gt;Google Earth 2012 looks something like this: 100.000 people walk around with headcams, retinadisplays and wirelesshubs. You can connect to the cam of your friend and choose a perspective. Thanks to magical Google Software you can choose between different locations and fly back and forth seemlessly. The software calculates what you see from satellite and video stream data that it has archived. Effects like daylight and weather are calculated dynamically, annoying moving objects filtered out. &lt;/em&gt;&lt;/p&gt;
+Rainer Wasserfuhr has some thoughts about [Google Earth 2012](http://wasserfuhr.com/nodes/node.jsp?id=1949). I translate from German:
+*Google Earth 2012 looks something like this: 100.000 people walk around with headcams, retinadisplays and wirelesshubs. You can connect to the cam of your friend and choose a perspective. Thanks to magical Google Software you can choose between different locations and fly back and forth seemlessly. The software calculates what you see from satellite and video stream data that it has archived. Effects like daylight and weather are calculated dynamically, annoying moving objects filtered out. *
 
-&lt;p&gt;I love his other bets too. End of 2006 there will be lawyers with Skypenumbers on their web site. Agreed. The cooler one is that by End of 2007, when riding a bus, a red light on his 3G phone will tell him that a contact of a contact from [OpenBC](http://openbc.com/) is on the bus and can be talked to directly. Looking forward to all that stuff Rainer!
-&lt;!-- technorati tags start --&gt;&lt;/p&gt;
+I love his other bets too. End of 2006 there will be lawyers with Skypenumbers on their web site. Agreed. The cooler one is that by End of 2007, when riding a bus, a red light on his 3G phone will tell him that a contact of a contact from [OpenBC](http://openbc.com/) is on the bus and can be talked to directly. Looking forward to all that stuff Rainer!
 
-&lt;p&gt;Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Future&quot;&gt;Future&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/OpenBC&quot;&gt;OpenBC&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Rainer%20Wasserfuhr&quot;&gt;Rainer Wasserfuhr&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Skype&quot;&gt;Skype&lt;/a&gt;&lt;/p&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

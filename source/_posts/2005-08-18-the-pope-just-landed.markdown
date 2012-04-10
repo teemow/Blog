@@ -8,8 +8,8 @@ author: Oliver Thylmann
 ---
 
 
-&lt;p&gt;
+
 And the bells are ringing :) You can follow it live at [WDR](http://www.wdr.de/).
-&lt;/p&gt;
+
 
 

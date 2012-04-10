@@ -11,14 +11,14 @@ author: Oliver Thylmann
 Our personality characteristics also influence the team roles which we are most comfortable iwth. Belbin argued that best working groups are those that have a range of people that can and will fulfil a variety of roles. His inventory, while not formally developed, has proved to useful especially due to validity and understandability of the roles Belbin put forward. But even Belbin recognized that this inventory was never designed as a full test, but more as a guideline
 
 
-&lt;!-- more --&gt;
+
 
 
 Belbin split the roles up in: Plant, Resource investigator, Co-ordinator, Shaper, Monitor-Evaluator, Team Worker, Implementer, Completer, Specialist.
 
 Margerison and McCann introduced the Team Management Index (TMI), which is a lot harder to use, but has reliability and validity, splitting team roles in: Creator Innovator, Explorer Promoter, Assessor Developer, Thruster Organizer, Concluder Producer, Controller Inspector, Upholder Maintainer, Reporter Adviser, Linker. Alll these roles are related to MBTI dimensions.
 
-&lt;b&gt;Innovation roles&lt;/b&gt;
+**Innovation roles**
 
 Creation is almost always a team effort and also moved through different stages, at which different roles might be needed. You move from:
 

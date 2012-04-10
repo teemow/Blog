@@ -15,6 +15,6 @@ Interesting short article on CPU Review about how to improve your search engine 
 4. Include keywords in text links.
 5. Stay ahead by reading some recources daily.
 
-Here is the entire article: &lt;a title=&quot;Top 5 Tips for Increasing Your Search Engine Rankings&quot; href=&quot;http://www.cpureview.com/articles/20031010topfive.html&quot;&gt;Top 5 Tips for Increasing Your Search Engine Rankings&lt;/a&gt;
+Here is the entire article: &lt;a title=&quot;Top 5 Tips for Increasing Your Search Engine Rankings&quot; href=&quot;http://www.cpureview.com/articles/20031010topfive.html&quot;&gt;Top 5 Tips for Increasing Your Search Engine Rankings
 
 

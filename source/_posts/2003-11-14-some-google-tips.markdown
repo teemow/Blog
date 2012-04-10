@@ -11,12 +11,12 @@ author: Oliver Thylmann
 I just read an article about some Google Tips and wanted to share some of them with all of you out there, because some are really nice.
 
 
-&lt;!-- more --&gt;
+
 
 
 1. Use the Google Preferences. They allow you to say that you want all search results to open in a new window and to show 20 results on one page for example. Very convenient.
 
-2. If you send arround Google URLs, then you can use &lt;a&gt;TinyURL&lt;/a&gt; to make them shorter. Knew that one already but still good to have it standing here.
+2. If you send arround Google URLs, then you can use &lt;a&gt;TinyURL to make them shorter. Knew that one already but still good to have it standing here.
 
 3. Google has a calculator. Just use the search bar, including brackets and everything. This was actually done by somebody who was supposed to write a language tool. I might have quoted that already here some time though.
 

@@ -8,12 +8,12 @@ author: Oliver Thylmann
 ---
 
 
-&lt;p&gt;
+
 Damn. Seems that no lock is really safe with the usability of bump keys. 
-&lt;/p&gt;&lt;p&gt;
+
 Check out this video:
-&lt;/p&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;!-- technorati tags start --&gt;&lt;p&gt;Technorati Tags: [ rel=&quot;tag&quot;&gt;Bump Keys](http://www.technorati.com/tag/Bump Keys), [ rel=&quot;tag&quot;&gt;Security](http://www.technorati.com/tag/Security)&lt;/p&gt;&lt;!-- technorati tags end --&gt;
+
+
+
+
 

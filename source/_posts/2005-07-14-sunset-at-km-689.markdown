@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img src=&quot;http://photos23.flickr.com/25966161_41a74451d8.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/25966161/)&lt;br /&gt;	[sunset at km 689](http://www.flickr.com/photos/oliver/25966161/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	&lt;/p&gt;
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img src=&quot;http://photos23.flickr.com/25966161_41a74451d8.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/25966161/)	[sunset at km 689](http://www.flickr.com/photos/oliver/25966161/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					
 
 

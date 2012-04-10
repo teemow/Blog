@@ -8,5 +8,5 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;a wiki car!&quot;&gt;&lt;img src=&quot;http://photos2.flickr.com/1990966_9c0e2feed1_m.jpg&quot; alt=&quot;a wiki car!&quot; /&gt;](http://www.flickr.com/photos/oliver/1990966/)&lt;p&gt;&lt;/p&gt;
+[ title=&quot;a wiki car!&quot;&gt;&lt;img src=&quot;http://photos2.flickr.com/1990966_9c0e2feed1_m.jpg&quot; alt=&quot;a wiki car!&quot; /&gt;](http://www.flickr.com/photos/oliver/1990966/)
 

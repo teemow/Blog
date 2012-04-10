@@ -11,7 +11,7 @@ author: Oliver Thylmann
 I just read [The Chinese Negotatiation](http://harvardbusinessonline.hbsp.harvard.edu/b01/en/common/item_detail.jhtml?id=5100) from [Harvard Business Review](http://www.hbsp.harvard.edu/). It's a very good article on what you need to know when negotiating in China. Here are some of the key concepts to get an idea.
 
 
-&lt;!-- more --&gt;
+
 
 
 First of all, the roots in chinese culture come from working in agriculture, where long cycles are the norm and where family relations are of utmost importance. On top of that, things are greatly influenced by Confucius and Lao Tsu, both of whom were more concerned with the means than the end. Also, Chinese are better at taking into account the big picture and are very weary of foreigners. 

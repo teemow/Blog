@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/16/89773285_7d991d55fb.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/89773285/)&lt;br /&gt;	[Welcome to munich](http://www.flickr.com/photos/oliver/89773285/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Sun 22/01/2006 18:51 22012006099 Dld here we come!&lt;/p&gt;
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/16/89773285_7d991d55fb.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/89773285/)	[Welcome to munich](http://www.flickr.com/photos/oliver/89773285/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					Sun 22/01/2006 18:51 22012006099 Dld here we come!
 
 

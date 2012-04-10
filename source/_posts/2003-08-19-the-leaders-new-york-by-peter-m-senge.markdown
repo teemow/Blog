@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 
 
-&lt;em&gt;(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))&lt;/em&gt;
+*(Originally published on [OUBS Blog](http://blog.thylmann.net/category/oubs/))*
 
 &lt;em /&gt;The leader's new york: building learning organizations, by Peter M. Senge is part of Book 8 and about the organization of the future, &quot;a consummately adaptive enterprise&quot; as of Fortune magazine. The impulse to learn is an impulse to expand our capability.
 
@@ -18,7 +18,7 @@ Leaders are often believed to be heroes but in learning organizations they are n
 
 You start with creative tension, meaning the natural tension due to the gap between a vision and the 'current reality'. Here an accurate picture of the current reality as well as a compelling picture of the desired future is important. The energy for change needs to come from the vision though, as it makes motivation intrinsic. In change coming from current reality youare likely to be problem solving which is more extrinsic and short lived.
 
-&lt;strong&gt;New Roles&lt;/strong&gt;
+**New Roles**
 
 You will need a few new roles, or new role definitions:
 
@@ -36,7 +36,7 @@ They largely teach by example.
 -&gt; The leader as steward
 This is more a matter of attitude. You serve first and that makes you lead. People will be inclined to learn when they do something they consider worthy of their fullest commitment. (Stewardship: the careful and responsible management of something entrusted to one's care)
 
-&lt;strong&gt;New Skill&lt;/strong&gt;
+**New Skill**
 
 These new leadership roles require new skills.
 
@@ -60,7 +60,7 @@ These new leadership roles require new skills.
 - focus on areas of high leverage
 - avoid symtomatic solutions
 
-&lt;strong&gt;New Tools&lt;/strong&gt;
+**New Tools**
 To do all this you need new tools. One option might be to be aware of system archetypes that exist and happen again and again.
 - you might need to balance a process that has delays and might overshoot
 - growth is limited

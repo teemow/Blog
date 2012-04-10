@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/27/54822972_76ce030a30.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/54822972/)&lt;br /&gt;	[somebody wants to invade starbucks turf](http://www.flickr.com/photos/oliver/54822972/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	&lt;/p&gt;
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/27/54822972_76ce030a30.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/54822972/)	[somebody wants to invade starbucks turf](http://www.flickr.com/photos/oliver/54822972/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					
 
 

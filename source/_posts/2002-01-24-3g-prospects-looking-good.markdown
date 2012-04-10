@@ -11,7 +11,7 @@ author: Oliver Thylmann
 While I still believe that the biggest single thing speaking for 3G is the need for more capacity, the general usefulness and features that people want to use are still of interest to many, including me. What will people really want to use?
 
 
-&lt;!-- more --&gt;
+
 
 
 [Nokia](http://www.nokia.com/) recently released a [research report](http://presseloft.nokia.de/special/entertainment_1312.pdf) (link in German) that Nokia Networks conducted together with the HPI Research Group. In the report, they interviewed people or groups of people from different countries to see what these people really want to be using in the future. Keeping in mind that this is a Nokia report and that the video shown to these people to make them aware of what is possible, as well as the questions, might be a bit biased, it still shows that there is an interest there - which needs to be nurtured. What I just said regarding bias is not meant in a negative way but rather to point out that Nokia will obviously try to learn as best they can whether they are going in the right direction and what they should do in the future, hence a bias towards Nokia.

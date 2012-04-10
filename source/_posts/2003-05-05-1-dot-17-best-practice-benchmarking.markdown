@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Benchmarking is the pursuit of the best organisations out there (in your field) to learn from their successful practices. This is a continuous thing and you should look at the processes in connection with the results to find out how to improve your processes in case your results lag behind (process benchmarking in relation to results benchmarking).
 
 
-&lt;!-- more --&gt;
+
 
 
 Problems:

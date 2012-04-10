@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;)&quot;&gt;&lt;img src=&quot;http://photos5.flickr.com/4581882_7b5ebbb620_m.jpg&quot; alt=&quot;)&quot; /&gt;](http://www.flickr.com/photos/oliver/4581882/)&lt;p&gt;As you see I have a beard, which I normally don't. The power of 7710 photo editing ;)&lt;/p&gt;
+[ title=&quot;)&quot;&gt;&lt;img src=&quot;http://photos5.flickr.com/4581882_7b5ebbb620_m.jpg&quot; alt=&quot;)&quot; /&gt;](http://www.flickr.com/photos/oliver/4581882/)As you see I have a beard, which I normally don't. The power of 7710 photo editing ;)
 
 

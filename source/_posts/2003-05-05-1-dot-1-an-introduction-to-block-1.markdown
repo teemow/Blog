@@ -11,7 +11,7 @@ author: Oliver Thylmann
 An organized approach to thinking about performance includes the 4 'E's: effectiveness, efficiency, economy and ethics.
 
 
-&lt;!-- more --&gt;
+
 
 
 Effectiveness (Do the right thing): How effectively does the company achieve their goals? For this you need to understand the purpose for which the company exists and their strategic goal, as performance is always in relation to this.

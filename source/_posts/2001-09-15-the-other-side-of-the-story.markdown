@@ -16,7 +16,7 @@ http://electronicintifada.net/coveragetrends/rejoicing.html
 
 A few quotes:
 
-&lt;I&gt;Whatever a group of 20-40 Palestinian children happened to be doing yesterday morning in Nablus or Ein Al-Hilweh Refugee Camp in Lebanon is no more representative of all Palestinians than the Klu Klux Klan rally -- which happened recently just down the road from where I live, in St. Paul, Minnesota -- is representative of all Americans. 
+*Whatever a group of 20-40 Palestinian children happened to be doing yesterday morning in Nablus or Ein Al-Hilweh Refugee Camp in Lebanon is no more representative of all Palestinians than the Klu Klux Klan rally -- which happened recently just down the road from where I live, in St. Paul, Minnesota -- is representative of all Americans. 
 
 [...]
 
@@ -24,6 +24,6 @@ That Israel has used &quot;excessive force&quot; to suppress the current Palesti
 
 [...]
 
-A current figure for U.S. aid currently given to Israel is $3 billion per year, which includes $1.2 billion in economic aid and $1.8 billion in military aid.&lt;/I&gt;
+A current figure for U.S. aid currently given to Israel is $3 billion per year, which includes $1.2 billion in economic aid and $1.8 billion in military aid.*
 
 

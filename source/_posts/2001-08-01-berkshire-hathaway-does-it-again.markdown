@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 Hmmm... Bershire Hathaway just bought XTRA Corp.
 
-&lt;I&gt;Xtra Corporation leases, primarily on an operating basis, freight transportation equipment including over-the- road trailers, intermodal trailers, chassis and domestic containers and marine containers.&lt;/I&gt;
+*Xtra Corporation leases, primarily on an operating basis, freight transportation equipment including over-the- road trailers, intermodal trailers, chassis and domestic containers and marine containers.*
 
 They bought it in a $590 million cash deal. Everything. Fun. Warren Buffet rocks :)
 

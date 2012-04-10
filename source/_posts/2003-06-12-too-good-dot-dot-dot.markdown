@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This one is in german, but you could always try [Babelfish for a translation](http://babelfish.altavista.com/). Very funny and very true indeed ;)
 
 
-&lt;!-- more --&gt;
+
 
 
 Christdemokrat:

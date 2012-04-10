@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) I can be categorized as a geek, or as a technology addict, never reading a manual, out of stupidity or knowledge, always using devices to their almost maximum ability, always on the lookout for the latest gadget (send me one if you have one ;). In short, I am not the general public.
 
 
-&lt;!-- more --&gt;
+
 
 
 The general public is often clueless as to what their phone can really do for them and most of the times they were never told when they first bought the phone. I can change my ringtone? I can group my callers and assign different ringtones for different groups? I can send what messages? That weird beep is when I get one of those messages? I can surf WAP pages? What are WAP pages? I can just say somebody's name and the phone dials that person? I can send someone else a ringtone? I have a calendar in here? I can synchronize the calendar with Outlook on my computer? Questions on top of questions - on top of questions.

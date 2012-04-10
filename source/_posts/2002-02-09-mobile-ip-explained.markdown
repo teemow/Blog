@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) First of all, we need to take a look at how all this IP mumbo jumbo really works - or the basics of it, at least. IP stands for Internet Protocol, and the interesting part for us is the general routing of data packets it's responsible for. When I send you a direct instant message (e.g. ICQ) from my computer, this message is instantly split up into several data packets which are numbered, and sent via my network card (or modem) into the network I'm connected to. Just for argument's sake, we'll now presume you are sitting far far away in another country.
 
 
-&lt;!-- more --&gt;
+
 
 
 What happens next is that my packet gets sent to my so-called default gateway, whose address was provided to me (automatically) by my network provider. That computer looks in its routing table to see where to send all the packets, and then does just that. Each and every one of those packets include your address, and suddenly - the packet arrives somewhere where a router/switch knows roughly where that address is located, and all the packets are sent in that direction. Then, another one of these boxes responsible for routing the packets knows the exact network that your computer is in, sends the packets there for your computer to get them. Finally, the packets are put back together and the message pops up on your screen - and everyone's happy.

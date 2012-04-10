@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;freenet preparing&quot;&gt;&lt;img src=&quot;http://photos6.flickr.com/6527398_f32a37cccb_m.jpg&quot; alt=&quot;freenet preparing&quot; /&gt;](http://www.flickr.com/photos/oliver/6527398/)&lt;p&gt;&lt;/p&gt;
+[ title=&quot;freenet preparing&quot;&gt;&lt;img src=&quot;http://photos6.flickr.com/6527398_f32a37cccb_m.jpg&quot; alt=&quot;freenet preparing&quot; /&gt;](http://www.flickr.com/photos/oliver/6527398/)
 
 

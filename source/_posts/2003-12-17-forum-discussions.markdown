@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 Once again, the Human and Urban Legends board (or forum ;)) at [Motley Fool](http://www.fool.com/) proved to be a place for valuable insight in the psychology behind forums. Here is a summary of what normally happens:
 
-&lt;I&gt;How many forum members does it takes to change a light bulb? 
+*How many forum members does it takes to change a light bulb? 
 1 to change the light bulb and to post that the light bulb has been changed 
 14 to share similar experiences of changing light bulbs and how the light bulb could have been changed differently 
 7 to caution about the dangers of changing light bulbs 
@@ -32,7 +32,7 @@ Once again, the Human and Urban Legends board (or forum ;)) at [Motley Fool](htt
 5 to post to the group that they will no longer post because they cannot handle the light bulb controversy 
 4 to say &quot;didn't we go through this already a short time ago?&quot; 
 13 to say &quot;do a Google search on light bulbs before posting questions about light bulbs&quot; 
-1 forum lurker to respond to the original post 6 months from now and start it all over again.&lt;/I&gt;
+1 forum lurker to respond to the original post 6 months from now and start it all over again.*
 
 Thanks to [swtx88's post](http://boards.fool.com/Message.asp?mid=20007184) (you need a subscription to get in)
 

@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This booklet included three different examples where poor performance resulted from inadequate control or control failures, which again is often the result of uncontrolled growth.
 
 
-&lt;!-- more --&gt;
+
 
 
 Case Study 1

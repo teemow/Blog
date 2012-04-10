@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;job advert&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/667875_1f213d32c1.jpg&quot; alt=&quot;job advert&quot;&gt;](http://www.flickr.com/photos/oliver/667875/)&lt;p&gt;&lt;/p&gt;
+[ title=&quot;job advert&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/667875_1f213d32c1.jpg&quot; alt=&quot;job advert&quot;&gt;](http://www.flickr.com/photos/oliver/667875/)
 
 

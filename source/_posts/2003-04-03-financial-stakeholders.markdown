@@ -32,7 +32,7 @@ f)	Governments agencies
 g)	The general public
 
 
-&lt;!-- more --&gt;
+
 
 
 The inputs-outputs model is used a lot to describe that managers need to transform resources (inputs) into goods and services (outputs) that result in outcomes (happy customers, profits, satisfied users, and so on). These inputs and outputs all have monetary values.

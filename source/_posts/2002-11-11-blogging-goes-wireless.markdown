@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Throughout the next few paragraphs I will attempt to introduce you to the concept of a blog, tell you why I would not call it journalism, and even show you why journalists all over the world should be shaking in their pants. In other words; sit tight, it's going to be a rough little ride.
 
 
-&lt;!-- more --&gt;
+
 
 
 What are blogs?

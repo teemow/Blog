@@ -12,7 +12,7 @@ I just read this in the discussion area of the open university. all people in th
 
 So here is, marketing for ladies explained, and I think it is a very good explenation of the different marketing strategies in general :)
 
-&lt;I&gt; 
+* 
 You go to a party and you see an attractive boy across the room.
 You go up to him and say, &quot;Hi, I'm great in bed, how about it?&quot;. 
 That's Direct Marketing.
@@ -38,6 +38,6 @@ That's Hard Selling.
 
 You go to a party, you see an attractive boy across the room. 
 HE COMES OVER and says, &quot;Hi, I hear you're great in bed, how about it?&quot; 
-Now THAT is the power of Branding.&lt;/I&gt;
+Now THAT is the power of Branding.*
 
 

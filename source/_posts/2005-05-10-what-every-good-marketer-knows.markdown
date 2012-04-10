@@ -8,9 +8,9 @@ author: Oliver Thylmann
 ---
 
 
-By Seth Godin: &lt;a title=&quot;Seth's Blog: What Every Good Marketer Knows&quot; href=&quot;http://sethgodin.typepad.com/seths_blog/2005/05/what_every_good.html&quot;&gt;Seth's Blog: What Every Good Marketer Knows&lt;/a&gt;.
+By Seth Godin: &lt;a title=&quot;Seth's Blog: What Every Good Marketer Knows&quot; href=&quot;http://sethgodin.typepad.com/seths_blog/2005/05/what_every_good.html&quot;&gt;Seth's Blog: What Every Good Marketer Knows.
 
-I quote the most important part: &lt;I&gt;Obviously, knowing what to do is very, very different than actually doing it.&lt;/I&gt;
+I quote the most important part: *Obviously, knowing what to do is very, very different than actually doing it.*
 
 But the list is great.
 

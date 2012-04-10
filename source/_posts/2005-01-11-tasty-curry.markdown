@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;tasty curry&quot;&gt;&lt;img src=&quot;http://photos1.flickr.com/3244538_007d046df5_m.jpg&quot; alt=&quot;tasty curry&quot; /&gt;](http://www.flickr.com/photos/oliver/3244538/)&lt;p&gt;&lt;/p&gt;
+[ title=&quot;tasty curry&quot;&gt;&lt;img src=&quot;http://photos1.flickr.com/3244538_007d046df5_m.jpg&quot; alt=&quot;tasty curry&quot; /&gt;](http://www.flickr.com/photos/oliver/3244538/)
 
 

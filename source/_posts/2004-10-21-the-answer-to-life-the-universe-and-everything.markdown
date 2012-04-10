@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 As of Google: 42
 
-&lt;a title=&quot;Google-Suche: the answer to life the universe and everything&quot; href=&quot;http://www.google.de/search?q=the answer to life the universe and everything&quot;&gt;Google-Search: the answer to life the universe and everything&lt;/a&gt;
+&lt;a title=&quot;Google-Suche: the answer to life the universe and everything&quot; href=&quot;http://www.google.de/search?q=the answer to life the universe and everything&quot;&gt;Google-Search: the answer to life the universe and everything
 
 Right on Google! :)
 

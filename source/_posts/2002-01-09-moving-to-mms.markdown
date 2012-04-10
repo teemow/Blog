@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) It's a mess! Currently, all GSM phones can send SMS text messages, and if you have a Nokia phone you can also send and receive ring-tones and bitmaps - to other Nokia phones, that is. Others wanted their phones to have that capability too though, especially because ring tones and images are a lucrative business. Now, manufacturers such as Ericsson and Siemens have adopted a messaging standard called EMS in some phones. Nokia didn't, arguing (maybe rightfully so) that their phones can already do what EMS has to offer. Result: nobody dares to use the damn thing because you have no clue if it will arrive at a phone that supports you type of message.
 
 
-&lt;!-- more --&gt;
+
 
 
 The business for ring tones, images, screensavers and the like is booming, with companies previously doing only adult entertainment now jumping on the running train, which really shows that there is money to be made. People love these things, and I recently saw a Siemens ad which was trying to make it clear to the viewer that the Siemens C45 can be customized with ring tones, to fit the user's personality. Another ad I saw was from Nokia saying something along the lines of &quot;soon you will be able to watch videos on your Nokia mobile phone.&quot; All these companies are trying to hammer it into your head that your phone is capable of more than voice calls and sms messages.

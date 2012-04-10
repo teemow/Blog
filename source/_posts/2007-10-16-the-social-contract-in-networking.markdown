@@ -15,11 +15,11 @@ author: Oliver Thylmann
 
 John just [posted](http://battellemedia.com/archives/004031.php) an interesting bit concerning Facebook and what he calls the social contract:
 
-&lt;em&gt;The social contract is not yet baked. By that, I mean the mainstream of society has not yet come to terms with the power/responsibility of our clickstream/digital social capital.This cannot be underestimated. AdWords came at the right time, in the right circumstances. It's not like Bill Gross didn't have it mostly right... &lt;/em&gt;
+*The social contract is not yet baked. By that, I mean the mainstream of society has not yet come to terms with the power/responsibility of our clickstream/digital social capital.This cannot be underestimated. AdWords came at the right time, in the right circumstances. It's not like Bill Gross didn't have it mostly right... *
 
 This he takes as one of the reasons that Facebook might be on the right track, but they also might not have the perfect solution for leveraging the social graph in advertising. The social contract is something that sounded familiar but what I actually remembered was [managing the psychological contract in managing people](http://blog.thylmann.net/2003/05/05/112-managing-the-psychological-contract/):
 
-&lt;em&gt;This includes the expectations set forth by the above (normal work-) contracts as well as the wider picture, unspoken expectations. These might be taken for granted, only seen when they are broken or hard to discuss.&lt;/em&gt;
+*This includes the expectations set forth by the above (normal work-) contracts as well as the wider picture, unspoken expectations. These might be taken for granted, only seen when they are broken or hard to discuss.*
 
 This is exactly what he means with the social contract. We all read (or rather don't) terms of service but what is important once it touches our personal lives, is that the social contract is fitting, that we are feeling we are gaining as much as we are giving. Problems with the social contract are only visible when they are broken really. Allowing for targeted ads based on my entire profile on Facebook might be seen by the users as breaking that contract as this is not what they (think they) signed up for.
 

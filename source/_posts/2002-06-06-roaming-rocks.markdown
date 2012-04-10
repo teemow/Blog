@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Holidays are a wonderful invention, particularly if you're going somewhere profoundly different to your home country. Living in wet and cold Germany, hot and dry Egypt sounded like a good plan for a vacation. The interesting thing is that the trip was one of those experiences where I noticed how important coverage and roaming really is, particularly in Europe where we've got small countries and people frequently travel across borders - and thus end up on other mobile phone networks. In this article, I'll attempt to give an introduction to how roaming works in general, as well as take a closer look at the more complicated issue of GPRS roaming.
 
 
-&lt;!-- more --&gt;
+
 
 
 Roaming, in short, is about potentially allowing you to use your phone even if your home network is not reachable, be it because you're simply outside the coverage of your home carrier, or because you're in another country where there isn't even a network that is run by your home carrier or the carrier it's a part of. The former approach is among others applied by Viag Interkom (now O2), which doesn't offer coverage in all of Germany. Viag Interkom users that are outside the carrier's coverage area will be able to use the T-Mobile network instead, which amounts to so-called national roaming. The more common perception of roaming is the latter, though, involving roaming across country borders. If you have a contract with Vodafone in the UK and then take a trip to Germany, your phone will log in to an available german GSM network and do a bit of chatting on its own to find out whether it's supposed to just pick a network randomly, or use Vodafone networks in foreign countries if available (more on this later).

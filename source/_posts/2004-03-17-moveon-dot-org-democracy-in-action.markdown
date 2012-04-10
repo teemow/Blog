@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-I heard about it but now I've seen it. &lt;a title=&quot;MoveOn.org: Democracy in Action&quot; href=&quot;http://www.moveon.org/censure/caughtonvideo/&quot;&gt;MoveOn.org: Democracy in Action&lt;/a&gt; shows a stuttering Rumsfeld.
+I heard about it but now I've seen it. &lt;a title=&quot;MoveOn.org: Democracy in Action&quot; href=&quot;http://www.moveon.org/censure/caughtonvideo/&quot;&gt;MoveOn.org: Democracy in Action shows a stuttering Rumsfeld.
 
 

@@ -14,5 +14,5 @@ The biggest problem he is facing, which might have been found when doing a Porte
 
 At the moment he is loosing money, but hey, he just sold lots of stock and as he puts it himself, he can fund the cinema for decades to come. ;)
 
-Read the article: &lt;a title=&quot;Fast Company | In Movieland, Not so Easy&quot; href=&quot;http://www.fastcompany.com/magazine/75/movieland.html&quot;&gt;Fast Company | In Movieland, Not so Easy&lt;/a&gt;
+Read the article: &lt;a title=&quot;Fast Company | In Movieland, Not so Easy&quot; href=&quot;http://www.fastcompany.com/magazine/75/movieland.html&quot;&gt;Fast Company | In Movieland, Not so Easy
 

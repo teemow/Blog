@@ -11,7 +11,7 @@ author: Oliver Thylmann
 I just found something I would have liked to have a week ago in a german magazine. I am talking about changes in the CPM Prices for online advertisement in Germany. Interesting.&lt;br&gt;
 
 
-&lt;!-- more --&gt;
+
 
 
 &lt;br&gt;

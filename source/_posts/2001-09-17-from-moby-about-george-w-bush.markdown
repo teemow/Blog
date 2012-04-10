@@ -16,7 +16,7 @@ http://www.moby-online.com/cms/viewdiary.asp?Diary_ID=4&amp;ViewType=Next
 
 An interesting read ;)
 
-&lt;I&gt;&quot;Mars is essentially in the same orbit...Mars is somewhat the same distance from the Sun, which is very important. We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.&quot;
+*&quot;Mars is essentially in the same orbit...Mars is somewhat the same distance from the Sun, which is very important. We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.&quot;
 ...Governor George W. Bush, Jr., 8/11/94 
 
 &quot;I believe we are on an irreversible trend toward more freedom and democracy - but that could change.&quot;
@@ -69,11 +69,11 @@ For NASA, space is still a high priority.&quot;
 
 
 and people are still planning on voting for him.. it boggles the mind. -moby 
-&lt;/I&gt;
+*
 
 and another post, the next one.
 
-&lt;I&gt;THE WIT &amp; WISDOM OF GEORGE W. BUSH. All Quotes 100% Authentic: 
+*THE WIT &amp; WISDOM OF GEORGE W. BUSH. All Quotes 100% Authentic: 
 
 &quot;I think we can agree. The past is over&quot; 
 
@@ -101,7 +101,7 @@ and another post, the next one.
 
 please forward these to ANYONE who can vote. this is serious. the man is just. not. smart.
 sigh.
-moby&lt;/I&gt;
+moby*
 
 And god! It doesn't stop.
 
@@ -109,5 +109,5 @@ This is from here: http://www.moby-online.com/cms/viewdiary.asp?Diary_ID=6&amp;V
 
 Only the fun part:
 
-&lt;I&gt;You don't elect a president based on who would be more fun to hang out with at a barbecue. &lt;/I&gt;
+*You don't elect a president based on who would be more fun to hang out with at a barbecue. *
 

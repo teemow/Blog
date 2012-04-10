@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Looking for Apple RSS Feeds? There you go: &lt;a title=&quot;Apple - RSS Information&quot; href=&quot;http://www.apple.com/rss/&quot;&gt;Apple - RSS Information&lt;/a&gt;
+Looking for Apple RSS Feeds? There you go: &lt;a title=&quot;Apple - RSS Information&quot; href=&quot;http://www.apple.com/rss/&quot;&gt;Apple - RSS Information
 
 

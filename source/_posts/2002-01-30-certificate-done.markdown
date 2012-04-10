@@ -12,8 +12,8 @@ Well, it seems that my first year at the OU is done and if nothing went amazingl
 
 It started the night before when I read that [TMF](http://www.fool.com/) will start charging for their discussion boards. Roughly $30 per year. They will remove the ads and add several new features as well as develop new ones on request. I was wondering about weather I should do it or not but then decided to pay for it as I really met wonderful people and learned a great deal on the boards. And for what I have gotten out, $30 is nothing. But then, a mail arrived. :) 
 
-&lt;I&gt;Congratulations! You have been awarded a free one-year subscription to the Fool Community -- no strings attached.[...]
-This is our way of thanking you for being a valued contributor to the Fool Community in the past. &lt;/I&gt;
+*Congratulations! You have been awarded a free one-year subscription to the Fool Community -- no strings attached.[...]
+This is our way of thanking you for being a valued contributor to the Fool Community in the past. *
 
 Well that's settled then. I will stay. The discussion is going on like crazy with the &quot;Improve the Fool&quot; board alone getting over 500 posts since yesterday morning.
 

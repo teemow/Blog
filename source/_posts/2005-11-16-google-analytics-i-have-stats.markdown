@@ -22,5 +22,5 @@ Or you can check the location where users come from and then see what your avera
 
 I still have to dig down deeper into the stats and push it on to some sites that really need to know about conversions, but for now, it looks like a very nice tool. If you are looking for your real referrers, check the Marketing Optimization -&gt; Marketing Campaign Results -&gt; Referrer Conversion. There is lots to find out if you just wonder around a bit.
 
-{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Web+Development&quot;&gt;Web Development&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Advertising&quot;&gt;Advertising&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Analytics&quot;&gt;Google Analytics&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Performance+Marketing&quot;&gt;Performance Marketing&lt;/a&gt;}
+{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Web+Development&quot;&gt;Web Development, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Advertising&quot;&gt;Advertising, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Analytics&quot;&gt;Google Analytics, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Performance+Marketing&quot;&gt;Performance Marketing}
 

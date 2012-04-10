@@ -10,6 +10,6 @@ author: Oliver Thylmann
 
 HBS Working Knowledge is argueing [against budgeting](http://hbsworkingknowledge.hbs.edu/pubitem.jhtml?id=3623&amp;t=finance).
 
-&lt;I&gt;Why doesn’t the budget process work? Read what experts say about not only changing your budgeting process, but whether your company should dispense with budgets entirely.&lt;/I&gt;
+*Why doesn’t the budget process work? Read what experts say about not only changing your budgeting process, but whether your company should dispense with budgets entirely.*
 
 

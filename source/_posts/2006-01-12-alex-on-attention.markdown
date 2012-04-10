@@ -33,9 +33,9 @@ Alex Barnett has put down his [20 thoughts on Attention](http://blogs.msdn.com/a
 18. Agreed.
 19. Hmmm...
 20. Wonderful list and the cool thing is, I can now get my tagcloud, wishlist, books bought, blogroll, contacts, buddy lists, photo collections, playlists, bookmarks, ... ... ... Is there somebody that will give me a system that will mine these together and get some interesting stuff out of it for me?
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Attention&quot;&gt;Attention&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Attention%20Trust&quot;&gt;Attention Trust&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Clickstream&quot;&gt;Clickstream&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/advertising&quot;&gt;advertising&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

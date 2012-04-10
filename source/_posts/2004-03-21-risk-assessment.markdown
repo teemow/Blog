@@ -11,10 +11,10 @@ author: Oliver Thylmann
 Risk is said to come from the Arabic word risq ('anything that has been given to you (by God) and from which you draw profit') or the Latin word risicum (originally referring to challenges to seafarers, potentially with a negative outcome). The concept of risk brought foreward in the book talks about  something that has an uncertain outcome possibly improving or worsening one's position. It has a probability, can be good or bad (ex credit risk, which can only be bad) and involves something changing. The question is how to assess this.
 
 
-&lt;!-- more --&gt;
 
 
-&lt;b&gt;Risk mapping&lt;/b&gt; is one potential solution, being an aid to increase the knowledge of risk exposure within the organisation. It is both an idea and a technique. Different risks to look at might be foreign exchange or interest rate risk and actually other internal audits, aimed at potentially suggesting improvements. There are three steps in this:
+
+**Risk mapping** is one potential solution, being an aid to increase the knowledge of risk exposure within the organisation. It is both an idea and a technique. Different risks to look at might be foreign exchange or interest rate risk and actually other internal audits, aimed at potentially suggesting improvements. There are three steps in this:
 
 1. find involved risk categories
 2. estimate size and degree of exposure
@@ -22,7 +22,7 @@ Risk is said to come from the Arabic word risq ('anything that has been given to
 
 You should always look back to the strategy when doing this. 
 
-&lt;i&gt;Risk categories&lt;/i&gt; (suggestion):
+*Risk categories* (suggestion):
 - financial: monetary changes due to balances and resource changes, e.g. gearing of different operations and he business
 - organisational: industrial relations, labour costs, skill requirements, price/quality, processes, R&amp;D, 
 - market: Market share, distribution, demand, product range
@@ -39,7 +39,7 @@ Also keep in mind avoidable risk, which should only be taken if the expected ret
 - What is the cost of risk
 - What are correlations of risks
 
-Then you &lt;i&gt;allocate your risk capacity&lt;/i&gt;, ranking your different risks. The OUBS suggests:
+Then you *allocate your risk capacity*, ranking your different risks. The OUBS suggests:
 - Unavoidable risk in relation to core activities
 - Risk only avoidable by ceasing non-core activities
 - Avoidable risk, core activities
@@ -52,9 +52,9 @@ In the end, while you will never be able to say what your risk is, the market wi
 
 The book then includes a template and some questions to ask for financial risk analysis. The template has the different stakeholder groups on the y-achsis and the different risks on the x-achsis (e.g. forex rate, interest rate, commodity price, equity&amp;funding, ...)
 
-&lt;b&gt;Interest rate risk&lt;/a&gt; is something that can be managed specifically and also applies for equity investors. This should first bring us to bonds. These can be said to be a &lt;i&gt;securitised evidence of indebtedness&lt;/i&gt;. They normally have maturities between 5 and 15 years and mostly a fixed-rate or floating-rate. As it is securities, it is freely transferable. There are registered bonds, in which the issuer has a registry of who currently owns the bonds and bearer bonds, meaning that they are anonymous and whoever shows up with the paper gets the interest. Bonds normally repay the principal at the end of the period and interest once or at different times of the year. They might be quoted as &quot;Bond1 11/2 2010&quot; being a bond with 5.5% interest maturing 2010. Bonds are normally quoted at prices in relation to 100%, meanign that a bond valued at 95 is traded at 95% of face value.
+**Interest rate risk is something that can be managed specifically and also applies for equity investors. This should first bring us to bonds. These can be said to be a *securitised evidence of indebtedness*. They normally have maturities between 5 and 15 years and mostly a fixed-rate or floating-rate. As it is securities, it is freely transferable. There are registered bonds, in which the issuer has a registry of who currently owns the bonds and bearer bonds, meaning that they are anonymous and whoever shows up with the paper gets the interest. Bonds normally repay the principal at the end of the period and interest once or at different times of the year. They might be quoted as &quot;Bond1 11/2 2010&quot; being a bond with 5.5% interest maturing 2010. Bonds are normally quoted at prices in relation to 100%, meanign that a bond valued at 95 is traded at 95% of face value.
 
-&lt;b&gt;Duration&lt;/b&gt;
+**Duration**
 
 To quantify interest rate risk, you can use the measure of duration, introduced by F.R. Macaulay in 1938. In general you already have a coupon rate and mixed with the price and that coupon rate you get a yield to maturity which gives us the IRR of the bond. If the interest rates move, the fair return or YTM changes though and how much it changes depends on the sensitivty of the bond towards interest rates. This  is what duration measures. If your assets equal those of your liabilities and the duration of the both are the same, then your portfolio is immunised. This method can be applied to any know series of cash flows.
 

@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Some times at talk shows, the audience has to vote for something, and when I was watching one of these shows the other day I was surprised to see how many people had to put their wallet on their lap to reach for the voting device. A wallet. You know, one of those leathery things with your credit and debit cards and lots of receipts and your driver's license and such.
 
 
-&lt;!-- more --&gt;
+
 
 
 This got me thinking about the great mobile phone and technology-savvy world we live in. Shouldn't all they be putting down be a mobile phone or some other device? What are we doing with paper? I also have one of those wallets. There's lots of paper in it and VISA cards and other things. Couldn't I move this onto my Visor or better yet, onto my mobile phone?
@@ -32,7 +32,7 @@ The fourth method they talk about is mobile phone verification, which means you 
 
 Some things are starting to fall into place now. One thing that comes to mind is that all the receipts in my wallet would be in my phone. If the phone can sync with my desktop, via Bluetooth or the IR-port, then I could also import or print them there. The big picture is starting to get lot clearer now, and all of these options are viable. My wallet might be redundant in no time.
 
-If you take a look at the methods in last week's article (&lt;I&gt;Note: the article was published in two parts&lt;/I&gt;)  you will notice that only the first two will really require extensive changes in your mobile phone, as you will either need to install a chip card reader or alter the SIM card. I then remembered that Nokia actually announced a new phone for quarter 1 of 2002, the [6510](http://www.nokia.com/phones/6510/main_feat.html), which will have a mobile wallet installed. With this phone, your credit card information is simply stored on your SIM card. Interestingly enough there is, or was, a trial going on in Australia between VISA and Nokia with a server based wallet.
+If you take a look at the methods in last week's article (*Note: the article was published in two parts*)  you will notice that only the first two will really require extensive changes in your mobile phone, as you will either need to install a chip card reader or alter the SIM card. I then remembered that Nokia actually announced a new phone for quarter 1 of 2002, the [6510](http://www.nokia.com/phones/6510/main_feat.html), which will have a mobile wallet installed. With this phone, your credit card information is simply stored on your SIM card. Interestingly enough there is, or was, a trial going on in Australia between VISA and Nokia with a server based wallet.
 
 There are probably different factors influencing these two systems and one might be the perceived security, not to be confused with real security. While the server based wallet is probably as secure or even more secure than the SIM card based one, the general perception will be that you kind of want your credit card with you in your pocket. Storing it remotely might feel out of place for some people, and this is probably why Nokia chose the SIM card solution for the 6510.
 

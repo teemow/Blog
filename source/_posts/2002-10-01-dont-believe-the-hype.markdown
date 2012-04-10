@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Nokia recently released the Mediamaster 230 S, a set-top box which among other features offers Bluetooth supports and lets you synchronize images taken with a Nokia 7650 - or any other Bluetooth 1.1 phone that supports the OBEX object push profile. Just minutes after reading the announcement, I spotted the cries of an analyst writing that camera equipped phones will not succeed, mainly since standalone digital cameras will always deliver superior quality.
 
 
-&lt;!-- more --&gt;
+
 
 
 Allow me to be crystal clear on this one; this is just another example of the herd phenomenon, and I'm getting sick and tired of it. When mobile telecommunications were all the hype, they were ALL the hype. You rarely heard somebody say that things were getting out of hand until 3G licenses suddenly skyrocketed. Nowadays, mobile telecommunication is presumably all down the drain, and it seems that is all there is to say about that. 3G will be a failure. Digital cameras are better than the ones integrated into phones. MMS is too expensive. E-Mails are too hard to type.

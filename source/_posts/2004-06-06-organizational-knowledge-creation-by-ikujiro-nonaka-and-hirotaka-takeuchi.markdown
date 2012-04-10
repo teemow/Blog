@@ -11,7 +11,7 @@ author: Oliver Thylmann
 The cartesian split gave birth to the organization as a mechanism for information processing. The problem is that when organizations innovate, they actually create new knowledge, from the inside out. This article looks at both epistemology (theory of knowledge) and ontology (levels of knowledge-creating entities). It also looks at four modes: socialization, externalization, combination and internatization.
 
 
-&lt;!-- more --&gt;
+
 
 
 Knowlede is about beliefs and commitment as well as about action and meaning. It's context specific and relational. Knowledge is about &quot;a dynamic human process of justifying personal belief toward the truth&quot; (heavy eh? ;)).

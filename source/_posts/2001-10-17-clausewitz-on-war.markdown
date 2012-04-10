@@ -12,7 +12,7 @@ Well, I thought we are at war now, kind of, so I should educate myself a bit on 
 
 But I figure quoting amazon will once again be easiest to explain the book I haven't read yet ;)
 
-&lt;I&gt;On War is the most significant attempt in Western history to understand war, both in its internal dynamics and as an instrument of policy. Since the work's first appearance in 1832, it has been read throughout the world, and has stimulated generations of soldiers, statesmen, and intellectuals. &lt;/I&gt;
+*On War is the most significant attempt in Western history to understand war, both in its internal dynamics and as an instrument of policy. Since the work's first appearance in 1832, it has been read throughout the world, and has stimulated generations of soldiers, statesmen, and intellectuals. *
 
 Get it [here](http://www.amazon.com/exec/obidos/ASIN/0691018545/bizkiffer-20).
 

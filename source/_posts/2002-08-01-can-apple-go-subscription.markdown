@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on OS News) Many companies are trying to move to a subscription model for their software and Apple really has something going for them in that respect if you think about it. We, OS X Users, are already accustomed to the automatic updating of the OS and like it. dotMAC actually looks nice all in all, even if some might feel it is expensive. What people don't like is unpredictability; they have nothing against change as long as they like the outcome and know where it is going.
 
 
-&lt;!-- more --&gt;
+
 
 
 What some people really feel surprised about is that Apple is taking big bucks for the Jaguar release of OS X and they want money for dotMAC on top of that. Where is this going in the future? Can we not trust anything to be part of the Apple package we have grown to like in the future? iTunes 3 was advertised to be free as if this would be out of the ordinary and while it might be in the general software world out there, it's likely not in the eye of OS X users. The iApps are part of our OS X experience and while iCal is free, the synchronization features with other people need a dotMAC account, giving non dotMAC users nothing more than a crippled iCal. 

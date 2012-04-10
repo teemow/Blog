@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-I just read that (Paul) Newman's Own Inc. is delivering a salad sauce to McDonald (&lt;a title=&quot;Yahoo! Nachrichten - Kino-Nachrichten - Paul Newman beliefert McDonald's mit Salatsaucen&quot; href=&quot;http://de.news.yahoo.com/030311/286/3c44z.html&quot;&gt;Yahoo! Nachrichten - Kino-Nachrichten - Paul Newman beliefert McDonald's mit Salatsaucen&lt;/a&gt;) The interesting thing here is rather about Newman's Own. Two slogans/quotes on the front page tell a good story:
+I just read that (Paul) Newman's Own Inc. is delivering a salad sauce to McDonald (&lt;a title=&quot;Yahoo! Nachrichten - Kino-Nachrichten - Paul Newman beliefert McDonald's mit Salatsaucen&quot; href=&quot;http://de.news.yahoo.com/030311/286/3c44z.html&quot;&gt;Yahoo! Nachrichten - Kino-Nachrichten - Paul Newman beliefert McDonald's mit Salatsaucen) The interesting thing here is rather about Newman's Own. Two slogans/quotes on the front page tell a good story:
 
 - Shameless Exploitation In Pursuit Of The Common Good
 - It Started As A Joke And Got Out Of Control. - Paul Newman

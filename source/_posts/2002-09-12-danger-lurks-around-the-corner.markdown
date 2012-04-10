@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Some months ago, when I visited Danger.com, the site still had a flash animation explaining that Danger was just arround the corner - and it still is. That is, it's not here yet, but based on reports trickling in, Danger is peeking around that corner and readying itself to take center stage.
 
 
-&lt;!-- more --&gt;
+
 
 
 With review devices still being a scarce resource, I dug arround to find out how the device works, what it can do and how Danger is integrating and using their backend to make it all work. After completing the digging, I noticed that I'm getting more interested and not less, which of course is a good sign.

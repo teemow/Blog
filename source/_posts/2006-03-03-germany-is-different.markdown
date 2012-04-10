@@ -18,10 +18,10 @@ I mean Wal-Mart came here with their strategy of huge mega stores with cheap stu
 Dell actually has a similar problem for all I know. They are gaining in the corporate sector but cheap PCs for the average Joe are around the corner here. I am telling people that for a Laptop, if they don't take an Apple, they should take Dell, because there a real brand behind it helps. But for standard PCs, you can just as well go to Aldi, which will guy a few hundred thousand Medion PCs and sell them cheap every once in a while.
 
 It again proves that you need a really different value proposition in your target market to succeed and Wal-Mart and partly Dell, just don't cut it. Dell could be gaining at the moment though, so don't take my word for granted. I just know Dell exchanged their German head several times already in the past.
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Aldi&quot;&gt;Aldi&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Dell&quot;&gt;Dell&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Lidl&quot;&gt;Lidl&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Wal-Mart&quot;&gt;Wal-Mart&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

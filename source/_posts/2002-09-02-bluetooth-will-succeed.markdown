@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Why am I making such a blunt statement, you ask? Because I just installed Jaguar, the newest version of Apple&amp;rsquo;s OS X operating system. Right about now, many of you are likely to ask yourself what the heck I'm talking about and what it has to do with Bluetooth - so let's take a step back and start at the beginning.
 
 
-&lt;!-- more --&gt;
+
 
 
 FireWire transfers data at up to 400 Mbps, which means that it delivers more than 30 times the bandwidth of the popular USB standard. Apple has built FireWire into every computer they sell because they believed it would succeed - and it did. You can now buy a multitude of devices that connect through FireWire such as external harddisks or video Cameras. Apple believed in it, Apple added it, Apple helped make it a standard, and FireWire succeeded.

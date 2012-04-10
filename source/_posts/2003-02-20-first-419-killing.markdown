@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-The Register &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/6/29410.html&quot;&gt;reports&lt;/a&gt; the possible first 419 killing. Killing is not nice, no really, but this is the first one ever that made me laugh :)
+The Register &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/6/29410.html&quot;&gt;reports the possible first 419 killing. Killing is not nice, no really, but this is the first one ever that made me laugh :)
 
 

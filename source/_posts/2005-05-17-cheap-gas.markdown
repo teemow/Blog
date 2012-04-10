@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-This time its Google Maps with gasbuddy and the result is: &lt;a title=&quot;Cheap Gas&quot; href=&quot;http://www.ahding.com/cheapgas/&quot;&gt;Cheap Gas&lt;/a&gt;.
+This time its Google Maps with gasbuddy and the result is: &lt;a title=&quot;Cheap Gas&quot; href=&quot;http://www.ahding.com/cheapgas/&quot;&gt;Cheap Gas.
 
 

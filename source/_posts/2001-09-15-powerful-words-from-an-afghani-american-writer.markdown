@@ -12,7 +12,7 @@ The full post can be found here: http://boards.fool.com/Message.asp?mid=15746682
 
 For some short quotes to give you an idea:
 
-&lt;I&gt;[...]
+*[...]
 
 We come now to the question of bombing Afghanistan back to the Stone
 Age. Trouble is, that's been done. The Soviets took care of it
@@ -38,6 +38,6 @@ view. He's probably wrong, in the end the west would win, whatever
 that would mean, but the war would last for years and millions would
 die, not just theirs but ours. Who has the belly for that? Bin Laden
 does. Anyone else?
-&lt;/I&gt;
+*
 
 

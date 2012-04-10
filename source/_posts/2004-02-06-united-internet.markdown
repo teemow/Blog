@@ -12,6 +12,6 @@ I am actually starting to think a bit more about [United Internet](http://www.un
 
 They are valued relatively highly ([stock quote](http://aktien.onvista.de/snapshot.html?ID_OSI=81232)) but then again they didn't really push into other countries too hard yet. Thinking.
 
-&lt;b&gt;Update:&lt;/b&gt; United Internet just opened up [Alturo.de](http://www.alturo.de/) as a low end web host for self serve customers. 40 EURs per month get you your own server, with full root access, mysql, php, the works, inclusive 150 GB of traffic. It makes you wonder how they pay for it.
+**Update:** United Internet just opened up [Alturo.de](http://www.alturo.de/) as a low end web host for self serve customers. 40 EURs per month get you your own server, with full root access, mysql, php, the works, inclusive 150 GB of traffic. It makes you wonder how they pay for it.
 
 

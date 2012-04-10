@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 I just read this on the TMF discussion boards:
 
-&lt;I&gt;&quot;Negotiations In Israel&quot;
+*&quot;Negotiations In Israel&quot;
 
 
 The Prime Minister of Israel sits down with Arafat
@@ -37,5 +37,5 @@ of the water, he found that all his clothing was missing.
 no Palestinians during the time of Moses!&quot;
 
 &quot;All right,&quot; replies the Prime Minister, &quot;Now that we've got
-that settled, let's begin our negotiations.&quot;&lt;/I&gt;
+that settled, let's begin our negotiations.&quot;*
 

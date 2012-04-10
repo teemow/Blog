@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally pubished on OSNews) Operating systems are all the hype in the PC world and lots of companies want to get a good market share within the wireless space, especially in the new smartphone category. Microsoft is pushing their [Smart Phone](http://www.microsoft.com/mobile/phones/default.asp) operating system, [Danger](http://www.danger.com/) has developed a new OS for their Hiptop, [Palm](http://www.palmos.com/) is throwing theirs into the playing field and of course there is [Symbian](http://www.symbian.com/). Developers have a lot to choose from.
 
 
-&lt;!-- more --&gt;
+
 
 
 First, what is so special about these operating systems? The main thing here is that they are designed to run on mobile phones, powerful mobile phones but still mobile phones. In a sense, they are smaller PDAs. They are smaller, have less screen space, less memory and less CPU power. They also need wireless capabilities and mobile phone manufacturers want to be able to differentiate themselves from the competition. The operating system needs to support things like Bluetooth, WAP, EMS, MMS, SyncML, IPv6, W-CDMA, GPRS, GSM, HSCSD and probably a lot more. All that with the least memory and CPU power possible. 

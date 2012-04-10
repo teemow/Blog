@@ -14,7 +14,7 @@ Frank Bajak from AP has a great article you can see [here](http://story.news.yah
 
 In relation to blogging and rss, M&amp;A has arrived in the field with [Tocows acquirering BlogRolling.com](http://biz.yahoo.com/prnews/040227/nyf090_1.html)! 
 
-&lt;I&gt;BlogRolling.com presently tracks over 500,000 weblog links for more than 32,000 users. Each day BlogRolling.com serves over 1.5 million blogrolls to users of all major weblog platforms. BlogRolling.com is a blogroll management service; a list of links that a website or weblog owner can include in their web pages as a public list of bookmarks.&lt;/I&gt;
+*BlogRolling.com presently tracks over 500,000 weblog links for more than 32,000 users. Each day BlogRolling.com serves over 1.5 million blogrolls to users of all major weblog platforms. BlogRolling.com is a blogroll management service; a list of links that a website or weblog owner can include in their web pages as a public list of bookmarks.*
 
 I am personally publishing my blogroll via [Bloglines](http://www.bloglines.com/), which I use as my aggregator anyway.
 

@@ -14,25 +14,25 @@ I started reading the first 10 pages of &quot;[Carl von Clausewitz's On War](htt
 
 2. War is an act of aggression to force the enemy to fulfill your will. Physical force is the act while forcing your will on your enemy is the purpose. To achieve this purpose we need to make the enemy defenseless, which is the real goal.
 
-&lt;I&gt;I think this can very well be seen in what we currenty see happening in Afghanistan. The USA want bin laden, which is the will they have and for this purpose they try to convince the enemy and at the end are using force in the goal to make Afghanistan defenseless.&lt;/I&gt;
+*I think this can very well be seen in what we currenty see happening in Afghanistan. The USA want bin laden, which is the will they have and for this purpose they try to convince the enemy and at the end are using force in the goal to make Afghanistan defenseless.*
 
 3. With dangerous things like war, the mistakes which come from good nature are the worst and most severe. In general each opponent will use force to try to overpower the enemy especially if that enemy does not use force which will lead to a situation where the enemy will be bound to reply with more force. This can lead to the most extreme.
 
 4. The goal is to make the enemy defenseless. This can either be a real state of helplessness or defenselessness or a state where the likelyhood of this happening is high. We need this to happen to force our will onto our enemy. We need to put our enemy into a state where this state is worse then what we request from our enemy.
 
-&lt;I&gt;There we can see how important bin Laden is for them. The state that Afghanistan is currently in can be considered very bad but they still seem to feel that giving bin Laden up is a worse thing.&lt;/I&gt;
+*There we can see how important bin Laden is for them. The state that Afghanistan is currently in can be considered very bad but they still seem to feel that giving bin Laden up is a worse thing.*
 
 5. The resistance by our enemy can be calculated by the product of the size of means and the power of his will.
 
-&lt;I&gt;Here the will is Afghanistans greatest asset. But this also shows why the US needs to be so clear of what they are saying and doing. They need to show this power of will.&lt;/I&gt;
+*Here the will is Afghanistans greatest asset. But this also shows why the US needs to be so clear of what they are saying and doing. They need to show this power of will.*
 
 6. This needs to be modified a bit in reality as there are a lot of things playing into this so that we will most likely not reach the extreme in force, total defenselessness of our enemy or the over powerful resistance. 
 
-&lt;I&gt;This is shown in the complicated picture we have at the moment in all of this. And our enemy will never be 100% gone.&lt;/I&gt;
+*This is shown in the complicated picture we have at the moment in all of this. And our enemy will never be 100% gone.*
 
 7. War is not an isolated act. As we are always far from achieving the absolute best and there will be several faults on both sides all this will lead to a moderation of the pinciple.
 
-&lt;I&gt;We cannot just do something and pretend it will not have an effect on something else.&lt;/I&gt;
+*We cannot just do something and pretend it will not have an effect on something else.*
 
 8. This is not one hit without interruption.
 
@@ -42,11 +42,11 @@ I started reading the first 10 pages of &quot;[Carl von Clausewitz's On War](htt
 
 11. Here the political purpose comes back in. We lost this a bit out of sight due to the goal of making our enemy defenseless. The real purpose is political and it becomes important if we are dealing with probabilities. The smaller our political purpose, the smaller will be the value we place on it and the smaller will be our efforts. The political purpose is not a fixed measure though. There can be a very small political motiv but so much tension between two states that extreme things can happen.
 
-&lt;I&gt;see Israel - Palestinia conflict here.&lt;/I&gt;
+*see Israel - Palestinia conflict here.*
 
 Sometimes the political purpose will not be able to be the goal of the act of war and sometimes what drives the act of war needs to be a lot greater than the political purpose.
 
-&lt;I&gt;Our political purpose is ending terror if you want to put it like this and the act of war against Afghanistan is something else really. It also possibly needs a bigger driver such as wanting to get bin Laden to justice. Could be argued about but it makes you think.&lt;/I&gt;
+*Our political purpose is ending terror if you want to put it like this and the act of war against Afghanistan is something else really. It also possibly needs a bigger driver such as wanting to get bin Laden to justice. Could be argued about but it makes you think.*
 
 12/13 There is only one thing which can halt the act of war which is waiting on a good point in time to act.
 
@@ -72,9 +72,9 @@ Sometimes the political purpose will not be able to be the goal of the act of wa
 
 24. The act of war is a simple extension of politics with other means.
 
-25. &lt;b&gt;The bigger and more powerful the motives of the war, the more they revolve about the life and living of a population, the more aggressive the tensions are that are before the war,... the more the act of war will take an abstract form and will be about putting the enemy to the ground, the more the act of war itself and the political purpose will fall together and the more martially and the less polical the war will seem to be.&lt;/b&gt;
+25. **The bigger and more powerful the motives of the war, the more they revolve about the life and living of a population, the more aggressive the tensions are that are before the war,... the more the act of war will take an abstract form and will be about putting the enemy to the ground, the more the act of war itself and the political purpose will fall together and the more martially and the less polical the war will seem to be.**
 
-&lt;I&gt;This fits fairly well to the current situation. Sadly both to the US and the Taleban if you really think about it.&lt;/I&gt;
+*This fits fairly well to the current situation. Sadly both to the US and the Taleban if you really think about it.*
 
 26. War can be seen as a political act.
 

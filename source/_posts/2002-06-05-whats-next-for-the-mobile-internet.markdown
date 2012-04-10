@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on [ title=&quot;Motley Fool&quot;&gt;Motley Fool](http://www.fool.com/portfolios/RuleMaker/2002/rulemaker020605.htm)) If you listen to some pundits today, you will hear something that would have seemed impossible two years ago: &quot;Wireless is dead.&quot; Others are saying, more plausibly, that we are just undergoing a major shift from voice to data, that the market is extremely uncertain as a result. While I doubt that past predictions that we will all be sending gigabytes of video around on wireless networks will come true, I can tell you why I believe we are at a very big shift, even though it is a lot less spectacular than people were anticipating two years ago. This is not a bad thing. In other words, I do not believe at all that the mobile communications industry is in trouble.
 
 
-&lt;!-- more --&gt;
+
 
 
 There are two drivers for change over the near term: More powerful networks and more powerful devices are coming. And I don't mean in three years. I mean now. These improvements portend a potential rebound among the leading companies in the sector. Let's break these trends down a little.

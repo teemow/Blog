@@ -20,7 +20,7 @@ More or less explicit like work objectives and if you should stay until a job is
 This includes the expectations set forth by the above contracts as well as the wider picture, unspoken expectations. These might be taken for granted, only seen when they are broken or hard to discuss.
 
 
-&lt;!-- more --&gt;
+
 
 
 What employees see as more and more important is that they have to believe that they are treated fairly. There are several parts here.

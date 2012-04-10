@@ -17,7 +17,7 @@ Argyris believes that major changes programs are rife with inner contradictions.
 In the end, this means you are defining employee actions from the outside and the resulting behaviour cannot be empowering and liberating. You get a &quot;do your own thing - the way we tell you&quot; system.
 
 
-&lt;!-- more --&gt;
+
 
 
 CEOs generally undermine empowerment as they link empowerment with tight job requirements and controlled processes. Argyris argues this does not lead to an environment that is empowering but one that is foolproof. Often champions are appointed but the employee will see that person as somebody who wants to sell the empowerment to them, top down, where they would come themselves if they were internally committed. 

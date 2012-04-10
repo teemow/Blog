@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;dodo&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/5018048_94c7e46c9b_m.jpg&quot; alt=&quot;dodo&quot; /&gt;](http://www.flickr.com/photos/oliver/5018048/)&lt;p&gt;Survival of the fittest applicable in business?&lt;/p&gt;
+[ title=&quot;dodo&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/5018048_94c7e46c9b_m.jpg&quot; alt=&quot;dodo&quot; /&gt;](http://www.flickr.com/photos/oliver/5018048/)Survival of the fittest applicable in business?
 
 

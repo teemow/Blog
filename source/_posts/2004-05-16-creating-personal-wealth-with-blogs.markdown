@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Currently the discussion is going on how to make money with blogs and I do believe the discussion is flawed. First of all, we have to remove from the discussion group blogs or subject focussed blogs that have been launched partly to make money. They have a standard problem like any media company has and they are just using a blogging tool as their content management system. This is not what this should be about...
 
 
-&lt;!-- more --&gt;
+
 
 
 What I am talking about is the standard blogs, by people, by groups, as a labor of love, of dedication. These that don't want to be a media company, those that don't want to go managing their cash flow. For those, there is a lot broader of a picture.

@@ -8,12 +8,12 @@ author: Oliver Thylmann
 ---
 
 
-Doc Searls and David Weinberger have just published &lt;a title=&quot;World of Ends&quot; href=&quot;http://www.worldofends.com/&quot;&gt;World of Ends&lt;/a&gt;. To quote Doc: &quot;&lt;I&gt;The idea is to help save dumb companies (and whole industries) from wasting their money and our time by failing to grok what the Net is fundamentally about.&lt;/i&gt;. And from the article: &lt;I&gt;We can end the tragedy of Repetitive Mistake Syndrome in our lifetimes — and save a few trillion dollars’ worth of dumb decisions — if we can just remember one simple fact: the Net is a world of ends. You're at one end, and everybody and everything else are at the other ends.&lt;/I&gt; Lots of people will argue that this is overly simplistic and hence, cannot be proved to be wrong. Sometimes it boils down to simple things though.
+Doc Searls and David Weinberger have just published &lt;a title=&quot;World of Ends&quot; href=&quot;http://www.worldofends.com/&quot;&gt;World of Ends. To quote Doc: &quot;*The idea is to help save dumb companies (and whole industries) from wasting their money and our time by failing to grok what the Net is fundamentally about.*. And from the article: *We can end the tragedy of Repetitive Mistake Syndrome in our lifetimes — and save a few trillion dollars’ worth of dumb decisions — if we can just remember one simple fact: the Net is a world of ends. You're at one end, and everybody and everything else are at the other ends.* Lots of people will argue that this is overly simplistic and hence, cannot be proved to be wrong. Sometimes it boils down to simple things though.
 
 Some comments follow.
 
 
-&lt;!-- more --&gt;
+
 
 
 Ok, I will try to give some feedback here. The discussion might be interesting and it's likely very important for wireless.

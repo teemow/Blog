@@ -22,7 +22,7 @@ There you can register and get your developer ID and actually build a nice REST 
 Here is my query:
 
 &lt;code&gt; &lt;/code&gt;
-&lt;pre&gt;http://xml-us.amznxslt.com/onca/xml?Service=AWSECommerceService
+http://xml-us.amznxslt.com/onca/xml?Service=AWSECommerceService
 &amp;Version=2005-03-23
 &amp;Operation=ListLookup
 &amp;Style=http%3A%2F%2Fthylmann.net%2Fmy-wishlist%2Famazon.xslt
@@ -33,19 +33,19 @@ Here is my query:
 &amp;Condition=All
 &amp;DeliveryMethod=Ship
 &amp;ResponseGroup=Images%2CSmall
-&amp;Sort=LastUpdated&lt;/pre&gt;
+&amp;Sort=LastUpdated
 That gives me a lookup of a specific wishlist, returning text/html, including images and a description, ordered by last updated. It would be nice to be ordering by rating but that did not seem to be there.
 
-You see one interesting item in there, which is &lt;em&gt;Style&lt;/em&gt;. There another URL can be found:
+You see one interesting item in there, which is *Style*. There another URL can be found:
 
-&lt;em&gt;http://thylmann.net/my-wishlist/amazon.xslt&lt;/em&gt;
+*http://thylmann.net/my-wishlist/amazon.xslt*
 
 This is a relatively simple XSLT file that turn the output I get into anything I want, server side, by AWS. Very handy indeed. These together already give me a small box in the standard size of an AdSense ad, configurable in design, with the 4 items I have in my Wishlist over there.
 
 Next comes PHP, which mangles what comes out of there a bit, because what I really need is an output in kind of Javascript. One thing that is important is that the output HTML needs to be all in one line, without ' or it will not return anything.
 
 &lt;code&gt; &lt;/code&gt;
-&lt;pre&gt;? print &quot;document.write('&quot;;
+? print &quot;document.write('&quot;;
 $string = fopen(&quot;the above url&quot;, &quot;r&quot;);
 // now I replace both linebreaks and '
 while (!feof($string)) {
@@ -56,14 +56,14 @@ echo $say2;
 }
 fclose($string);
 print &quot;');&quot;;
-?&lt;/pre&gt;
+?
 What does that give me? It produces the following output, which I can theoretically add as my default AdSense ad, built from my Wishlist, configurable in CSS, and with the stuff automatically going to the right address if somebody chooses to send them around. :)
 
 Comment: The Sigma Lense and Lowepro is already communicated to other people, so I am very sorry for my readers that they will only be able to give me the other two items if they are so inclined ;)
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/AdSense&quot;&gt;AdSense&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Advertising&quot;&gt;Advertising&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Amazon&quot;&gt;Amazon&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/AWS&quot;&gt;AWS&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/XSLT&quot;&gt;XSLT&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

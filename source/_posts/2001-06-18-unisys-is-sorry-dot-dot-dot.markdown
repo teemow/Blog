@@ -12,7 +12,7 @@ Well it seems, Unisys is sorry. Really sorry for inventing the UNIVAC 1 in 1951.
 
 http://biz.yahoo.com/bw/010614/2170.html
 
-&lt;I&gt;Specifically, Unisys apologized for:
+*Specifically, Unisys apologized for:
 
 *Making it impossible for anyone to do more than five minutes' worth of work without being interrupted by an emailed joke, Top Ten list, or chain letter.
 
@@ -64,6 +64,6 @@ http://biz.yahoo.com/bw/010614/2170.html
 
 *The concept of multitasking.
 
-*The avalanche of press releases that any company with a media directory and access to email can now generate at a moment's notice.&lt;/I&gt;
+*The avalanche of press releases that any company with a media directory and access to email can now generate at a moment's notice.*
 
 

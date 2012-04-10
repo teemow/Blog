@@ -12,7 +12,7 @@ author: Oliver Thylmann
 them correctly? Ask yourself if you are really using them for the statistics or if you just want to get some fresh visitors to your site?
 
 
-&lt;!-- more --&gt;
+
 
 
 You might be looking at adult counters in the totally wrong way. Running four statistics services on the net, two of which are in the adult arena, we have learned that there is a lot of interest in the site list part of these counters rather than on the statistics part. What I will try to do here is give you a bit more inside on what you can really learn from the statistics you get, if you understand them. 

@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;I&gt;Search the major engines besides Google in one search&lt;/I&gt; :) &lt;a title=&quot;Ungoogle Metasearch&quot; href=&quot;http://www.sherlockhound.com/ungoogle.htm&quot;&gt;Ungoogle Metasearch&lt;/a&gt;
+*Search the major engines besides Google in one search* :) &lt;a title=&quot;Ungoogle Metasearch&quot; href=&quot;http://www.sherlockhound.com/ungoogle.htm&quot;&gt;Ungoogle Metasearch
 
 

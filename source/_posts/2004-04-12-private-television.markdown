@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This is actually about another article in [Brand Eins](http://www.brandeins.de/). 20 years ago, nobody believed in private television in Germany and the RTL Chief Dieter Thoma was happpy that the screen was filled and had moving colours. The good thing was that ad-spots in public TV were so filled up that the private TV stations were removing the artificial scarcity of that resource. Today, 20% of advertising money goes to TV and 90% of that ggoes to the private channels (print is at 40%). RTL made 1.3 billion USD in 2002 in advertising. 12000 fixed and 4500 free employees work at private TV stations, excluding all the content providers.
 
 
-&lt;!-- more --&gt;
+
 
 
 If you placed 6 spots on ARD and ZDF in the 70s you had a read of 70%, while today you will only get 50% when doing the same through all channels. Statistically viewers switch channels 63 times a day.

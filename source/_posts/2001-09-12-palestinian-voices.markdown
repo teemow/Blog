@@ -13,8 +13,8 @@ Reuters published a story about [Arafat donating blood](http://us.news2.yimg.com
 
 It includes some quotes from Palestinians. Here is one I think is important.
 
-&lt;I&gt;``We the Palestinians are human beings and we don't celebrate when others are mourning,' 42-year-old housewife Amal Qassem told Reuters from Bethlehem.
+*``We the Palestinians are human beings and we don't celebrate when others are mourning,' 42-year-old housewife Amal Qassem told Reuters from Bethlehem.
 
-``Although Israel hits us every day with American Apache helicopters and uses American weapons to kill our people, we send our condolences to the families of the victims,' she said.&lt;/I&gt;
+``Although Israel hits us every day with American Apache helicopters and uses American weapons to kill our people, we send our condolences to the families of the victims,' she said.*
 
 

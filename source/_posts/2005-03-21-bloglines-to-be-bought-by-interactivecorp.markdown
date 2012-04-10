@@ -8,15 +8,15 @@ author: Oliver Thylmann
 ---
 
 
-&lt;p&gt;Ok, not really, but [it seems](http://news.com.com/Ask Jeeves to be bought for 2 billion/2100-1030_3-5627679.html?tag=nefd.top) that [InterActivecorp](http://www.iac.com/), who own Hotwire.com, Expedia, match.com, Citysearch, LendingTree and more ... will buy Ask Jeeves for close to $2 billion. As Ask Jeeves has just [bought Bloglines](http://blog.thylmann.net/2005/02/ask_bloglines.html), not Bloglines belongs to InterActiveCorp, unless they have some clause that they can get out again which I doubt. InterActiveCorp does seem to be a bad mother of a company though.&lt;/p&gt;
+Ok, not really, but [it seems](http://news.com.com/Ask Jeeves to be bought for 2 billion/2100-1030_3-5627679.html?tag=nefd.top) that [InterActivecorp](http://www.iac.com/), who own Hotwire.com, Expedia, match.com, Citysearch, LendingTree and more ... will buy Ask Jeeves for close to $2 billion. As Ask Jeeves has just [bought Bloglines](http://blog.thylmann.net/2005/02/ask_bloglines.html), not Bloglines belongs to InterActiveCorp, unless they have some clause that they can get out again which I doubt. InterActiveCorp does seem to be a bad mother of a company though.
 
-&lt;p&gt;Update: John [wrote up his thoughts](http://battellemedia.com/archives/001338.php) and he includes an interview with Barry Diller, Chairman and CEO of IAC. Very nice post and some very nice quotes especially this one about the border between the web and traditional media getting blurry:&lt;/p&gt;
+Update: John [wrote up his thoughts](http://battellemedia.com/archives/001338.php) and he includes an interview with Barry Diller, Chairman and CEO of IAC. Very nice post and some very nice quotes especially this one about the border between the web and traditional media getting blurry:
 
-&lt;p&gt;&lt;em&gt;Yes. There's no question but that the Internet is going to change the
+*Yes. There's no question but that the Internet is going to change the
 way entertainment products are distributed. The first popular piece of
-this is the digital video recorder. That's a profound change. &lt;strong&gt;It proves
-that the 500-channel universe was interim technology.&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+this is the digital video recorder. That's a profound change. **It proves
+that the 500-channel universe was interim technology.*****&amp;nbsp;**
 
-&lt;p&gt;Big... big ... big ... true. Point. Done. Thank you. Please carry on.&lt;br /&gt; &lt;/p&gt;
+Big... big ... big ... true. Point. Done. Thank you. Please carry on. 
 
 

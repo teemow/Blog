@@ -11,7 +11,7 @@ author: Oliver Thylmann
 A plan will detail the expected outputs during a specific time and there are long-term (5-10 years, aggregate capacity plan), medium-term (2-5 years, making resources available to meet long-term plan, resources are mostly inflexible), short-term (1-2 years, priorities need changing due to unexpected things)
 
 
-&lt;!-- more --&gt;
+
 
 
 Operations planning = acquire and manage resources needed for the future

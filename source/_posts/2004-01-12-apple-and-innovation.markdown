@@ -8,10 +8,10 @@ author: Oliver Thylmann
 ---
 
 
-FastCompany has a very good article about innovation at Apple entitled: [&lt;i&gt;If He's So Smart...Steve Jobs, Apple, and the Limits of Innovation&lt;/i&gt;](http://www.fastcompany.com/magazine/78/jobs.html). What they are talking about is that Apple is a very very innovative company, but their innovation runs mostly in terms of technology, new products, which on its own does not create economic value. As Apple is so innovative, by normal standards, Apple should be amazingly profitable and huge, but they are not.
+FastCompany has a very good article about innovation at Apple entitled: [*If He's So Smart...Steve Jobs, Apple, and the Limits of Innovation*](http://www.fastcompany.com/magazine/78/jobs.html). What they are talking about is that Apple is a very very innovative company, but their innovation runs mostly in terms of technology, new products, which on its own does not create economic value. As Apple is so innovative, by normal standards, Apple should be amazingly profitable and huge, but they are not.
 
 
-&lt;!-- more --&gt;
+
 
 
 In general they are correct but I have to admit that Apple seems to be going the right way in many ways in attracting the niche they are targetting. Yes, they only have a small market share, but that market share works. They control the entire idea of owning a Mac and that's what they need. By controlling the entire value chain, especially the part touched by the consumer, they can make sure that they get a good experience. Yes, Microsoft is very profitable, but people hate the products they build (in a lot of cases, and at least in relation to Apple, so no flames please ;)).

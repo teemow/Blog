@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Tighter controls have often resulted in greater resistance and from a behavioural perspective, management controlling should be seen as a social process that has interactive parts and can have negative effects. This book will focus on the behavioural aspect. Some targets and controls are motivating while others de-motivate which makes it important to try to understand why they go each way.
 
 
-&lt;!-- more --&gt;
+
 
 
 Controlling refers to ensuring conformity with plans and targets:

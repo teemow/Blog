@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally Published on infoSync) Woohooo... buzz word attack! In the red corner, Instant Messaging (IM) with the likes of ICQ, AIM and MSN Messenger; all having turned into amazing success stories on the Desktop. Mirabilis, the Israeli company that brought us the first of them all, ICQ, ended up being bought by AOL in 1998, only 12 months after founding, for over 280 million USD - in cash, not counting the additional performance incentives!
 
 
-&lt;!-- more --&gt;
+
 
 
 In the black corner, Multimedia messaging (MMS), the next wave in data communications over wireless networks, replacing SMS as the next messaging standard (you can read more about MMS [here](http://www.infosync.no/show.php?id=1301)). The Register recently [revealed](http://www.theregister.co.uk/content/4/24190.html) that Nokia charges $6.3 million USD for an MMS server capable of handling 10,000 users. The messaging is where the money is. Welcome to the next big wireless fight.

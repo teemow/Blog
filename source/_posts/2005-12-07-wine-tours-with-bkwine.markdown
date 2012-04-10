@@ -11,10 +11,10 @@ author: Oliver Thylmann
 
 
 I met Per at Les Blogs and just checked out his site [BKWine](http://www.bkwine.com/international/in_english.htm). He and his wife are organizing wine tours, mostly in france and some are coming up again soon. If you are into wine and want to learn more about french wines than this might be a really good trip for you.
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/BKWine&quot;&gt;BKWine&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Wine&quot;&gt;Wine&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

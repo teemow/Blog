@@ -8,10 +8,10 @@ author: Oliver Thylmann
 ---
 
 
-It's out; Cahners In-Stat Group announced that they are sticking by their forecasts of 13 million shipments of Bluetooth chips which might surprise some - but I'm not. Why? (&lt;I&gt;Originally published on infoSync&lt;/I&gt;)
+It's out; Cahners In-Stat Group announced that they are sticking by their forecasts of 13 million shipments of Bluetooth chips which might surprise some - but I'm not. Why? (*Originally published on infoSync*)
 
 
-&lt;!-- more --&gt;
+
 
 
 First let's take a closer look at the amazing myth that 802.11b will directly compete with Bluetooth. I have an 802.11b card in my laptop and believe it or not, my battery time decreases by 30% or more when I use it. That's just to tell you that 802.11b is something that consumes a lot of power. It is also very powerful in that you can set up wonderful high bandwidth connection between computers and very easily set up a network in your home (like me) or office. It's for networking.
@@ -22,23 +22,23 @@ With the above short paragraph I hope I have moved the &quot;802.11b will kill B
 
 As of the [Bluetooth SIG](http://www.bluetooth.com/) there are already [443 qualified Bluetooth](http://qualweb.opengroup.org/Template.cfm?LinkQualified=QualifiedProducts) products. Just to give you a small idea of the list, here are a few products by the better known companies.
 
-&lt;ul&gt;
-&lt;li&gt;3COM Corporation: Bluetooth card and USB Hub&lt;/li&gt;
-&lt;li&gt;Compaq Computer Corporation: Compaq iPAQ H3870 Pocket PC with Integrated Bluetooth, Bluetooth Multiport Module
-&lt;li&gt;Ericsson Mobile Communications AB: Headset, Phone Adapter, R520m(c), Development Kit, T39m(c) and T68m(c)&lt;/li&gt;
-&lt;li&gt;Fujitsu Limited: Wireless Modem Access Point, PCMCIA Card, FMV-Biblo NE6/650W laptop, Lifebook B-2547&lt;/li&gt;
-&lt;li&gt;Hitachi Ltd.: Flora 220FX personal computer and FLORA 270HX notebook personal computer&lt;/li&gt;
-&lt;li&gt;IBM Corporation: PC-Card, Ultraport Module, PC Card II&lt;/li&gt;
-&lt;li&gt;Microsoft: Bluetooth Stack for Windows CE&lt;/li&gt;
-&lt;li&gt;Motorola: Timeport 270, Mini PCI Card, PC Card, Speaker Mic, USB Adapter, Clip-on Accessory, Phone Module&lt;/li&gt;
-&lt;li&gt;NEC Corporation: several personal computers&lt;/li&gt;
-&lt;li&gt;Nokia: Connectivity Battery, Connectivity Card&lt;/li&gt;
-&lt;li&gt;Palm: Bluetooth stack for Palm OS&lt;/li&gt;
-&lt;li&gt;Sharp Corporation: several mobile phones, wireless headset&lt;/li&gt;
-&lt;li&gt;Siemens AG: USB Dongle, MPI-ADapter, Stand Alone System, LAN Access Point&lt;/li&gt;
-&lt;li&gt;Sony Corporation: Several notebooks, cdmaOne C413S mobile phone, modem adapter&lt;/li&gt;
-&lt;li&gt;TDK Systems Europe Ltd.: USB Adapters and PC-Cards&lt;/li&gt;
-&lt;/ul&gt;
+
+* 3COM Corporation: Bluetooth card and USB Hub
+* Compaq Computer Corporation: Compaq iPAQ H3870 Pocket PC with Integrated Bluetooth, Bluetooth Multiport Module
+* Ericsson Mobile Communications AB: Headset, Phone Adapter, R520m(c), Development Kit, T39m(c) and T68m(c)
+* Fujitsu Limited: Wireless Modem Access Point, PCMCIA Card, FMV-Biblo NE6/650W laptop, Lifebook B-2547
+* Hitachi Ltd.: Flora 220FX personal computer and FLORA 270HX notebook personal computer
+* IBM Corporation: PC-Card, Ultraport Module, PC Card II
+* Microsoft: Bluetooth Stack for Windows CE
+* Motorola: Timeport 270, Mini PCI Card, PC Card, Speaker Mic, USB Adapter, Clip-on Accessory, Phone Module
+* NEC Corporation: several personal computers
+* Nokia: Connectivity Battery, Connectivity Card
+* Palm: Bluetooth stack for Palm OS
+* Sharp Corporation: several mobile phones, wireless headset
+* Siemens AG: USB Dongle, MPI-ADapter, Stand Alone System, LAN Access Point
+* Sony Corporation: Several notebooks, cdmaOne C413S mobile phone, modem adapter
+* TDK Systems Europe Ltd.: USB Adapters and PC-Cards
+
 
 There are also newer companies like DigiAnswer AS who have components, protocol analysers, a phone module, a PC card, a headset and more. All in all I think you will see that the list is very long. There are a lot of big and small names who have their power behind this.
 

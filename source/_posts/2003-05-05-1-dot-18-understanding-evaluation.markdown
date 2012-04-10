@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Evaluations needs to be planned and the 4Es might be a good framework and you need to close the loop from asking questions, getting answers to drawing conclusions.
 
 
-&lt;!-- more --&gt;
+
 
 
 Performance measurement measures outputs to compare to desired outcomes. 

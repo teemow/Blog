@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) I&amp;rsquo;m actually very happy with my trusted old Handspring Visor Platinum, but some days ago, I received a HP Jornada 565 from infoSync HQ so I could play around with Pocket PC 2002 and familiarize myself a bit more with the platfrom. My switch from a Palm OS to a Pocket PC device prompted me to write this column, in which I thought I&amp;rsquo;d let you in on what I found to be the most troublesome differences.
 
 
-&lt;!-- more --&gt;
+
 
 
 To start with, I have to admit that it&amp;rsquo;s not really a fair match. On one side, you have 8 MB of storage, a 33 MHz Dragonball processor and 16 shades of grey, while on the other side, there&amp;rsquo;s a 206 Mhz StrongARM processor, 32 MB of storage, 65,536 colors, full sound and a Compact Flash expansion slot which works wonderfully with the CF cards for my Canon Ixus digital camera. I don&amp;rsquo;t even want to mention the price of the two devices here. So this is not really a match but rather just a look at two worlds.

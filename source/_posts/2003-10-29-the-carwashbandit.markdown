@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-What birds can do. &lt;a title=&quot;This is hilarious&quot; href=&quot;http://www.benfordfueling.com/bfs/carwashbandit/carwashbandit.htm&quot;&gt;This is hilarious&lt;/a&gt;.
+What birds can do. &lt;a title=&quot;This is hilarious&quot; href=&quot;http://www.benfordfueling.com/bfs/carwashbandit/carwashbandit.htm&quot;&gt;This is hilarious.
 
 

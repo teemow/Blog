@@ -10,6 +10,6 @@ author: Oliver Thylmann
 
 Some interesting thought about [our future](http://www.experiencethread.com/articles/intel_artcl.cfm?article=36).
 
-&lt;I&gt;If you take nothing else from this article, remember: The future of the web is about people. &lt;/I&gt;
+*If you take nothing else from this article, remember: The future of the web is about people. *
 
 

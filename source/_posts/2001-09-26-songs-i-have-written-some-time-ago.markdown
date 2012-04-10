@@ -11,7 +11,7 @@ author: Oliver Thylmann
 A move can be fun. I just found some old pieces of paper with song texts on them that I have written while still in a band. I think it was some time at the end of school or soon after. It's fun reading them now. I think I had some kind of crisis finding out who I am ;)
 
 
-&lt;!-- more --&gt;
+
 
 
 Both written some time 1995-97

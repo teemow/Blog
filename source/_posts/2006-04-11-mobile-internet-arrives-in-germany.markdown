@@ -23,9 +23,9 @@ I was however reassured that they would be looking into it and only 3 months lat
 
 P.S.: VoIP is excluded, but you have to give them something ;)
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Base&quot;&gt;Base&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Bluetooth&quot;&gt;Bluetooth&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Flickr&quot;&gt;Flickr&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/GPRS&quot;&gt;GPRS&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mabber&quot;&gt;Mabber&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mobility&quot;&gt;Mobility&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Moblogging&quot;&gt;Moblogging&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/SyncML&quot;&gt;SyncML&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/UMTS&quot;&gt;UMTS&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-The register has &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/59/29388.html&quot;&gt;talked to&lt;/a&gt; Nokia senior VP Niklaus Savander at 3GSM and got some fairly interesting things out of him.
+The register has &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/59/29388.html&quot;&gt;talked to Nokia senior VP Niklaus Savander at 3GSM and got some fairly interesting things out of him.
 
 

@@ -20,34 +20,34 @@ There are both positive and very sad messages.
 
 
 
-&lt;I&gt;A friend of mine was at work on Long Island. A woman who works with him got a call from her husband who works on the top floor of one of the twin towers. He called to say good-bye. He knew he was not going to get out. The woman lost it.&lt;/I&gt;
+*A friend of mine was at work on Long Island. A woman who works with him got a call from her husband who works on the top floor of one of the twin towers. He called to say good-bye. He knew he was not going to get out. The woman lost it.*
 
 -
 
-&lt;b&gt;She had two cousins on the 102nd floor. They made it out. My entire office made it out. Michele from my office was down getting coffee and saw the second plane hit the building. She ran to the nearest exit and got on the ferry to New Jersey. She made it out safe. &lt;/b&gt;
+**She had two cousins on the 102nd floor. They made it out. My entire office made it out. Michele from my office was down getting coffee and saw the second plane hit the building. She ran to the nearest exit and got on the ferry to New Jersey. She made it out safe. **
 
 -
 
-&lt;I&gt;Like the naive onlooker I ran closer to see what I thought was an horrific accident as I saw one of the trade centre buildings burning from the upper floors. Thousands of people stood in disbelief as they saw the pinnacle of American Capitalism burn before their eyes. 
+*Like the naive onlooker I ran closer to see what I thought was an horrific accident as I saw one of the trade centre buildings burning from the upper floors. Thousands of people stood in disbelief as they saw the pinnacle of American Capitalism burn before their eyes. 
 
-It was not till I saw more than 6 people jump to their deaths that I knew this was no picture to photograph or to remember.&lt;/I&gt;
-
--
-
-&lt;I&gt;One cop said he could see through to the other side when the wind was strong enough to blow the smoke over. His exact phrase was &quot;if you have a strong arm you can throw a baseball over the world trade center&quot;.&lt;/I&gt;
+It was not till I saw more than 6 people jump to their deaths that I knew this was no picture to photograph or to remember.*
 
 -
 
-&lt;b&gt;People are still in shock, but New Yorkers are very proud of their city. &lt;/b&gt;
+*One cop said he could see through to the other side when the wind was strong enough to blow the smoke over. His exact phrase was &quot;if you have a strong arm you can throw a baseball over the world trade center&quot;.*
+
+-
+
+**People are still in shock, but New Yorkers are very proud of their city. **
 
 
 -
 
-&lt;b&gt;Apart from the immediate aftermath, the most amazing thing is that there was very little panic in the streets away from the immediate area. People are calmly trying to get home to their loved ones and are being patient and cooperative despite the difficulties of moving around. It just serves to demonstrate how resilient the spirit of the people of this great city are. New York City will bounce back from this outrage. It will not break us... &lt;/b&gt;
+**Apart from the immediate aftermath, the most amazing thing is that there was very little panic in the streets away from the immediate area. People are calmly trying to get home to their loved ones and are being patient and cooperative despite the difficulties of moving around. It just serves to demonstrate how resilient the spirit of the people of this great city are. New York City will bounce back from this outrage. It will not break us... **
 
 -
 
-&lt;b&gt;It's at moments like these that you feel the most helpless, the most human. &lt;/b&gt;
+**It's at moments like these that you feel the most helpless, the most human. **
 
 -
 

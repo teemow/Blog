@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-I should really try this some time: &lt;a title=&quot;ThrillRide! Ride Reviews&quot; href=&quot;http://www.thrillride.com/ttd/ttd.html&quot;&gt;ThrillRide! Ride Reviews&lt;/a&gt;. :)
+I should really try this some time: &lt;a title=&quot;ThrillRide! Ride Reviews&quot; href=&quot;http://www.thrillride.com/ttd/ttd.html&quot;&gt;ThrillRide! Ride Reviews. :)
 
 

@@ -17,5 +17,5 @@ What is [mymuesli](http://mymuesli.com)? It's a site where you can mix your own 
 
 Rock on guys! Great startup and a nice site!
 
-&lt;strong&gt;Update&lt;/strong&gt;: First order is out. You can find my mix right [here](http://www.mymuesli.com/muesli-mix.php?mix=34665).
+**Update**: First order is out. You can find my mix right [here](http://www.mymuesli.com/muesli-mix.php?mix=34665).
 

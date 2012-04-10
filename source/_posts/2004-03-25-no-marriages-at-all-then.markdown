@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Well that's a good decision finally from a US county. Benton county (Oregon) has, due to the continued discussion about whether gay marriages should be legal, banned all marriages. All of them. The last marriage license was issued tuesday. &lt;I&gt; &quot;It may seem odd, but we need to treat everyone in our county equally,&quot; county commissioner Linda Modrell told Reuters.&lt;/I&gt; ([source](http://news.bbc.co.uk/2/hi/americas/3564893.stm))
+Well that's a good decision finally from a US county. Benton county (Oregon) has, due to the continued discussion about whether gay marriages should be legal, banned all marriages. All of them. The last marriage license was issued tuesday. * &quot;It may seem odd, but we need to treat everyone in our county equally,&quot; county commissioner Linda Modrell told Reuters.* ([source](http://news.bbc.co.uk/2/hi/americas/3564893.stm))
 
 

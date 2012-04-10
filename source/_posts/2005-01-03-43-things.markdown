@@ -8,12 +8,12 @@ author: Oliver Thylmann
 ---
 
 
-&lt;p&gt;[Different](http://www.ensight.org/archives/2005/01/02/43-things-in-the-morning/) [people](http://nico.blogg.de/eintrag.php?id=1097) are posting about [43 Things](http://www.43things.com/) but the first time I heard about it was [from Fred's log](http://bornholz.typepad.com/blog/2004/12/thank_you_37sig.html) mid December and I started to get interested in the new service back then. Sadly it fell through the cracks and I stopped looking at it but now I am really starting to get it. As Ingmar says, thanks 37signals! Those are the people behind [Basecamp HQ](http://www.basecamphq.com/) and they seem to have started another success. What is [43 Things](http://www.43things.com)? It's a way to say what you want to be doing and find other people who want to do it too. There are 9 people who [want to learn PHP](http://www.43things.com/things/view/1540) or 3 people who [want to shave their head](http://www.43things.com/things/view/42)&amp;nbsp; or 97 people who [want to be a better blogger](http://www.43things.com/things/view/494). The most popular goals can be found in the [Zeitgeist](http://www.43things.com/zeitgeist/). If you want to join the 773 people who [want to try out 43 Things](http://www.43things.com/things/view/255) just [create an account](http://www.43things.com/auth/)! This will be fun :)&lt;/p&gt;
+[Different](http://www.ensight.org/archives/2005/01/02/43-things-in-the-morning/) [people](http://nico.blogg.de/eintrag.php?id=1097) are posting about [43 Things](http://www.43things.com/) but the first time I heard about it was [from Fred's log](http://bornholz.typepad.com/blog/2004/12/thank_you_37sig.html) mid December and I started to get interested in the new service back then. Sadly it fell through the cracks and I stopped looking at it but now I am really starting to get it. As Ingmar says, thanks 37signals! Those are the people behind [Basecamp HQ](http://www.basecamphq.com/) and they seem to have started another success. What is [43 Things](http://www.43things.com)? It's a way to say what you want to be doing and find other people who want to do it too. There are 9 people who [want to learn PHP](http://www.43things.com/things/view/1540) or 3 people who [want to shave their head](http://www.43things.com/things/view/42)&amp;nbsp; or 97 people who [want to be a better blogger](http://www.43things.com/things/view/494). The most popular goals can be found in the [Zeitgeist](http://www.43things.com/zeitgeist/). If you want to join the 773 people who [want to try out 43 Things](http://www.43things.com/things/view/255) just [create an account](http://www.43things.com/auth/)! This will be fun :)
 
 
-&lt;!-- more --&gt;
 
 
-&lt;p&gt;&lt;/p&gt;
+
+
 
 

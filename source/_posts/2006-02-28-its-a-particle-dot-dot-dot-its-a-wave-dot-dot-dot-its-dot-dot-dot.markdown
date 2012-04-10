@@ -19,10 +19,10 @@ I think scientists should do more things like this to make sure they get their f
 
 And here is the newest feature of Google video. You can now put this directly on your site.
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Electron&quot;&gt;Electron&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Light&quot;&gt;Light&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Particles&quot;&gt;Particles&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Physics&quot;&gt;Physics&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Quantum%20physics&quot;&gt;Quantum physics&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Waves&quot;&gt;Waves&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

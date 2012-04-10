@@ -13,7 +13,7 @@ author: Oliver Thylmann
 This part is about the value propositions within Piercy's strategic pathway to be market-led, which started with market choices and ends with key relationships.
 
 
-&lt;!-- more --&gt;
+
 
 
 A. Building the value proposition

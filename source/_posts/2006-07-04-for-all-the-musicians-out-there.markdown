@@ -11,9 +11,9 @@ author: Oliver Thylmann
 
 This video is simply amazing. Period. The guy is [Erik Mongrain](http://www.erikmongrain.com/)
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/guitar&quot;&gt;guitar&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/music&quot;&gt;music&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 

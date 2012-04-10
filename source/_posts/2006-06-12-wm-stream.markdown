@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/56/165801699_45707bd034.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/165801699/)&lt;br /&gt;	[wm stream](http://www.flickr.com/photos/oliver/165801699/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Eyetv to mac to cytv via network to confi vlc :)&lt;/p&gt;
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/56/165801699_45707bd034.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/165801699/)	[wm stream](http://www.flickr.com/photos/oliver/165801699/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					Eyetv to mac to cytv via network to confi vlc :)
 
 

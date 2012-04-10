@@ -11,10 +11,10 @@ author: Oliver Thylmann
 Just found this one. Some examples of why the human race has probably evolved as far as possible. Actual label instructions on consumer goods.
 
 
-&lt;!-- more --&gt;
 
 
-&lt;I&gt;
+
+*
 On Sears hairdryer:
 Do not use while sleeping.
 (Gee, that's the only time I have to work on my hair!)
@@ -84,6 +84,6 @@ Do not attempt to stop chain with your hands or genitals.
 On a child's Superman costume:
 Wearing of this garment does not enable you to fly.
 (That's right, destroy a universal childhood fantasy!)
-&lt;/i&gt;
+*
 
 

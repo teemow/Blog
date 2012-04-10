@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 A friend of mine received this via e-mail:
 
-&lt;I&gt;In regards to the &quot;Globalization Protests&quot; going on this weekend in Washington DC.......... 
+*In regards to the &quot;Globalization Protests&quot; going on this weekend in Washington DC.......... 
 
 What is globalization?, one may ask. 
 
@@ -28,6 +28,6 @@ And you are probably reading this on one of the IBM clones that use Taiwanese-ma
 Singapore plant, transported by lorries driven by Indians, hijacked by Indonesians and finally sold to you by Chinese men! 
 
 That, my friend, is GLOBILIZATION. 
-&lt;/I&gt;
+*
 
 

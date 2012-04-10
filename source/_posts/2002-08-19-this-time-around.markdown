@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) This time around, in my bi-weekly twaddle on the wireless world out there, I will try to revisit a week long trip to Scrimignano, a tiny village in Italy, comfortably situated between Milano and Genova in the middle of nowhere. A small apartment in this 10 house place on top of a small hill among bigger hills, accessible by a small twisted road where driving yields the constant terror of that other car coming head on from around the corner, was the space called home by myself and two friends for a week. Room is tight and I will come right down to the wireless bit, looking out of the window to the mobile communications tower sitting right next to Montemarzino, another small village, where several days were passed at a pool overlooking the valley and letting the eye wonder farther than imagined by somebody used to smoggy city air.
 
 
-&lt;!-- more --&gt;
+
 
 
 Let&amp;rsquo;s go right to the bad side of things. GPRS roaming is not what it could be as of yet, as I was not able to use GPRS with my standard T-Mobile Germany subscription in Italy - and using the phone to call some foreign dial-up account was out of the question. For that reason, the next stop was an electronics store in the next big city, Tortona, to get a TIM prepaid card. Why? Well, it seems that TIM has GPRS introduction pricing giving you a GPRS flatrate for 10 EURs for 30 days. A Mobile Phones Geek&amp;rsquo;s images of heaven erupted. Of course, it is far from that easy, mainly because of the language called Italian that has still to be mastered by yours truly. GPRS is not turned on by default and nobody seems to be able to give me the settings I needed.

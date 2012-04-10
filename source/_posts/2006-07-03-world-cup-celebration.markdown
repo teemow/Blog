@@ -18,10 +18,10 @@ It's a playlist of four videos. The second is of the german national anthem, whi
 
 P.S.: Fotos will follow later. Currently installing a new pc.
 
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/cologne&quot;&gt;cologne&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/fifa&quot;&gt;fifa&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/football&quot;&gt;football&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/worldcup&quot;&gt;worldcup&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

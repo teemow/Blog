@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This goes from very loose to narrow performance-pay focussed. Either you move with formal systems or you facilitate performance in interpersonal ways meaning that you do it without measurement.
 
 
-&lt;!-- more --&gt;
+
 
 
 In possible definition evolves around a shared vision of purpose and aims which in the end enhance the performance of both individual and organisation. (Fletcher, 1993)

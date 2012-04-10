@@ -25,10 +25,10 @@ If you want to read a bit more about KU quasi from their web site, check out [th
 All this gets really interesting if you take all the basic idea about web 2.0 into account, the basic idea that we have the internet now, that it can be used to connect things. KU is already using that via subsidiaries in tracking what children are learning and what their status is, updating the courses on a learning device on a regular basis with the most fitting learning material. This can be tracked through the lifetime of a person on this earth and learning will be a central part of life in the future. A billion and billion dollar industry. You can interconnect all those companies and really find out how people learn, how they improve, what they find, notice who the major intelligent ones are, even push them in the right direction if you are evil. But all in all knowledge about knowledge and knowledge creation is a very powerful knowledge.
 
 It's a business that is challenging enough for somebody who invented junk bonds and believes in technology. It should be something to take notice of.
-&lt;!-- technorati tags start --&gt;
 
-Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Brand%20Eins&quot;&gt;Brand Eins&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/FasterCures&quot;&gt;FasterCures&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Forbes&quot;&gt;Forbes&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Knowledge%20Universe&quot;&gt;Knowledge Universe&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Milken&quot;&gt;Milken&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/eLearning&quot;&gt;eLearning&lt;/a&gt;
 
-&lt;!-- technorati tags end --&gt;
+
+
+
 
 

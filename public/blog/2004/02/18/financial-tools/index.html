@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Financial Tools - Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="Here we consider a company as a conduit of funds. The higher the risk the higher the return required by investors and hence what the company must &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/2004/02/18/financial-tools">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Financial Tools</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2004-02-18T20:43:00+01:00" pubdate data-updated="true">Feb 18<span>th</span>, 2004</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Here we consider a company as a conduit of funds. The higher the risk the higher the return required by investors and hence what the company must achieve. In terms of NPV (net present value), you should only do projects, as a company, that bring a positive NPV. The discount rate you use in your cost of capital, being the average return your equity and debt investors require. With a positive NPV, the project is adding value. It&#8217;s that simple&#8230; ok, almost :)</p>
+
+<p>&lt;!&#8211; more &#8211;&gt;</p>
+
+<p>&lt;b&gt;Determining the market cost of equity&lt;/b&gt;</p>
+
+<p>First you need to find the risk-free rate of return, which would be something that can be considered a safe investment. Treasury Bills are such a thing, which, given the credit-worthiness of most countries out there can be said to be relatively safe. Nominal interest rates will include an expected inflation and if the real one differs then investors will earn more or less in real terms, being an inflation risk.</p>
+
+<p>For longer periods, government bonds could be taken, which have a given yield to maturity. Once your time horizon changes, you require different returns, called term structure of interest rates.</p>
+
+<p>Then you have the equity risk premium. The equity rate of return could be said to be the rate of return of the stock market, which you can invest in via an index or tracker fund (highly suggested if you are thinking about investing mind you). The difference between the equity rate of return and the risk free rate is the equity risk premium. In the last 100 years or so, this can be said to have been between 5.6% and 6.6%, on average. As both risk free rate and return on equity are influenced by inflation, the premium should be constant.</p>
+
+<p>&lt;b&gt;Determining the individual cost of equity&lt;/b&gt;</p>
+
+<p>This can be shown to depend on the return of the share in relation to the market. Harry Markowitz developed the portfolio theory in relation to this, or more clearly, in relation to the benefit that can be gained by combining shares into a portfolio. Several assumptions need to be made here though:
+- all investment decisions are made within a single period framework (one time frame)
+- more money is preferred to less money
+- investors are risk-averse, and hence need an extra return for extra risk
+- attraction of shares are measured only by their expected returns and standard deviations (the biggest flaw in the model I&#8217;d say and mind you it&#8217;s a damn good one)</p>
+
+<p>In the end, the risk of an All-Share portfolio is less than the average one of an individual share. The calculations have been seen previously. In general, it&#8217;s about shares now being 100% correlated in their movements, meaning if one share goes up, another one goes down, and the risk attached to the movedment of them both together is lower than of each one of them. If they have only a small correlation coefficient that is. The correlations coefficient is the covariance (extent to which the shares move together) divided by standard deviation of returns for the shares your are mixing. The value will be between -1 and +1. The lower the correlation, the greater the risk reduction.</p>
+
+<p>Combining shares intelligently, will allow your to lower your risk while not sacrificing return. The set of all portfolios you can take is known as the opportunity set and the edge of that set, in terms of risk and return, is known as the efficient frontier. Efficient as it offers the maximum expected return for the related risk. Optimisation is the mathematical process to maximize return for risk. Even simply picking a few shares, called naive diversification, reduces risk ,as it does not need many shares to reduce the risk considerably. 10 shares give you a risk of only 70% in relation to one share. The more shares you hold the closer your portfolio is like the stock market and you approach both market return and market risk.</p>
+
+<p>The capital asset pricing model (capm) adds to the portfolio theory that a) there is a risk-free asset for all investors and b) that all investors have the same expectations as for the future, meaning that they accept the forecasts made. This also means that everybody would everybody invests in the same portolio of shares, being called M at this time. If you draw a straight line from the risk-free asset (Rf) touching the efficient frontier at M, you get the capital market line. You can now choose your risk and return via buying different distributions of Rf and M, moving your risk/return along the line.</p>
+
+<p>E(Rp) = ÃŸE(Rm) + (1-ÃŸ)Rf = Rf + ÃŸ[E(Rm) - Rf]</p>
+
+<p>For ÃŸ=0 you get the risk free rate. For ÃŸ=1 you get the market portfolio. For ÃŸ&gt;1 you borrow (ÃŸ-1) and invest that in the market.</p>
+
+<p>All in all capm means that you only invest in an index fund and a risk free asset, which is actually rather wise. The other solution would be to believe that different people have different expectations in shares/companies and therefore over or undervalue shares. This is fine on its own, but the problem is that you will also have to be sure that your expectations are &quot;correcter&quot; than the market average.</p>
+
+<p>The security market line can also be drawn, being:</p>
+
+<p>E(Ri) = Rf + ÃŸi[E(Rm) - Rf] where ÃŸi is the beta of the share i (correlation to the return of the stock market).</p>
+
+<p>This security market line implies that the required return for individual shares does not depend on the total risk but just on the risk relative to the market. You therefore can express the exptected return per share via the risk-free rate, the equity risk premium and the share&#8217;s beta. You can get betas from most stock web sites out there.</p>
+
+<p>Another thing of importance then becomes the alpha, which measures the performance in relation to the security market line. You will then see that the total risk of a share is made up of the beta, market risk and specific risk of the share. As the theory goes, the specific risk will be cancelled out in a diversified portfolio and you then can use the CAPM model.</p>
+
+<p>The next model would be the divident valuation model. This defines the price P of a share as the present value of future dividends, discounted by the RRR.</p>
+
+<p>P = Sum over ( D_1 / ((1+E(R))<sup>n))</sup></p>
+
+<p>The problem here is that you do not know wha the dividends will be and often companies in high growth do not give out dividends in the arguement that the money is better reinvested in the business.</p>
+
+<p>The simplified version of this is the &lt;i&gt;Gordon growth model&lt;/i&gt;, which presumes that you have a constant growth g:</p>
+
+<p>P = D_1 / (E(R) - g)</p>
+
+<p>You can turn this arround to get the RRR for a share taking its dividends as a measurement:</p>
+
+<p>E(R) = (D/P) +g</p>
+
+<p>To find the growth in dividends, take a look at forecasted real growth and expected inflation. This way you can compare across boundaries and allows you to compare the CoE of the Gordon growth model with your result from CAPM.</p>
+
+<p>&lt;b&gt;Capital Structure and WACC&lt;/b&gt;</p>
+
+<p>The two main types of finance, dept and equity, make up the capital structure of a company. Debt is normally taken as risk free, even though it isn&#8217;t. Credit ratings show the danger attributed to the debt resulting in different interest payable on debt. As the risk free rate Treasury Bill yield or LIBOR (London Interbank Offered Rate) is often taken, even though companies with very low risk rating can potentially borrow at below LIBOR.</p>
+
+<p>To determine the future cost of dept one approach is to take historic cost or to take an average x points above risk free.</p>
+
+<p>This brings us to capital structure. The main ratios here are gearing, net gearing, leverage (gross), leverage (tangible), leverage (tangible including contingents) and debt/debt plus equity (dept/equity for short).</p>
+
+<p>Debt/equity ratio = (short- and long-term debt)/(short- and long-term debt + shareholders&#8217; equity)</p>
+
+<p>The more commitment there is to pay for debt via cash flows, the more volatile the remaining profits distributable to shareholders will be. A high gearing therefore leads to a higher required return for shareholders. If we introduce corporate tax, with tax-deductible debt interest payments, then the true cost of debt actually lower. This results in a company with debt potentially being worth more than one without.</p>
+
+<p>This would speak for a high gearing, with the only problem being that first of all you need enough profits to show against interest payments and there is the problem of bankrupty if you fail to pay your interest. The more likely a default, the higher the interest rates on debt. You need to weight all of this against each other to have the optimal debt/equity ratio.</p>
+
+<p>Next up comes the weighted average cost of capital (WACC)</p>
+
+<p>R = D/(D+E) x R(debt) (1-T) x E/(D+E) x R(equity)</p>
+
+<p>Here you should use market prices for equity (E) and debt (D). You can also use your long-term debt to equity target ratio in the calculation. Increasing debt/equity ratio reduces the WACC. Sometimes companies use a hurdle rate higher than their WACC in project appraisal. Explanations might be:
+- counter over-optimism
+- to compensate for negative NPV projects that had to be done
+- to factor in options (e.g. not delaying the project a year if possible)
+- interest rates change
+- riskier projects</p>
+
+<p>Adjustments should be made to the hurdle rate in case there are special risks involved, be they operational risks or financial risks. For operating risk you could for example change the beta of the business that will undertake the project in relation to the market. Also take into account currency and political risks in international businesses. In terms of financial risks, look at asset and equity betas.</p>
+
+<p>ÃŸ(asset) = D/(D+E) x ÃŸ(debt)x(1-T) + E/(D+E) x ÃŸ(equity)</p>
+
+<p>&lt;b&gt;Dividend policy&lt;/b&gt;</p>
+
+<p>Here managers can again influence the financing structure of the company. The first idea is that a dividend today is worth more than a potential gain in the future (tell that to Microsoft though ;)). In the early days, investors only looked at dividends but in 1959 dividend yields dipped below bond yields, showing that investors started looking at capital gains too.</p>
+
+<p>The problem with the argument that higher dividends should result in higher stock price, is that a higher dividend does not really have an impact on the business risk of a company. In light of taxes there is a change in the equity structure of a business though due to dividend payments. There is actually a tax disadvantage due to the fact that dividends are taxes first through corporation tax and then by the shareholder as income tax.</p>
+
+<p>In this game though it is important to know that taxes play a big role and this also means that it might change from time to time if it is wise to pay dividends or not.</p>
+
+<p>In terms of agency theory, it can be argued that management might use dividend payments to make belief that they are acting in the interest of the shareholders. Also shareholders might like to drain the company of a bit of cash to have management go to standard markets for debt, giving their projects a mor thorough look.</p>
+
+<p>Signalling theory by Miller and Modigliani (1961) suggest that dividends are used to convey information about future earnings. Management cannot pass out certain information and this is how they could in a secret way.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Oliver Thylmann</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2004-02-18T20:43:00+01:00" pubdate data-updated="true">Feb 18<span>th</span>, 2004</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/finance/'>Finance</a>, <a class='category' href='/blog/categories/mba/'>MBA</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://thylmann.net/blog/2004/02/18/financial-tools/" data-via="othylmann" data-counturl="http://thylmann.net/blog/2004/02/18/financial-tools/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2004/02/18/the-world-is-truely-shrinking/" title="Previous Post: The world is truely shrinking">&laquo; The world is truely shrinking</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2004/02/21/towering-view/" title="Next Post: Towering View">Towering View &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

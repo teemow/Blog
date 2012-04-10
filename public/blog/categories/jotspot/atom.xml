@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: JotSpot | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/jotspot/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Last Changed JotBox]]></title>
+    <link href="http://thylmann.net/blog/2005/08/26/last-changed-jotbox/"/>
+    <updated>2005-08-26T10:55:00+02:00</updated>
+    <id>http://thylmann.net/blog/2005/08/26/last-changed-jotbox</id>
+    <content type="html"><![CDATA[<p>Due to playing a little bit more with <a href="http://jot.com/">JotSpot</a>, I now created ourselves a little last changed miniWindow for our Toolbar. I really like to know what is changing around me, so something like this should be on the main page or somewhere else. I opted for the Toolbar as there is an error message for people using the WYSIWYG editor on the main page otherwise.</p>
+
+<p>The script is rather simple.</p>
+
+<p>&lt;blockquote&gt;
+&lt;jot:miniWindow title=&quot;Latest Changes&quot; contentStyle=&quot;font-size:8pt;&quot; width=&quot;80&quot; hidden=&quot;false&quot;&gt;&lt;br /&gt;
+&lt;jot:search order=&quot;editTime-&quot; set=&quot;nodeResult&quot; limit=&quot;5&quot; forAll=&quot;true&quot; /&gt;&lt;br /&gt;
+&lt;jot:loop over=&quot;nodeResult&quot; set=&quot;node&quot;&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;1. [[wiki:${node/path}][${node/name}]] (${node/time/relative} by ${node/user})&lt;br /&gt;
+&lt;/jot:loop&gt;&lt;br /&gt;
+&lt;/jot:miniWindow&gt;&lt;br /&gt;
+&lt;/blockquote&gt;</p>
+
+<p>Remember that the spaces are important. A 3 whitespace indent before the 1 will make this into a list going from 1 to 5 (due to the limit=&quot;5&quot;) in the loop. You simply need to create this code in something like LastChangedBox within your Wiki and then include that in your Toolbar (simply click edit in the toolbar and it will be self explanatory). Bingo, you now have your last 5 changes pages, with the time from now and who changed them in your toolbar.</p>
+]]></content>
+  </entry>
+  
+</feed>

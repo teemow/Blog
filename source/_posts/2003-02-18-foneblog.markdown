@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Foneblog"
+date: 2003-02-18 17:57
+comments: true
+categories: Wireless
+author: Oliver Thylmann
+---
+
+
+&lt;a&gt; home&quot; href=&quot;http://www.newbay.com/&quot;&gt;NewBay&lt;/a&gt; is developing, or has developed, something they call FoneBlog. It enables blogging via Mobile phones. This is something I still want to enable with MovableType and something that should really not be that hard. This would bring blogging to another level. I already wrote about it [here](http://www.infosync.no/show.php?id=2583).
+
+

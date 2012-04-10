@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Pissed"
+date: 2003-02-07 10:54
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+I am seriously pissed at the moment because this thing has been down for over 30 hours. Seems like my hosting company had some problems with the hardware of the server this is running on. Of course, this can happen and I might just ben unlucky that it happens to me when I signed on just a few weeks ago... but still it drives me nuts. I will still have to make them give me some free months of service or something. The good side of this, is that they are getting a new quad Xeon system that will host this soon. It's a nice system all in all, with me having a virtual server on this box. Ah well... we will see how it goes.
+
+

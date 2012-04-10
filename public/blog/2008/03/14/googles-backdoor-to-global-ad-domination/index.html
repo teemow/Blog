@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Google's Backdoor to Global Ad Domination - Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="&lt;p&gt;Google has released the Google Ad Manager. It&#8217;s interesting to see that they are announcing it just after their Doubleclick &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/2008/03/14/googles-backdoor-to-global-ad-domination">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Google's Backdoor to Global Ad Domination</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-14T08:11:00+01:00" pubdate data-updated="true">Mar 14<span>th</span>, 2008</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>&lt;p&gt;Google has <a href="http://googleblog.blogspot.com/2008/03/our-solutions-for-ad-serving.html">released</a> the <a href="https://google.com/admanager/">Google Ad Manager</a>. It&#8217;s interesting to see that they are announcing it just after their Doubleclick Acquisition closed, because in a sense, they are competing with Doubleclick for Publishers (dfp). Of course, Google&#8217;s offering is free and based on the <a href="https://google.com/admanager/login/en_US/features.html">feature lis</a>t, it is very powerful for a first release. I am currently running <a href="http://openx.org">OpenX</a> here and just submitted a request for access, which I double I will get for blog.thylmann.net as I wasn&#8217;t able to tell them more about me. The New York Times has a <a href="http://bits.blogs.nytimes.com/2008/03/13/googles-trojan-horse-let-the-free-ad-serving-begin/">nice article</a> about what the Ad Manager is about for those not fully aware to what the ad serving market looks like.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I&#8217;d like to add one very important thing though. This is really a way to get to see more pages users view. Each page the Ad Manager is on, independent of whether Google is serving AdSense ads or not, will ping Google about the user information based on Cookies. That is a very important thing because you need to know as much as possible about surfing behaviour of people, and at the moment Yahoo!, and sepecially Microhoo, see people more often. It is not only about how  many people you see, but how often you see them. Do I see 3% of their surfing behaviour or 20%. HUGE difference for targeting systems.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The interesting thing is that the system will automatically try to make you most money. So if you do not book an ad with a fixed amount of Ad Impressions to be served, Google will optimize everything. I currently don&#8217;t know, and rather don&#8217;t believe, if this will include CPL/CPO ads, in which case the system would be amazing for publishers, also bigger ones, which are missing a solution like that.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;This will become one of the biggest if not the biggest ad server in a short time frame. It will be interesting to see what OpenX does with their hosted version once it is out.&lt;/p&gt;</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Oliver Thylmann</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-14T08:11:00+01:00" pubdate data-updated="true">Mar 14<span>th</span>, 2008</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/advertising/'>Advertising</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://thylmann.net/blog/2008/03/14/googles-backdoor-to-global-ad-domination/" data-via="othylmann" data-counturl="http://thylmann.net/blog/2008/03/14/googles-backdoor-to-global-ad-domination/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2008/03/11/nokia-idea-generation-workshop/" title="Previous Post: Nokia Idea Generation Workshop">&laquo; Nokia Idea Generation Workshop</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2008/03/14/thank-you-to-nokia-for-amazing-two-days/" title="Next Post: Thank you to Nokia for amazing two days">Thank you to Nokia for amazing two days &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

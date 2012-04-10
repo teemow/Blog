@@ -1,0 +1,12 @@
+---
+layout: post
+title: "YaGoogle!"
+date: 2004-05-17 16:50
+comments: true
+categories: Life in General
+author: Oliver Thylmann
+---
+
+
+So what would Google look like if they used the same layout as Yahoo! does for their frontpage. Anil Dash took the Yahoo! front page and greyed out the areas of services that Google doesn't have. Thanks Anil. Check it out: &lt;a title=&quot;Portalization&quot; href=&quot;http://www.dashes.com/anil/2004/05/17/portalization&quot;&gt;Anil Dash: Portalization&lt;/a&gt;
+

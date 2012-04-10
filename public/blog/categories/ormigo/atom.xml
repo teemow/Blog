@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ormigo | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/ormigo/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Future of Social Networks]]></title>
+    <link href="http://thylmann.net/blog/2008/03/09/the-future-of-social-networks/"/>
+    <updated>2008-03-09T19:13:00+01:00</updated>
+    <id>http://thylmann.net/blog/2008/03/09/the-future-of-social-networks</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I just read two competing views that are actually very similar.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First the wonderful Charlene Li from Forrester blogged that <a href="http://blogs.forrester.com/charleneli/2008/03/the-future-of-s.html">social networks will be like air</a> in the future. She actually has a <a href="http://www.slideshare.net/charleneli/the-future-of-social-networks?src=embed">few slides available</a> from a recent talk. In short, she believes that in 8 to 10 years you will look back to Facebook or LinkedIn and wonder what people where doing there because in the end, everything will be social.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The general idea is that the <a href="http://blog.thylmann.net/2007/09/20/open-social-graphs/">Open Social Graph</a> is really something that we need and that the big players will be working on together because having one social graph is really to the benefit of everyone. It's really what <a href="http://noserub.com/">Noserub</a>, which one of <a href="https://ormigo.com/">our</a> devs <a href="http://olbertz.de">Dirk</a> has initiated, is all about. This means that in the end the social networks that are just there to be a social network, will die. I am already filling all my social networks with my GMail address book (not inviting people just syncing and seeing how is there) and this really means that my GMail address book is my social network.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;At the same time Cringely wrote his latest piece called <a href="http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html">Antisocial</a>. He argues that it is getting too much and boy do I agree. I can't join the 50th group or add the 75th application or check who bit whom or what who rated. He really believes that there is just not enough value in all of them. The next big thing will come along faster than you think.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;It ties in wonderfully with something I think John Battelle said recently, that these sites have to start competing on features and not on data. Because in the end, Cringely is right, and Charlene is too. Most of them that are just social networks will die, because there is no reason to have them if you have a social graph underlying your life. This is really why we have built <a href="https://ormigo.com/">Ormigo</a> over a social network. We are no social network as such because that is not where the value comes from, but we are a local market place and local market places of the future will have to be built on social networks, because local is inherently social.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Our value does not directly come from the social network but rather it is one of many features. The value comes from giving you the best local merchants to solve your current problem. Social connections, analysis of the life stream of user and merchant, and so on, in the long run, will be important to do this correctly. Interesting times ahead.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Update: And yes, that means that there will be lots of features, systems, sites out there that will just use social components. This is exactly what Facebook is about. Just read <a href="http://valleywag.com/365644/mark-zuckerberg-sxsw-keynote">this</a> from Zuckerberg:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;Beacon isn't even a part of our ad team. It's part of our platform team. We think these large social networking sites are going from large monolithic sites like facebook.com ... to social services. A lot of them aren't even things we're building. Some of them are going to be inside facebook.com. An increasing amount of that is going to be outside facebook.com. What we were trying to do with Beacon was taking the first step with letting people take actions on other parts of the Web and feed back into what their friends are doing. It also ties into the ad system, because it can be an endorsement -- someone you care about is doing something, that's much more effective.&lt;/blockquote&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scoble on the Future of Search]]></title>
+    <link href="http://thylmann.net/blog/2007/08/27/scoble-on-the-future-of-search/"/>
+    <updated>2007-08-27T08:14:00+02:00</updated>
+    <id>http://thylmann.net/blog/2007/08/27/scoble-on-the-future-of-search</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Techcrunch <a href="http://www.techcrunch.com/2007/08/26/google-will-be-beaten-by-facebook-maholo-scoble/">posted a few videos from Scoble</a> on the future of search, where he argues that Facebook, Mahalo and Techmeme will throw down Google from its mighty mountain. The full list of the videos is <a href="http://scobleizer.com/2007/08/26/why-mahalo-techmeme-and-facebook-are-going-to-kick-googles-butt-in-four-years/">here</a>. The idea is Social Graph based search. It will overtake Google, Microsoft and Yahoo!.
+His first point is that you didn't find the post through search, because the search engines do not know what is inside the video. First error there. Currently this might be true, but not in the long term. You might want to read <a href="http://www.pbs.org/cringely/pulpit/2007/pulpit_20070817_002727.html">Surviving Immortality</a> by Cringely. Computers will become more and more powerful.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;One of his big point is that Mahalo, Techmeme, Facebook are SEO resistant, meaning resistant from spammers. The thing is though that everything normal people can do based on logic, a computer will be able to do eventually. Sure it is not easy, but it is something that will happen eventually. They will be getting better.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Techmeme, built a fabric by hand through linking behavior between the top blogs. This is good, but it is nothing that cannot be done automatically. It's pretty similar to pagerank really, just that there is a person filter behind it. This is the people rank that Google has already talked about. Of course having access to a social graph, is something that helps to build this kind of trust graph. Did you know Google just hired <a href="http://www.bradfitz.com/">Brad Fitz</a>, LiveJournal fame, who is working on opening up the Social Graph, similar to what our own Dirk Olbertz does with <a href="http://noserub.com">Noserub</a>. I shortly posted about it when I <a href="http://blog.thylmann.net/2007/08/21/clearing-the-backlog/">cleared my backlog</a>. The push is going on to open the social graph up just because it really helps in creating your own search engine. <a href="http://www.lijit.com/">Lijit</a> is another search engine that is working on this. We are working on monetizing it at <a href="http://www.lijit.com/">Ormigo</a> through building a quasi-lead market that banks heavily on getting to know people and connect them with the best local merchant for their current needs.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As you notice, I really believe in the social graph bit. If I have a financial consultant, or a lawyer, a friend or even his friend, that lives in my town, might want the same one when needed. This is something that is already happening offline, but we are monetizing it online. First through allowing advertising of services through aggregation, but learning along the way how people interconnect. It's again automated though.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;One point Scoble has is that Facebook has been able to keep the seo spammers out, which seems to not be the case for e.g. Plaxo. I am not sure yet why an open social graph cannot keep SEOs out of the system. My friends are my friends and the graph increases the value of those friends for linkage.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;All in all very good ideas, but I am not buying that it will replace Google.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Update: Now read <a href="http://www.roughtype.com/archives/2007/08/googles_friendt.php">this</a>.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Michael Kleindl invests in Ormigo]]></title>
+    <link href="http://thylmann.net/blog/2007/06/21/michael-kleindl-invests-in-ormigo/"/>
+    <updated>2007-06-21T06:48:00+02:00</updated>
+    <id>http://thylmann.net/blog/2007/06/21/michael-kleindl-invests-in-ormigo</id>
+    <content type="html"><![CDATA[<p>We just sent out the press release that we were able to attract Michael Kleindl as a second Angel Investor for <a href="https://ormigo.com/">Ormigo</a>. The German <a href="http://blog.ormigo.com/2007/presse/michael-kleindl-steigt-als-zweiter-investor-bei-ormigo-ein/">press release is here</a> and for a bit more information in English, check out <a href="http://www.thealarmclock.com/euro/archives/2007/06/ormigo_brings_in_sec_1.html">this story</a> on alarm:clock euro.</p>
+
+<p>After HemjÃ¶ Klein, we are very happy to be able to welcome Michael Kleindl on board, who has been helping us amazingly in terms of contacts in the internet media industry. And we thought we have good contacts ;)</p>
+
+<p>To give you an idea on why Michael invested, I'll try to translate his German quote from the press release.</p>
+
+<p>â€žThe local advertising market is one of the very big growth markets. With it's concept, Ormigo, the two founders and the technology is ideally set-up to conquer not only the German market.Â  The business model is a perfect addition for every notable publisher.&quot; - Michael Kleindl</p>
+
+<p>Tell me if you have a better translation :) I would only like to add one thing, namely the team we have managed to attract to Ormigo. I am very thankful to all of them for taking the leap and trusting us to do the right thing. The experience and level of dedication that flows through our offices is a wonderful sight. Thanks for sharing the vision.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[formcamp in Munich]]></title>
+    <link href="http://thylmann.net/blog/2007/01/13/formcamp-in-munich/"/>
+    <updated>2007-01-13T15:20:00+01:00</updated>
+    <id>http://thylmann.net/blog/2007/01/13/formcamp-in-munich</id>
+    <content type="html"><![CDATA[<p>Currently <a href="http://formcamp.pbwiki.com/">formcamp</a> is taking place in Munich at the German <a href="http://yahoo.de">Yahoo!</a> HQ and <a href="https://ormigo.com/">our</a> own <a href="http://teemow.com/">Timo</a> has been invited to take place. We are looking forward what kind of ideas he is bringing back to extend our platform.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ormigo Online]]></title>
+    <link href="http://thylmann.net/blog/2006/11/09/ormigo-online/"/>
+    <updated>2006-11-09T09:58:00+01:00</updated>
+    <id>http://thylmann.net/blog/2006/11/09/ormigo-online</id>
+    <content type="html"><![CDATA[<p>I wanted to wait for a quiet period for writing a bit about our launch, but as this is very likely not to happen, I am just writing a few notes now. As said, <a href="http://ormigo.com/">Ormigo</a> launched last week and things are going very well indeed. What we are doing, in very short, is allowing local merchants to have access to new customers that inform themselves about products they sell online. The entire system is focussed on products or services that are not sold via an impulse buy, but where you have to or want to talk to a real person before making a decision.</p>
+
+<p>As it is currently still focussed on creating demand from local merchants for different products (financial products in germany first), there is not a lot for the general internet user to do. This being more of a B2B service this is even likely not to change too much in the near future.</p>
+
+<p>Thanks to the great team have have assembled, launching went smoothly and we are already well into the next sprint for another part of the system which will focus more on the user side of things. But with this, I'll finish and go back to work for another period of light blogging. :)</p>
+]]></content>
+  </entry>
+  
+</feed>

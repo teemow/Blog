@@ -1,0 +1,13 @@
+---
+layout: post
+title: "6600 Shortcuts"
+date: 2004-03-01 10:52
+comments: true
+categories: Wireless
+author: Oliver Thylmann
+---
+
+
+Christian Londholm has a great post about some [shortcuts in using your Nokia 6600](http://www.christianlindholm.com/christianlindholm/2004/02/getting_most_ou.html). And he has to know :)
+
+

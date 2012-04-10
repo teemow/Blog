@@ -1,0 +1,13 @@
+---
+layout: post
+title: "MDA Power"
+date: 2002-10-25 18:39
+comments: true
+categories: Wireless
+author: Oliver Thylmann
+---
+
+
+I am currently playing with the T-Mobile MDA, which T-Mobile sent me two days for a review on infoSync. It is really nice, I have to say. Using an all in one device makes you realise that you really do not need two. It's weird. Bluetooth just got less important. ... Interesthing thought process. Hmm...
+
+

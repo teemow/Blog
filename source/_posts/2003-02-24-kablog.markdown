@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Kablog"
+date: 2003-02-24 19:36
+comments: true
+categories: Blogging
+author: Oliver Thylmann
+---
+
+
+I just installed MIDP on the Tungsten and then added [Kablog](http://www.rawthought.com/projects/kablog/), a MIDP based application to post to MovableType. It simply rocks. I can now post to this thingie here anywhere, with the help of the Palm and some connection to the web, be it via a crade, WLAN card (once I have one ;)) or simply via a cell phone. There is no option to upload images yet but hey, that might come too.
+
+

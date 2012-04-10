@@ -1,0 +1,19 @@
+---
+layout: post
+title: "The Buzz"
+date: 2002-09-08 15:30
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+This might be a fun page to check out from time to time:
+
+http://buzz.yahoo.com/
+
+It's the yahoo search engine ranking. 
+
+On a side note, today is my last day before going to work 5 days a week for 6 months ... hmmm... I am actually looking really forward to it though as the job seems to be really fun. We will see tomorrow. Now going out with a few friends, with one of whom having run is own restaurant/coffee shop for a week now. Let's see how he is feeling :)
+
+

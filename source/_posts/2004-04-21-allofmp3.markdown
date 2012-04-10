@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Allofmp3"
+date: 2004-04-21 18:18
+comments: true
+categories: Uncategorized
+author: Oliver Thylmann
+---
+
+
+I made the leap. I am fearless. After reading [Heiko's post on Allofmp3](http://www.hebig.com/archives/002009.shtml), I registered, which was a leap in itself, with the company behind it being russian and you can never be sure if that's a good thing. But they are working with [Cyberplat](http://www.cyberplat.com/) for billing and they seem to be big and working with Quelle, one of the biggest mail order places, at least in Germany. So what is [Allofmp3](http://www.allofmp3.com/)? It's a kind of music shop, with a twist. It allows you to get practically any album and pay for it. You don't pay per song though, you pay per MB transferred and you can decide which kind of encoding method you want. I chose high quality (196kbit/s) MP3s. The files are then, potentially if they are not available yet, encoded live from the CD, in which case you might have to wait a bit. I didn't have to as mine were available. I paid a bit of $1 for the album loading up my account with $5, which probably means that I will be billed more for using the card outside of europe than anything else ;)
+
+The files came back just fine, with full ID3 tages and great sound. For now I am happy. The question might be if that is really legal outside of russia, because I am in Germany and they are paying people in Russia. I have no clue really but I do presume that it is ok. We will see how it goes, especially what will be deducted from my card. For now, a good experience I have to say.
+
+&lt;b&gt;Update:&lt;/b&gt; You can get a list of all the files you want to download from &quot;List all files&quot; in the My Downloads section. Copy that into a text file and you can use something like wget on unix/osx with the --input-file= argument to download them one by one.
+
+

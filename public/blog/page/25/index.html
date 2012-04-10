@@ -1,0 +1,723 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="Just building a company, reading articles about how companies work obviously interest me. They have interested me before actually. So here is an &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/page/25">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/09/03/google-revealed/">Google Revealed</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-09-03T14:13:00+02:00" pubdate data-updated="true">Sep 3<span>rd</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Just building a company, reading articles about how companies work obviously interest me. They have interested me before actually. So <a href="http://www.informationweek.com/management/showArticle.jhtml?articleID=192300292&amp;amp;pgno=1&amp;amp;queryText=">here</a> is an article on InformationWeek entitled <a href="http://www.informationweek.com/management/showArticle.jhtml?articleID=192300292&amp;amp;pgno=1&amp;amp;queryText=">Google Revealed: The IT Strategy That Makes It Work</a> that is really interesting.</p>
+
+<p>&lt;em&gt;Google&#8217;s programmers are 50% to 100% more productive than their peers at other Web companies, a result of the custom libraries Google developed to support programming of massively parallel systems, Arnold says. He estimates the company&#8217;s competitors have to spend four times as much to keep up.&lt;/em&gt;</p>
+
+<p>That is the first thing I absolutely see as true. If you have a focus on IT then you will need to make your developers perform well. The thing is that this is not a linear equation. Sometimes developers have to do things that make you slower to make your faster. Our developers just worked on a MVC framework for JavaScript. Just putting JavaScript in the Views of cakePhp would have made us faster in the short run, but in the long run, the new solution is a lot better and already paying off now.</p>
+
+<p>&lt;em&gt;To wring every ounce of performance from its hardware, Google writes custom software&#8211;lots of it. Major innovations include MapReduce, a programming model to simplify processing and create large data sets; BigTable, a system for storing and managing massive amounts of data; Sawzall, an interpreted programming language for analyzing large data sets in a distributed computing environment; Google File System, a distributed file system for data-intensive applications; and Google Workqueue, a system that groups queries and schedules them for distributed processing.&lt;/em&gt;</p>
+
+<p>Lots of innovation here. The problem is that we are both reading a writing a lot and that&#8217;s a different thing that a large read only system. I am not even sure if AdWords runs on the same system or if they need more of a standard database approach there. They probably still figured it out :)  Google also has its own Web server that uses a CGI interface for linking in databases, which seems to be faster for them. Makes me think again about lighttpd which looks very promising.</p>
+
+<p>Google also built its own CRM, which I can fully understand based on the CRMs that are out there, but are using Oracle Financials for the financial backend, which again I understand with that kind of stuff being a lot more standard without Google being able to do much about it.</p>
+
+<p>Next interesting things is that Google uses a matrix like management structure with everyone reporting to different people at the same time, which in general is complicated and probably works a lot better for developers than sales people, but which can be made more manageable with technology. Above that, Google engineers switch projects every three months, which again needs a different management system. This is also one of the reasons they make sure that they hire interesting and intelligent people, because they have to get into new products fast.</p>
+
+<p>&lt;em&gt;Lots of small, short-lived projects mean traditional project management software based on task lists isn&#8217;t right for Google. For one thing, techies aren&#8217;t very good at cataloging how they spend their hours. What they are good at, it turns out, is writing up a few short sentences or snippets about what they do each day. Those get compiled in a database along with periodic updates from project leaders about a team&#8217;s deliverables. The project system tags the input by topic and routes to the appropriate people. &quot;This is not hard AI,&quot; Merrill says. Still, who else manages workers like this?&lt;/em&gt;</p>
+
+<p>I really like that approach because task management isn&#8217;t perfect. As soon as your developers understand where you are going and what you are doing and what needs to get done, then the good ones pretty much know themselves what to do. With our agile approach we are at least going as far as not telling everyone what they need to do but just having task lists per sprint and everyone takes what they want to to, being responsibly for achieving sprint goals as a team.  The employee review system is actually very 360 degrees, a lot more than with other companies but something you need for their matrix system.</p>
+
+<p>&lt;em&gt;Google employees use Linux, Mac OS, and Windows on desktop computers, depending on their needs and desires. Many use homegrown programs such as Google Desktop, Google Earth, the acquired Writely word processor, and the recently launched Google Spreadsheets. In general, if an employee wants certain software, he or she can request it through the company intranet without jumping through a lot of hoops for approval.&lt;/em&gt;</p>
+
+<p>100% agreed. Don&#8217;t make somebody use something when they want to use something else. You just loose performance. We now have 2 windows laptops, to mac laptops and one ubuntu laptop here. Who am I to complain. I just need to make sure the internal system work with each of those systems. As the quasi CIO of Google says:</p>
+
+<p>&lt;em&gt;&quot;Most people in my job try to control. &#8216;Here are the three things you can buy.&#8217;&quot; Merrill explains. &quot;I try to control as a little as I possibly can but make it easy to work within parameters that I know how to work with.&quot; &lt;/em&gt;</p>
+
+<p>And again agreed:  The right approach, as Merrill sees it: Talk a lot; use data, not intuition; automate wherever you can.  Ok, the intuition part is relative, mainly because since my last MBA course on Creativity, Innovation and Change, I am now 100% sure that intuition coupled with experience means that your full brain capability can make a lot faster and better decisions if you don&#8217;t try to put everything in hard numbers.</p>
+
+<p>Then this bit on how they hire:</p>
+
+<p>&lt;em&gt;At Google, however, examples abound, such as the way the company decides on new employees. &quot;No one can hire anyone here,&quot; Merrill insists. &quot;Hiring decisions are made by public groups. We all hire everyone.&quot;&lt;/em&gt;</p>
+
+<p>Again agreed, with that idea actually having come to my mind through<a href="http://www.calevans.com/view.php/page/nerdherding">Nerd Herding</a> by Cal Evans.</p>
+
+<p>&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Agile&quot;&gt;Agile&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Cal%20Evans&quot;&gt;Cal Evans&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Developers&quot;&gt;Developers&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Nerd%20Herding&quot;&gt;Nerd Herding&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/31/a-bit-more-about-fon/">A Bit More About FON</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-31T07:11:00+02:00" pubdate data-updated="true">Aug 31<span>st</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.openbc.com/hp/Georg_Pagenstedt/">Georg Pagenstedt</a> <a href="http://blogrolle.net/2006/08/30/martin-varsavsky-worldwide-wireless-warrior/">blogs about</a> Martin Versavsky&#8217;s talk at the Medienwoche Berlin Brandenburg. Lots of interesting stuff in there especially that <a href="http://fon.com/">fon</a> is now burning through 500k EURs a month and are looking at having 500.000 Hotspots in 2008 to break even. I am so happy to be part of the community and am already running two routers here in Cologne. And hey, I beat Georg in my Linus-Fonero number. He&#8217;s in the 20s and I am in the 10s, 13095 to be exact. The post has a picture of Martin holding up the Fonera, their own router coming out soon, by the way.</p>
+
+<p>&lt;strong&gt;Update&lt;/strong&gt;: Another bit from <a href="http://www.spiegel.de/netzwelt/netzkultur/0,1518,434591,00.html">this Spiegel Interview</a>. Martin expects each FON Hotspot to earn them 1 EUR a month on average. Very sound numbers I think. All in all it is nice to see an experience entrepreneur talk about numbers a little bit, finding out how he convinced people of his idea at least partly.
+&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Bill&quot;&gt;Bill&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/FON&quot;&gt;FON&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Fonera&quot;&gt;Fonera&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Linus&quot;&gt;Linus&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/31/the-future-of-cars/">The Future of Cars</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-31T07:03:00+02:00" pubdate data-updated="true">Aug 31<span>st</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>This is what I would call <a href="http://www.treehugger.com/files/2006/08/the_hybrid_mini.php">this article</a>. It&#8217;s about a company that has refitted a BMW Mini resulting in the following (in short):
+&lt;ul&gt;</p>
+
+<pre><code>&amp;lt;li&amp;gt;Maximum Range of 1500km&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Top Speed of 150mph&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;0-60mph in 4.5 seconds&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;4 160 horsepower electric motors, one in each wheel ;)&amp;lt;/li&amp;gt;
+</code></pre>
+
+<p>&lt;/ul&gt;
+Just read the article and check out there site <a href="http://www.pmlflightlink.com/">here</a> for more information. The wheels have full time ABS by the way, be it accelerating or braking, which the motors do all the time, recharging the batteries when braking. :)</p>
+
+<p>If you sell the car like this, please tell me. :)</p>
+
+<p>&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Automobile&quot;&gt;Automobile&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/BMW%20Mini&quot;&gt;BMW Mini&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Hybrid&quot;&gt;Hybrid&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mini&quot;&gt;Mini&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/PML&quot;&gt;PML&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/31/the-power-of-dabbledb/">The Power of Dabbledb</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-31T06:54:00+02:00" pubdate data-updated="true">Aug 31<span>st</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I already knew about <a href="http://dabbledb.com/">dabbledb</a> and it&#8217;s an interesting concept but a little hard to get an idea of what is possible with the application. Now they have a demo out there called <a href="http://dabbledb.com/explore/screencasts/digg/">Digg into Dabble</a> and it&#8217;s amazing. It really shows the ease and power of the system. I really have to look closer into this.
+&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Dabble&quot;&gt;Dabble&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Dabbledb&quot;&gt;Dabbledb&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Data%20Analysis&quot;&gt;Data Analysis&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Data%20sources&quot;&gt;Data sources&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Digg&quot;&gt;Digg&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Digg%20Power&quot;&gt;Digg Power&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Top%20Users&quot;&gt;Top Users&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/26/here-it-goes-again/">Here It Goes Again</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-26T14:03:00+02:00" pubdate data-updated="true">Aug 26<span>th</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Great video. Nice song actually. <a href="http://www.verficktescheisse.com/ok-go-here-it-goes-again/">Check it out</a>.</p>
+
+<p>&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Music&quot;&gt;Music&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Video&quot;&gt;Video&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/25/amazon-elastic-compute-could-aka-ec2/">Amazon Elastic Compute Could Aka EC2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-25T07:13:00+02:00" pubdate data-updated="true">Aug 25<span>th</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;I wrote some time ago about my <a href="http://blog.thylmann.net/2006/08/my_first_aws_bi.html">first AWS Billing Statement</a>, already commented by Marshall from <a href="http://techcrunch.com">TechCrunch</a>. As they now <a href="http://www.techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/">wrote themselves</a> <a href="http://www.amazon.com/gp/browse.html?node=3435361">Amazon EC2</a> &lt;em&gt;is currently being trialed by a small number of long-time Amazon Web Services customers.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, my last post about their S3 service seems to have put me in that camp and I am now free to play with the new EC2. :) Actually, I think it might be a good decision on their part, because I might really be using this for <a href="http://ormigo.com/">Ormigo</a> some time in the future, dependent on how different services pan out.&lt;/p&gt;
+&lt;p&gt;The idea to easily deploy a new server without worrying about it too much is a good one and having a scalable infrastructure is too. The biggest problem really is that it&#8217;s still a bit expensive. With <a href="http://www.host-europe.de/">Host Europe</a> i can get a 2.8 GhZ Xeon, with 2GB of Ram and 2 73 GB SCSI drives with Raid, including 5TB of traffic for 199 EUR, or I could go with <a href="http://hetzner.de/">Hetzner</a> and take an Athlon 64 3700+, with good setup and unlimited bandwidth (throttled at 10MBit/s after 1TB but can be increased again in 250GB increments for free).&lt;/p&gt;
+&lt;p&gt;The question is how easy the servers can be managed, how easily DNS can be handled with possibly changing IPs or crashes, how fast the boot and what the network speeds are from Germany. But all in all, in the corporate space, this sounds very interesting.&lt;br /&gt;
+&lt;!&#8211; technorati tags start &#8211;&gt;
+&lt;p&gt;Technorati Tags: <a href="http://www.technorati.com/tag/Amazon"> rel=&quot;tag&quot;&gt;Amazon</a>, <a href="http://www.technorati.com/tag/Amazon%20EC2"> rel=&quot;tag&quot;&gt;Amazon EC2</a>, <a href="http://www.technorati.com/tag/Amazon%20S3"> rel=&quot;tag&quot;&gt;Amazon S3</a>, <a href="http://www.technorati.com/tag/Bandwidth"> rel=&quot;tag&quot;&gt;Bandwidth</a>, <a href="http://www.technorati.com/tag/Hetzner"> rel=&quot;tag&quot;&gt;Hetzner</a>, <a href="http://www.technorati.com/tag/Host%20Europe"> rel=&quot;tag&quot;&gt;Host Europe</a>, <a href="http://www.technorati.com/tag/Ormigo"> rel=&quot;tag&quot;&gt;Ormigo</a>, <a href="http://www.technorati.com/tag/Servers"> rel=&quot;tag&quot;&gt;Servers</a>&lt;/p&gt;
+&lt;p&gt;&lt;!&#8211; technorati tags end &#8211;&gt;
+&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/23/openbc-hires-new-designer/">OpenBC Hires New Designer</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-23T09:15:00+02:00" pubdate data-updated="true">Aug 23<span>rd</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Ok, not really true as such, but if you check out <a href="http://www.cjung.info/wordpress/">Christian Jung&#8217;s Blog</a> where he blogs about his design ideas for <a href="http://openbc.com/">OpenBC</a>, then I&#8217;d say that Lars should really get a move on and get him onboard. With the recent design contest that OpenBC is running, a lot of people are submitting more of the same. Christian seems to be thinking about their business model and making the site something that reflects the business model and the way people use the platform. A dream come true for an entrepreneur. But it does seem that <a href="http://blog.openbc.com/2006/08/openbc_sketches.html">OpenBC already noticed</a>.</p>
+
+<p>&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Design&quot;&gt;Design&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/OpenBC&quot;&gt;OpenBC&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/22/collaborative-investments/">Collaborative Investments</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-22T07:44:00+02:00" pubdate data-updated="true">Aug 22<span>nd</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>TechCrunch <a href="http://www.techcrunch.com/2006/08/21/socialpicks-enables-collaborative-investment-research/">writes</a> about <a href="http://socialpicks.com/about/beta">socialPicks</a>, a web service that is a community of investors that work together to find the best picks. This is actually something I think all the companies that have user portfolios like <a href="http://onvista.de/">OnVista</a> need to get into. Remember that these web sites have huge amounts of portfolios of their users and could easily find the best performing ones. Building a special investment fund based on that seems to me to be easy enough. You could analyze best performance of those people that are trading on at least 1 share a month (only active accounts) over a given period just to start with. If you then take into account social interactions, ratings of companies, ratings of portfolios, best-of lists, discussions, digg like features, you are really getting into a new kind of portfolio that people might even want to mirror.
+&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/OnVista&quot;&gt;OnVista&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Stocks&quot;&gt;Stocks&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Stocktrading&quot;&gt;Stocktrading&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/20/brunchin-in-the-rain/">Brunchin&#8217; in the Rain</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-20T14:37:00+02:00" pubdate data-updated="true">Aug 20<span>th</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;div&gt; <a href="http://www.flickr.com/photos/oliver/219973468/"> title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/75/219973468_1e869556c6.jpg&quot; alt=&quot;&quot; /&gt;</a>&lt;br /&gt;    <a href="http://www.flickr.com/photos/oliver/219973468/">brunchin&#8217; in the rain</a>, originally uploaded by <a href="http://www.flickr.com/people/oliver/">owt</a>.&lt;/div&gt;                &lt;p&gt;   &lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2006/08/18/emerging-technologies-hype-cycle-by-gartner/">Emerging Technologies Hype Cycle by Gartner</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-08-18T07:39:00+02:00" pubdate data-updated="true">Aug 18<span>th</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Some days ago <a href="http://gartner.com/">Gartner</a> has released their <a href="http://www.gartner.com/it/page.jsp?id=495475">2006 Emerging Technologies Hype Cycle</a> and there is some interesting stuff in there.</p>
+
+<p>As a side note, I had the same graph placed in front of me for coding languages in an argument by consultants to change a web platform from PHP to Java in my <a href="http://ligatus.de/">last job</a>. Thankfully I, with the help of the team, wasn&#8217;t easily convinced and we stuck with PHP back then. I am still sticking with PHP now, even though I could go Ruby, but for now I am happy with the decision.</p>
+
+<p>Anyway, back to the Gartner report. To start with, here is the hype cycle:</p>
+
+<p>&lt;img width=&quot;450&quot; vspace=&quot;4&quot; hspace=&quot;4&quot; height=&quot;251&quot; border=&quot;1&quot; align=&quot;middle&quot; alt=&quot;Gartner Hype Cycle&quot; src=&quot;http://blog.thylmann.net/gartner.jpg&quot; /&gt;</p>
+
+<p>The general idea is that at the top of the curve, the hype around something is amazingly high and it needs to go through a valley of disillusion to be really adaptable by a large enterprise. All in all, this is not necessarily incorrect, but obviously depends on how far out there the company is and how far it sees technology as something of its core capabilities.</p>
+
+<p>So one big part of all of this is Web 2.0. Social Network Analysis is obviously one thing and I have to agree that with reasonably big sets of data, this can get really interesting. Ajax is the second item on their list and they also see a lot of potential there, but I like this part:</p>
+
+<p>&lt;em&gt;High levels of impact and business value can only be achieved when the development process encompasses innovations in usability and reliance on complementary server-side processing (as is done in Google Maps).&lt;/em&gt;</p>
+
+<p>One thing that is also important here is that with the current hype around frameworks and splitting code in a Model-View-Controller fashion again, the general way of working with JavaScript is a real problem. A lot of controller parts are suddenly back in the view and you don&#8217;t want that. Having been able to get some very good developers on board at <a href="http://ormigo.com/">Ormigo</a>, I am happy to say that we seem to have found a good solution though. <a href="http://teemow.com/">Timo</a> has already <a href="http://cakebakery.de/2006/08/17/waschmittel-in-der-kuche/">posted about it</a> on <a href="http://cakebakery.de">Cake Bakery</a>. What Timo and <a href="http://olbertz.de/">Dirk</a> developed is a model-view-controller system for Ajax, with the help of things like JSON and <a href="http://jquery.com/">jQuery</a>. Our templates are now fully free of JavaScript and the entire Ajax Framework is being tested via Unit Tests. Of course there are still some rough edges but things are moving along nicely and we are thinking about putting the entire system on Google Code or something similar in the not too distant future.</p>
+
+<p>Management Tip: Buy your coders all the books they want to read because there are some interesting things bound to happen, especially if you have people that have a thirst for knowledge.</p>
+
+<p>Collective Intelligence is another big term that Gartner throws around and boy do I believe it to be true. While we often think about speed to delivery, which might make a command control system more worthwhile, many people forget that software is more like art. There is not one way to do something, but a million and diversity of opinion might slow you down in the short term, but make you more agile in the long term. Additionally, switching costs on the net are close to zero (in the absence of interlinking users for example and allowing for internal networks to build) and that means that the small things make a difference. These small things mean that you need collective intelligence to find them. You need to rely on your users and be able to adapt fast. Uncertainty is a big thing that management will have to deal with in the future. I&#8217;d like to quote somebody here:</p>
+
+<p>&lt;em&gt;People are not afraid of change. They fear the unknown. - Dick Brown, chairman CEO of EDS&lt;/em&gt;</p>
+
+<p>With no clear view of what will happen next, the known will have to become that things are unclear. Change needs to become part of the development system. For that, you need the right people.</p>
+
+<p>&lt;em&gt;If you don&#8217;t like change, you&#8217;re going to like irrelevance even less. - General Eric Shinseki, Chief of Staff, U.S. Army&lt;/em&gt;</p>
+
+<p>;)</p>
+
+<p>Mashups are also mentioned but I believe their importance to be rated as moderate only because the idea of the mashup is so diverse. I sure as hell can host my static files on Amazon S3, get Maps via Google, Geocode via a third party, score data via somebody else and &#8230; . You get the idea. That&#8217;s a mashup if you want.</p>
+
+<p>All in all, the future is continuing to be interesting, but I am repeating myself.
+&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ajax&quot;&gt;Ajax&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Change&quot;&gt;Change&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Collective%20Intelligence&quot;&gt;Collective Intelligence&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Gartner&quot;&gt;Gartner&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mashups&quot;&gt;Mashups&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Uncertainty&quot;&gt;Uncertainty&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Web%202.0&quot;&gt;Web 2.0&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/26/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/24/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Die Zensursula Diskussion]]></title>
+    <link href="http://thylmann.net/blog/2009/06/16/die-zensursula-diskussion/"/>
+    <updated>2009-06-16T18:34:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/06/16/die-zensursula-diskussion</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Info: This post is in German as it is Germany focussed and the english speaking crowd can probably ignore it, even though it is an interesting subject.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So. Eigentlich wollte ich ja gar nichts schreiben, aber auf Twitter ist eine kleine Diskussion &amp;uuml;ber <a href="http://twitter.com/o/status/2193814860">einen meiner Beitr&amp;auml;ge</a>&amp;nbsp;losgebrochen das ich doch mal was schreiben muss. Diesmal sogar auch deutsch auch wenn ich eigentlich nur auf englisch schreibe. Man verzeihe mir die Rechtschreibfehler.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Zuerst zu mir:&amp;nbsp;&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;
+&lt;li&gt;Ich habe DNS Server administriert&lt;/li&gt;
+&lt;li&gt;Ich habe Netzwerke aufgebaut&lt;/li&gt;
+&lt;li&gt;Ich habe shared hosting system aufgesetzt und betreut&lt;/li&gt;
+&lt;li&gt;Ich habe mal eine Porn Seite entdeckt und vom netz genommen die von Deutschland aus gar nicht zu sehen war (filter in Apache auf deutsche IPs)&lt;/li&gt;
+&lt;li&gt;Ich habe load-balanced server systeme entwickelt, betrieben, etc.&lt;/li&gt;
+&lt;li&gt;Ich habe mit Leuten gearbeitet die <em>wirklich</em> wissen was Sicherheit in Bezug auf Internetseiten bedeutet&lt;/li&gt;
+&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;&amp;nbsp;Die Liste lie&amp;szlig;e sich noch weiter f&amp;uuml;hren, aber ich denke der Punkt ist gebraucht. In Bezug auf Internet Infrastruktur, Netzwerke, Sicherheit, und verwandte Themen bin ich nicht ganz auf den Kopf gefallen.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;N&amp;auml;chster Punkt. <a href="http://ibrahimevsan.de/">Ibo</a> hat netter weise mal den relevanten Teil &amp;uuml;ber Zensur auf dem Grundgesetzt ins Netz gestellt. Ich zitiere hier auch mal:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+&lt;p&gt;(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu &amp;auml;u&amp;szlig;ern und zu verbreiten und sich aus allgemein zug&amp;auml;nglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gew&amp;auml;hrleistet. Eine Zensur findet nicht statt.&lt;/p&gt;
+&lt;p&gt;(2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der pers&amp;ouml;nlichen Ehre.&lt;/p&gt;
+&lt;p&gt;(3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;So nett das gemeint war, damit sollte eigentlich Zensur vom Tisch sein. Wenn ich das richtig verstehe, dann sind illegale Materialien von Zensur nicht gesch&amp;uuml;tzt. Siehe Punkt 2.. Das ist eigentlich auch der gr&amp;ouml;&amp;szlig;te Punkt an der Diskussion der mich st&amp;ouml;rt. H&amp;ouml;rt verdammt nochmal auf von Zensur zu sprechen. Das bringt niemandem etwas. Das die Infrastruktur die da gebaut werden soll eventuel auch f&amp;uuml;r Zensur genutzt werden kann ist absolut klar, aber einfach nicht der Punkt. Wir k&amp;ouml;nnen ja nicht anfangen jedes Gesetz so auszulegen, dass es nur da sein darf wenn es bei Fehlinterpretation und Missbrauch illegal ist. Dann k&amp;ouml;nnen wir ja gleich alles aufgeben. Und nach meinem momentanen Wissensstand soll nun eine Kontrollinstanz da sein. Sollte dies nicht der Fall sein muss das erstmal berichtigt werden und das sollte auch jedem einfach klar sein.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;An alle die sich so &amp;uuml;ber Zensur aufregen: warum sehe ich keine lauten Schreie &amp;uuml;ber <a href="http://en.wikipedia.org/wiki/DNSBL">Real Time Blackhole Lists</a>??? Euer email server provider kann das bei sich einbauen und sollte irgendwer auf der Welt sagen ich spamme von meinem Server (oder genauer gesagt irgendwer der meinen Server irgendwie nutzt) dann kommt der Server auf die RBL und meine Mail kommt bei euch nie an und ihr wisst es nicht. Also fangt da mal bitte an zu k&amp;auml;mpfen. Weil Spam ist ja noch nicht mal illegal! Und das muss auch keine unbedingt pr&amp;uuml;fen, ganz besonders kein Staat.&amp;nbsp;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Der Hauptpunkt ist aber der hier: Dieses vorgeschlagene System ist absoluter Mumpitz und bringt gar nichts. Nochmal: Ich glaube nicht an dieses System. Ich glaube nur das Zensur der falsche Angriffspunkt ist. Das Problem mit dem System muss man an guten Beispielen erkl&amp;auml;ren und einfach klar machen und sich nicht in einem Netz von Diskussionen &amp;uuml;ber eine eventuel m&amp;ouml;gliche Zensur verstricken. Auch das Argument das als n&amp;auml;chstes Deep Packet Inspection kommt z&amp;auml;hlt nicht, weil da hat Phorm in UK gezeigt wie das nach hinten los geht.&amp;nbsp;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Also warum ist das ganze denn nun wirklich bl&amp;ouml;d. Es geht nicht, zumindest nicht wirklich. Das wissen aber eigentlich auch schon alle. Da wir aber auch alle wollen, dass Kinderpornographie, bzw. noch viel weiter gedacht, der Missbrauch von Kindern, aufh&amp;ouml;rt und nie wieder passiert, brauchen wir eine L&amp;ouml;sung. Und die Aussage &quot;wir haben ja Gesetze dagegen&quot; kaufe ich nicht ab. Die Digerati wie ich sie mal nennen will sollte doch mal auf eine sinnvolle und effiziente L&amp;ouml;sung kommen. Zumindest eine Diskussion mit Ziel eine L&amp;ouml;sung w&amp;auml;re echt mal interessant.&amp;nbsp;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Viel filesharing l&amp;auml;uft &amp;uuml;ber P2P, IRC, Newsnet, oder &amp;auml;hnliches. Das ist alles raus. W&amp;uuml;rde man hier Namen von Servern sperren, w&amp;uuml;rden auch ganz viele legale Inhalte geblockt werden, was nicht sein darf. Also nochmal: Das ganze geht nicht f&amp;uuml;r die Infrastruktur wo im Moment jeder Internet Nutzer 90% seiner illegalen Downloads her hat (tut nat&amp;uuml;rlich keiner, nur um das auch klar zu machen ;)). Das gleiche gilt ja auch f&amp;uuml;r Webserver wo nicht nur illegale Materialien sind. Dies exkludiert also alle Webseiten die gehackt worden sind, oder die shared hosts sind, also nicht nur eine Webseite hosten.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Also geht es nur um Webseiten wo wir quasi nur Kinderpornographie finden, unter einer Domain, unter der sonst nichts zu finden ist. Als solches ist das ganze ja schon recht unwahrscheinlich. Dann ist aber noch das Problem das man einfach nur seinen eigenen DNS Server austauschen muss und das ganze ist schon wieder vorbei. Oder einen Anonymous Proxy wenn ich das richtig sehe (wei&amp;szlig; im Moment nicht genau ob mein Rechner zumindest den DNS request durchf&amp;uuml;hrt oder nicht).&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Jetzt m&amp;uuml;sste man aber mal ein Beispiel bauen, so das das ganze sehr einfach jedem gezeigt werden kann der f&amp;uuml;r oder gegen dieses Gesetz stimmen kann. So k&amp;ouml;nnte man dann einfach jeden Anrufen oder EMail schicken oder Briefe oder mit LCD Monitoren auf dem Auto neben deren Auto her fahren. Was immer auch. Man k&amp;ouml;nnte etwas tun. Zur Zeit der Versteigerung der UMTS lizenzen hat Nokia mal rausgefunden was die Fahrwege sind von den Entscheidern f&amp;uuml;r Netzwerkinfrastruktur bei den gro&amp;szlig;en Mobilfunkanbietern. Dann haben sie einfach diesen Arbeitsweg zugekleistert. Sehr interessant.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Einfach w&amp;auml;re eine Flash Animation mit einem Besuch einer Seite, einem zweiten Besuch mit STOP schild, ein Durchlauf durch &amp;Auml;nderung der DNS Einstellungen, noch ein Besuch der Webseite. Sch&amp;ouml;ner w&amp;auml;re die M&amp;ouml;glichkeit das Live am Screen zeigen zu k&amp;ouml;nnen, also quasi ein Demo am eigenen Rechner (an dem diese Leute wahrscheinlich gar nix &amp;auml;ndern k&amp;ouml;nnen). Auch interessant w&amp;auml;re verschiedene Seiten von Bundestagsmitgliedern so zu manipulieren das dort ein Bild zu sehen ist das dort nicht hin geh&amp;ouml;rt, muss ja nicht illegal sein, so das klar ist das diese ganze Seite potentiell gesperrt w&amp;uuml;rde. Wie schon erw&amp;auml;hnt, denke ich, dass mit ein wenig Kreativit&amp;auml;t da wirklich was interessantes aufzusetzen ist. Es muss einfach <em>gezeigt</em> werden das dies nicht wirklich funktioniert.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Als zweiten Schritt muss dann noch ein weiteres Konzept gefunden werden wie man das Problem bek&amp;auml;mpft, sowohl Kindesmissbrauch als auch Kinderpornographie im Internet. Das ist ganz besonders wichtig weil ja schon klar geworden ist das ein Gro&amp;szlig;teil dessen &amp;uuml;ber dieses System gar nicht beblockt wird. Ich finde hier grunds&amp;auml;tzlich die Idee eines anonymisierten Crowdsourcing Tools zur Meldung, &amp;Uuml;berpr&amp;uuml;fung, Entfernung, Ermittlung, etc... . An dieser Stelle k&amp;ouml;nnte jeder Anonym Informationen einreichen. Diese Daten werden so aufgeteilt das sie nicht zum Ziel f&amp;uuml;hren aber die einzelnen Teile angereichert werden k&amp;ouml;nnen mit mehr Informationen (z.B. &quot;Kontaktdaten zu Hoster von IP adressse X&quot;). Das ganze wird mit API aufgesetzt das jeder sich andocken kann. Auchtung, das ist auch nur eine Idee.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Ich denke ich habe meinen Punkt klar gemacht. Gesetz ist bl&amp;ouml;d. Zensur der falsche Kampf. Ist auch nur meine Meinung, andere akzeptiere ich gerne. Dachte blos das ich das ganze nicht in 140 Zeichen-St&amp;uuml;cken sagen kann ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But we need a constructive give examples call constituients and explain why stupid and that we should work together with hackers, police and porn to solve the problem&lt;/p&gt;</p>
+
+<p>&lt;script src=&quot;http://ads.adcloud.net/s/129.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on the Future of Education]]></title>
+    <link href="http://thylmann.net/blog/2009/05/12/thoughts-on-the-future-of-education/"/>
+    <updated>2009-05-12T07:13:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/05/12/thoughts-on-the-future-of-education</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Having just hired a few people again at <a href="http://ormigo.com">Ormigo</a> / <a href="http://adcloud.net">Adcloud</a>, the following two videos connected very well with me. The thing is that education is often not the deciding factor. Passion is a lot more important. We actually have one guiding principle when choosing new employees:&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;em&gt;Hire and promote first on the basis of integrity; second, motivation; third, capacity; fourth, understanding; fifth, knowledge; and last and least, experience. Without integrity, motivation is dangerous; without motivation, capacity is impotent; without capacity, understanding is limited; without understanding, knowledge is meaningless; without knowledge, experience is blind. Experience is easy to provide and quickly put to good use by people with all the other qualities. - Dee Hock&lt;/em&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The very important thing here is motivation and with that comes passion. The people really need to love what they are doing and you those that do often have none-linear schooling. This is probably especially true for developers, which is obviously what I am hiring. What we need is a schooling system that finds out what a person's passion is and helps them find a job within that passion. This can be anything from rocket ship engineer to plumber. When you have a passion for something you will be very good at it and no outsourced &quot;worker&quot; will beat you there.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So this here is the first video that you should be watching. It is old and I might have linked to it previously, but still, it serves as a good intro to the second one. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;object width=&quot;425&quot; height=&quot;344&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/Mmz5qYbKsvM&amp;hl=de&amp;fs=1&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/v/Mmz5qYbKsvM&amp;hl=de&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;344&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then <a href="http://www.thersa.org/events/vision/vision-videos/sir-ken-robinson-the-element">watch Sir Ken Robinson give an introduction to his new Book The Element</a>:&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;object width=&quot;536&quot; height=&quot;420&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.i2ic.com/clientsarea/rsa/player2.swf?filename=lectures/Ken-Robinson-2&amp;filmed=February 2009&amp;posted=February 2009&amp;autoplay=false&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.i2ic.com/clientsarea/rsa/player2.swf?filename=lectures/Ken-Robinson-2&amp;filmed=February 2009&amp;posted=February 2009&amp;autoplay=false&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; width=&quot;536&quot; height=&quot;420&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;We need more thinkers like that, or actually we need Doers that follow those thinkers.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How TedTalks can make you cry and smile in the matter of minutes]]></title>
+    <link href="http://thylmann.net/blog/2009/03/17/how-tedtalks-can-make-you-cry-and-smile-in-the-matter-of-minutes/"/>
+    <updated>2009-03-17T12:12:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/03/17/how-tedtalks-can-make-you-cry-and-smile-in-the-matter-of-minutes</id>
+    <content type="html"><![CDATA[<p>I am subscribed to TedTalks on iTunes and I'd like to share with your two videos. The first one almost made me cry (eyes were getting watery but I was just ordering pizza ;)) happily, and the next one just made me smile. I love those talks!</p>
+
+<p>First Aimee Mullins and her 12 pair of legs:</p>
+
+<p>&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;/param&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot;&gt;&lt;/param&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/embed/AimeeMullins_2009U-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/AimeeMullins-2009U.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=482&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgColor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowFullScreen=&quot;true&quot; flashvars=&quot;vu=http://video.ted.com/talks/embed/AimeeMullins_2009U-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/AimeeMullins-2009U.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=482&quot;&gt;&lt;/embed&gt;&lt;/object&gt;</p>
+
+<p>And then Dan Dennett: Cute, sexy, sweet, funny</p>
+
+<p>&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;/param&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot;&gt;&lt;/param&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/embed/DanDennett_2009U-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DanDennett-2009U.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=485&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgColor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowFullScreen=&quot;true&quot; flashvars=&quot;vu=http://video.ted.com/talks/embed/DanDennett_2009U-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DanDennett-2009U.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=485&quot;&gt;&lt;/embed&gt;&lt;/object&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Merry Christmas]]></title>
+    <link href="http://thylmann.net/blog/2008/12/24/merry-christmas/"/>
+    <updated>2008-12-24T19:57:00+01:00</updated>
+    <id>http://thylmann.net/blog/2008/12/24/merry-christmas</id>
+    <content type="html"><![CDATA[<p>Merry Christmas to all and their families and friends. Sitting here, well fed, good wine, new belt and in the company of familie, feeling wonderful and hope you do too. Talk to you all next year!!!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[FamilyOne goes Gaming]]></title>
+    <link href="http://thylmann.net/blog/2008/09/16/familyone-goes-gaming/"/>
+    <updated>2008-09-16T08:34:00+02:00</updated>
+    <id>http://thylmann.net/blog/2008/09/16/familyone-goes-gaming</id>
+    <content type="html"><![CDATA[<p>The Family Tree companies are thinning in Germany with Verwandt most likely having won here. I just noticed that FamilyOne has increased their share capital by 77.550 EUR to 111.950 EURs and renamed themselves into Rumble Media GmbH, who are running <a href="http://www.fettspielen.de/">Fettspielen.de</a>.</p>
+
+<p>I presume they raised another few hundred thousand or small 7 digit amount with the share capital increase, but you can obviously enlighten me, and just let FamilyOne run on the side now. This comes roughly a year after <a href="http://www.familyone.de/press/4">Holtzbrinck Ventures invested</a> in the FamilyOne. They seem to be <a href="http://www.holtzbrinck.com/artikel/964042&amp;amp;s=de">looking for a Senior Manager for Operations</a> of the new part of the company. The online casual gaming market is hot at the moment with <a href="http://www.bigpoint.net/index.es?action=press&amp;amp;subpage=press_archiv&amp;amp;newsID=130&amp;amp;lang=de&amp;amp;sid=05d45de948bdeb57871023a8826a4d7d">Bigpoint having scored a major deal</a> recently.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,679 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="We have a start-up in town and it&#8217;s called Shoppero. The general idea of a user driven review system, sharing the revenue with the users, &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/page/17">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/05/the-shoppero-hype/">The Shoppero Hype</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-05T14:35:00+02:00" pubdate data-updated="true">May 5<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>We have a start-up in town and it&#8217;s called <a href="http://shoppero.com/">Shoppero</a>. The general idea of a user driven review system, sharing the revenue with the users, allowing widgets to be placed on web sites with your review, &#8230; all that is good and I can see this thing succeed to some extent. The problem is that it is (was?) way over-hyped. We all know that <a href="http://lumma.de/">Nico</a> is very optimistic about the future and with <a href="http://www.jenskunath.eu/">Jens Kunath</a> joining in, things are sure to get hot in the current investment climate. Underpromise and Overdeliver guys.
+&lt;blockquote&gt;In times such as these, it is no failure to fall short of realizing all that we might dream, - the failure is to fall short of dreaming all that we might realize. We must try. - Dee Hock&lt;/blockquote&gt;
+They are going in the right direction, even though we already hear of all the problems, first and foremost huge holes in the platform. Werblogger <a href="http://www.werbeblogger.de/2007/05/04/der-shoppero-schocker/">wrote</a> some things together and also pointed to <a href="http://blog.thinkphp.de/archives/215-shoppero.com-gleich-erstes-Opfer-von-Second-Order-XSS-Attacks.html">this post</a> on thinkphp about the big XSS hacks. Werblogger also pointed to the problem of the general rules of the platform, but Nico already <a href="http://blog.shoppero.com/?p=5">corrected the point</a> that they will not use your email for spamming. Didn&#8217;t expect that and I know that you will write your rules a bit more carefully if you are in a hurry.</p>
+
+<p>But they need to be fast, because the platform is fairly simple to build. Hell, they did it in 6 weeks for a first release. Signing up you will get an Amazon aStore for example, but that is very easy to build and it <a href="http://astore.amazon.de/oliverthylman-21">took me a few minutes</a> (store in german for now). Of course they will connect more affiliate systems but Amazon is really working on having almost everything available, so you are mostly fine there. And if you are big enough to turn any meaningful revenue for other stuff, you can do that too. Of course, this is long tail, but as said, this thing could work.</p>
+
+<p>It just comes to the biggest problem I see with their communication strategy. They are saying that you will make more money with it. Jens had a <a href="http://www.jenskunath.eu/2007/04/27/veredelung-des-traffic/">long post about traffic optimization</a>. The general idea is to give the user what he wants as an ad, and that even Google AdSense is not relevant enough in many case. Why is relevance so important? Because it will lead to higher click through rates. I can even totally attest to that because I have run performance marketing systems for some time now. Now Jens argues that through Shoppero bloggers will be able to get higher revenues than by other means at the moment. Sadly, there it brakes for me. That is total nonsense.</p>
+
+<p>It&#8217;s a pretty simple calculation really. You can get a 1% CTR and more on AdSense if you place them right. Now let&#8217;s presume you are making $1 CPM on AdSense through this. That means that 1000 impressions lead to 10 clicks worth $0.1 each. That is not a lot and you can probably go higher, but lets be conservative. Now let&#8217;s look at my last 10 posts to see how relevant my ads are. I have router management and dsl ads on my <a href="http://blog.thylmann.net/2007/04/21/fonera-via-linksys-router/">Fonera post</a>, the <a href="http://blog.thylmann.net/2007/04/24/unddude-goes-online/">unddu.de post</a> has social networking in there, my <a href="http://blog.thylmann.net/2007/04/27/finally-a-good-startup-again/">first post about mymuesli.com</a> has VC stuff and the <a href="http://blog.thylmann.net/2007/04/30/voip-with-your-mobile-phone/">VOIP via Mobile post</a> has lot of fitting VoIP links. All in all very fitting and nothing in there that would lead to a higher click through rate in my mind if I had linked my Canon EOS 350D or Nokia E70 or some Books or Wine or any other product. I mean Fon is linked anyway, mymuesli too and stuff like Jajah and Cellity are linked to. Nothing for Shoppero to earn there unless they change my links which I won&#8217;t let them do.</p>
+
+<p>But let&#8217;s presume I do post about the Nokia E70 and how much I like it. Let&#8217;s presume that 1000 people read it (probably $1 earned via AdSense, possibly more as there would be other high paying E70 links). As the direct link to an E70 it might have a better CTR and let&#8217;s presume that it is 5%. Most of those would probably not even want to read a review (they just did) but get more info on the E70. The many people that don&#8217;t know me, are very unlikely to do an impulse buy of a phone (or any product) and will probably continue to think about it. Those that do know me, will probably send an email to get more views, pretty similar to how <a href="http://www.jenskunath.eu/2007/05/02/empfehlungsmarketing/">Jens bought his E61</a>. In any case, many will not buy in a trackable manner but somewhere else. Knowing conversion rates of special landing pages for free services, I do not think that they will get conversions anywhere near or above 1% from after the click. And if I then get $10 for the sale, I would get 60% of the $5 made, meaning $3.</p>
+
+<p>This obviously is more (5% is a high CTR! 2% and you are lower) but the problem is that it presumes that every post I do has a fitting review to it. That is surely not the case and if it is 1 to 10 than it is a high ratio. Suddenly I am only making 30 cents. Of course I am also making money on the stuff that Shoppero lists on their site (20%) but <a href="http://www.squidoo.com/">Squidoo</a> tried that too and <a href="http://blog.labnotes.org/2006/05/09/the-squidoo-undo/">failed</a>. Above that, suddenly it is no longer about making money via my blog but almost free for Shoppero. Above that I have work as I need to create the widget and it&#8217;s not ala AdSense where you put the code on your site and you are done. Sure, review bloggers can make money, but they also can with linking to Amazon directly or joining other Affiliate Systems. And yes, you are also making money on other stuff Shoppero makes money with, like AdSense, but I am pretty sure that you are making more integrating AdSense on your blog directly than by loosing people through click through rates and through an additional revenue share.</p>
+
+<p>Jens actually <a href="http://www.jenskunath.eu/2007/05/04/adgets-bei-shopperocom/">suggests</a> adding an adget (how they call their ads) on the right side of your blog which means that CTRs are way lower than at the end of the article (I know). It&#8217;s also no longer context sensitive, which is the entire point. As a short background, I have run AdSense similar ads for services on some of the biggest publishers and am doing that again, and we did beat out Google AdSense (and are doing it again with <a href="https://ormigo.com/">Ormigo</a> for relevant traffic). The more interesting thing is though that one publishers opted to put links from a big affiliate system at the same spot (good for them, you need to try stuff out!) but stopped doing it after a very short time even though they probably got way bigger commissions than normally or rather good CPM without consideration for conversion (which is why the affiliate system stopped doing it :)).</p>
+
+<p>The thing is that sales are just barely trackable on the net. Too much moves outside the tracking system. I would be very happy to be proved wrong, because we need something more for blogs. We are moving the same direction with Ormigo, going more long tail on the advertising system, but first need to increase the breadth of offerings where we can create customer contacts (which are instantly trackable). It&#8217;s hard. Blogs are very diverse, and relevance is a must.</p>
+
+<p>As a summary. I think for special niche blogs or for pages with reviews, Shoppero might make sense. Then it might be too much work for the hassle though. I&#8217;ll probably add an Amazon aStore to the right side of the blog soon to try it out (too much US traffic that Shoppero can&#8217;t handle and <a href="http://www.openads.org/">OpenAds</a> can do the targeting for me for Germany and other Traffic.)</p>
+
+<p>Good luck with your start-up, it&#8217;s interesting times.</p>
+
+<p>Update: There are other things than only monetary reward for using a system. This is something that Shoppero can play, because they are the nice guys. One of their biggest benefits that is. :)
+&lt;pre&gt;&lt;/pre&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/04/php-based-intrusion-detection-system/">PHP Based Intrusion Detection System</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-04T17:05:00+02:00" pubdate data-updated="true">May 4<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>This is one of the first things that <a href="http://mario.heideri.ch">Mario</a> started to implement when he arrived here at <a href="https://ormigo.com/">Ormigo</a>. It&#8217;s now called phpids and available for all to use, already gaining some traction with the security crowd. The thing is that we are dealing with lots of personal data here at Ormigo, so we want to try to make as sure as possible that it&#8217;s safe.</p>
+
+<p>What the phpids does is listen in on strange requests coming into a php based application and gives them a certain escalation state. Based on state it can choose, or rather be told to, do certain things, like fully deny access from a certain IP, remove the page for that user and only show a warning, do nothing and log, send our email alerts, whatever. It&#8217;s there to make sure that you are not running blind. Holes in the application are sure to happen, but the biggest problem is not knowing about them.</p>
+
+<p>You can check out the code right <a href="http://code.google.com/p/phpids/">here</a>  on Google Code, or <a href="http://groups.google.de/group/php-ids">join the Google Group</a> or simply do a <a href="http://phpids.heideri.ch">Smoketest</a>. Have fun and be sure to report back.</p>
+
+<p>Since <a href="http://christ1an.blogspot.com/2007/05/php-based-intrusion-detection-system.html">coming-out</a>, there <a href="http://www.dragoslungu.com/2007/05/02/php-based-web-application-ids-ips/">has</a> <a href="http://www.buayacorp.com/archivos/php-ids-intrusion-detection-system/">been</a> <a href="http://www.logadmin.net/2007/05/sistema-de-deteccin-de-intrusos-basado.html">some</a> <a href="http://www.nexen.net/actualites/securite/16978-intrusion_detection_system_en_php.php">international</a> <a href="http://www.0x000000.com/?i=263">coverage</a> already and this is just the start. Obviously this creates an overhead but hey, let&#8217;s see where it takes us, and from a management perspective you do need to calculate the potential costs of a breach of your application against the possible costs of a few more servers.</p>
+
+<p>I am looking forward to seeing more people take it up and contribute back into the project.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/04/amazon-s3-pricing-changes/">Amazon S3 Pricing Changes</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-04T13:32:00+02:00" pubdate data-updated="true">May 4<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;Damn they are good! <a href="http://amazon.com">Amazon</a> has done a pricing upgrade to their <a href="http://www.amazon.com/gp/browse.html?node=16427261">S3 System</a>. The new prices are effective for June 1st of this year and they probably found out how some people use S3. I have been raving about the system for some time already and so it is no wonder that we are using it at <a href="https://ormigo.com">Ormigo</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As we are running large advertising campaigns around products that are interesting for local service providers, we need our ads solution to be both flexible and very scalable. Running ads on big portals means that your system needs to work. Previously I had worked together with <a href="http://akamai.com/">Akamai</a>, whom I still like very much, but they are rather expensive and some hits still come down to your servers. Above that it only really works well if you have a relatively high caching time.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Amazon S3 is a very cool middle thing in that it allows us to upload our ads to their system and not have any impact on our servers. Through the API we can automatically update the ads whenever we want. Additional flexibility will come when we lean more on EC2 as additional help, but we will see how this goes. For now I am very happy with what we have as a first step. And sure, S3 can go down, but you know what&#8230; so can our servers. At this time I am reasonably sure that S3 has more resources available to keep the servers up than we do. :)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;How does the pricing change effect us though. Simple. Above the bandwidth charges they are adding per request charges, which is a logical thing. For us this will possibly add up to a bit more costs as ads are relatively small and mostly text based. Bandwidth prices for uploads are cut in half, and bandwidth prices for download are decreased a little bit dependent on volume you take.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Above that PUT and LIST requests will be $0.01 CPM and GET requests are $0.001 CPM. That is really ok I have to say and I actually like the system, which makes it more transparent and easier for Amazon to calculate profitably. Looking forward to seeing the next bill.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/02/digg-to-the-grave/">Digg to the Grave</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-02T06:58:00+02:00" pubdate data-updated="true">May 2<span>nd</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>The user generated content market got another lesson today, or rather <a href="http://digg.com">Digg</a> did. The thing is that somebody posted a story about how to crack the HD DVD algorithm and it obviously got lots of diggs. Digg then got a takedown notice and complied. Soon thereafter there were lots of stories on the front page again about the exact same things. Digg suspended users, deleted comments and posts, &#8230; nothing worked. First <a href="http://blog.digg.com/?p=73">Jay posted</a> trying to explain that they need to comply to the takedown notice. It only increased the onslaught of posts about the subject.</p>
+
+<p>Now <a href="http://blog.digg.com/?p=74">Kevin posted</a> and they have given in to the users. The sad thing is, they might loose the company over this, but we&#8217;ll see. Here are Kevin&#8217;s (possibly) famous last words:</p>
+
+<p>&lt;em&gt;But now, after seeing hundreds of stories and reading thousands of comments, youâ€™ve made it clear. Youâ€™d rather see Digg go down fighting than bow down to a bigger company. We hear you, and effective immediately we wonâ€™t delete stories or comments containing the code and will deal with whatever the consequences might be.&lt;/em&gt;</p>
+
+<p>&lt;em&gt;If we lose, then what the hell, at least we died trying.&lt;/em&gt;</p>
+
+<p>There you see the power of user generated content and it&#8217;s not an easy thing to grasp. Are you just a conduit, just a platform for people to use? Can you be liable? It&#8217;s very difficult for all parties involved to understand that playing field and lots of &quot;fun&quot; stuff will probably happen in the next few months.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/30/mymuesli-dot-com-is-online/">mymuesli.com Is Online</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-30T12:39:00+02:00" pubdate data-updated="true">Apr 30<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There we go. I met the founders at this years DLD and was at once thrilled by the idea. I somehow think it will work, without even fully knowing their business model. Firt business model will be getting loads of traffic via blogs like mine.</p>
+
+<p>What is <a href="http://mymuesli.com">mymuesli</a>? It&#8217;s a site where you can mix your own cereal. That&#8217;s it. Go with corn only, add a bit of banana and apple or something more exotic, your choice. And if you order now, every sixth package is free! So go and order and tell me what you did :)</p>
+
+<p>Rock on guys! Great startup and a nice site!</p>
+
+<p>&lt;strong&gt;Update&lt;/strong&gt;: First order is out. You can find my mix right <a href="http://www.mymuesli.com/muesli-mix.php?mix=34665">here</a>.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/30/voip-with-your-mobile-phone/">VoIP With Your Mobile Phone</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-30T08:12:00+02:00" pubdate data-updated="true">Apr 30<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Lots of tools are coming out that are great for use with your mobile phone and to save money on calls. The thing is that I have a Base contract which gives me free call germany wide to fixed lines and some mobile phones. With <a href="http://cellity.com">Cellity</a> I can still save on the other mobile phones with a price of 15 cents versus 25 cents. That&#8217;s already nice. But the really good deal comes in when I think about international calls. Here I had another look at <a href="http://jajah.com">Jajah</a>, which I really like from the general idea. I would be paying 15 cents for international calls to many countries via that one which is a lot cheaper than the 69 cents I pay with my mobile phone, and a client is available to use, sadly not on my E70 though.</p>
+
+<p>Looking at Cellity though, which through their client, available for the E70, is a lot easier to use, I can get 9 cents a minute to the US and many EU countries. Cellity wins over Jajah here. The thing is that Jajah is available everywhere, world wide, so I will probably need both accounts if I really want to save. What I still want to have really, is something to save when roaming in other countries, that still seems to be some time away though.</p>
+
+<p>I did just figure out that there is one cheaper version for me. I can dial into our Asterisk Box in the office from the mobile phone, get a free dial tone and dial out to the US and many European Countries for under 0,4 cents a minute. Sorry guys. QSC wins here. :)</p>
+
+<p>It&#8217;s an interesting space though and I am looking forward to seeing stuff develop over time. If Cellity can internationalize their system somehow, this would start to really rock the mobile world. They are at a good start already though with a fairly nice client that runs on a lot of phones out there.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/27/top-ten-reasons-why-web-2-dot-0-sucks/">Top Ten Reasons Why Web 2.0 Sucks</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-27T06:50:00+02:00" pubdate data-updated="true">Apr 27<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;This post from This is going to be BIG! right <a href="http://www.thisisgoingtobebig.com/2007/04/top_ten_reasons.html">here</a> and there are many very valid points. Let me put some down here.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;em&gt;&lt;strong&gt;The thinking, not just the building, has gotten small and lightweight&lt;/strong&gt;&#8230;Â  Too many people buildingÂ  features, not applications, or, gasp, companies.Â  People are confusing design with innovation.&lt;strong&gt;Â &lt;/strong&gt; Just because you add AJAX and rounded boxes to something does mean you have innovated.&lt;/em&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;We are seeing a lot of this out there at the moment, just thing of all the copy cats. The thing is that you can now build stuff very fast and it might even be taken up very fast. But is it a company? We are putting a lot of effort into building a company here at Ormigo. Among others, this means we hired the right group of people that have experience in leading teams and are happy enough to do the base work now. There are some very cool companies out there, but also a lot of featuritis.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Web 2.0 is a conversational vacuum. &lt;/strong&gt; I&#8217;ll prove it.Â  Unless you live in the Valley, walk outside your door and try to find a Twitter user&#8230; You&#8217;ve got six hours.Â  Go.Â  Trust me, we&#8217;re talking to ourselves.Â  (Don&#8217;t get me wrong&#8230;Â  I really like Twitter&#8230;Â  We just need to remind ourselves about how close to the edge we all are out here.)&lt;/em&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Yes! Thank you! We are our own echo chamber. It was the blogging world now it&#8217;s the startup world.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;em&gt;&lt;strong&gt;A lot of powerful people don&#8217;t participate.Â  &lt;/strong&gt;How many VC&#8217;s out there fund widget companies without having a blog or a MySpace profile?Â  Any Sony bloggers out there?Â  What about brand managers that want to do Second Life campaigns without ever having been inside.Â  How about my elected representatives?Â  They get out there and kiss babies during election time, but how many blogging elected officials are there?Â  (And not watered down campaign blogs&#8230; actual blogs written by the actual people.)Â  We could do great things if we weren&#8217;t so segregated into a small group of people punch drunk on Kool Aid and a great deal of people who&#8217;ve never even heard of Kool Aid.&lt;strong&gt;Â &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;It is getting there I have to say here. We have real people blogging, more and more, but it&#8217;s not an easy concept to grasp. It will make the world a better place in the long run, forcing companies to be open. But I have been saying this for a long time. The good thing about this Internet thing getting into the mainstream is that you can not as easily fake it anymore. And it will get harder.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/27/finally-a-good-startup-again/">Finally a Good Startup Again</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-27T06:41:00+02:00" pubdate data-updated="true">Apr 27<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I just found it <a href="http://gruenderraum.blogg.de/eintrag.php?id=24">on GrÃ¼nderraum</a>. The entire thing was student project in 2004 and they have the patents it seems and are now looking for a producer. But what did they do?</p>
+
+<p>It is very simple, and has nothing to do with the Web&#8230; well not at first sight. They developed a Coaster that has a pressure sensor in it and through this sensor and wireless technology it can alert the bar that your beer is empty. :) Right on! Above that you can put some features into them of course. Let&#8217;s hope it takes off.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/24/unddu-dot-de-goes-online/">unddu.de Goes Online</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-24T17:15:00+02:00" pubdate data-updated="true">Apr 24<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>unddu.de is only. It&#8217;s a german social network that seems to have a bit of everything, like myspace, blogs, videos, &#8230; . And it&#8217;s done by United Internet, who own among others web.de and gmx. You can sign up now&#8230; not everyone though.</p>
+
+<p><a href="http://blog.thylmann.net/wp-content/uploads/2007/04/picture-2.png"> title=&quot;picture-2.png&quot;&gt;&lt;img src=&quot;http://blog.thylmann.net/wp-content/uploads/2007/04/picture-2.png&quot; title=&quot;picture-2.png&quot; alt=&quot;picture-2.png&quot; align=&quot;middle&quot; border=&quot;0&quot; /&gt;</a></p>
+
+<p>For those of you not fluent in German, the above reads: To become a member of unddu.de you need a GMX or web.de eMail address.</p>
+
+<p>Ok, that&#8217;s that for me. What I do find interesting is that unddu.de was supposed to be everything for everybody. They said that all these niche things lead to too many accounts on different platforms and you need one central things. Everything seems to be true. Everyone seems to be limited to United Internet customers. Come one people, open it up, or make it invitation only. But don&#8217;t limit it to those people that have these emails. Looking forward to seeing it open up tomorrow after a blogger backlash ;)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/04/21/web-2-dot-0-chmod-777/">Web 2.0: Chmod 777</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-04-21T12:46:00+02:00" pubdate data-updated="true">Apr 21<span>st</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>That is really the best and shortest explanation about one part of what makes Web 2.0 special. chmod 777. Very short, very simple. Found <a href="http://www-03.ibm.com/developerworks/blogs/page/jasnell?entry=chmod_777_web">here</a>.</p>
+
+<p>For the non-technical here. Chmod is a command in Unix to handle permissions on a file for unix. The first number is for the owner of the file, the second for the group that user belongs to and the third for everybody. 777 means everyone can read, create, write, anything. Free for all. :)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/18/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/16/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

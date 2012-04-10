@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 1 | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/1/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[1.18 Understanding Evaluation]]></title>
+    <link href="http://thylmann.net/blog/2003/05/05/1-dot-18-understanding-evaluation/"/>
+    <updated>2003-05-05T09:25:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/05/05/1-dot-18-understanding-evaluation</id>
+    <content type="html"><![CDATA[<p>Evaluations needs to be planned and the 4Es might be a good framework and you need to close the loop from asking questions, getting answers to drawing conclusions.</p>
+
+<p>&lt;!-- more --&gt;</p>
+
+<p>Performance measurement measures outputs to compare to desired outcomes.
+Performance management uses performance measurement to intervene.
+Evaluation looks at both from several perspectives to find need for further actions.</p>
+
+<p>There is a strategic and operation evaluation with both focussing either on outcomes or processes. Evaluation involves looking at the interests of several stakeholders inline with operational performance or strategic development.</p>
+
+<p>These can be done to make you look good and as good management practice. Some evaluations have no real purpose but otherwise they will be about:
+- Learning
+- Proving (Efficiency)
+- Improving
+- Controlling (Effectiveness)</p>
+
+<p>What criteria?
+When evaluating intervention look at goals originally set: &quot;Is it working as we had intended.&quot; These have to be concrete and fit for measurements. If you are only looking at goals you are preventing finding out about the effects. Also, one stakeholder might be happy with the outcome but others might not.</p>
+
+<p>This is where Scriven's approach of goal-free/needs-based evaluation comes in.
+1. Less likely to miss unanticipated outcomes
+2. More open for negatives
+3. Remove goals bias
+4. Maintain objectivity and independence.</p>
+
+<p>Scriven's noted that the less an external evaluator knows about the goals, the less tunnel vision he will have. You normally need to take the original objective into account though.</p>
+
+<p>To set meaningful goals:
+- distinguish between outcome goals and activities
+- Outcome goals should be clearly outcome oriented
+- finding out if desired outcome has not been attained needs to be possible.
+- Goals and objectives should be understandable
+- Separate goals from indicators
+- don't borrow another organisation's goals</p>
+
+<p>Illuminative evaluation is another method which is not connected to a goal and more there to check understanding of a situation. The first stop is normally a concern and then you draw views and info together. From there you move on to clarification focussing down on the specifics for new understanding. This form of evaluation might be contested though as it does not rely on facts. Facilitation is important.</p>
+
+<p>Who is the evaluation for?
+Difference between performance measurements and evaluation is the focus on doing it for specific stakeholders. You need to:
+- Report positive and negative
+- look at possible short time positives that are negative for the long term
+- look at (harmful) indirect affects on other stakeholder groups</p>
+
+<p>Who should do the evaluation?
+Some by management and others by specialists which depends on:
+- Accountability to others
+- Insufficient expertise inside
+- Controversial subject</p>
+
+<p>You need to choose for technical as well as personal skills and credibility. Remember that evaluations cost money, both direct (data processing and consumables) and indirect (staff time) and possibly opportunity costs.</p>
+
+<p>How to do it?
+For collecting data you have several sources (B18P27):
+- Record keeping
+- Archival data
+- Benchmark data
+- Questionnaire surveys</p>
+
+<p>Patton has created an utilisation-focused outcomes framework:
+1. Client target group
+2. desired outcome(s) for the target group
+3. One or more indicators for each desired outcome
+4. Performance targets
+5. Details of data collection
+6. How the results will be used</p>
+
+<p>Economic evaluation aim to clarify, quantify and value all the relevant options, their inputs and consequences. For a cost-benefit analysis you need to make in/out values monetary to compare. Cost-effectiveness will use a common measurement for outputs (e.g. lives saved) which leads to a money per unit level.</p>
+
+<p>When doing your evaluations, make sure your data is unbiased and you have co-operation by the staff. There are several influences on the evaluation though:
+1. Evaluator characteristics
+2. User characteristics
+3. Contextual characteristics
+4. Evaluation characteristics</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[1.17 Best Practice Benchmarking]]></title>
+    <link href="http://thylmann.net/blog/2003/05/05/1-dot-17-best-practice-benchmarking/"/>
+    <updated>2003-05-05T09:25:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/05/05/1-dot-17-best-practice-benchmarking</id>
+    <content type="html"><![CDATA[<p>Benchmarking is the pursuit of the best organisations out there (in your field) to learn from their successful practices. This is a continuous thing and you should look at the processes in connection with the results to find out how to improve your processes in case your results lag behind (process benchmarking in relation to results benchmarking).</p>
+
+<p>&lt;!-- more --&gt;</p>
+
+<p>Problems:
+- Hard to identify the best
+- catching up might be impossible -&gt; de-motivating
+- You are catching up to a moving target
+- copying is not innovating</p>
+
+<p>Benchmarking has now moving from simply financial analysis to competitor analysis to performance benchmarking to best practice process benchmarking</p>
+
+<p>It seems to be seen as the easy and manageable way to find the best and improve.</p>
+
+<p>Types of Benchmarking
+1. Internal benchmarking: one area against another or e.g. one hotel against another; data is easily obtainable; not looking at best as such;
+2. Competitive benchmarking: look at competitors in same sector; big companies often have info public in reports otherwise they need to be willing to share;
+3. Functional benchmarking: only methods are looked at which can happen over sectors; can lea to innovative things as not bound to your sector
+4. Generic benchmarking: just look at others to learn e.g. for safety issues.</p>
+
+<p>To correctly describe processes you need to be able to describe them -&gt; process mapping. 1996 Fisher described a few possibilities.</p>
+
+<ol>
+<li>Performances and practices
+On one side of a wall list the processes and on the other the elements of those processes that needs to be discussed.</li>
+<li>Flow Charting
+You use symbolic language to convey sequential steps. X-Achsis would be the symbols and Y-achsis the steps. One of the symbols could be delay for example.</li>
+<li>Arrow/mind map
+Shows interrelations by a series of decision trees.</li>
+<li>Cause and effect
+Draw a timeline with herringbone lines where some thing effects the operation. Show links between units.</li>
+<li>Supply chain
+Building a chain by linking essential elements.</li>
+<li>Matrix
+Useful where you need two perspectives like staffing company and department.</li>
+</ol>
+
+
+<p>You need to choose that technique that will get you to the heart of the matter and then ask the right people if you are correct as verification.</p>
+
+<p>Problems of benchmarking include:
+- What to benchmark
+- Who is &quot;best in class&quot;
+- Staff resistance
+- Resource constraints
+- Confidentiality
+- Sometimes process components are un-transferable
+- The focus is not in tomorrow</p>
+
+<p>To do benchmarking well you need:
+- Position of benchmarking champion with full management support and enough resources and authority
+- get the right people on the team
+- Co-ordinate for continual work
+- create information partnerships with other companies/departments</p>
+
+<p>Why you benchmark can have a number of reasons. In the public sector it is mostly done for accountability reasons and to protect against criticism.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[1.16 Planning and Control]]></title>
+    <link href="http://thylmann.net/blog/2003/05/05/1-dot-16-planning-and-control/"/>
+    <updated>2003-05-05T09:25:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/05/05/1-dot-16-planning-and-control</id>
+    <content type="html"><![CDATA[<p>A plan will detail the expected outputs during a specific time and there are long-term (5-10 years, aggregate capacity plan), medium-term (2-5 years, making resources available to meet long-term plan, resources are mostly inflexible), short-term (1-2 years, priorities need changing due to unexpected things)</p>
+
+<p>&lt;!-- more --&gt;</p>
+
+<p>Operations planning = acquire and manage resources needed for the future
+Operations control = implementing plans and adjusting work to achieve plan</p>
+
+<p>Organisational strategy, influenced by marketing and financial strategy, influences the operations but is not under its control. Resource and demand planning influence operations planning -&gt; operations scheduling -&gt; operations control (planning to control).</p>
+
+<p>Planning is very important, especially in big organisations, because a bad plan will lead to higher costs due to too high stocks, poor customer service,...Plans make implications of decisions visible (marketing says higher stock and finance says less cost) and a schedule makes implications of actions clear (e.g. filling beds in a hospital)</p>
+
+<p>The main planning and control responsibilities are managing capacity which means:
+- understanding and measure your capacity to output
+- understand and measure the demand
+- try to match those two</p>
+
+<p>In capacity measurement it is important to measure the right thing.</p>
+
+<p>Once you have found the level of capacity needed you will need to find out where to put your facilities which is where the economies of scale come in. These work, until a set amount when the complexity of the operation will be too high and the cost will rise again. You will also take into account your closeness to your markets, transportation of your goods, resources and more.</p>
+
+<p>Forecasting demand involves looking at you environment (PEST, STEEP) and the product life-cycle needs to be taken into account (Introduction, take-off, slow-down, maturity, decline; book 16, page 11).</p>
+
+<p>Then you need to match capacity and demand both long-term but also now which will see a lot of fluctuations. There are several strategies:
+- Level capacity: keeping it constant despite fluctuations, might be maximum level like emergency service; for manufacturing its ok to store often time
+- Chase demand: adjusting to meet demand; e.g. tourist attraction hiring more people in the summer
+- Demand management: change demand to match capacity (sometimes possible): e.g. by varying the price; reservation of capacity by clients; complementary goods</p>
+
+<p>The next important thing is scheduling, which is about matching the flow of inputs with the outputs in the short term.
+1. Production scheduling can be both push and pull scheduling. Push would focus on the output target and adapt everything else to achieve that, which might lead to high stocks of components if you have a problem along the line. Pull is the basis for the Japanese just-in-time concept, which means that if no input is needed then the previous step will not create an output. This might put everything to halt at problems but you have little unsold stock.</p>
+
+<ol>
+<li>Managing the customer order cycle involves thinking about what can be done before an order by a customer:</li>
+<li>Resource-to-order: resources bought at order, e.g. catering or major projects like a dam</li>
+<li>Make-to-order: no work done until order received; e.g. customer bikes</li>
+<li><p>Make-to-stock: everything is done beforehand; e.g. stereo system, pre made sandwiches</p></li>
+<li><p>Queuing is used with service operations as the product cannot be produced in advance, which results in creating a &quot;stock&quot; of customers waiting to be served. With this you need to think about:</p></li>
+<li>What capacity level do I need for adequate service?</li>
+<li>Queue management for least negative impact on customer satisfaction</li>
+<li>How to physically manage the queue
+E.g. one queue/ two cashiers or two cashiers splitting up task.</li>
+</ol>
+
+
+<p>Other option: entertain, ads, productive use (forms at a doctor)</p>
+
+<p>Sequencing is about assigning priorities: first come, first served; shortest processing time; customer priority; easiest due date</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[1.15 Product Excellence]]></title>
+    <link href="http://thylmann.net/blog/2003/05/05/1-dot-15-product-excellence/"/>
+    <updated>2003-05-05T09:24:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/05/05/1-dot-15-product-excellence</id>
+    <content type="html"><![CDATA[<p>(Value proposition)</p>
+
+<p>This part is about the value propositions within Piercy's strategic pathway to be market-led, which started with market choices and ends with key relationships.</p>
+
+<p>&lt;!-- more --&gt;</p>
+
+<p>A. Building the value proposition
+Marketing is a) marketing planning and decision making and b) a company wide market orientation. The value proposition is about building a product that is differentiated from other products with a company wide focus for unique value to the customer.</p>
+
+<p>Piercy recognizes two different kinds of segmentation:
+-  Explicit: by means of market research to understand behaviour and develop segmentation and positioning based on that knowledge.
+- Implicit: by ways of focus on a value proposition with targeting and segmentation being company wide issues.</p>
+
+<p> The value proposition is made up of
+- Product and service attributes (functionality, quality, price, time)
+- Position (brand, intangible assets)
+- Customer segment (relationship)</p>
+
+<p>Finding a value proposition:
+1.  What is our mission?
+A mission statement might include: philosophy, specifications of market domain, key values, and critical success factors. This should be the start of the company and possibly include the value proposition.</p>
+
+<ol>
+<li>Define your market and market segments (segmentation).</li>
+<li>Find an attractive market/segment. (Targeting)</li>
+<li>What are our (competitive) differentiating capabilities?
+This can come from three sources:</li>
+<li>Product or service itself</li>
+<li>Added-value services</li>
+<li><p>Marketing intangibilities
+These normally come out of you core competencies and strategic position. E-commerce would be one for Amazon and the logistics involved are used to offer superior customer value. These have to be reviewed periodically as others might catch up.</p></li>
+<li><p>Strategicly position yourself
+This can come from the value disciplines being operational excellence (Dell, FedEx, and MacDo), product leadership (Marks&amp;Spencer, British Airways) and customer intimacy (IBM, Home Depot, and Four Seasons Hotels)</p></li>
+</ol>
+
+
+<p>These are not mutually exclusive and it should be chosen based on whether competitors can easily imitate you and if your organisation's capabilities match the activities needed.</p>
+
+<ol>
+<li>What are our marketing assets and brands?
+Davidson (1997) coined the term asset-based marketing which talks about all core competencies being included.
+“A core competency is the gold standard. It is a bundle of related skills, leading to a key consumer benefit, and completely unique.&quot; - Davidson, 1997
+These would include:</li>
+<li>Customer relationships (loyalty and trust helps defend market share)</li>
+<li>channel power (market share, shelf space, e.g. ice cream sometimes owning the one freezer in a shop)</li>
+<li>Market information (understanding and faster response)</li>
+<li>reputation and brand (includes more than just the visible but also invisible key assets and competencies like service level, low-cost operation, strong supply chain, strong R&amp;D, ... known as the branding iceberg)</li>
+</ol>
+
+
+<p>The importance of the brand is seen when you look at what influences the customer:
+- own experience
+- Reference groups (famous sponsor)
+- Belief of brand effectiveness
+- Feelings about brand appearance</p>
+
+<p>There are three other things to take into account:
+- Service positioning (customers look at: reliability, assurance, tangibles, empathy, and responsiveness)
+- Key relationships (customers, competitors, collaborators, co-workers)
+- Translate strategy into account which includes performance indicators (e.g. balanced scorecard)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[1.14 Customer Excellence]]></title>
+    <link href="http://thylmann.net/blog/2003/05/05/1-dot-14-customer-excellence/"/>
+    <updated>2003-05-05T09:24:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/05/05/1-dot-14-customer-excellence</id>
+    <content type="html"><![CDATA[<p>Here the focus is on the market choice within Piercy's pathway to customer orientation, which also includes the value proposition and key relationships which are not discussed here.</p>
+
+<p>&lt;!-- more --&gt;</p>
+
+<ol>
+<li>Market choices
+This involves Philip Kotler's exchange process, in which you need to know who your customers are and to motivate them to buy, and Millman's six markets model, which helps identifying your different customers, often linked to each other, as well as their wants and needs.</li>
+</ol>
+
+
+<p>The markets are:
+- Recruitments
+- Supplier
+- Internal
+- Customer
+- Referral
+- Influence</p>
+
+<p>Customer buying behaviour is &quot;the decision processes and acts of individuals involved in buying and using products and services.&quot; (Dibb, 1997)</p>
+
+<ul>
+<li>Buyer reactions to products are important</li>
+<li>understand influences</li>
+<li>using segments</li>
+<li>understanding behaviour helps predict future</li>
+</ul>
+
+
+<p>Lancaster and Massingham proposed a framework for understanding customers and said there are three areas to take into account:</p>
+
+<ol>
+<li><p>Customers as Individuals
+You need to know about things like experience, learning style, personality, lifestyle and stage in their life cycle as well as the resulting characteristics important for their buying behaviour. (See book 14 page 13)</p></li>
+<li><p>Customer as a decision maker
+The decision making process evolves around: need recognition, information search, evaluation, buying decision, post-purchase evaluation.</p></li>
+</ol>
+
+
+<p>An important thing to remember is External Stimuli which can be influenced by the individual, information search, culture, marketing and the environment. This will move to problem recognition. All the steps from there are deeply influenced by individual and cultural influences.</p>
+
+<p>This process is especially apparent in high risk purchases. High-credence services (doctor, dentist, financial services, ...) are an item where you will not have full knowledge. You need to trust that the service you get will fulfil you need.
+In the information search this will make personal things like word-of-mouth become more important.
+You might have an easier time switching between services which might put the evaluation elsewhere in the process and post-purchase evaluation becomes more important.</p>
+
+<p>High-involvement decisions will rely on more people and are influenced by the extent of decision making and degree of involvement.
+- Inertia: more of a habit and low involvement, you just buy as it is not worth the trouble for something else.
+- Brand loyalty: again a habit thing but with high involvement in the purchase, possible more of trust than habit
+- Limited decision making: high decision making but low involvement because of low risk purchase
+- Complex decision making: everything high, like house or car or holiday</p>
+
+<p>Businesses to business decisions are often risky and a good relationship between buyer and seller is needed to reduce the perceived risk.</p>
+
+<ol>
+<li>Customers as members of (sub-) cultures
+Defined as the sum of all learned beliefs, values and customs. Different countries eat different amounts of pasta for example.</li>
+</ol>
+
+
+<p>From that knowledge you need to move on to market segmentation, used to divide the market in easily targeted groups. There are different segments and variables but understanding the common characteristics that help you group potential customers based on your knowledge about them, is crucial for a correct strategy.</p>
+
+<p>To target segments you can do so:
+- Undifferentiated
+- differentiated
+- Concentrated
+- customized</p>
+
+<p>You should also look at choosing segments in which you can keep customers long term. On top of that one-to-one customization becomes more important as it also becomes possible.</p>
+
+<p>You also need to take into account how your customers affect you, e.g. loud guests in a restaurant targeted at fine dining.</p>
+
+<p>If you know all of the above, then you need to think about positioning. Your company for your customers to be able to be aware of the differences between you and your competitors.</p>
+]]></content>
+  </entry>
+  
+</feed>

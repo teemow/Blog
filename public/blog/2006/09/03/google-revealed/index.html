@@ -1,0 +1,351 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Google Revealed - Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="Just building a company, reading articles about how companies work obviously interest me. They have interested me before actually. So here is an &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/2006/09/03/google-revealed">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Google Revealed</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-09-03T14:13:00+02:00" pubdate data-updated="true">Sep 3<span>rd</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Just building a company, reading articles about how companies work obviously interest me. They have interested me before actually. So <a href="http://www.informationweek.com/management/showArticle.jhtml?articleID=192300292&amp;amp;pgno=1&amp;amp;queryText=">here</a> is an article on InformationWeek entitled <a href="http://www.informationweek.com/management/showArticle.jhtml?articleID=192300292&amp;amp;pgno=1&amp;amp;queryText=">Google Revealed: The IT Strategy That Makes It Work</a> that is really interesting.</p>
+
+<p>&lt;em&gt;Google&#8217;s programmers are 50% to 100% more productive than their peers at other Web companies, a result of the custom libraries Google developed to support programming of massively parallel systems, Arnold says. He estimates the company&#8217;s competitors have to spend four times as much to keep up.&lt;/em&gt;</p>
+
+<p>That is the first thing I absolutely see as true. If you have a focus on IT then you will need to make your developers perform well. The thing is that this is not a linear equation. Sometimes developers have to do things that make you slower to make your faster. Our developers just worked on a MVC framework for JavaScript. Just putting JavaScript in the Views of cakePhp would have made us faster in the short run, but in the long run, the new solution is a lot better and already paying off now.</p>
+
+<p>&lt;em&gt;To wring every ounce of performance from its hardware, Google writes custom software&#8211;lots of it. Major innovations include MapReduce, a programming model to simplify processing and create large data sets; BigTable, a system for storing and managing massive amounts of data; Sawzall, an interpreted programming language for analyzing large data sets in a distributed computing environment; Google File System, a distributed file system for data-intensive applications; and Google Workqueue, a system that groups queries and schedules them for distributed processing.&lt;/em&gt;</p>
+
+<p>Lots of innovation here. The problem is that we are both reading a writing a lot and that&#8217;s a different thing that a large read only system. I am not even sure if AdWords runs on the same system or if they need more of a standard database approach there. They probably still figured it out :)  Google also has its own Web server that uses a CGI interface for linking in databases, which seems to be faster for them. Makes me think again about lighttpd which looks very promising.</p>
+
+<p>Google also built its own CRM, which I can fully understand based on the CRMs that are out there, but are using Oracle Financials for the financial backend, which again I understand with that kind of stuff being a lot more standard without Google being able to do much about it.</p>
+
+<p>Next interesting things is that Google uses a matrix like management structure with everyone reporting to different people at the same time, which in general is complicated and probably works a lot better for developers than sales people, but which can be made more manageable with technology. Above that, Google engineers switch projects every three months, which again needs a different management system. This is also one of the reasons they make sure that they hire interesting and intelligent people, because they have to get into new products fast.</p>
+
+<p>&lt;em&gt;Lots of small, short-lived projects mean traditional project management software based on task lists isn&#8217;t right for Google. For one thing, techies aren&#8217;t very good at cataloging how they spend their hours. What they are good at, it turns out, is writing up a few short sentences or snippets about what they do each day. Those get compiled in a database along with periodic updates from project leaders about a team&#8217;s deliverables. The project system tags the input by topic and routes to the appropriate people. &quot;This is not hard AI,&quot; Merrill says. Still, who else manages workers like this?&lt;/em&gt;</p>
+
+<p>I really like that approach because task management isn&#8217;t perfect. As soon as your developers understand where you are going and what you are doing and what needs to get done, then the good ones pretty much know themselves what to do. With our agile approach we are at least going as far as not telling everyone what they need to do but just having task lists per sprint and everyone takes what they want to to, being responsibly for achieving sprint goals as a team.  The employee review system is actually very 360 degrees, a lot more than with other companies but something you need for their matrix system.</p>
+
+<p>&lt;em&gt;Google employees use Linux, Mac OS, and Windows on desktop computers, depending on their needs and desires. Many use homegrown programs such as Google Desktop, Google Earth, the acquired Writely word processor, and the recently launched Google Spreadsheets. In general, if an employee wants certain software, he or she can request it through the company intranet without jumping through a lot of hoops for approval.&lt;/em&gt;</p>
+
+<p>100% agreed. Don&#8217;t make somebody use something when they want to use something else. You just loose performance. We now have 2 windows laptops, to mac laptops and one ubuntu laptop here. Who am I to complain. I just need to make sure the internal system work with each of those systems. As the quasi CIO of Google says:</p>
+
+<p>&lt;em&gt;&quot;Most people in my job try to control. &#8216;Here are the three things you can buy.&#8217;&quot; Merrill explains. &quot;I try to control as a little as I possibly can but make it easy to work within parameters that I know how to work with.&quot; &lt;/em&gt;</p>
+
+<p>And again agreed:  The right approach, as Merrill sees it: Talk a lot; use data, not intuition; automate wherever you can.  Ok, the intuition part is relative, mainly because since my last MBA course on Creativity, Innovation and Change, I am now 100% sure that intuition coupled with experience means that your full brain capability can make a lot faster and better decisions if you don&#8217;t try to put everything in hard numbers.</p>
+
+<p>Then this bit on how they hire:</p>
+
+<p>&lt;em&gt;At Google, however, examples abound, such as the way the company decides on new employees. &quot;No one can hire anyone here,&quot; Merrill insists. &quot;Hiring decisions are made by public groups. We all hire everyone.&quot;&lt;/em&gt;</p>
+
+<p>Again agreed, with that idea actually having come to my mind through<a href="http://www.calevans.com/view.php/page/nerdherding">Nerd Herding</a> by Cal Evans.</p>
+
+<p>&lt;!&#8211; technorati tags start &#8211;&gt;</p>
+
+<p>Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Agile&quot;&gt;Agile&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Cal%20Evans&quot;&gt;Cal Evans&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Developers&quot;&gt;Developers&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Nerd%20Herding&quot;&gt;Nerd Herding&lt;/a&gt;</p>
+
+<p>&lt;!&#8211; technorati tags end &#8211;&gt;</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Oliver Thylmann</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-09-03T14:13:00+02:00" pubdate data-updated="true">Sep 3<span>rd</span>, 2006</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/business/'>Business</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://thylmann.net/blog/2006/09/03/google-revealed/" data-via="othylmann" data-counturl="http://thylmann.net/blog/2006/09/03/google-revealed/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2006/08/31/a-bit-more-about-fon/" title="Previous Post: A bit more about FON">&laquo; A bit more about FON</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2006/09/05/we-have-our-logo-in-front-of-the-building/" title="Next Post: we have our logo in front of the building">we have our logo in front of the building &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

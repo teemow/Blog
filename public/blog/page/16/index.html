@@ -1,0 +1,681 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="&lt;p&gt;I have a problem and I have high hopes that this might solve it. A little background is in order. To manage our internal documents we are &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/page/16">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/06/05/os-x-terminal-internationalization/">OS X Terminal Internationalization</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-05T19:02:00+02:00" pubdate data-updated="true">Jun 5<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;I have a problem and I have high hopes that this might solve it. A little background is in order. To manage our internal documents we are using <a href="http://subversion.tigris.org/">Subversion</a>. Not only for development stuff but also for all other documents. The nice thing is that everything is versioned, backed up, and available from every pc. A small &lt;em&gt;svn update&lt;/em&gt;, and all documents are up to date, a small &lt;em&gt;svn commit&lt;/em&gt; with a comment and your new version is in. All cool.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;On Windows, we don&#8217;t have a problem but on OS X there is one. The thing is that Subversion was done for development stuff and the shell is not really done for the average joe. There is a tool for OS X called <a href="http://www.apple.com/downloads/macosx/development_tools/svnx.html">svnX</a> but that is really nothing more than a wrapper for the shell commands. The OS X shell is not properly internalized. The problem is that the German letters like Ã¼Ã¤Ã¶ do not propperly work, and for business documents, this is something you use a lot. E.g. Founding would be called GrÃ¼ndung.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As the internationalization is not perfect, svn checkout will get the documents on your hard disk. After that is done you have one document that is called GrÃ¼ndung.doc for example. But when you do a ls, you will not get GrÃ¼ndung.doc but something like GruSOMETHINGndung.doc. When Subversion then does a status check it will tell you that you do not have GrÃ¼ndung.doc in your directory and a GruSOMETHINGndung.doc that does not have a status in the Subversion directory. As there are lots of documents with Ã¤Ã¶Ã¼ you will have e.g. 30 documents that are not subversioned and 30 document that are missing.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Now that is a PAIN! And all tries to internationalize the shell have been unsuccessful. .profile now includes:&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;em&gt;export LC&lt;em&gt;CTYPE=de&lt;/em&gt;DE.UTF-8
+export LC&lt;em&gt;ALL=de&lt;/em&gt;DE.UTF-8
+export LANG=de&lt;em&gt;DE.UTF-8
+export LANG=en&lt;/em&gt;US.UTF-8&lt;/em&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Nothing. I also built a new bash from MacPorts. Nothing either. I would be happy for any suggestions.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/06/04/i-want-a-free-tv/">I Want a Free TV</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-04T09:45:00+02:00" pubdate data-updated="true">Jun 4<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Either from Samsung directly or from Cyberport. We recently bought a <a href="http://www.cyberport.de/item/1852/1252/0/80334/samsung-le-32-r-32-b-lcd-tv-32-zoll---81-cm--hd-ready--restposten-.html">Samsung LE-32 R32 LCD TV</a> for the Office (to complement the Wii ;)) and now two of our developers have bought the same machine directly from Cyberport. Damn! And yes, I am too lazy to add it to my product suggestions on the right at the moment and yes, I don&#8217;t make any money from Cyberport. It&#8217;s a very fine 32&quot; monitor for 550 EURs. Great machine.</p>
+
+<p>But people from Cyberport, if you find lots of sales of the last Samsungs happening right now referred via me, send one to my address. Just search for Oliver Thylmann in your database :) Or just talk to Samsung for them to give me one. ;)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/06/04/ordering-your-desktop/">Ordering Your Desktop</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-04T07:30:00+02:00" pubdate data-updated="true">Jun 4<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I lived with a lot of clutter on my Desktop. It&#8217;s just that stuff ends up there somehow and it never tends to leave. Now I found the <a href="http://www.kinkless.com/article/kinkless_desktop">Five Steps to a Kinkless Desktop</a> and I think I am moving into Desktop Heaven. The article comes from the guy behind <a href="http://www.kinkless.com/kgtd">kGTD</a> which I am using already. It&#8217;s a collection of scripts for <a href="http://www.omnigroup.com/applications/omnioutliner/">OmniOutliner Pro</a> that gives you a very good Getting Things Done tool. Now I am all Kinked.</p>
+
+<p>I already have <a href="http://www.omnigroup.com/applications/omnigraffle/">OmniGraffle Pro</a> and now it seems that the <a href="http://www.omnigroup.com">OmniGroup</a> is working on <a href="http://www.omnigroup.com/applications/omnifocus/">OmniFocus</a> which will as it looks replace my kGTD once it comes out. The tool seems to be the ultimate GTD tool in itself and I signed up for the mailing list and hope to get access to the next early release soon. It just has a few nice things like nested contexts that I really would love to have.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/06/02/is-facebook-the-next-google/">Is Facebook the Next Google?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-06-02T09:39:00+02:00" pubdate data-updated="true">Jun 2<span>nd</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>That&#8217;s the question that many people are asking at the moment. I thought I&#8217;d pitch in a few ideas. First I need to put a bit about Google&#8217;s Universal Search into context. It is probably best explained by Cringely&#8217;s article <a href="http://www.pbs.org/cringely/pulpit/2007/pulpit_20070518_002105.html">Risk is for Losers</a>, but I&#8217;ll try to summarize. After you read the article, the YouTube acquisition is starting to make sense. It is really (possibly, mostly) about search. With Universal Search, Google now links among others to YouTube videos and you know what, Yahoo! or MSN wouldn&#8217;t do that, because they would not really like to send stuff over to a competing service. Of course Google is saying that they are not playing with the search engine results to favor their own services, but having one that will return most of the videos is surely not a bad thing. That&#8217;s what they paid over $1 billion USD for YouTube. To further emphasize that they are in it for the long run, you can see JenSense&#8217;s post about <a href="http://www.jensense.com/archives/2007/05/google_adsense_16.html">disabling arbitrage publisher accounts on AdSense</a>. These are the sites that have nothing more than AdSense links on them, with which you can make a good amount of money by buying keywords cheap and getting good clickthroughs on the visits you buy, resulting in more revenue, but there are more clever methods too. In the end, that&#8217;s probably a lot of revenue for Google, in the millions if not tens of millions of USD per year, and they are canceling in the name of quality. Very good move.</p>
+
+<p>But let&#8217;s return to and there are some similarities. To learn more about what happened there check out <a href="http://money.cnn.com/2007/05/24/technology/facebook.fortune/index.htm?postversion=2007052511">this story</a> on CNNMoney including an interview with Founder/CEO Zuckerberg. Again in short, you can now build applications on top of the Facebook platform (they are calling it platform now ;)), integrating your applications into Facebook itself. <a href="http://xing.com">Xing</a> has tried their hand at an API but <a href="http://blog.thinkphp.de/archives/219-Xing-API-dat-war-wohl-nix!.html">it does not seem to fare too well</a>. The difference with Facebook is that they are really a platform, or are becoming one. The applications you write become integrated into the platform and now it&#8217;s just about finding out what will work best with the users. Check out <a href="http://venturebeat.com/2007/05/29/qa-with-ilikes-ali-partovi-on-facebook/">this interview</a> with Ali Partovi from iLike who are signing up 200k new members a day via their Facebook application!</p>
+
+<p>This is some real value for other sites and the cool thing is that Facebook, very similar to how Google works, is very open to what runs on their site. They might build a photo app but somebody else can too and whoever wins wins. It&#8217;s actually bit more like Microsoft in the sense that they are making available the operating system and programming language. The rest is up to you.</p>
+
+<p>What is really interesting is the larger view, and here I can only suggest <a href="http://paulconley.blogspot.com/2007/05/next-big-thing-isnt-here-but-it-may-be.html">Paul Conley&#8217;s post about the next big thing</a>. Salesforce is really already very similar in the sense that you have a widgetized architecture (just enabled my developer account again ;)) and while it&#8217;s for work, there could possibly a lot more things that people might want to integrate there, and possibly vice versa with Facebook. This widget infrastructure will be interesting in the future and we are all not sure where it leads.</p>
+
+<p>One thing to remember though is that signing up 200.000 new members per day, doesn&#8217;t really pay the bills yet. So monetization of widgets will be interesting. I do not mean a money widget, that makes money as the idea of the widget, but monetizing a widget that is not there to make money.</p>
+
+<p>Really interesting times these are.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/25/some-stories-waiting-posting/">Some Stories Waiting Posting</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-25T18:58:00+02:00" pubdate data-updated="true">May 25<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;As there are some things I&#8217;d like to link to I&#8217;ll just aggregate them right here to finally get them out of the way. :)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First of all, <a href="http://thepiratebay.org/legal">the Pirate Bay Legal</a> page is a real fun to read. As a background, they run their torrent servers in a country where hosting the torrent files that point to files of copyrighted material is just not illegal and so they are fully in the green for doing what they do. Their answers are to the point :)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;<a href="http://www.qype.com/">Qype</a> had a relaunch and I really like it. Congratulations to the people behind it. Very nice indeed. <a href="http://technorati.com">Technorati</a> also had a very good relaunch and especially of note is the new <a href="http://s.technorati.com">Technorati Search</a> page. I have to admit that after having been a <a href="http://technorati.com/people/technorati/bizkiffer">member since 2003</a> I am really using Technorati more and more. It just happens very often that you want to know what people are saying right now and there the search is just a nice interface. Next up is the <a href="https://www.xing.com/marketplace/">Xing Marketplace</a> which is really nicely done and I am looking forward to seeing how it develops. Still need to play with it though.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;When you want to start a new coding project, I suggest taking a look at <a href="http://www.springloops.com/">Springloops</a> if you do not have your own servers for development or even if you do, because it looks awfully well done. Setting something like this up is not an easy task, especially if you move to the Garden version and can set up automatic deployments. Our system now consists of live, staging, dev and integration servers, where the integration server checks trunk for changes in short cycles and automatically deploys the software, sending out alerts for failed tests. It even blames people via svn of errors ;) But we built it ourselves, just having the knowledge in the team.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;On another note, <a href="http://jeremy.zawodny.com/blog/archives/009093.html">Jeremy just cannot quit</a> with <a href="http://www.handdrawngames.com/DesktopTD/">Desktop Tower Defense</a>. I can understand that ;)&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/23/review-dyson-dc-08-t-animalpro/">Review: Dyson DC 08 T Animalpro</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-23T11:50:00+02:00" pubdate data-updated="true">May 23<span>rd</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>or how to really suck! I was weary I have to say. Buying a vacuum cleaner is really nothing that should cost a lot of money and you can probably get one for well under 100 EURs. But somehow there is this company called <a href="http://dyson.com">Dyson</a> that makes vacuum cleaners that are just cool. I actually had one case study about Dyson during the MBA course and it really took some time for the founder to convince people that this was a good idea. I mean look at how ugly their <a href="http://www.dyson.com/range/feature_frame.asp?model=DC16-SY-STD&amp;amp;sinavtype=pagelink">hand vacuum</a> is!</p>
+
+<p>I for one was just in the market for a new vacuum cleaner and being a geek, all this centrifuge and other mambo jumbo obviously appealed to me. Having cats added to the fact that I really needed to take a look at Dyson and I now wound up buying the Dyson DC 08 T Animalpro (links at the end). This has a special system against cat hair and a filter against allergies. The standard price here in Germany is 519 EURs! What the F***! That is probably your first reaction. I can buy a MacMini for that the second one. :)</p>
+
+<p>I actually got it 330 EURs from Amazon. Still a lot but not 519. And then it arrived, as always ugly as hell, amazing color, and home it went. The weekend was the time of trying it out and oh the wonder. This thing does put cleaning on a different level, the air even smells differently afterwards. The only scary thing is that you are wondering if you lived in a pigs place because of the amount of dirt it picks up even if you used your old vacuum cleaner before. It&#8217;s also not too heavy at 8 kg and comes with lots of fine extras for cleaning your car and stuff.</p>
+
+<p>All in all I do not regret it one bit. It&#8217;s expensive but it is worth it. And that you have to empty the dust by hand is something that you will get used to and it is actually well solved to be easy.</p>
+
+<p>Now to try to see if there is any meaningful amount of money to be made from affiliate product links, I hereby present you the direct links to my Amazon aStores. And yes, this is a real review, I am not making this up and I really think the product is good. <a href="http://astore.amazon.com/olivthylsthou-20/detail/B000I5REVA/">USA Store</a> (mine does not exist there, this is a similar one) - <a href="http://astore.amazon.de/oliverthylman-21/detail/B0006B9EVO/">German StoreÂ </a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/19/more-thoughts-on-microsoft-and-the-banner-market/">More Thoughts on Microsoft and the Banner Market</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-19T09:13:00+02:00" pubdate data-updated="true">May 19<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;Now this was interesting. I posted about the <a href="http://blog.thylmann.net/2007/05/18/the-banner-server-market-is-changing/">Banner Server Market Changing</a> early in the day and a few hours later, Microsoft bought aQuantive for $6 billion. This resulted in my post being quoted on alarm:clock and linked on techmeme.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The interesting thing is that there is no big banner server provider left really. There is <a href="http://tribalfusion.com">Tribal Fusion</a> asÂ  <a href="http://venturebeat.com/2007/05/18/microsoft-to-buy-aquantive-for-6b-at-high-cost-to-stay-in-game/">Venturebeat posts</a>. That doesn&#8217;t really fit though I have to say. Tribal Fusion is not the same as DoubleClick or Atlas or Ad Tech. Those are banner server providers and Tribal Fusion is a network, so it would not be what Microsoft needs. As I said in my last post, there are a few small ones left, but no big ones with huge customer contacts and big potential ad impressions handeled. Remember that DoubleClick does not really sell ads on the spaces it handles on publisher sites, but is just a technology providers. Same for Ad Tech bought by AOL and same for large parts of aQuantive, Atlas namely.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As some have already put it, this is for MS to stay in the game. They don&#8217;t want to go to Google, AOL or Yahoo for running banners on their properties. So this was a must buy. Just imaging Yahoo! buying them or another agency like WPP buying 24/7 Real Media just now. This would be hell.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The best comparison of the buying action I have seen <a href="http://paul.kedrosky.com/archives/2007/05/18/microsofts_aqua.html">on Pauls blog</a> coming from <a href="http://zenrob.com/2007/05/18/microsoft-buys-aquantive-wpp-buys-247/">zenrob</a>. The important thing is the money spent per ad impression served.&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;</p>
+
+<pre><code>&amp;lt;li&amp;gt;Google/Doubleclick: $0.0107&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;WPP/24/7: $0.0032&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Microsoft/aQuantive: $0.0272&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Yahoo!/Right Media: $0.0142&amp;lt;/li&amp;gt;
+</code></pre>
+
+<p>&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;For me the Right Media deal doesn&#8217;t really fit in here because this is a mix between a network and a service providers, really more of a market place and actually very close to my VISA model, so I do really like the Right Media buy. Best one of them all as a gut feeling.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But anyway, as you see, Microsoft paid a real premium for aQuantive, but they did so to have a very big foot in the market, and really in three. For one they now have <a href="http://www.atlassolutions.com/">Atlas</a> as a banner server system for agencies and publishers, <a href="http://www.drivepm.com/">DRIVEpm</a> as an arbitrage system buying ad spaces in bulk and then running performance based campaigns over them (can be very lucrative business, I know, but might become dangerous as people want to buy into those spaces that publishers could get to buy standard CPM deals, but that&#8217;s another post), and <a href="http://www.avenuea-razorfish.com/">avenue a razorfish</a> an interactive agency. Microsoft is now a bigger ad play than they were before and they need that knowledge to exploit the hell out of all the properties they will have soon. DoubleClick on the other hand was bought for the relationship with agencies only, because the technology is just not that amazing (actually the interface was so damn slow when I used it it was a pain).&lt;/p&gt;</p>
+
+<p>&lt;p&gt;If you want to read a few more posts I suggest going over to <a href="http://www.thealarmclock.com/mt/archives/2007/05/post_300.html">this alarm:clock post</a> with a roundup of views of other people.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;And by the way, I think DRIVEpm is a large part of that deal, because it is how you can push search ads on sites. But let&#8217;s see where it goes.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/18/the-banner-server-market-is-changing/">The Banner Server Market Is Changing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-18T08:26:00+02:00" pubdate data-updated="true">May 18<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;(&lt;strong&gt;Update&lt;/strong&gt;: A few hours after I wrote the following, Microsoft buys aQuantive, one of the last banner servers not owned by the big ones. See <a href="http://www.techcrunch.com/2007/05/18/microsoft-pays-6-billion-for-aquantive/">more</a> at Techcrunch. I&#8217;ll keep the article as it is for now ;) It seems that all the big ones now have their Banner Server. )&lt;/p&gt;</p>
+
+<p>&lt;p&gt;There was a time when banner server companies were something special. You needed a DoubleClick (bought by Google) because if you used somebody else, the counting differences between the publisher banner server (DFP) and the agency banner server (DFA) would be too big and result in friction. I never really understood that part because it can be reasoned away, no longer being a problem, but it seems that it is too much of a pain to use a sometimes better banner server.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But I am loosing focus. More Banner Server Providers came along  like <a href="http://www.falkag.com/">Falk eSolutions</a> (bought by <a href="http://doubleclick.com">DoubleClick</a>) whom I met ages ago in a pitch at the place I worked at back then. I have to say that they were technologically superior &#8230; oh but the counting differences. :) Then you have <a href="http://www.adtech.de/en/index.html">Ad Tech</a> (now bought by AOL) and just yesterday <a href="http://www.techcrunch.com/2007/05/17/wpp-acquires-247-real-media-for-649m/">WPP acquires 24/7 Real Media</a>. With all the &quot;bought by&quot; behind the names it becomes clear that Banner Serving is a hot topic at the moment and that it will likely move to become even more of a commodity. After the last bubble (no we don&#8217;t have a bubble at the moment) prices have dropped considerably for what you pay in CPM for delivering your ads. The problem of course is that the potential companies to work with are thinning slowly bug surely (unless you want WPP, Google or AOL be your Banner Server Providers ;)) so these prices might increase again. A few are left though like <a href="http://www.adition.net/en/">Adition</a> here in Germany which seems to be a good solution, and of course <a href="http://www.openads.org/">OpenAds</a>. Then there is the mightly <a href="http://aquantive.com">aQuantive</a> with <a href="http://www.atlassolutions.com/">Atlas Solutions</a> and also <a href="http://www.emediate.dk/">emediate</a>. There are likely others I forgot (leave a comment) and of course there are lots of targeting companies at the moment that just plug in to a banner server, like <a href="http://wunderloop.com">wunderloop</a>. Above that there are the market places like <a href="http://www.rightmedia.com/">Right Media</a> (bought by Yahoo!) who have a great demo by the way!&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Lots of companies out there, all growing well, and things are moving closer together. Companies are slowly seeing that internet is core to what they do and they are investing into that. The best sign of that is WPP going into the Banner Serving Space.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The problem is that simple banner serving is no longer special. Service is what distinguishes and special features above the standard. Having built one specialized banner server already, and now building another system I would call a solution rather than a server, I can tell you that building your own can make sense in many cases. Especially if like <a href="http://ormigo.com/">us</a> you have the knowledge in-house including one of the original Falk eSolutions developers. This is especially true if you need something different than a standard top of the fold big size banner.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;And this is where the space will likely be moving in the future. We need APIs more than ever in this space as there will be more small systems, specialized for the portals they are used on, as well as some big players with lots of power behind them. We need a real market place not created for making money but for facilitating performance. This is a performance play people! We can measure things and as soon as we can we do we are moving in the performance mode. Currently this is the internet space, but it will become standard in many other places because rather sooner than later (probably later and bigger because we always overestimate but that&#8217;s another point ;)) lots of things will become measurable. Digital Paper, TV with a backchannel.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I really see a VISA like structure to be established as a non-profit. Problem is that only the good ones would win. Transparency would be king. And we are not there yet. We are still in the wining and dining business and it&#8217;s probably going to remain that way for some time. But it&#8217;s good seeing the buying action because it shows that things are changing and ad serving is becoming central to the strategy of the big ones. That opens us up for new thinking. Looking forward to it. But first I need to revolutionize the local market. :)&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/15/hp-and-halo-and-real-teleconferencing/">HP and HALO and Real Teleconferencing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-15T06:40:00+02:00" pubdate data-updated="true">May 15<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>John has a <a href="http://battellemedia.com/archives/003632.php">great post</a> online about HP&#8217;s <a href="http://www.hp.com/halo/index.html">HALO</a> system, used for teleconferencing and just looking at the images makes you drool. Just take a look.</p>
+
+<p>It&#8217;s really what Apple is trying to do on your laptop but using real hardware (with real costs ;)) and 4 42&quot; LCD Screens to create an environment where you feel you are sitting at the table with the other people. A round table around the world. Very cool.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/05/10/enyclopedia-of-life/">Enyclopedia of Life</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-10T14:13:00+02:00" pubdate data-updated="true">May 10<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.eol.org/home.html">Encyclopedia of Life</a> is &lt;em&gt;an ecosystem of websites that makes all key information about life on Earth accessible to anyone, anywhere in the world.Â &lt;/em&gt;</p>
+
+<p>And they do have a very cool video presentation on their site about what they are about to do. Wonderfully done, very well explained.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/17/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/15/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

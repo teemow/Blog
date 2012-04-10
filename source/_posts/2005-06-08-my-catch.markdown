@@ -1,0 +1,13 @@
+---
+layout: post
+title: "my catch"
+date: 2005-06-08 17:42
+comments: true
+categories: Moblog
+author: Oliver Thylmann
+---
+
+
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img src=&quot;http://photos13.flickr.com/18210979_53ce0477e9.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/18210979/)&lt;br /&gt;	[my catch](http://www.flickr.com/photos/oliver/18210979/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	&lt;/p&gt;
+
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "web 2.0: chmod 777"
+date: 2007-04-21 12:46
+comments: true
+categories: Web 2.0
+author: Oliver Thylmann
+---
+
+
+
+
+
+
+That is really the best and shortest explanation about one part of what makes Web 2.0 special. chmod 777. Very short, very simple. Found [here](http://www-03.ibm.com/developerworks/blogs/page/jasnell?entry=chmod_777_web).
+
+For the non-technical here. Chmod is a command in Unix to handle permissions on a file for unix. The first number is for the owner of the file, the second for the group that user belongs to and the third for everybody. 777 means everyone can read, create, write, anything. Free for all. :)
+

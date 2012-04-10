@@ -1,0 +1,21 @@
+---
+layout: post
+title: "HandyPay"
+date: 2003-10-13 08:08
+comments: true
+categories: Wireless
+author: Oliver Thylmann
+---
+
+
+&lt;b&gt;Update&lt;/b&gt;: Well now I found out that this is pretty much &quot;Mobile Terminated Premium SMS&quot;, which means if you enter your number you pay, the SMS is just a confirmation that you did. Pretty common already. So not all that special but I was fooled by some PR jargon again... which shows they are good though ;) Enterpayment is a biller for the adult market. :)
+
+[HandyPay](http://www.handypay.de/) has just been launched in Germany. It's a new company [Enterpayment](http://www.enterpayment.de/), which seems to be a sister company of [Jamba](http://www.jamba.de/). This is likely the first real mobile phone payment system that will work in Germany. All you do is leave your mobile phone number as payment, you get a special pin and you can authorize the payment. Plain and simple, deducted from your phone bill. Very nice I have to say. It makes me wonder a bit though that T-Mobile and Vodafone are Partners, because for all I know, they were working on a mobile phone payment standard together.
+
+So either this is the standard, which seems unlikely, or this is just somebody who was a bit in on the entire deal and they are the first to use the standard. It is interesting to look at the other partners though. For one, T-Pay seems logical. Another company on there is [EroData](http://www.erodata.de/). Who's EroData you might ask. Well, they are one of the big billing systems for adult web sites in Germany. There are actually some fun stories out about them, which I won't mention here, but if they didn't change since the last years it will be interesting to see what will happen in the partnership.
+
+The more interesting thing is though that Enterpayment has understood the internet correctly and they are going for the adult market. Get all the adult crowd into it, which gets people using it, which gets other web sites into the group as they know that there are already 10s of thousands of people using it. Porn gets users, users get merchants. This is another thing why I think they might just succeed with their plot.
+
+And anyone can now buy adult stuff without giving out their name. Potentially the mobile phone company could give out a Yes/No about the age of the user.
+
+

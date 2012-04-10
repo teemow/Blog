@@ -1,0 +1,21 @@
+---
+layout: post
+title: "A New Job"
+date: 2003-02-11 18:56
+comments: true
+categories: Business
+author: Oliver Thylmann
+---
+
+
+I will drive stuff like this ...
+
+
+&lt;!-- more --&gt;
+
+
+&lt;img alt=&quot;tierpark.JPG&quot; src=&quot;http://www.ennead.de/blog/archives/tierpark.JPG&quot; width=&quot;640&quot; height=&quot;480&quot; border=&quot;0&quot; /&gt;
+
+I mean the big ones of course ;)
+
+

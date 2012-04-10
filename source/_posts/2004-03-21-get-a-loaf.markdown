@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Get a LOAF"
+date: 2004-03-21 09:03
+comments: true
+categories: Life in General
+author: Oliver Thylmann
+---
+
+
+I just found [LOAF](http://loaf.cantbedone.org/) (not FOAF :)) via [Joi](http://joi.ito.com/) ([here](http://joi.ito.com/archives/2004/03/21/loaf.html)) and it's an interesting idea. It uses so called Bloom Filters to encode some information you give it, in this case the eMail addresses of people you have in your address book for example. There is no way to find out what the eMail addresses are with this method, but you can check an existing eMail against whether it is included in the list. If you now let me send you this file, you send me yours, then I can quasi check all your address book and all of mine and if it isn't in there, it's spam. That might be a little hard, but add to that the option of sending a reply about adding yourself to my addressbook (like web.de does) and you can pretty quickly get a spam free inbox and a good address book too. I really have to look into this address book thing if this is not doable on my own server somehow. Even though I do use [Oddpost](http://www.oddpost.com/), my spam has been going up again, as if these people learned how to go arround Oddpost's filters. I really need to get this settled.
+
+

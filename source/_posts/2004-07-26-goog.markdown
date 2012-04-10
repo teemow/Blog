@@ -1,0 +1,13 @@
+---
+layout: post
+title: "GOOG"
+date: 2004-07-26 16:30
+comments: true
+categories: Investing
+author: Oliver Thylmann
+---
+
+
+Ok, Google has [announced their price](http://story.news.yahoo.com/news?tmpl=story&amp;u=/nm/20040726/ts_nm/tech_google_ipo_dc_7) (thanks for the link [Heiko](http://www.hebig.com/)). It's simply funny, nothing more to say there really. I got a valuation [close to $38 Billion](http://owt.typepad.com/blog/2004/05/my_own_google_v.html) some time back in my own calculation, but it was based on the most positive scenario. Somebody wants to make some serious money there. Oh the downfall will be fun. At that valuation Google is valued at about the same amount as Yahoo! and only 10 Billion USD below eBay and both of these have a real business model, especially eBay! I still want to see the Google business model because AdWords can't be it.
+
+

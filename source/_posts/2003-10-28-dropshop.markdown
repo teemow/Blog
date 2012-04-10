@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Dropshop"
+date: 2003-10-28 08:41
+comments: true
+categories: Business
+author: Oliver Thylmann
+---
+
+
+Yesterday I posted about the future that APIs from sites like Amazon and eBay ([see here](http://www.ennead.de/blog/archives/000955.php)) and now I got the info that [Dropshop](http://www.dropshop.de/) opened in Germany. What they do is let you bring over your stuff and they sell it on eBay and Amazon. This is surely only possible through the public APIs of both those sites. And more things like this will be possible in the future.
+
+

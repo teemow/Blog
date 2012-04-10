@@ -1,0 +1,15 @@
+---
+layout: post
+title: "RSS 2 HTML"
+date: 2003-09-21 15:01
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+I am starting to get interested in XSL, which can be used to format the output of XML files. Since I started moving over to [MovableType](http://www.movabletype.org/) interested readers could stay up to date with the help of an RSS reader an my [RSS feed](http://www.ennead.de/blog/index.rdf). Up till now, looking at this feed in a browser was horror, as it sent the output as plain XML. Now, with the help of XSL, you can look at the file being displayed just fine within your browser. I found out about this via Lockergnome's RSS Resource and [Russel Beatie](http://www.russellbeattie.com/notebook/1004309.html)'s site, where he talks about finding the system.
+
+Now if I wanted to go all out there I would move my entire site to XML and XSL. Probably very much overkill for a simple site like mine, but for a bigger web site... interesting. You can then start to decouple everything. Push out content via XML, display it for different readers via XSL. You could potentially let people kind of surf with Acrobat or their Cell Phone or their Browser or simply fax it out in a readable fashion. You can make content available behind the scenes and only then get the designers to work on the layout and looks of it. Interesting to say the least.
+
+

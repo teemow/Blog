@@ -1,0 +1,355 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Interest Risk Management Instruments - Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="There are some special instruments for interest risk control, and the ones discussed here are forward rate agreements (FRAs), interest rate futures &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/2004/03/27/interest-risk-management-instruments">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Interest Risk Management Instruments</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2004-03-27T15:49:00+01:00" pubdate data-updated="true">Mar 27<span>th</span>, 2004</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>There are some special instruments for interest risk control, and the ones discussed here are forward rate agreements (FRAs), interest rate futures and swaps. All these are derivatives, meaning that their price movements is derived from the movement in an underlying asset. FRAs are over-the-counter (OTC) deals while futures contracts are exchange-traded. The choice between OTC and exchange-traded derivates involves the decision of convenience against cost as OTCs can be customized to your liking, paying an extra for the privilege.</p>
+
+<p>&lt;!&#8211; more &#8211;&gt;</p>
+
+<p>FRAs are agreements between two parties, agreeing to a fixed exchange rate in a future period of time. They will then compensate each other if it is different from the actual. A FRA would be quoted as: &#8216;three against six months&#8217;, meaning a three month period starting in three months.</p>
+
+<p>Example: I get a FRA from a bank three against six months of 8%. In three months the exchange rate is at 9%, meaning that the bank will pay me back the 1% to give me the 8%. All this does not involve any loan but is simply a contract to compensate for the difference. This deal only helps me make sure that my normal borrowing conditions do not fluctuate with interest rate changes.</p>
+
+<p>In the above example I would then borrow for three months but would get the difference in interest rate at the beginning of the 3 months period, meaning that it has to be discounted as payment is made at the start of the period rather than at maturity. Normally the rate of interest specified in a FRA contract is the LIBOR rate.</p>
+
+<p>{(LIBOR at settlement - Contract rate) x n/365 x Contract amount}   /  {1+ (LIBOR at settlement x n/365)}</p>
+
+<p>The company will still pay the usual spread above LIBOR in its borrowing.</p>
+
+<p>The advantages of FRAs are:
+- You do not have to borrow, as this is independant of that action
+- You can reverse your FRA by taking an equal an opposite one, called off-setting. They do not eliminate each other but do cancel each other out in terms of profit and loss.
+- FRAs are tailored by banks.</p>
+
+<p>&lt;b&gt;Futures&lt;/b&gt; on interest rates and other things are another important option. They developed from forward trading, a contract to deliver a specific quantity of goods at a certain quality in the future at a certain date to a certain price. Futures are standardised forwards with specific size and settlement dates. Future contracts are not made directly but through a clearing house and your position in a futures contract you bought can be closed at once by selling the same. They are very liquid, also due to the clearing house, while forwards might not be sellable when you want to. Very few futures contracts actually reach maturity and 98%+ are closed out before settlement. If there are more futures or forwards in a market, this depends on how important and/or costly tailoring of these derivatives is. Foreign exchange trading is often done in OTC deals while interest rate trading is done in futures.</p>
+
+<p>A little bit more on the &lt;i&gt;clearing house&lt;/i&gt; is in order. In simple, each party trading via the clearing house settles their account at the end of the day to start without a profit or loss at the start of the next day. When going into a deal you normally have to deposit an initial margin and after movements in the market, a &lt;i&gt;marking to market&lt;/i&gt; will happen which puts the account balances back in order by crediting and debiting so called &lt;i&gt;variation margins&lt;/i&gt;. While this requires daily payments from both buyer and seller, they do not need to know each other as everything goes via the clearing house. At delivery time the futures price must equal the real spot price of the underlying goods. Due to the marking to markt, the buyer now has the money to pay for the goods, which would be his early agreed on price plus or minus his gain or loss which was in relation to the spot rate. Due to the big amounts of money that are potentially at place here, while only really working with margin amounts, clearing houses might only work with members who&#8217;s credit ratings are checked. The margins are normally between 1% and 10% of the position taken.</p>
+
+<p>&lt;b&gt;Short term interest rate futures&lt;/b&gt; are normally priced as 100 minus the futures interest rate, meaning that 8% being the notional rate, a Eurodollar bond would be quoted as 92.00, shrinking to 91.00 if the interest rates on the Eurodollar bond rises to 9%. To make a profit on rising interest rates you need to sell a FRA now and buy it back later. The minimum price fluctuation is a tick, being 0.01%. Actual  cash flows in selling and buying FRAs is only the payment of margins.</p>
+
+<p>There are also &lt;b&gt;long-term interest rate futures&lt;/b&gt;, based on long-term government bonds with 10 to 25 years maturity. With a future you pay to get delivery of something in x months. Futures prices are normallly linked to a given maturity and to a bond that is &#8216;cheapest to deliver&#8217; for the maturity. So a sale of a futures contract equals the salve of the underlying CTD bond in x months.</p>
+
+<p>Page 64fff includes a worked example on heading a 4.500.000 EUR loan that needs to be taken out in the future.</p>
+
+<p>&lt;B&gt;SWAPS&lt;/B&gt;</p>
+
+<p>Oh the joy of swaps. There is a single-currency (previously interest rate) and cross-currency (previously currency) swaps. The idea is that two company for example take out a loan but pay each others loan and they both are better off. 80-90% of Eurobonds are part of &quot;bond plus swap&quot; packages. You borrow currencies you don&#8217;t need and swap them back to those that you need from somebody who has better access to them. You can also swap parts of portfolios of debt. Managing a SWAP-warehouse is a highly skilled taks, a very well-paid one, and allows for example a bank to mix and match different debt contracts in differnet SWAPs, in part or in total.</p>
+
+<p>The general good idea of SWAPs is that it allows the buyer to have access to all markets and savings for the borrowers can comes from different reasons:
+- there might be name recognition attached to the corporation in question or the other party, allowing for better access to debt
+- there are differences in risk spreads and preferences in fixed and floating-rate debt for single-currency swaps.
+- different markets of debt are independent</p>
+
+<p>Following on page 72+ have an example of a single-currency swap and cross-currency swap. (You can find some examples <a href="http://www.google.com/search?hl=en&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&amp;amp;q=cross-currency+swap+example&amp;amp;btnG=Google+Search">here</a>.)</p>
+
+<p>All in all, swap contracts are complicated but they are being standardised and the minimum amounts needed for a profitable swap are going down as the market develops.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Oliver Thylmann</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2004-03-27T15:49:00+01:00" pubdate data-updated="true">Mar 27<span>th</span>, 2004</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/finance/'>Finance</a>, <a class='category' href='/blog/categories/mba/'>MBA</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://thylmann.net/blog/2004/03/27/interest-risk-management-instruments/" data-via="othylmann" data-counturl="http://thylmann.net/blog/2004/03/27/interest-risk-management-instruments/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2004/03/26/too-much-cash/" title="Previous Post: Too much cash">&laquo; Too much cash</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2004/03/27/ongoing-on-openoffice/" title="Next Post: ongoing on OpenOffice">ongoing on OpenOffice &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

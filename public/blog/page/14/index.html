@@ -1,0 +1,731 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="&lt;p&gt;XSS stands for cross site scripting. Another interesting acronym is Cross-site request forgery (CSRF). All in all, what most of you should &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/page/14">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/27/whats-the-fuss-about-xss/">What&#8217;s the Fuss About XSS</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-27T15:47:00+02:00" pubdate data-updated="true">Jul 27<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;XSS stands for cross site scripting. Another interesting acronym is Cross-site request forgery (CSRF). All in all, what most of you should think about is that for web sites that are written without security in mind, or that simply have a bug, you can possibly infiltrate code of your own as an outsider. A good example of this would be the <a href="http://namb.la/popular/tech.html">MySpace Worm</a> which enabled the creator to have somebody who visited his MySpace profile, automatically add him as a friend. Additionally, that person automatically added his little code to their profile, automatically making all people that visited that persons profile the authors friend again.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So let&#8217;s see how long it took him to get a few friends. He included a little bit of code on his profile when he had 73 friends, an hour later somebody looked at his profile (1 more friend, bit more code on that persons page), 7 hours later he had 221 friend requests, one hour later  480, then another (he since accepted the 480 ;)) 561 another hour later, &#8230; 3 hours later 2503 friends and 6373 request; 5 hours later 2503 friends, 917084 requests, a few minutes later over a million friend requests.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Now that&#8217;s really fun. I mean nobody was hurt. But what follows next can be just a small little addition to that little worm, or an add you see, or a forum posting, or an article, &#8230; .&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As seen in this article that has just been published, entitled <a href="http://www.gnucitizen.org/blog/u-r-insecure-how-uri-exploits-are-changing-the-webappsec-landscape">U R Insecure - how URl exploits are changing the webappsec landscape</a>, you can at this time on firefox, or ie, or any other browser really as long as it is on windows, infect the file system. What does that mean again? It means that provided I have somehow been able to inject code on a web site you are visiting, I can open a command prompt on your machine without you noticing, download a small application, install it, and then can do virtually anything to you. What could that be?&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;</p>
+
+<pre><code>&amp;lt;li&amp;gt;I delete all contents of your hard drive (actually don't need the app for that)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I turn of your computer&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I scan all network drives for a file with &amp;quot;financial&amp;quot;, &amp;quot;next&amp;quot;, &amp;quot;quarter&amp;quot;, &amp;quot;confidential&amp;quot; or something mixing those (of course then sending me those files)&amp;lt;/li&amp;gt;
+</code></pre>
+
+<p>&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;Just to connect this again to the MySpace Worms. Within a few hours I&#8217;d have turned off a million PCs, or scanned them for confidential material. You will by now come up with your own ideas. The thing is that the door is wide open because a system in browsers allows you to open another application. There might be a joost:// prefix on your machine and Joost might be insecure (not saying it is!) and I embed a link that will open joost://something that will again give me access to the file system.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;This is not posted to make anyone afraid, but it should alert us all that this Web 2.0 idea, and all the JavaScript usage, doesn&#8217;t make things easier. We can&#8217;t just bang out an Alpha release of something without some idea of security. This is possibly getting dangerous and we need to be aware. With suddenly being able to get online apps offline the problem will only be bigger. We can write great apps that run in a browser and I am looking forward to more cool things coming there, but keep in mind that it&#8217;s not all as simple as it sounds. Imagine this working on the iPhone (I am not aware that it is). I&#8217;ll just call a few numbers and you are broke and I am rich.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/27/review-wacom-bamboo-as-mouse-replacement/">Review: Wacom Bamboo as Mouse Replacement</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-27T12:44:00+02:00" pubdate data-updated="true">Jul 27<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;Yesterday I got my new <a href="http://www.wacom-europe.com/bamboo/?lang=de">Wacom Bamboo</a>, a tablet that is ment to be a mouse replacement and I have to admit that it actually is. The biggest switch seems to be that I need to get used to holding a pen in the left hand and moving around on the screens with my left hand, instead of with my mouse on the right. At the moment I actually have both sitting at my laptop which is cool. I am missing the scroll wheel a little bit which is kind of there on the tablet but still a bit weird.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;There are actually two settings you will have on the Mac if you plug it in and install the driver. One is for Ink and the other one for the Wacom Bamboo configuration. There you can configure the 4 special buttons on the tablet and the two buttons on the pen. The cool thing is that you can set these buttons to full keystrokes, meaning that the buttons FN1 and FN2 on the tablet are copy and paste (Applekey + C or V) and the top button on the pen is Apple+W which closes the active window, cool for using the browser. I might come up with other wonderful key compinations. The other keys on the tablet are TAB and Ink On/Off and right click for the second key on the pen. It is working pretty well with these kind of keys.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Another important setting is whether you want to use the tablet as a mouse or pen. I am using it as a pen meaning that the surface of my tablet kind of is the surface of my two monitors together. Tapping top left, will put the mouse top left on the left monitor, then top right on the top of the right monitor. The cool thing here is that you will get used to the Bamboo and the size ratios and slowly but surely know where to move the pen to have the mouse where you want it to be and that is a real time saver.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;There are also some nice smaller things. I open GMail, click a mail, tab the one key on the tablet to enable ink, draw a Y on the screen and boom the mail is archived. Now that is wonderfully easy. I will have to play a bit more with Ink to really get used to using that one.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;All in all I am starting to get really happy with using a pen instead of a mouse. That&#8217;s really what the tablet is built for. I having drawn with it yet but it might actually be too small for that. But more posts on playing with Ink will likely follow.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/24/tacoda-goes-to-aol/">Tacoda Goes to AOL</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-24T13:41:00+02:00" pubdate data-updated="true">Jul 24<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>What do we hear there? TechCrunch alerted me that <a href="http://www.techcrunch.com/2007/07/24/aol-gets-its-ad-network-too/">AOL seems to have bought Tacoda</a>. The <a href="http://www.nypost.com/seven/07242007/business/aol_has_an_eye_on_you_business_peter_lauria.htm">New York Post is talking about it too</a>, citing prices between $200 and $300 million. the NYP article was actually linked right from the <a href="http://tacoda.com/">Tacoda Homepage.</a> :) We had some turmoil some weeks ago in the <a href="http://blog.thylmann.net/2007/05/19/more-thoughts-on-microsoft-and-the-banner-market/">ad server market</a> and AOL only got the small player in AdTech (not the conference, the ad server ;)) And now it seems like they got themselves an ad network. Actually it really goes into the behavioral targeting world, about whichÂ  Jeremy Liew has <a href="http://venturebeat.com/2007/07/24/ad-networks-why-it%e2%80%99s-better-than-ever-to-be-a-targeted-content-site/">some good thoughts</a>.</p>
+
+<p>The thing is though that this might hot up the behavioral ad market too.Â  It is important to note though that Tacoda also is a network, even though I am not sure how the network is booked, e.g. do they get the rests from publishers because they can monetize them better (Update: <a href="http://tacoda.com/publishers/">seems like it</a>.), do they pay fixed up front and hope to make a margin, or are they first choice and simply really pay more. AdWeek has a <a href="http://www.adweek.com/aw/iq_interactive/article_display.jsp?vnu_content_id=1001351362">good article on behavioral ads</a>, in that they might even click worse, but have higher conversions afterwards.</p>
+
+<p>The thing is that AOL already has advertising.com, and they are a network of sorts, and I don&#8217;t know what Tacoda ads to the equation. The thing is that some big publishers might cancel their relations with Tacoda due to a possibly buy from AOL. We really need an independant player in that market.Â  <a href="http://wunderloop.com">wunderloop</a> might be one (Disclosure: Michael Kleindl is Chairman of wunderloop and Investor in <a href="http://ormigo.com/">Ormigo</a>) or <a href="http://nugg.ad">nugg.ad</a>.</p>
+
+<p>One thing is important though. Whoever gets to see people on niche sites, gets to target them on the big non-focused sites. So I might agree with Jeremy that that is the really important part for the behavioral market guys. Happy to learn more.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/14/the-facebook-misunderstandings/">The Facebook Misunderstandings</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-14T16:38:00+02:00" pubdate data-updated="true">Jul 14<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>People are going back and forth about Facebook but there is one little misconception in the discussions going on. A <a href="http://scobleizer.com/2007/07/12/why-facebook-why-now/">good post comes from Scoble</a> that highlights the good sides of Facebook. And it is really what the ultra pro gang likes to heard. Facebook is amazing, the widgetization will continue, Facebook will grow without end.</p>
+
+<p>I actually don&#8217;t think anybody tries to deny that. What people are disputing is the valuation part of the entire thing. Valuations on the stock market depend on revenues and profits. Otherwise it is hype, and that is what we had in the first bubble and as soon as that hype entered the normal stock market, real people got hurt because they invested in beliefs.</p>
+
+<p>To take a look at the other side you should read <a href="http://www.watchmojo.com/web/blog/?p=1394">this post</a> which talks about a 2008 IPO. The thing most interesting in there is the calculation that Microsoft promised some revenue to Facebook due to a 2006 deal they did. This might be the source of the main revenue of the $100 million Facebook is talking about as revenues for this year. Google&#8217;s amazing growth engine has a Price to Sales multiple on the stock market of 14. This means that even at $100 million of revenues, with amazing growth, Facebook shouldn&#8217;t be more valuable than $1.4 billion now, with growth factored in as in the case of the Google stock price. Now think if Google&#8217;s expertise and business model is something where you can understand that revenue and profit growth will come. Now think about Facebook. The metrics are not as clear. The upside is good but nobody out there has proven it yet. That&#8217;s like investing in a start-up and that shouldn&#8217;t be something unexperienced people do.</p>
+
+<p>This is what some people think is nuts, and I have to admit I am one of them. $8 billion is just too steep, unless somebody buys it that really needs the expertise and entry into the web area and has an amazing sales team to make money of the site. Let&#8217;s see what happens. I have obviously been wrong before.</p>
+
+<p>&lt;strong&gt;Update&lt;/strong&gt;: Of course if they would IPO, then long term it might end up at several billion USD, hence the idea of the IPO. I wouldn&#8217;t sell either &#8230; but not for the valuation part but simply because Facebook might become a real company with long term potential.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/12/further-facebook-monetization-problems/">Further Facebook Monetization Problems</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-12T12:33:00+02:00" pubdate data-updated="true">Jul 12<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>So <a href="http://paul.kedrosky.com/archives/2006/12/19/thiel_facebooks.html">Facebook is worth $8 Billion</a>. I agree it is worth a lot and it can be something that is very powerful in the future. I actually believe it will. But the $8 Billion are surely not based on current revenue. They had 15.8 Billion Page Impressions in the last month. Let&#8217;s presume they have all available inventory sold. Judging by <a href="http://plentyoffish.wordpress.com/2006/12/14/new-monetization-hype/">this post</a> they would make $2.6 Million a month, so $30 Million a year, meaning $8 Billion is a price to sales multiple of 266! And if you take <a href="http://www.reachstudents.co.uk/blog/2007/07/11/facebook-advertising-warning/">this post</a>, then you will start to wonder if they are fully booked because the ads do not really work well.</p>
+
+<p>I remember the old times when monetizing discussion boards was hard and social networks are similar. People are just not there to buy something but are there to interact. Facebook can probably make good money on strong branding campaigns (needs to be something more than banner ads), and have a good revenue floor with CPA deals, but making a billion or two in revenue in the near future seems unlikely.</p>
+
+<p>Just presume the traffic from Facebook converts amazingly well (which as I hear it doesn&#8217;t), so you have a lead rate of 10% on a lead campaign where you make $30 per lead. Then 100 Clicks makes you 10 Signups and hence $300. At the 0.05% click through rate that seems to be average on Facebook, that means you need 200.000 ad impressions to get those clicks. You could then spend $1.5 CPM to not turn a loss. Based on other numbers, the CPM is more at $0.17, meaning that the lead rate is more at 1%, which seems likely.</p>
+
+<p>The cool thing is though that you might, through the exploitation of Facebooks Application Platform, keeping people on the platform with the ads, fostering more trust, embedding conversion there, &#8230; increase your conversion &#8230; then it gets interesting.</p>
+
+<p>So will they be bought under $8 billion? Nope. The potential is there, it is just not clear yet what it is. With Google it was different, there was real revenue there and real reason why it would grow.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/12/social-viral-commerce-and-the-leads-business/">Social Viral Commerce and the Leads Business</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-12T10:34:00+02:00" pubdate data-updated="true">Jul 12<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I once again strolled over to <a href="http://www.axelschmiegelow.com/">Axel&#8217;s blog</a> for something and it reminded my that I wanted to write something in reply to his <a href="http://www.axelschmiegelow.com/2007/05/12/viral-social-commerce/">Viral Social Commerce</a> <a href="http://www.axelschmiegelow.com/2007/05/24/viral-social-commerce-for-companies/">posts</a>. With just having finished a bit of planning to get the current sprint done and the next one spec&#8217;d I thought it&#8217;s a good time as any. :)</p>
+
+<p>First of all I really like his postings in general, and these two really rang a bell as they are so clearly linked to what we do here. Let&#8217;s take one specific part:</p>
+
+<p>&lt;em&gt;Even more market volume may be created by &lt;strong&gt;opening the advertising market to new segments&lt;/strong&gt; that, until now, had a high cost barrier towards advertising, for example in the Long Tail of smaller and mid-sized companies, or in niche markets which had to rely on direct marketing because there was no medium for them to address at sales efficient cost on a large scale.&lt;/em&gt;</p>
+
+<p>I agree with him that user generated content companies have a different cost structure and might hence be able to live on lower CPM advertising than a big old-school publisher. This lower CPM advertising can then also come from smaller companies, but the problem that comes in there is that smaller companies do not have the resources, or knowledge, to run web campaigns. It&#8217;s just not their business and shouldn&#8217;t be. Above that several millionen small business can&#8217;t talk to agencies to handle their advertising buying. It needs to be easy, understandable and with measurable performance. And if you do it right and target it right, it is actually far from lower end CPMs. The last bit is where he also agrees.</p>
+
+<p>&lt;em&gt;&lt;strong&gt;on-demand fully trackable horizontal niche long tail CPA advertising&lt;/strong&gt;&lt;/em&gt;</p>
+
+<p>&lt;em&gt;[&#8230;] My point in this Blog post is that there have to be, and there will be &lt;strong&gt;business models beyond advertising&lt;/strong&gt; and they are starting to emerge. Essentially these will be transaction based and will be centered either around the handling of goods in an e-commerce sense (that is already being seen in a number of start-ups) for example, by <a href="http://www.itravel.de/">itravel</a>, but there will also more and more be transaction platforms centered around services, much in the sourcing logic mentioned above.&lt;/em&gt;</p>
+
+<p>Hell yes. The thing is that the trackability of online media really allows for performance based advertising. I started an internet statistics company in 1996, so I do love statistics. :) But where does this lead. Facebook will convert a lot worse on a CPM basis than some other big publisher, but I will not have to negotiate deals with Facebook other than a revenue share and targeting systems will make sure that the right ads run at the right time and in the right place. Through the CPA model I move from an advertising channel to a sales channel and the budget there is a lot different. Above that, it is understandable for smaller publishers. I get the contact data of somebody interested in my services. No need for a web site, adwords campaign pro, SEO, campaign management, Flash Ads, &#8230; . All taken care of.</p>
+
+<p>There is still one problem though, millions of small advertisers. That is where another strength of the internet comes in, aggregation. There might be lots of different small advertisers but many times they can be aggregated around services and they themselves serve only their local market. This is what Ormigo does. We give small advertisers a way to attract new customers in their local market, and aggregate them to become really powerful marketing force with real budget that is relevant even for the biggest players out there. Especially for services this is possible.</p>
+
+<p>In his <a href="http://www.axelschmiegelow.com/2007/05/24/viral-social-commerce-for-companies/">next post</a> he goes into a bit more detail.</p>
+
+<p>&lt;em&gt;So cutting back on Web 2.0 technology by seeking not a mash-up of all the functionalities that happen to be the talk of the town and instead looking for ways to create real value with Web 2.0 technologies requires, first, an analysis not of Web 2.0, of these technologies or even of the Web 2.0 early adopter crowd.&lt;/em&gt;</p>
+
+<p>This is something I have been repeating for a long time. Most of these Web 2.0 features, be it social networking, tagging, user generated content, &#8230; are features, not a product in itself. You have to address a need, help somebody that has a problem, and sometimes, some of these new capabilities will allow you to do just that a lot more efficiently. People are wondering why we are becoming a social network, and I can only tell them that it&#8217;s a side effect. We help local merchants get new customers, and that leads to social interaction, and that leads to more customers, and more knowledge, and better matching of clients and merchants. That is also why social networking capabilities have not been our first step, and are still under developed.</p>
+
+<p>&lt;em&gt; Marketing then becomes not just a communication task but becomes much more a framework for the companyâ€™s role as the &lt;/em&gt;</p>
+
+<p>&lt;em&gt;&lt;strong&gt;host of a community of customers&lt;/strong&gt;.&lt;/em&gt;</p>
+
+<p>Good words to end this. The achievement is reaching an equilibrium between users, customers and publishers. For us, a potential field to achieve this is the local market. It&#8217;s interesting for all three and Web 2.0 enables clear benefits for all. Standard ads are just a start. Much more can come from this. As others have said, Web 3.0 will be about agents, among others. Interesting times ahead.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/09/love-for-geeks/">Love for Geeks</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-09T18:19:00+02:00" pubdate data-updated="true">Jul 9<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>You have to have Love for Geeks, partly because they love Apple and hence love the iPhone. Bill Liao from Xing is one of those people and now he posted about having his <a href="http://blog.xing.com/2007/07/iphone-mania.html">iPhone here in Europe</a>. Having made some money down the line, surely helps to cover the cost of constant roaming, but hey, I still have to thank him.</p>
+
+<p>For some time, one of the main features I wanted from Xing was an export of all my contacts as a vCard to import into the Apple Address Book. Now Bill got his iPhone and wanted his contacts on there, hence, diverted a few development resources and now in your <a href="https://www.xing.com/app/contact">Address list on Xing</a> you have a small little button that says &quot;mobile export (iPhone) &#8230;&quot;. What that thing does is export a vCard of all your contacts, which again, easily imports to my address book. 312 Contacts imported, 149 duplicates will be updates. Kick ass! Thanks Bill for getting an iPhone :)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/09/google-acquires-postini/">Google Acquires Postini</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-09T16:35:00+02:00" pubdate data-updated="true">Jul 9<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Google seems to hit them when and where you don&#8217;t expect it. Now they have <a href="http://www.techcrunch.com/2007/07/09/google-acquires-postini-for-625-million/">acquired Postini</a>. What I really like about the Google acquisition strategy is that it does not seem to be fueled by hype but is a real long term strategy. Let&#8217;s look at the last few Google<a href="http://en.wikipedia.org/wiki/List_of_Google_acquisitions"> acquisitions</a> starting 2006 as I feel like it ;):
+&lt;ol&gt;</p>
+
+<pre><code>&amp;lt;li&amp;gt; dMarc Broadcasting for radio ads ... ok, they want to do radio ads and they did not have the radio experience, so it's a non brainer.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Measure Map for Blog analysis ... they are building out Google Analytics so it was probably for the team. The analytics part just gives them oodles of data.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Upstartle for Writely ... they need an online office for their entire Hosted Pro scheme. This was well before the pro part of Google Hosted came out.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;@Last Software for SketchUp ... must have been cheap ... at least I still can't use the software but ok, I might not be the target group ;)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Orion for advanced search methods or rather for a cool algo by Ori Allon ... so &amp;quot;team&amp;quot; buy ;)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Neven Vision for image search typ things and more research power.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;JotSpot for the entire Google Hosted push ... it's a really good wiki though awfully slow at the moment.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;YouTube ... probably also knowing that you want to integrate videos into search and then you'll send oodles of traffic and hence want to own the site anyway.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Endoxon again a team buy of a team of experts in mapping in Europe.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Adscape for video game ads ... everyone wants to have something in there. Better than hiring a team.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Trendalyzer ... ok just watch Hans Rosling perform (and I mean perform) at TED and you know they just wanted to make sure he can continue his research. Hans now has a video blog via google :)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tonic Systems is a presentation software to complement their Google Hosted tools.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Marratch is for video conferencing which again helps the hosted part.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Greenborder is about entireprise desktop security.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Panoramio is a geo photo sharing thing and if they want to move local it's good and again the same thing as YouTube, if you are sending tons of traffic there anyway ...&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;FeedBurner ... something lacking in their stats was RSS. There now.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PeakStream ... who better to buy something about parallel processing&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Zenter ... ok, with Tonic Systems ... this presentation thing seems to be hard ;)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;GrandCentral ... I presume this is also a local advertising play, useful for their extensive VoIP number routing knowledge.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Postini is again about security.&amp;lt;/li&amp;gt;
+</code></pre>
+
+<p>&lt;/ol&gt;
+So if you look at it, they are buying stuff to complement what they need strategically, not really to have it make money for them directly. They need presentations, security, local ads, new markets/channels for ads, good teams, &#8230; . Really looking forward to seeing what they buy next. Up till now I do like it.</p>
+
+<p>Update: Just saw <a href="http://googleblog.blogspot.com/2007/07/welcome-postini-team.html">this post</a> on the Google blog welcoming the team from Postini.Â  Nice bit of information: Over 1000 small businesses sign up each day. We use it for some time now here at Ormigo and are happy with it. Good to see usage is growing.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/05/long-term-investment-strategy/">Long Term Investment Strategy</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-05T20:01:00+02:00" pubdate data-updated="true">Jul 5<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Fortune recently had an issue about retiring rich, or at least rich enough to live happily ever after. There were lots of different strategies on how to invest, many by the big investment gurus out there. I have to admit that I read many books that go into great detail on the different strategies by the wise men cited in the stories, and you can learn a great deal by reading the books, only one methodology kind of rang a bell. This is something that Tom Gardner from Motley Fool called <a href="http://money.cnn.com/galleries/2007/fortune/0706/gallery.6trends.fortune/index.html">6 supertrends &#8230; and 6 superstocks</a>.</p>
+
+<p>The idea is to invest in trends that you believe to be true. Real trends that will shape your future life. You can then obviously mix it with trying to find trends that are not really visible yet or possibly trying to find small under covered companies that will grow with this trend.</p>
+
+<p>I have to admit that I was a long time member of <a href="http://fool.com">Motley Fool</a> and followed Tom&#8217;s and other Fool&#8217;s posting, also being very active on the boards themselves. The idea that Tom posts about in the Fortune article is something that fits very well with the long term strategy that Motley Fool is advocating. This really led to my believe that the stock market is something you can invest in, but not something you can play with. Going in and out of stocks in hourly trades or even monthly trades is nothing for me.</p>
+
+<p>So what kind of stocks did I pick in terms of long term trends?</p>
+
+<p>&lt;strong&gt;eBay&lt;/strong&gt;: The company has a relatively secure main business that has still lots of room for growth. Due to the volume of auctions eBay is very hard to replace and same as Google&#8217;s profits are growing via optimization, I believe eBay still has a lot of room to grow through usability improvements and moving into other closely tied spaces. One of the big reasons was also their real banking on APIs and that those can be free and eBay still makes more money. That trend will continue for a long time.</p>
+
+<p>Above that I do really believe in PayPal. It&#8217;s a bank that belongs to eBay and there are some very fine long term numbers playing in their favor. I expect a lot more on that front. Payment on the internet is a way forward and eBay is very well set up with PayPal.</p>
+
+<p>Third Skype. Maybe they did pay a lot but again it is the &quot;all my friends are there&quot; phenomenon that will keep you locked in and with additional features and easier integration through their API knowledge, moves into the services market, direct local connections and the like, I believe that it can be a real winner.</p>
+
+<p>It&#8217;s really three trends that play in eBays favor, a favor that will make it outperform the market in the long run.</p>
+
+<p>&lt;strong&gt;Nokia&lt;/strong&gt;: I probably invested too much during the first bubble here but am back well in the green. Sure they are having problems press wise in the high end with stuff like the iPhone but boy do these people know mobility. This does not mean that you hype everything, but with a paying suppliers later than getting their money, banking on platforms like cars, investing in Symbian as an OS, covering the entire spectrum from low to high end and still trying out new things like a tablet, blogging and more, I believe that if you believe that mobility is here to stay, and that we will be more mobile in the future, and that a very big opportunity is in 3rd world countries, then Nokia is the company to bank on. Sure a Motorola can have a one time Razr success, and sure others are making money on licenses. But I don&#8217;t know licensing, but I do know that Nokia will always be very good.</p>
+
+<p>&lt;strong&gt;F5 Networks&lt;/strong&gt;: Will we have more traffic on the internet in the future? Will there be more big web sites? Will there be more huge web sites? Will there be more encrypted traffic? Do companies want to buy something where they have somebody big to blame? Are they a if not the leader in load balancing, world wide load balancing, ssl accelerators, &#8230; and have they been small when I invested several years ago and undercovered? Hell yes! The stock performance tells the tale.</p>
+
+<p>&lt;strong&gt;Apple&lt;/strong&gt;: Buy the stuff you use. This is one of the cases where you just need to look around yourself. I am now up close to 300%, one of my better performers, and I believe that they will have a good future ahead of them. The thing is that design is a very important thing. Once things just work, design is really one of the very few things that will make your product stand out. And I always wanted a Mac. Suddenly Jobs came back and the Mac Laptops were not too expensive anymore. The iPod was the second hard disk mp3 player I bought and it was such a leap forward, just for the design and want to have factor.</p>
+
+<p>They really know how to build great products, how to excel, how to really thrill people. The thing is that this is how the future of marketing will work. Sure you can market everything, but if you invest half of the money you want to spend on marketing into product development and get the product right, then the rest of the marketing budget will have a much bigger effect. This is what Apple has understood.</p>
+
+<p>&lt;strong&gt;Genentech&lt;/strong&gt;: Is medicine a research business? Is/Was Genentech still rather small? Yes, it was when I invested and I just felt that they are attracting the right people to be successful in the long run. Because in the end the right drugs need a good development team and a good research effort. This is what Genentech really excells at it seems. I have no way of looking at a drug pipeline and finding out which drug will make it and which won&#8217;t and how much money each can make, and factor that in. I think in the long run, looking at other companies, Genentech is bound to have some really killers out there. This is why I invested there next to a fund by Sal. Oppenheim that is managed together with several consulting companies in the medical business. The fund is really my general bet thinking that if several consultants decide on something, they can&#8217;t be all wrong (and history up till now has proven that idea right) and above that I have a bit of upside (I believe my long term downside to be limited) with Genentech.</p>
+
+<p>Conclusion. I could be all wrong, but holding those for several years, buying in down time when I did not see the trend changing and still believing in management, up till now has been a good thing for me. Let&#8217;s see how they look after the second time the stock market tanks and comes back up again. I can&#8217;t play the market anyway, so I&#8217;ll just sit it out.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/07/04/installed-lijit-for-search/">Installed Lijit for Search</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-07-04T08:47:00+02:00" pubdate data-updated="true">Jul 4<span>th</span>, 2007</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;p&gt;Thanks to Feld for <a href="http://www.feld.com/blog/archives/2007/07/im_feeling_liji.html">pointing me</a> to (his investment) <a href="http://www.lijit.com/">Lijit</a>. Feld already invested early in <a href="http://feedburner.com/">Feedburner</a>, now belonging to Google (thanks for making the pro stats free by the way ;)). Hence, I needed to at least give Lijit a try and I do like it. Install is easy enough, also on Wordpress if you know a bit of HTML (tiny bit) and the Lightbox version for keeping search on your site is great. The entire idea holds great promise. If you search on my blog via the Lijit search it will first go over all my blog posts, then include things like Bluedot and my OPML file from my RSS reader. Not sure how it all ties together as it should take the blogs from the OPML file and include results form those pages, which I presume it does. Above that it has my LinkedIn connection and Xing connection (but I would probably have to give up my login credentials) so it can (theoretically in the future) look at my network and see which people I trust, possibly knowing their Lijit accounts &#8230; and the list goes on. Very cool indeed.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;One short request: Please give me the code to just add a search box with GO at the end without the bells and whistles as I would like to exchange the search box at the top of the blog too. And there should not be any Lijit there and such. People will see it soon enough when they search.&lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/15/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/13/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

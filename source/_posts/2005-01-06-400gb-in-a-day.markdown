@@ -1,0 +1,13 @@
+---
+layout: post
+title: "400GB in a day"
+date: 2005-01-06 09:24
+comments: true
+categories: Life in General
+author: Oliver Thylmann
+---
+
+
+That's the amount of bandwidth that got used up by Waxy.org due to the posting of [Amateur Tsunami Video Footage](http://www.waxy.org/archive/2004/12/28/amateur_.shtml). The videos where then [transferred to Archive.org](http://www.archive.org/movies/movieslisting-browse.php?collection=opensource_movies&amp;cat=tsunami) who cumbled under the load. They are now back working. Congratulations to whoever gets the mony for the bandwidth costs ;)
+
+

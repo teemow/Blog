@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Mongo's"
+date: 2006-01-05 18:01
+comments: true
+categories: Moblog
+author: Oliver Thylmann
+---
+
+
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/38/82612610_6750405cda.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/82612610/)&lt;br /&gt;	[Mongo's](http://www.flickr.com/photos/oliver/82612610/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Thu 05/01/2006 19:56 05012006091 Always keep it in small portions.&lt;/p&gt;
+
+

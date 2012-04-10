@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Joi Ito's 2003 Stats"
+date: 2004-01-01 13:34
+comments: true
+categories: Blogging
+author: Oliver Thylmann
+---
+
+
+Joi Ito posted [his site stats](http://joi.ito.com/archives/2004/01/01/some_2003_site_stats.html) for 2003 on his blog. I wouldn't have mentioned it if it were not for the fact that only 21% of his visitors use IE to access his site. Most use a RSS reader. Shows that RSS might really change some things in how the net works and acts and might pose some problems to the dominance of IE.
+
+

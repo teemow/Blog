@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Zoe Kicks!"
+date: 2003-10-27 20:29
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+Ok, so [Thijs](http://www.taospace.com/) got me into it once again! He introduced me to [Zoe](http://zoe.nu/) some time ago but back then it somehow didn't import my mail and I was too tired to work it out. This time I downloaded it again and have now all my mail in the system and it is just beautiful. It's fast, easy to learn, easy to set up and plain and simple wonderful. If you want a way to index all your e-mail and find back everything, use it. It rocks. I now need to see if I can somehow set it up to also log all my e-mail which will be hard as I am sending e-mail from lots of different places now that I use [Oddpost](http://www.oddpost.com/) as my main e-mail client/host. I now have all my mail filtered there which includes some very big and old accounts and I probably have 50 times more spam than normal e-mail. Heads up to the Oddpost team for a great spam filter!
+
+The other thing I still need to settle is  that Zoe can also check RSS feeds but I am already using [Bloglines](http://www.bloglines.com/) to do my RSS reading. This is wonderful because it is fast and allows my to read from anywhere and have the feeds show as read no matter from where I am reading them. As I am using a lot of different PCs this again helps. Then again, Zoe would be more or less only used for archiving which would make it ok. 
+
+All in all. Check Zoe out. It might be a wonderful thing for any intranet.
+
+

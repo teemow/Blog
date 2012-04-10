@@ -1,0 +1,17 @@
+---
+layout: post
+title: "127.0.0.1"
+date: 2003-12-15 13:57
+comments: true
+categories: Computers
+author: Oliver Thylmann
+---
+
+
+Most people that have done some networking sometime, know that 127.0.0.1 is always your own local computer. It is your machine itself. A link to http://127.0.0.1/anything will try to get anything from your computer, which will likely not work as you will likely not have a web server running on your computer. That just as an introduction.
+
+I also have to say that script kiddies who have no clue what they are doing, have amazing hardware and then also need to collect tons of different movies for free should get something over the head from time to time.
+
+And then [this happens](http://212.105.197.43/vbportal/forums/showthread.php?threadid=38943&amp;perpage=15&amp;pagenumber=1) and you can only smile :)
+
+

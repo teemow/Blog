@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Blog Spam"
+date: 2003-12-13 10:37
+comments: true
+categories: Blogging
+author: Oliver Thylmann
+---
+
+
+Damn. I have a local RSS Feed from Cologne on my list and this morning it had 28 posts. About 10 of them are simple comments from a spammer. This blog spam stuff needs to stop! Grrr...
+
+

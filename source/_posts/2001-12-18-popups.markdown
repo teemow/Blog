@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Popups"
+date: 2001-12-18 21:27
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+These popup people are getting better you know. I just got this when browsing around Palmgear.com with a friend.
+
+
+&lt;!-- more --&gt;
+
+
+&lt;img src=&quot;http://oliver.thylmann.com/popup.png&quot;&gt;
+
+Now as you might see, there is no border of any kind. It is an image in a new browser window that is one big link. Grrr...
+
+

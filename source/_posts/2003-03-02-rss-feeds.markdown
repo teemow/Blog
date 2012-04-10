@@ -1,0 +1,21 @@
+---
+layout: post
+title: "RSS Feeds"
+date: 2003-03-02 23:54
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+Up until now I was using [Feedreader](www.feedreader.com) to keep up to date with lots of different sites via their rss/rdf feeds (e.g. [mine](http://www.ennead.de/blog/index.rdf)). I love it, because it makes &quot;surfing&quot; so much less time consuming and just tells you when there is something new going on somewhere. I also think that it is very good for the sites themselves as they keep me as a potential visitor by letting me automatically check for updates. I would go to the 30 or more sites I now check each day. Having their feeds makes it easy to stay up to date about what they say, both in terms of news sites and the many interesting blogs out there.
+
+The thing is though, that feedreader seems to be killing my [nocat](http://nocat.net/) connection, most likely because it is sending oodles of requests out when it updates 30 sites at once. At least that's my guess because since I stopped using it, the connection to the D-Link wireless router works just fine. This would explain why it did not crash when I was using the mac. ;)
+
+I was looking for a new way to get my daily, or hourly, newsfix when I found [MyHeadlines](http://www.jmagar.com/). It's a web-based system that let's me make a set list of rss feeds available to anyone with a browser. Everybody can then add their favorite feeds to their personal page and check the news from there. All feeds are updated once an hour at the moment, which isn't too frequent but I want to check the bandwidth usage first. I also still need to add some more sites to the list. I am not too happy with the categorisation with of the available feeds at the moment but that will improve. The list will also grow and it will enable me to always have those feeds with me. 
+
+Some other nice features of the system are that you can search over all the feed data you have, as well as display the most clicked items and the most recent updates. Plain wonderful. Now I am just wondering why I can't get e.g. [joi ito's blog](http://joi.ito.com) in there. Some sites just seem to not work. Blocking on their part? Error in the rdf file? Problem in MyHeadlines? Not sure yet.
+
+And before I forget, if you want to check it out (and keep using it of course ;)), go [here](http://www.ennead.de/rss/). I didn't design anything arround it yet but that will come.
+
+

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Good day"
+date: 2001-09-04 12:05
+comments: true
+categories: Life in General
+author: Oliver Thylmann
+---
+
+
+It's 1400 and I have been up for 6-7 hours, depending on wether you count reading in bed as up ;)
+
+And it's a good day. I got my local parking thingie done, which lets me park anywhere near my (current) home for another 4 months for free. Otherwise I would have to buy a parking ticket every time. Ok, for that I had to drive around a bit because the place where I got it last time has been torn down. I was kind of suprised coming there :) But I have it.
+
+Then I took care of a lot of bills to pay, some parking tickets, some other things and re-registering at the local university for physics. Wonderful.
+
+And now I just returned from a Telekom shop and it was a pleasant experience, yes really! First of all I learnt that I can transfer the entire phone system from Aachen to Cologne without a problem, which would be nice. But if I don't want to, then I can just as well cancel the entire thing even though I have not used up the 12 months contract time because... well, I'm moving, they can't really force me they said. Yupiii :) All good there.
+
+The other thing I wanted to go to the Telekom for was for our company mobile phones. The thing is that they are braking down but our 24 months contract is not up yet and we can, theoretically, not upgrade our phones with a discount until late February 2002. But after explaining the situation (and telling them that we have kind of high bills ;)) an upgrade was agreed for close to the normal upgrade price!!! The phones we are getting (Siemens ME45) cost 400 EUR without contract, about 160 EUR with a 24 months contract and we are now paying 225 EUR, which is less than I expected.
+
+Oh, and this morning I worked with my brother on our P3P implementation for the counter which is half working, or was half working when I left for Telekom. Need to continue looking into this. The problem is that it recognizes the privacy policy. Agrees that no personal idenfiable info is gathered. Should agree (due to the IE6 standard privacy policy) that a cookie is ok then. But still doesn't allow the cookie to be written. Wonderful. Computer sucks ;)
+
+

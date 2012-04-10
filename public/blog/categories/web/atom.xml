@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/web/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Blippy just Rocks!]]></title>
+    <link href="http://thylmann.net/blog/2009/12/30/blippy-just-rocks/"/>
+    <updated>2009-12-30T20:32:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/12/30/blippy-just-rocks</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Boy do I love <a href="http://blippy.com/">Blippy</a>! Seldom has there been a service where I am so pissed that internationalization is hard. The thing is the only account I have that works with the service is my Amazon.com Kindle account. Even iTunes doesn't work as it is the German one. If you are unfamiliar with Blippy read <a href="http://www.techcrunch.com/2009/12/22/blippy-invites/">this intro on Techcrunch</a> as well as the follow up where Blippy announces <a href="http://www.techcrunch.com/2009/12/23/blippy-1-million/">tracking $1 million in transactions only one day after opening their doors</a>. People are already talking about <a href="http://robbrown.posterous.com/blippy-is-this-the-evolution-of-twitter">Blippy being the next Twitter</a>, which is really mostly to mean that the Twitter idea is starting to be so big that it can be split up into more tiny niches, with Blippy being one.&lt;/p&gt;&lt;p&gt;Many people will wonder why Blippy is so good or why anyone would share all this information about themselves and I suggest, just read the stream by <a href="http://blippy.com/leolaporte">Leo Laporte</a> or <a href="http://blippy.com/matt">Matt Cutts</a> or <a href="http://blippy.com/jason">Jason Calacanis</a> (who recently purchased a Canon 7d by the way) or <a href="http://blippy.com/pud">Philip Kaplan</a> one of the founders.&lt;/p&gt;&lt;p&gt;For all their credit card stuff they are using <a href="http://yodlee.com/">Yodlee</a> as do most of the other things out there that interact with US bank accounts. Sadly I do not know of any such service in Germany at this time. Might be somebody that should do this but I am unsure about the German privacy laws. &lt;/p&gt;&lt;p&gt;To finish it off <a href="http://kara.allthingsd.com/20091223/philip-pud-kaplan-talks-about-blippy-the-twitter-of/">here is a video interview with Pud (Philip Kaplan)</a>. He also founded Fucked Company and Adbrite by the way. With Adbrite being so well copied all over Germany I see now reason why this will not happen soon here in Germany for Blippy, expect we don't have Yodlee.&lt;/p&gt;&lt;p&gt;Actually I hope somebody will start a Yodlee in Germany and give the account access to Blippy so we keep it integrated!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Update:&lt;/b&gt; and just now they twittered about international support for iTunes. Germany was missing but added minutes after me telling them. Congratulations! So blippy went international in 2009! cool :) &lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Foursquare will fail]]></title>
+    <link href="http://thylmann.net/blog/2009/11/29/foursquare-will-fail/"/>
+    <updated>2009-11-29T12:02:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/29/foursquare-will-fail</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;At least in terms of becoming the next Twitter. Sorry to say that. I know people are <a href="http://www.fischmarkt.de/2009/11/foursquare_is_the_new_twitter.html">starting</a> to <a href="http://edition.cnn.com/2009/TECH/11/19/cashmore.foursquare/">rave</a> about Twitter but the first really good post came from Jason Kincaid on Techcrunch: <a href="http://www.techcrunch.com/2009/11/28/facebook-foursquare/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;amp;utm_content=Google+Reader">Watch out Foursquare, Facebook is Poised To Dominate Geo</a>.&lt;/p&gt;
+&lt;p&gt;So let me try to explain why I think it will fail, at least in terms of the hype around it at the moment, and there are many points.&lt;/p&gt;
+&lt;p&gt;A) People will not publish where they are at any time. There is just too much of a security worry. This will remain true and is actually a very wise thing to think about.&lt;/p&gt;
+&lt;p&gt;B) We already had something very similar with <a href="http://plazes.com/">Plazes</a>, it was just missing the game, and as Jason said, the fun of Games dies down.&lt;/p&gt;
+&lt;p&gt;It's actually very important to take a look at Plazes and their history because they too had many of the then in-the-know Angels onboard, and the entire tech/web2.0 gang was on Plazes. It was a fun system to use and you saw who was where and how close and things like that. But it never grew mainstream and it will be interesting to see if Foursquare manages to do that.&lt;/p&gt;
+&lt;p&gt;C) I am actually using Foursquare a bit now and I have to say I am still missing the point. I started using it in a travel week and hence am now a newbie in Cologne where I live, in Hamburg and in London. Why the hell did I need to switch cities? I was in a different city but this kind of feels insulting. I AM NO LONGER A NEWBIE ;) Above that I actually didn't know what to do with it. I checked in and then what? In the last few hours somebody I know was somewhere in London. Hmm... so what?&lt;/p&gt;
+&lt;p&gt;Why is there no &quot;Who is Near?&quot; or &quot;Near places of your friends?&quot; or similar things. Sure it is still very rough and their slow growth on a city per city basis might have been a good idea. But still, I am not sure why I would rave about it and I normally rave way too fast.&lt;/p&gt;
+&lt;p&gt;D) Location is not a central thing in our lives! We do need an OS for our Computers (Microsoft) or Search for Stuff (Google) or Connect with Friends and Family (Facebook) or Feel connected with OUR community (Twitter, the new worlds IRC Channel ;)). I am not really sure where Foursquare fits into this. If I want to meet friends I will talk to them. Weird stuff, called Phone. ;)&lt;/p&gt;
+&lt;p&gt;Don't understand me wrong, I do believe Foursquare is fun and nice and things but it is not going to be the next Twitter.&lt;/p&gt;</p>
+
+<p>&lt;div class=&quot;posttagsblock&quot;&gt;<a href="http://technorati.com/tag/foursquare"> rel=&quot;tag&quot;&gt;foursquare</a>, <a href="http://technorati.com/tag/facebook"> rel=&quot;tag&quot;&gt;facebook</a>, <a href="http://technorati.com/tag/plazes"> rel=&quot;tag&quot;&gt;plazes</a>, <a href="http://technorati.com/tag/local"> rel=&quot;tag&quot;&gt;local</a>, <a href="http://technorati.com/tag/geo"> rel=&quot;tag&quot;&gt;geo</a>&lt;/div&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[These little fees add up]]></title>
+    <link href="http://thylmann.net/blog/2009/11/29/these-little-fees-add-up/"/>
+    <updated>2009-11-29T11:27:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/29/these-little-fees-add-up</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;We are all getting used to the idea of freemium but I am wondering if this will not implode because things are starting to add up. I really noticed when recently thinking (again) about how to restructure my services.&lt;/p&gt;
+&lt;p&gt;What is it for me:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;$25 per year - Remember the Milk: I am definitely keeping this one as it is really cheap and a great deal especially with iPhone Integration through ToDo.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$59 per year - Vimeo: the service just rocks, period. I love how the videos end up and through the pro service I can really limit where videos are allowed to appear and keep my family videos sharable and save.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$12.60 a month - Squarespace: I just wanted to ditch servers and this is probably the first one that might have to go once I find a better solution but I didn't yet. Squarespace is really nice and if they finally get their social integration done I am starting to be really happy. It is the most expensive point though and I could just go with Wordpress.com and the biggest problem would be that my tags are shared with all wordpress people. Ah well.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;Stopped - Flickr: I just stopped my premium Flickr subscription as I am sharing most pictures with Family on Squarespace and that is good enough. I might actually still need that somehow.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$99 per year - Dropbox: I am actually not paying yet as I have a 10GB account due to an early beta membership (u 900 ;)) but this will surely stick.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;€5.95 per month - Xing: For my networking in Germany still a wonderful thing.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$49.95 per year - Plaxo Premium: I want my addressbook safe and I would actually love Xing to do this but they don't. Still really not happy in this field.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;all the forgotten stuff: There are probably things I have forgotten as they end up coming on the bill once a year.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the end, there will be more services like this and this is really starting to annoy me. It's all cheap enough to not think enough but it is adding up. All the &quot;small fees&quot; currently end up to be over 200 USD, more if I ever get the Dropbox Account.&lt;/p&gt;
+&lt;p&gt;So what subscriptions do you have? :)&lt;/p&gt;
+&lt;p&gt;Update: I am wondering if I should not just move to Wordpress.com, upload videos there, and so on. Anyone using Wordpress for Videos?&lt;/p&gt;</p>
+
+<p>&lt;div class=&quot;posttagsblock&quot;&gt;<a href="http://technorati.com/tag/dropbox"> rel=&quot;tag&quot;&gt;dropbox</a>, <a href="http://technorati.com/tag/rtm"> rel=&quot;tag&quot;&gt;rtm</a>, <a href="http://technorati.com/tag/services"> rel=&quot;tag&quot;&gt;services</a>, <a href="http://technorati.com/tag/squarespace"> rel=&quot;tag&quot;&gt;squarespace</a>, <a href="http://technorati.com/tag/vimeo"> rel=&quot;tag&quot;&gt;vimeo</a>, <a href="http://technorati.com/tag/xing"> rel=&quot;tag&quot;&gt;xing</a>&lt;/div&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nokia Building up a Local Social Powerhouse]]></title>
+    <link href="http://thylmann.net/blog/2009/09/11/nokia-building-up-a-local-social-powerhouse/"/>
+    <updated>2009-09-11T19:41:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/09/11/nokia-building-up-a-local-social-powerhouse</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;This is getting really scary. First caught Nokia's latest acquisition via Martin's post: <a href="http://english.martinvarsavsky.net/general/nokia-buys-plum.html">Nokia buys Plum</a>. Actually that headline is not really true though as once again Nokia is buying certain assets from Plum, as visible in <a href="http://www.nokia.com/press/press-releases/showpressrelease?newsid=1340931">Nokia's press release on the Plum acquisition</a>. To quote: &lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;Nokia and Plum today announced that Nokia has acquired &lt;strong&gt;certain assets&lt;/strong&gt; of Plum Ventures, Inc, a privately held company which &lt;strong&gt;employed approximately 10 people&lt;/strong&gt; with main offices in Boston, Massachusetts. Plum will complement Nokia's Social Location services.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;So Nokia only buys certain assets and the company employed (past tense) 10 people. As Martin notes already at least the Founder will move to Berlin. Plum themselves note that their <a href="http://pluminc.com/blog/archives/2009/09/nokia-to-acquire-plum.html">entire team will be part of Nokia's Social Location Unit</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The part that links several things together is that people are moving to Berlin. In 2006 they bought gate5, who sit in Berlin, and then in 2007 bought Navteq for $8.1 billion to further complete their mapping solution. Then came the acquisition of <a href="http://www.nokia.com/press/press-releases/archive/archiveshowpressrelease?newsid=1229894">substantially all assets of Plazes</a> in 2008, followed by <a href="http://www.nokia.com/press/press-releases/showpressrelease?newsid=1288641">bit-side beginning 2009</a> and completed recently with the acquisition of <a href="http://www.nokia.com/press/press-releases/archive/archiveshowpressrelease?newsid=1330831">certain assets of cellity</a>. All those were either in Berlin or are moving to Berlin.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So what do we have. A company that has decided that location and social is a big part of their future. This is deeply routed in the fact that Nokia has always believed and learned that a mobile phone is something very personal. That in itself makes it social and makes location important. If you then need to move fast, have 50 billion USD in revenues and 5 billion USDs in profit in 2008, and a down economy, the moves are plain brilliant.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Plazes never really took off but had a huge geek following with most every self respecting geek world wide having an account. You see the follow up of Plazes now in <a href="http://foursquare.com/">Foursquare</a>, which <a href="http://gigaom.com/2009/09/04/union-square-ventures-injects-1-35m-into-foursquare/">just raised $1.35 million from Union Square Ventures</a>, the venture company that is slowly moving up the ranks to become one of the most respected VCs in the social revolution out there. This just proves that Stefan and Felix from Plazes knew what they were doing and Nokia has them on board now, next to some developers that were doing some very good early RoRs work if I remember correctly, as this was the Basis of the new Plazes. Bit-side I don't know, but it seems to have been a 39 people development shop. For cellity they again had this interesting &quot;parts of the assets&quot; type of thing they also had with Plum. For me that sounds like a Team, buy which is really what Nokia needs. And cellity was again an all star founders team with deep knowledge in the social space.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;They need the people and the learnings they did in location aware applications (Plazes), Social Messaging and Networking over existing Networks (cellity) and now connecting intimate relationships (Plum). They need to not repeat the non-obvious but painful errors that these people did getting to where they are now and allow them to get a fresh start with a real budget. Remember Nokia sold 103 million mobile phones in the second quarter of 2009. That's almost 13 mobile devices every second if I calculated that correctly. The firepower Nokia is putting together in Berlin is very credible and I just hope that they have good management, mentors, facilitators and others to bound them together as a team quickly.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As Tom Peters said, you need to destroy and start over sometimes. So now a group of people is starting over in something location aware, that connects you with your friends, via a device that is the most personal thing you carry around with yourself. They are attacking Facebook from the other side. Users using Facebook via their mobile phone are more engaged, and this is where Nokia is starting at.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;One tip: The best explanation I have up till now on the success of the iPhone is that it's the first phone that I will pull out when waiting in a short line somewhere. I wouldn't have done that previously. So that should be the focus. No feature has any importance if it is not used.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am really looking forward to see this unfold, with first products and/or new acquisitions. It's a good time of acquisitions if you have the money and it's good to see Nokia building up its software development chops.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Update 20090923: <a href="http://bit.ly/11c2wY">And now Dopplr</a>.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Evolution of my Rememberall]]></title>
+    <link href="http://thylmann.net/blog/2009/08/15/the-evolution-of-my-rememberall/"/>
+    <updated>2009-08-15T12:42:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/08/15/the-evolution-of-my-rememberall</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I am a technology addict, and I love trying new things. One thing that has always been important to me is how they all work together to form a greater whole. Above that, some weeks ago, together with my Squarespace move, I decided to not have personal servers anymore. Not sure how long this will hold, but I will try. Servers at home are excluded, and ... a never mind, you get the point. E.g. I love <a href="http://noserub.com/">Noserub</a>, but I will run it hosted by somebody else.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But back to the main point. My Rememberall. There is so much stuff going on around you that you really need an infrastructure to keep yourself sane enough. It is probably easiest to understand how I use things by going through the day.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;A) E-Mail:&lt;/strong&gt; To start of I check my mail, yeah, I still do, and make sure only stuff I have to answer remains. Things I can answer now, are answered, things that I want to answer later remain, and things that are ToDo's are forwarded to my private E-Mail address at <a href="http://rememberthemilk.com/">Remember The Milk</a> so they end up becoming (unsorted) ToDo's. All else is archived directly through a Keyboard shortcut (thanks Mail Act-On). I say archived because all mails are in GMail and never deleted.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;B) RSS:&lt;/strong&gt; Yes, RSS is not dead for me yet. I use Google Reader and am very happy with it. I always read the &quot;All Items&quot; list, navigating through keyboard shortcuts. Especially on the iPhone, where I use Byline which syncs with Reader, I mark things as Favorite that I want to closer read later. If I already know that I like it but want to share it with the world, I &quot;share&quot; it potentially with note, which is automatically ending up in my Tumblr Blog at <a href="http://stuff.thylmann.net/">stuff.thylmann.net</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;C) Twitter:&lt;/strong&gt; Some here, I use favorites to mark things I want to read later. I am switching clients on the Desktop but on the iPhone I end up using Tweetie, even though I tried several others. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;D) <a href="http://readitlaterlist.com/">Read it Later</a>:&lt;/strong&gt; This wonderful service actually is used to add anything that I want to read later while in the browser. It includes an iPhone app that syncs via Nocat and hence I have lots of stuff to read later on my iPhone to read whenever I have the time. It also brings me to my next point. There also are two Bookmark lists for reading very shortly and reading some time, but let's see where they end up at in a few weeks.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;E) Remembering:&lt;/strong&gt; I leave that with <a href="http://evernote.com/">Evernote</a> really. Whatever I have read and liked, whatever I think I would like to save, whatever I want to remember, it ends up in Evernote. Either through a forward in Read it Later, via a Bookmarklet or right from the Mac. And it ends up in Spotlight on the Mac too. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;F) Friendfeed:&lt;/strong&gt; I am actually not sure what to od with this now. I was actually setting it up as my personal search engine. I ended up adding people I think are emm... intelligent and as they add all their personal feeds to their accounts, I presume in the long term it will/would have allow(ed) me to get very good search results. Sadly now they have been bought by Facebook so I will have to revisit Noserub again but that is against my idea of not having a server. Maybe just locally. ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;G) What is missing:&lt;/strong&gt; I still need one thing that aggregates it all really. I'd like all that is being shared with notes to end up somewhere, full content, all items in evernote, all my twitter messages, all my blog posts, all my photos, whatever. It is still a little bit too distributed. But as distributed is the way of the future I am looking forward to using this setup now and re-integrating that. I am hoping for a few things for the new Social Timeline being developed by Squarespace. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;So what are you using as your rememberall.&lt;/p&gt;</p>
+
+<p>&lt;script src=&quot;http://ads.adcloud.net/s/129.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;</p>
+]]></content>
+  </entry>
+  
+</feed>

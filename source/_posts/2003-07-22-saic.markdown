@@ -1,0 +1,13 @@
+---
+layout: post
+title: "SAIC"
+date: 2003-07-22 14:48
+comments: true
+categories: Life in General
+author: Oliver Thylmann
+---
+
+
+We always have conspiracy theories going arround but this one is nice. The [article](http://www.cnn.com/2003/TECH/ptech/07/21/secret.saic.ap/index.html) talks about SAIC, which is a billion dollar company with 40.000 employees, privately owned, doing business for among others, the NSA. Seems that this might be an interesting place to work at. 5000 of their employees have US federal security clearance. :)
+
+

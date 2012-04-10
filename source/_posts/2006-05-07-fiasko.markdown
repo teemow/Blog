@@ -1,0 +1,13 @@
+---
+layout: post
+title: "fiasko"
+date: 2006-05-07 21:30
+comments: true
+categories: Moblog
+author: Oliver Thylmann
+---
+
+
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/47/142266198_47e7be33d2.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/142266198/)&lt;br /&gt;	[fiasko](http://www.flickr.com/photos/oliver/142266198/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Great restorant in eupen/belgium&lt;/p&gt;
+
+

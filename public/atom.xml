@@ -4,7 +4,7 @@
   <title><![CDATA[Oliver Thylmann]]></title>
   <link href="http://thylmann.net/atom.xml" rel="self"/>
   <link href="http://thylmann.net/"/>
-  <updated>2012-03-28T22:55:03+02:00</updated>
+  <updated>2012-04-10T11:31:57+02:00</updated>
   <id>http://thylmann.net/</id>
   <author>
     <name><![CDATA[Oliver Thylmann]]></name>
@@ -12,5 +12,528 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Story of Bitcoin]]></title>
+    <link href="http://thylmann.net/blog/2011/06/05/the-story-of-bitcoin/"/>
+    <updated>2011-06-05T19:29:00+02:00</updated>
+    <id>http://thylmann.net/blog/2011/06/05/the-story-of-bitcoin</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;<a href="http://www.bitcoin.org/">Bitcoin</a> is on an upswing, both in terms of valuation as well as volume (see <a href="http://bitcoinreport.blogspot.com/2011/05/updated-transactions-per-day.html">Bitcoin Report</a> or <a href="http://bitcoincharts.com/markets/">Bitcoin Charts</a>). But what are Bitcoins?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I first read about them from the <a href="http://launch.is/blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html">Launch Newsletter L019: Bitcoin the P2P Currency</a>. Most importantly the article said:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;Bitcoin is a P2P currency that could topple governments, destabilize economies and create uncontrollable global bazaars for contraband.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;The article provides a great overview and yes this system is really interesting. Another good one is <a href="http://www.spiegel.de/netzwelt/netzpolitik/0,1518,765382,00.html">in german from Der Spiegel</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;There are a few problems though. Because bitcoins are theoretically anonymous (they can likely be tracked with some work), there is now a site where you can buy drugs, called <a href="http://ianxz6zefk72ulzz.onion/index.php">Silk Road</a>, run on <a href="https://www.torproject.org/">TOR</a>. <a href="http://gawker.com/5805928/the-underground-website-where-you-can-buy-any-drug-imaginable">Great writeup right here</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Now comes the bad side. <a href="http://www.quora.com/Is-the-cryptocurrency-Bitcoin-a-good-idea">Adam Cohen thinks it is a scam</a>. He talks about a deflationary spiral, on which <a href="https://en.bitcoin.it/wiki/Deflationary_spiral">Bitcoin actually has a counter argument</a>. The argument is also countered in the MIT Technology Review article titled: <a href="http://www.technologyreview.com/printer_friendly_article.aspx?id=37619">What Bitcoin is, And Why it Matters</a>. Still Adam Cohen raises some very valid points in his Quora post.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;For me it is still largely unclear of where this is going, but it surely is something to follow.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Last post in May]]></title>
+    <link href="http://thylmann.net/blog/2011/01/07/last-post-in-may/"/>
+    <updated>2011-01-07T20:18:00+01:00</updated>
+    <id>http://thylmann.net/blog/2011/01/07/last-post-in-may</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;&lt;p&gt;Boy oh boy has it been a long time since I have last blogged here. And you know what? The only reason I am writing again is the new Squarespace iPad app :)&lt;/p&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;The second part is that a lot of people have put out resolutions that they will start blogging again in 2011 and hell, I might just try to do that too. You can of course follow me on Twitter and all links I tweet or share elsewhere end up in <a href="https://pinboard.in/u:othylmann/">my pinboard</a> account. What I might try to do is go back to a bit deeper analysis. I see this not working already but with this nice of an app ;)&lt;/p&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;Looking forward to reviving this blog :)&lt;/p&gt;&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The privacy concern Zuckerberg did not answer]]></title>
+    <link href="http://thylmann.net/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/"/>
+    <updated>2010-05-24T10:15:00+02:00</updated>
+    <id>http://thylmann.net/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;After <a href="http://scobleizer.com/2010/05/23/when-do-you-throw-a-ceos-privacy-under-the-bus/">an email to Robert Scoble</a>, <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/05/23/AR2010052303828.html">Mark Zuckerberg has written an oped for the Washington Post</a>. He is going into detail about what they have learned and what they will change in te coming days/weeks. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Sadly he is missing out the biggest problem the diggerati who have left, e.g. <a href="http://leoville.com/">Leo Laporte</a> or <a href="http://calacanis.com/">Jason Calacanis</a> (ok ok, also done for marketing purposes, but that&#8217;s just Jason ;)) or <a href="http://ryanblock.com/">Ryan Block</a>, have. The problem is the steady and slow erosion of privacy. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;What once was, no longer is just for friends. Just take a look at <a href="http://mattmckeon.com/facebook-privacy/">this fun post showing how the defaults have changed</a>. &lt;/p&gt;&lt;p&gt;And that is the true problem. The defaults are changing. Actually they are not changing so much in Germany where all the recent changes were all opt-in, but that is more in relation to the flack Facebook got in recent weeks here.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;All I really want is to share stuff with family and friends and keep everyone else out. Sure people can find me via my name or email, but that does not mean it needs to be shared, just to be found when searched for. But why is my friendslist public or my likes? I don&#8217;t understand. Just check out <a href="http://www.rabidgremlin.com/fbprivacy/">FB Privacy Checker</a>. It will ask you to log in, but more or less to just know who you are on Facebook, getting your user id. They just want access to your public information.&lt;/p&gt;
+&lt;span class=&quot;full-image-block ssNonEditable&quot;&gt;&lt;span&gt;&lt;img src=&quot;/storage/Screen%20shot%202010-05-24%20at%2012.56.07.png?__SQUARESPACE_CACHEVERSION=1274698850828&quot; alt=&quot;&quot;/&gt;&lt;/span&gt;&lt;/span&gt;</p>
+
+<p>&lt;p&gt;So now check what the Privacy Checker shows me.&lt;/a&gt;</p>
+
+<p>&lt;p&gt;&lt;span class=&quot;full-image-block ssNonEditable&quot;&gt;&lt;span&gt;&lt;img src=&quot;/storage/post-images/Screen shot 2010-05-24 at 13.01.26.png?__SQUARESPACE_CACHEVERSION=1274698953050&quot; alt=&quot;&quot;/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Scary isn&#8217;t it? I&#8217;d love for somebody to prove me wrong and show me the privacy settings to change that. I actually don&#8217;t even want to show up on somebody else&#8217;s friends list. If I ever plan to share my friends list with the public it will be with people who also do that and on my own site based on open standards.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Hence my privacy settings are easy. Everything friends only please. Give me a like button on a website but it should only tell my friends I liked something and not the website or some public.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;These thoughts and more actually resulted in an interesting conversation I had with <a href="http://twitter.com/taospace">@taospace</a> about why we have the problems we do with facebook and not with google. I still suggest you read Jeff Jarvis&#8217; post on defining &quot;a public&quot; as people use in facebook.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Here is that conversation:&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;
+&lt;li&gt;othylmann: I sadly doubt facebook can do the right thing as long as their business is advertising and our data is perceived as valuable for that.&lt;/li&gt;
+&lt;li&gt;taospace: Yes. Now substitute Google for Facebook and it&#8217;s even more scary.&lt;/li&gt;
+&lt;li&gt;othylmann: the difference is that google needs to get content online and this means working with us all. More content = more ads = more money&lt;/li&gt;
+&lt;li&gt;othylmann: for facebook the don&#8217;t have this logical chain. More users just means more costs. Unless they can use their information.&lt;/li&gt;
+&lt;li&gt;taospace: Very good point. Still people are trusting Google to handle their content (mail, docs) for free as well so there is some of that.&lt;/li&gt;
+&lt;li&gt;othylmann:  yes and no. They do not have to break our trust to make money. Facebook currently has to because they need to use the data for ads&lt;/li&gt;
+&lt;li&gt;taospace: Google infers Facebook-style info too. No need for permission that way. Why wouldn&#8217;t they use it for growing revenue?&lt;/li&gt;
+&lt;li&gt;othylmann: my social contract with google is different and they need my content and behaviour more than my private data.&lt;/li&gt;
+&lt;li&gt;taospace: But doesn&#8217;t that just mean Google is smarter about doing the same thing but ends up in the same place all the same?&lt;/li&gt;
+&lt;li&gt;taospace: Agree that FB has no choice. I think Google will end up there as well, purely through market forces.&lt;/li&gt;
+&lt;li&gt;othylmann: google is organizing information. Facebook was mention to allow me to connect to friends and family. Adv. has no business there&lt;/li&gt;
+&lt;li&gt;othylmann: google will try to make sure that whatever profile we gave with google is the information we are willing to share publically.&lt;/li&gt;
+&lt;li&gt;taospace: True, but content+behaviour leads to mostly same data as &lt;span class=&quot;caps&quot;&gt;FB&#8217;&lt;/span&gt;s. You+me see different social contract, but what about Joe Average?&lt;/li&gt;
+&lt;li&gt;taospace: Adv. has no business in private data, agreed. Users perception of what is considered private is a problem though.&lt;/li&gt;
+&lt;li&gt;othylmann: they see that even more. Ask your wife if she wants goog profile, whether she believes all her likes and friends in fb are public&lt;/li&gt;
+&lt;li&gt;othylmann: and that&#8217;s the thing. In fb you believe stuff is private and not shared with advertisers. But yes there is a lot of learning to do&lt;/li&gt;
+&lt;li&gt;taospace: If she is told what info is public she&#8217;ll of course be upset. If she was told what info is inferred she&#8217;d be just as upset.&lt;/li&gt;
+&lt;li&gt;othylmann:  possibly but I am not sure. But yes, that will still lead to problem for google eventually. But it&#8217;s in their interest to be nice&lt;/li&gt;
+&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;This also lead to a side conversation on launching a new social network and whether people would be paying to keep their data private and not having you rely on advertising. This again turned into a bit of a discussion of how much people value their privacy, but that again is another post.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;All in all, it should be clear that I have been thinking about this and am very much with Jeff Jarvis on some points and with Thijs obviously with whom I had many great conversations about these fun subjects. This is tricky but Facebook needs to open up to monetize (or so they believe) and this goes against what they want out to do.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Of course as Mark points out in his WaPo piece: &lt;i&gt; If people share more, the world will become more open and connected.&lt;/i&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So we really shouldn&#8217;t be suprised if stuff on facebook is suddenly public. Take a look at <a href="http://www.tomscott.com/evil/">Evil</a> which samples public cell phone numbers from facebook, something the users surely didn&#8217;t intend to do. Maybe I should really delete my Facebook account afterall. Not to protect myself but to protect those of my friends that are less tech savvy. The problem is that at least for friends I would need an alternative. Currently none exists that is truly closed and private short of installing my own <a href="http://noserub.com/">Noserub</a> instanz. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Oh, and while we are at it, what about <a href="http://scobleizer.com/2010/05/23/facebook-we-have-a-problem/">this</a>? Removing stuff from Facebook that says how to delete an account? Read the comments people.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Never mind. This is complicated. I am really looking forward to what Facebook suggests the solution is. I want stuff closed damn it. That is what Facebook was about. Public stuff goes on Twitter, Public Profile on my Homepage.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android killed the iPhone - Long live the iPhone]]></title>
+    <link href="http://thylmann.net/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/"/>
+    <updated>2010-05-23T09:26:00+02:00</updated>
+    <id>http://thylmann.net/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;It is starting to get annoying. Both Google and Apple are just too good at influencing people&#8217;s thinking that I needed to post a few <a href="http://twitter.com/othylmann/status/14546790890">more than 140 characters</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Google just started to push the newest release of Android, 2.2 or Froyo for Frozen Yogurt, to owners of the Nexus One. Sadly <a href="http://twitter.com/teemow">@teemow</a> is currently on holiday so I cannot take a closer look at it in the office, but it is surely nice.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;To start off here are the two amazing posts I have read on Android 2.2, Google I/O and the iPhone/Apple:&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;
+&lt;li&gt;<a href="http://blog.newsweek.com/blogs/techtonicshifts/archive/2010/05/20/sayonara-iphone-why-i-m-switching-to-android.aspx">Sayonara, iPhone: Why I&#8217;m Switching to Android</a>&lt;/li&gt;
+&lt;li&gt;<a href="http://daringfireball.net/2010/05/post_io_thoughts">Post I/O Thoughts by Gruber</a>&lt;/li&gt;
+&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;I am trying to start of by commenting on a few of the points from these posts.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Let&#8217;s start with Flash. As I already sent on Twitter, Google is a quasi Adnetwork. Their business is in pleasuring agencies and advertisers in general. Pleasuring consumers is just something they have learnt is the best way to get to the more important point. Agencies are using Flash for ages. They have the right people internally. Those are Flash Designers/Flash Developers and they do not know HTML5 and actually have the wrong skill set in many cases to learn HTML5 efficiently. Google NEEDS flash to work on Android and they couldn&#8217;t care less about draining battery there. If they go to an agency and say: &quot;Let&#8217;s do a million dollar deal for some campaigns via Admob.&quot;, the client answers: &quot;But I really like the idea of iAd.&quot;, they now say: &quot;Sure, you can do that, needs a bit of training, might be interesting, but while you do that, just use us because you can just use your Flash Developers because we know Flash.&quot; Easy sell. Done.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Power drain can be dealt with over time. Actually it just a temporary problem and Google is doing that for the long run.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Tethering is supported by the iPhone too but the network does not want it. Did you ever tether your laptop to your iphone and look at the bandwidth usage? Just Dropbox starting a sync will pull down megabytes that are not happening on the phone. It is absolutely clear that networks do not want Tethering enabled by default. And everybody that complains about AT&amp;T network problems should shut up about Tethering very quickly because it would surely not improve the situation! I would be surprised if the Mifi functionality would arrive anywhere outside of the Nexus One, meaning on the network specific phones.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Still, the Mifi bit is wonderful and Apple should do that. Especially with the iPad they should. I do believe that they don&#8217;t to keep good relations to networks. This is actually also the problem with OTA iTunes, meaning streaming your library. This puts strains on the network. I actually do believe that while it is super geeky and fun, it is three years away to being really usable. For now the priority (if you do not need the press buzz) should be low. Especially if DLNA is continuing its growth, you will have DLNA Harddisks at Home and just need to open up your DLNA device to the outside and you can stream from your home. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;But .. Apple is chasing Google. At the same time, Apple and Google are chasing Nokia in many things! There is one and only one reason why Android sells so well. It is the best touch screen open source thing that can be licensed free by the carriers who can then adopt it to their liking. That&#8217;s why the Nexus One didn&#8217;t sell. Carriers sell phones. Not manufacturers. Carriers/Networks will push them through all the channels they control and make it sell no matter what is on there. Google has noticed that and changed how they sell their phones.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As for the advertising platform. Come on people. Steve Jobs is just protecting his own market because you know what, GOOGLE IS TAKING OVER THE ADVERTISING WORLD AND CANNOT BE STOPPED! At least hardly by one player alone, which is why we are using a more distributed model at <a href="http://adcloud.com/">Adcloud</a>. It&#8217;s just economies of scale. But that&#8217;s another post. I do believe Apple is delusional though in how they approach it. But let&#8217;s see how it goes. I applaud them for doing it themselves and not caving in to Google.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;On the other side, of course Apple is doing stuff for their own good. That&#8217;s the point in being a business. You can just hope that you can align your own good with that of your other stakeholders. For Google that seems to be working. For Apple it works in the sense that people want great stuff that works without a flaw.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;While Google&#8217;s Cloud-to-Device system is nice, I do see security experts drooling about getting fun stuff into Android and taking it over. But still, the entire cloud thing needs to be dealt with by Apple. I presume they will, but not sure how, especially keeping it easy.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But there is one positive note to leave at the end. There are two companies at the moment that are almost printing money that are in the phone space: Google and Apple. As Gruber said Microsoft seems to be left in the dust but would have the money. Back to the two big ones. Google bleeds cash via it&#8217;s advertising systems and with Admob it quasi owns the Display (Doubleclick), Text (Adsense) and Mobile (Admob) Market. They just need to make sure that everything is connected to the internet to make more money. As we love stuff on the internet, this is good and good for the mobile ecosystem. Apple on the other side gives us amazing products that just work, asking for a premium for them. See something? Nobody is killing anyone here? Google needs size. They actually need the more normal people rather than the geeks that are raving now. Geeks don&#8217;t click on Ads. But it&#8217;s the first step. Apple needs to remain focussed on their closed system that works.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As the first article said, Jobs is becoming a bit draconian but I do believe that is what is needed for the iPhone. As much as a love the Android as a Geek, I do know the new iPhone will work and work really well. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;On top of that, both Google and Apple have the money to really innovate, to just hire people because they might end up doing interesting stuff. They need to and that is good. I thank Google for putting pressure on Apple and Carriers (Mifi stuff) but really hope that Apple will not cave and do the same thing they did last time: license the OS, starting copying the Windows system for distribution, &#8230; . That can&#8217;t be it. I have almost only Macs in the office and that is because they just work. Support costs are simply lower. They might not have all the features of others but they just work. I want that in my phone even more so.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The solutions for the plain text nut]]></title>
+    <link href="http://thylmann.net/blog/2010/02/20/the-solutions-for-the-plain-text-nut/"/>
+    <updated>2010-02-20T12:33:00+01:00</updated>
+    <id>http://thylmann.net/blog/2010/02/20/the-solutions-for-the-plain-text-nut</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I have a further evolution of my <a href="http://thylmann.net/blog/2009/8/15/the-evolution-of-my-rememberall.html">Rememberall</a>. It&#8217;s really staying mostly the same but I have added three things to further allow me to work efficiently. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;You have to remember that I am a text nut. I like stuff in plain text files. I like writing down stuff quickly and knowing its there somewhere without worrying where.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So one of those apps I added, via <a href="http://twit.tv/mbw">MacBreak Weekly</a> or <a href="http://twit.tv/twit">TWiT</a> I think, is <a href="http://notational.net/">Notational Velocity</a>. It&#8217;s a mouseless text entry system just made for quick text entry and retrieval. You have one search box, searching all your notes. Whenever you press enter a new note is created, when you press down you go into the list of notes. Simple as that. The fun extra thing is that you can tell Notational that it should store all texts in text files, which in my case get stored in a special directory that is synced to <a href="http://dropbox.com/">Dropbox</a>. Oh the joy ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I have been working with notes like that for some time, but mostly in TextMate. The thing that is missing is easy access to the notes from the iPhone. Welcome <a href="http://simplenoteapp.com/">Simplenote</a>! It&#8217;s a website where you can write text files and see them and they have an iPhone app and an API. Hence, now my Notational Velocity Syncs with Simplenote on my iPhone, and thanks to the pro Account all text files are backuped and I got an email I can simply send stuff to and have it converted into a Simplenote. I can also get an RSS Feed from my Notes. Oh the joy! :)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So finally I have the solution I needed to have my written notes with me all the time. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;The other one I just bought for the iPhone is <a href="http://www.momentoapp.com/">Momento</a>. It&#8217;s not perfect yet but it is going in the right directly. It is kind of a personal diary but the nice thing is that it can backup all your twitter items and flickr items and last.fm items. Now I am not using last.fm that much, but this really makes me wonder. I already suggested to the developer that they integrate more services and make me pay one by one. I would happily do that for Foursquare for example to add location to the diary. It might also solve my full backup bit.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Oh the joy! ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But I am repeating myself.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Is the iPad just a new BeIA?]]></title>
+    <link href="http://thylmann.net/blog/2010/02/10/is-the-ipad-just-a-new-beia/"/>
+    <updated>2010-02-10T20:24:00+01:00</updated>
+    <id>http://thylmann.net/blog/2010/02/10/is-the-ipad-just-a-new-beia</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;It was nagging me for some time and now I found back the pages about the wonderful BeIA. Remember the time Apple bought Next? The other company that was in the pitch was Be, Inc. At the time Be, Inc. had BeOS as a Desktop operating system and was getting ready to release the first versions of BeIA, a tablet OS.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;span class=&quot;full-image-block ssNonEditable&quot;&gt;&lt;span&gt;&lt;img src=&quot;/storage/post-images/beia_webpad.jpg?__SQUARESPACE_CACHEVERSION=1265834176909&quot; alt=&quot;&quot;/&gt;&lt;/span&gt;&lt;br /&gt;Source: <a href="http://www.geek.com/articles/news/be-to-be-on-web-tablets-20000810/">Be to be on Web Tablets</a>&lt;/span&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Just check out this little bit from the <a href="http://web.archive.org/web/20010608092643/www.be.com/products/beiafaq.html">BeIA FAQ</a>:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Why won&#8217;t everyone just use a computer to log on to the Internet?&lt;/strong&gt;&lt;/p&gt;</p>
+
+<p>  &lt;p&gt;The PC, although it is a wonderfully expandable and open device, has several drawbacks as a dedicated Internet device. First, it takes an inordinate amount of time to get on line. It requires a large amount of knowledge to use it. It is not responsive and stable like a consumer electronic device. The PC forces people to work in ways that may not be right for the task at hand. For instance, you do not have to &quot;boot&quot; your television or &quot;shut down&quot; your CD player. PCs are often in the wrong part of the house to accomplish what you want to do. In order for the web to truly become ubiquitous, new classes of devices, with purpose-built user experiences, will be created. The PC is great for business style applications, but it isn&#8217;t the right tool for every use.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;You can look at other parts of like the <a href="http://web.archive.org/web/20010602203842/http://www.be.com/products/beiadatasheet.html">BeIA Datasheet</a> and find more things. I could have pasted more things but I presume you can read it yourself.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;It has already been said that Apple did not think about using the iPhone OS on the iPad otherwise they would not have named it iPhone OS. What Jobs might have thought is that Jean-Louis Gassee had a nice idea with BeIA but wanted to wait for a time when hardware is ripe to really allow for this kind of tablet to exist. Be was seriously too soon with it as the device itself would have been too clunky and ugly, but still. See the icons on the screen? The simplicity? Always on? No boot times?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Not bad for an idea of 2001 ey?&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome OS is not more multitasking than the iPad]]></title>
+    <link href="http://thylmann.net/blog/2010/02/03/chrome-os-is-not-more-multitasking-than-the-ipad/"/>
+    <updated>2010-02-03T07:52:00+01:00</updated>
+    <id>http://thylmann.net/blog/2010/02/03/chrome-os-is-not-more-multitasking-than-the-ipad</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I am starting to wonder if people have no clue or if I am just clueless and I seriously do not want to believe that. The thing is that everybody is complaining that Apple&#8217;s iPad is not doing multitasking. Fine by me. Most things do not really need multitasking though and if the modal screens for push messages is improved you can stay online in your skype account or do other things. Sure it would be nice to be able to move a video to a small screen and continue browsing the web, but we will survive.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;What drives me nuts though is people starting to speculate that Chrome OS will kill the iPad because it has <a href="http://www.readwriteweb.com/cloud/2010/02/the-pros-and-cons-of-a-google.php">multitasking</a> or <a href="http://www.readwriteweb.com/archives/googles_tablet_versus_apples_ipad.php">doesn&#8217;t have flash</a>? What?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First the multitasking. Yes, Android does multitasking, but Chrome OS is a browser and you can do multiple tabs, but that is not multitasking and something the iPad can do just fine. So this is really a non-point. Chrome OS is first still in development and second focussed on all being in a browser and hence not multitasking as such.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As for flash, yes some sites will not run but Youtube is already working as they are making special iPhone versions of videos and many others will try to incorporate HTML5. Just check out the <a href="http://jilion.com/sublime/video">SublimeVideo Player</a> to see what is possible. Amazing stuff.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Oh and one thing for everyone: Not everyone has to or will buy an iPad and it is not the end-all device and not built as such. I actually chose a Mac because I wanted it to work after hacking around in servers and linux and windows boxes for ages. The iPad is just taking it one step further. Talk to people who have an iPhone. Most of them stopped hacking them because it is fine as it is or you move to e.g. Android. And Android is multitasking.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blippy just Rocks!]]></title>
+    <link href="http://thylmann.net/blog/2009/12/30/blippy-just-rocks/"/>
+    <updated>2009-12-30T20:32:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/12/30/blippy-just-rocks</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Boy do I love <a href="http://blippy.com/">Blippy</a>! Seldom has there been a service where I am so pissed that internationalization is hard. The thing is the only account I have that works with the service is my Amazon.com Kindle account. Even iTunes doesn&#8217;t work as it is the German one. If you are unfamiliar with Blippy read <a href="http://www.techcrunch.com/2009/12/22/blippy-invites/">this intro on Techcrunch</a> as well as the follow up where Blippy announces <a href="http://www.techcrunch.com/2009/12/23/blippy-1-million/">tracking $1 million in transactions only one day after opening their doors</a>. People are already talking about <a href="http://robbrown.posterous.com/blippy-is-this-the-evolution-of-twitter">Blippy being the next Twitter</a>, which is really mostly to mean that the Twitter idea is starting to be so big that it can be split up into more tiny niches, with Blippy being one.&lt;/p&gt;&lt;p&gt;Many people will wonder why Blippy is so good or why anyone would share all this information about themselves and I suggest, just read the stream by <a href="http://blippy.com/leolaporte">Leo Laporte</a> or <a href="http://blippy.com/matt">Matt Cutts</a> or <a href="http://blippy.com/jason">Jason Calacanis</a> (who recently purchased a Canon 7d by the way) or <a href="http://blippy.com/pud">Philip Kaplan</a> one of the founders.&lt;/p&gt;&lt;p&gt;For all their credit card stuff they are using <a href="http://yodlee.com/">Yodlee</a> as do most of the other things out there that interact with US bank accounts. Sadly I do not know of any such service in Germany at this time. Might be somebody that should do this but I am unsure about the German privacy laws. &lt;/p&gt;&lt;p&gt;To finish it off <a href="http://kara.allthingsd.com/20091223/philip-pud-kaplan-talks-about-blippy-the-twitter-of/">here is a video interview with Pud (Philip Kaplan)</a>. He also founded Fucked Company and Adbrite by the way. With Adbrite being so well copied all over Germany I see now reason why this will not happen soon here in Germany for Blippy, expect we don&#8217;t have Yodlee.&lt;/p&gt;&lt;p&gt;Actually I hope somebody will start a Yodlee in Germany and give the account access to Blippy so we keep it integrated!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Update:&lt;/b&gt; and just now they twittered about international support for iTunes. Germany was missing but added minutes after me telling them. Congratulations! So blippy went international in 2009! cool :) &lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Google Chrome OS really means]]></title>
+    <link href="http://thylmann.net/blog/2009/12/02/what-google-chrome-os-really-means/"/>
+    <updated>2009-12-02T20:28:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/12/02/what-google-chrome-os-really-means</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;All focus is currently on <a href="http://en.wikipedia.org/wiki/Google_Chrome_OS">Google Chrome OS</a> and what it will mean for our beloved NetBooks. I somehow have the feeling people are not thinking far enough because our geeky NetBooks are totally irrelevant. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Google does stuff with very much focus, a lot more focus than often is visible on first sight. You can actually always think back to a) making all content available and b) more people online means more ads to display.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;And there are a lot of different implementations of Google Chrome OS that will further those goals. First of all you can obviously tell people to attach their digital cameras and pictures and videos are automatically uploaded to Youtube and Picasa, but that is the braindead move. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Remember that they are building very clear hardware specifications allowing them to say that the system is rock solid if the specs are used. The important part here is x86 or ARM and solid state drives. In summary, that means a good CPU that can also render diverse video streams in high quality as well as a totally silent drive that is cheap in small sizes and only holds the OS. The OS itself will be rock solid as there is really nothing much installed.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;This as such is the perfect implementation for TVs! Just imagine having your TV and being able to turn on Chrome OS to read your mail, look at youtube, search the web, automatically upload your photos, and so on. That in a silent system that boots as quickly as your TV turns on, or almost. It doesn&#8217;t need to be running at all time then which saves energy and Google is suddenly in all living rooms. Hell the OS is free or even better than free with Google paying the TV company for ads served to the user. The TVs have network interfaces already anyway. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;The other thing is that there are LARGE groups of people in developing countries that might not have the money for a full blown PC and Google could potentially make this thing very cheap and possibly even free together with a data provider. They would get millions of new users that are available to their advertisers that are probably really begging for more users to advertise to in these countries. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am really looking forward to seeing where they are going with this. Because I will keep my Mac, no questions there, but in my TV &#8230; sure &#8230; in my car &#8230; of course. Imaging this being the one laptop per Child system. Things get interesting when thinking further than normal Netbooks.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Foursquare will fail]]></title>
+    <link href="http://thylmann.net/blog/2009/11/29/foursquare-will-fail/"/>
+    <updated>2009-11-29T12:02:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/29/foursquare-will-fail</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;At least in terms of becoming the next Twitter. Sorry to say that. I know people are <a href="http://www.fischmarkt.de/2009/11/foursquare_is_the_new_twitter.html">starting</a> to <a href="http://edition.cnn.com/2009/TECH/11/19/cashmore.foursquare/">rave</a> about Twitter but the first really good post came from Jason Kincaid on Techcrunch: <a href="http://www.techcrunch.com/2009/11/28/facebook-foursquare/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;amp;utm_content=Google+Reader">Watch out Foursquare, Facebook is Poised To Dominate Geo</a>.&lt;/p&gt;
+&lt;p&gt;So let me try to explain why I think it will fail, at least in terms of the hype around it at the moment, and there are many points.&lt;/p&gt;
+&lt;p&gt;A) People will not publish where they are at any time. There is just too much of a security worry. This will remain true and is actually a very wise thing to think about.&lt;/p&gt;
+&lt;p&gt;B) We already had something very similar with <a href="http://plazes.com/">Plazes</a>, it was just missing the game, and as Jason said, the fun of Games dies down.&lt;/p&gt;
+&lt;p&gt;It&#8217;s actually very important to take a look at Plazes and their history because they too had many of the then in-the-know Angels onboard, and the entire tech/web2.0 gang was on Plazes. It was a fun system to use and you saw who was where and how close and things like that. But it never grew mainstream and it will be interesting to see if Foursquare manages to do that.&lt;/p&gt;
+&lt;p&gt;C) I am actually using Foursquare a bit now and I have to say I am still missing the point. I started using it in a travel week and hence am now a newbie in Cologne where I live, in Hamburg and in London. Why the hell did I need to switch cities? I was in a different city but this kind of feels insulting. I AM NO LONGER A NEWBIE ;) Above that I actually didn&#8217;t know what to do with it. I checked in and then what? In the last few hours somebody I know was somewhere in London. Hmm&#8230; so what?&lt;/p&gt;
+&lt;p&gt;Why is there no &quot;Who is Near?&quot; or &quot;Near places of your friends?&quot; or similar things. Sure it is still very rough and their slow growth on a city per city basis might have been a good idea. But still, I am not sure why I would rave about it and I normally rave way too fast.&lt;/p&gt;
+&lt;p&gt;D) Location is not a central thing in our lives! We do need an OS for our Computers (Microsoft) or Search for Stuff (Google) or Connect with Friends and Family (Facebook) or Feel connected with OUR community (Twitter, the new worlds IRC Channel ;)). I am not really sure where Foursquare fits into this. If I want to meet friends I will talk to them. Weird stuff, called Phone. ;)&lt;/p&gt;
+&lt;p&gt;Don&#8217;t understand me wrong, I do believe Foursquare is fun and nice and things but it is not going to be the next Twitter.&lt;/p&gt;</p>
+
+<p>&lt;div class=&quot;posttagsblock&quot;&gt;<a href="http://technorati.com/tag/foursquare"> rel=&quot;tag&quot;&gt;foursquare</a>, <a href="http://technorati.com/tag/facebook"> rel=&quot;tag&quot;&gt;facebook</a>, <a href="http://technorati.com/tag/plazes"> rel=&quot;tag&quot;&gt;plazes</a>, <a href="http://technorati.com/tag/local"> rel=&quot;tag&quot;&gt;local</a>, <a href="http://technorati.com/tag/geo"> rel=&quot;tag&quot;&gt;geo</a>&lt;/div&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[These little fees add up]]></title>
+    <link href="http://thylmann.net/blog/2009/11/29/these-little-fees-add-up/"/>
+    <updated>2009-11-29T11:27:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/29/these-little-fees-add-up</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;We are all getting used to the idea of freemium but I am wondering if this will not implode because things are starting to add up. I really noticed when recently thinking (again) about how to restructure my services.&lt;/p&gt;
+&lt;p&gt;What is it for me:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;$25 per year - Remember the Milk: I am definitely keeping this one as it is really cheap and a great deal especially with iPhone Integration through ToDo.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$59 per year - Vimeo: the service just rocks, period. I love how the videos end up and through the pro service I can really limit where videos are allowed to appear and keep my family videos sharable and save.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$12.60 a month - Squarespace: I just wanted to ditch servers and this is probably the first one that might have to go once I find a better solution but I didn&#8217;t yet. Squarespace is really nice and if they finally get their social integration done I am starting to be really happy. It is the most expensive point though and I could just go with Wordpress.com and the biggest problem would be that my tags are shared with all wordpress people. Ah well.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;Stopped - Flickr: I just stopped my premium Flickr subscription as I am sharing most pictures with Family on Squarespace and that is good enough. I might actually still need that somehow.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$99 per year - Dropbox: I am actually not paying yet as I have a 10GB account due to an early beta membership (u 900 ;)) but this will surely stick.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;€5.95 per month - Xing: For my networking in Germany still a wonderful thing.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;$49.95 per year - Plaxo Premium: I want my addressbook safe and I would actually love Xing to do this but they don&#8217;t. Still really not happy in this field.&lt;/li&gt;</p>
+
+<p>  &lt;li&gt;all the forgotten stuff: There are probably things I have forgotten as they end up coming on the bill once a year.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the end, there will be more services like this and this is really starting to annoy me. It&#8217;s all cheap enough to not think enough but it is adding up. All the &quot;small fees&quot; currently end up to be over 200 USD, more if I ever get the Dropbox Account.&lt;/p&gt;
+&lt;p&gt;So what subscriptions do you have? :)&lt;/p&gt;
+&lt;p&gt;Update: I am wondering if I should not just move to Wordpress.com, upload videos there, and so on. Anyone using Wordpress for Videos?&lt;/p&gt;</p>
+
+<p>&lt;div class=&quot;posttagsblock&quot;&gt;<a href="http://technorati.com/tag/dropbox"> rel=&quot;tag&quot;&gt;dropbox</a>, <a href="http://technorati.com/tag/rtm"> rel=&quot;tag&quot;&gt;rtm</a>, <a href="http://technorati.com/tag/services"> rel=&quot;tag&quot;&gt;services</a>, <a href="http://technorati.com/tag/squarespace"> rel=&quot;tag&quot;&gt;squarespace</a>, <a href="http://technorati.com/tag/vimeo"> rel=&quot;tag&quot;&gt;vimeo</a>, <a href="http://technorati.com/tag/xing"> rel=&quot;tag&quot;&gt;xing</a>&lt;/div&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kindle: The Good, The Bad, And The Weird]]></title>
+    <link href="http://thylmann.net/blog/2009/11/04/kindle-the-good-the-bad-and-the-weird/"/>
+    <updated>2009-11-04T15:27:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/04/kindle-the-good-the-bad-and-the-weird</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I am starting to use my Kindle more and more. Hence it was time to finally write about it. To start with, I have to say that I really like it, just so you have a frame of reference for the rest of this article. I will try to go into some of the bad things as well as things that I would categorize as weird, as well as the good sides, finishing of with some basic ideas of where this will go in the future.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So let&#8217;s start with the bad and the weird side. This really only comes up when you use the thing for some time. First of all, you need to teach yourself that this is a book. Sadly I am a geek and this is technology. So I carry it around with me at all times. Obviously I forgot it in the office over the weekend. That would never have happened with a book because you would not carry it around with you to all places. As the Kindle has all your books you are then missing all your books. So handle it like a book and keep it at the night stand ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;This brings me to the second point. We all want some kind of haptic feedback with buttons, a kind of clicking sound when we press them. But for this device it might be something you don&#8217;t want. In bed with my wife, not reading something but more scanning it, can get &#8230; click &#8230; really &#8230; click &#8230; annoying &#8230; click &#8230; for my &#8230; click &#8230; wife. click. In the long run this is not a problem but for now people are not used to books clicking.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But that is mostly it with the bad sides for me. I really like the device. The most important thing, the reading quality, is really good and on par with paper. Standby/Reading time is great. The wireless works like a charm and buying books was great. Working well is also the Amazon conversion question, though I mostly used the free system where the converted files end up in your mailbox to be moved to the Kindle via USB.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am actually moving a lot of my &quot;Read Later&quot; items to the Kindle and used it on a recent flight to Zurich as my way to read up on all the articles I still wanted to read. I actually built myself a small Automator Script that takes the current clipboard, creates a text file, attaches it to an email and sends that to my free Kindle e-mail for conversion.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The other great item is the sample chapter bit for books. It brings browsing back to the digital world and I am actually getting some ideas for new interfaces to Amazon that enable that on your browser. This free first chapter and general book wireless transfer to the Kindle is actually something I would want to have for any content I have to admit. Having to move text to the Kindle per USB is a pain and again makes you take the Kindle with you, which again brings you back to the problem I talked about earlier: forgetting the Kindle somewhere. I am currently not doing this wirelessly as it costs too much money for the international version, $0.99 per transfer and MB to be exact. That really needs to change.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I really think that this is the first step to a lot of things changing in the future and some things I see as a requirement for future eReaders and improvements to the Kindle, some of which I am sure will be coming.&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Wireless is a must&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;The will need to have full wireless for all things and somebody needs to find a solution for sending stuff into the system for free or a good fee (e.g. 5 EURs a month for 100MB and unlimited amount of transfers per month). Only through this will it be something that you leave around everywhere and are sure that it is always synced. This could theoretically also be simple Wifi but &#8230;&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Global Roaming&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Great treat from Amazon. I will get my books and magazines and articles wherever. On holiday. Before a flight, after a flight. You will want to get them at any time and this is why it needs to be real wireless not only Wifi. Wifi is just not available everywhere and still not easy enough to log in to.&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;A New Browsing System&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;The sample chapter bit enables digital browsing. I want an interface that allows me to scan racks of book covers, giving me a sample chapter with one click on the cover. This re-enables browsing in the digital world. Somebody build that please, thank you.&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Syncing of clippings back into Amazon&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;I really like the clipping system and I would love it to sync back into Amazon or somewhere where I can easily get a hold of my clippings. These are a) too valuable to get lost and b) I would often like to add quotes to a Tumbler Blog or somewhere else. &lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Better Organization Capabilities&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;I need an option to make folders and things, to be better able to order lots and lots of different articles and things. The defaults are just too chaotic.&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Webservice Integration&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;I would like to send stuff I read, possibly with clippings attached and everything to things like Evernote. I just don&#8217;t want to loose these things. I think this is the same for other people. Due to the natur of this things you will want to have further interactions around the book. Looking at comments and clippings from my friends would obviously be nice. Imagine a corporate clipping service running on this.&lt;/p&gt;</p>
+
+<p>&lt;h3&gt;Final Thoughts&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;All in all there is still a long way in front of us for the perfect device. The Kindle is better than good enough for my taste though. It provides the basics that are needed to get me to change my habits and adapt a new way to read written words. This is what this device does very well and having taken a look at others, and looked at the entire package they offer, the Kindle is the only one that really delivers the goods.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So yes, I would buy it again.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Posting from Squarespace iPhone app]]></title>
+    <link href="http://thylmann.net/blog/2009/11/03/posting-from-squarespace-iphone-app/"/>
+    <updated>2009-11-03T19:46:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/11/03/posting-from-squarespace-iphone-app</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;&lt;img class=&#8217;iphone-image&#8217; src=&#8217;http://thylmann.net/resource/iphone-ull0x4cce3e0g?fileId=4646026&#8217;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img class=&#8217;iphone-image&#8217; src=&#8217;http://thylmann.net/resource/iphone-ull0x5c9c5e0g?fileId=4646028&#8217;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img class=&#8217;iphone-image&#8217; src=&#8217;http://thylmann.net/resource/iphone-ull0x5da0830g?fileId=4646031&#8217;/&gt;&lt;/p&gt;&lt;p&gt;Writing this from a very sleek little app that makes me happy about my squarespace account :)&lt;/p&gt;&lt;p&gt;Wondering where the screenshot will end up and not having screen rotation is a bit of a bummer but this is blogging in style.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Ok it crashed on me after saving as draft but check the post management view or the stats and it did save the draft before crashing ;)&lt;/p&gt;&lt;p&gt;Thank you Squarespace! &lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I just ordered the International Kindle]]></title>
+    <link href="http://thylmann.net/blog/2009/10/12/i-just-ordered-the-international-kindle/"/>
+    <updated>2009-10-12T19:57:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/10/12/i-just-ordered-the-international-kindle</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I just ordered an <a href="http://www.amazon.com/gp/product/B0015T963C?tag=olivthylsthou-20">International Kindle</a> and boy am I looking forward to it. There has been some discussion going on about the prices for Books in the USA and for example here in Germany. Just <a href="http://www.guardian.co.uk/technology/2009/oct/09/kindle-charges">read this on the Guardian</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then comes <a href="http://www.readwriteweb.com/archives/german_chancellor_tells_google_you_cant_just_go_ar.php">our Chancellor talking about book scanning and digital books</a>. Seems like she does not believe that eBooks will ever replace real books.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As there is too much to say to both these points to put them on Twitter I am blogging again ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Number 1: Hell digital books will put a huge dent into print books. Of course there will still be printed books but they will go the way of vinyl, even though not as drastically and in a longer timeframe. Just listen to Amazon saying that for books that are available digitally and in print, almost 50% of sales are digital! Thinking that the digital revolution will stop at print is nuts.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Number 2: Prices are cheaper in the USA. Yes, they are. It&#8217;s $9.99 for a NYT best seller. Amazon already stated in the country specific information that e.g. for Germany you pay $11.99 to $13.99 per book, which cheaper ones being available. The thing is that the extra charges might seem steep but you know what? For Germany it is still very cheap. It is actually what is touched upon in the article on RWW above: We have fixed book prices here, and I will have to buy my digital books in the USA for the Kindle, where this is not the case and hence they are way cheaper. This will turn out to be interesting ;) &lt;/p&gt;</p>
+
+<p>&lt;p&gt;So yes, I think they are adding a bit much to the price of the books, but it still makes the books cheap by German standard. You need to remember that they are launching this in 100 countries though AT&amp;T and AT&amp;T is not in Germany. What AT&amp;T does have is so called roaming agreements which are normally really expensive. Hence, downloading a book is more expensive. The added benefit from this comes to us in point Number 3.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Number 3: I can use the Kindle anywhere. Boarding a flight to London, download a few samples, buy the book when in London before flying back. All possible, with no price changes, as this is already prices in through global roaming fees. Just think about the changes coming with that. You no longer need to decide which books to buy before holiday and which to take with you. You load up samples wherever you are, buy whenever you want, and thinking about news papers &#8230; they come to your Kindle no matter which country you are in!!! &lt;/p&gt;</p>
+
+<p>&lt;p&gt;This thing will sell like hot-cakes and change the way you consume news and books. Period. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;So here again is my affiliate link ;) <a href="http://www.amazon.com/gp/product/B0015T963C?tag=olivthylsthou-20">Buy the Kindle International Version</a>!&lt;/p&gt;</p>
+
+<p>&lt;p&gt;P.S.: I am not even talking about the social aspects that are surely coming to the device soon.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nokia Building up a Local Social Powerhouse]]></title>
+    <link href="http://thylmann.net/blog/2009/09/11/nokia-building-up-a-local-social-powerhouse/"/>
+    <updated>2009-09-11T19:41:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/09/11/nokia-building-up-a-local-social-powerhouse</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;This is getting really scary. First caught Nokia&#8217;s latest acquisition via Martin&#8217;s post: <a href="http://english.martinvarsavsky.net/general/nokia-buys-plum.html">Nokia buys Plum</a>. Actually that headline is not really true though as once again Nokia is buying certain assets from Plum, as visible in <a href="http://www.nokia.com/press/press-releases/showpressrelease?newsid=1340931">Nokia&#8217;s press release on the Plum acquisition</a>. To quote: &lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;Nokia and Plum today announced that Nokia has acquired &lt;strong&gt;certain assets&lt;/strong&gt; of Plum Ventures, Inc, a privately held company which &lt;strong&gt;employed approximately 10 people&lt;/strong&gt; with main offices in Boston, Massachusetts. Plum will complement Nokia&#8217;s Social Location services.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;So Nokia only buys certain assets and the company employed (past tense) 10 people. As Martin notes already at least the Founder will move to Berlin. Plum themselves note that their <a href="http://pluminc.com/blog/archives/2009/09/nokia-to-acquire-plum.html">entire team will be part of Nokia&#8217;s Social Location Unit</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The part that links several things together is that people are moving to Berlin. In 2006 they bought gate5, who sit in Berlin, and then in 2007 bought Navteq for $8.1 billion to further complete their mapping solution. Then came the acquisition of <a href="http://www.nokia.com/press/press-releases/archive/archiveshowpressrelease?newsid=1229894">substantially all assets of Plazes</a> in 2008, followed by <a href="http://www.nokia.com/press/press-releases/showpressrelease?newsid=1288641">bit-side beginning 2009</a> and completed recently with the acquisition of <a href="http://www.nokia.com/press/press-releases/archive/archiveshowpressrelease?newsid=1330831">certain assets of cellity</a>. All those were either in Berlin or are moving to Berlin.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So what do we have. A company that has decided that location and social is a big part of their future. This is deeply routed in the fact that Nokia has always believed and learned that a mobile phone is something very personal. That in itself makes it social and makes location important. If you then need to move fast, have 50 billion USD in revenues and 5 billion USDs in profit in 2008, and a down economy, the moves are plain brilliant.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Plazes never really took off but had a huge geek following with most every self respecting geek world wide having an account. You see the follow up of Plazes now in <a href="http://foursquare.com/">Foursquare</a>, which <a href="http://gigaom.com/2009/09/04/union-square-ventures-injects-1-35m-into-foursquare/">just raised $1.35 million from Union Square Ventures</a>, the venture company that is slowly moving up the ranks to become one of the most respected VCs in the social revolution out there. This just proves that Stefan and Felix from Plazes knew what they were doing and Nokia has them on board now, next to some developers that were doing some very good early RoRs work if I remember correctly, as this was the Basis of the new Plazes. Bit-side I don&#8217;t know, but it seems to have been a 39 people development shop. For cellity they again had this interesting &quot;parts of the assets&quot; type of thing they also had with Plum. For me that sounds like a Team, buy which is really what Nokia needs. And cellity was again an all star founders team with deep knowledge in the social space.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;They need the people and the learnings they did in location aware applications (Plazes), Social Messaging and Networking over existing Networks (cellity) and now connecting intimate relationships (Plum). They need to not repeat the non-obvious but painful errors that these people did getting to where they are now and allow them to get a fresh start with a real budget. Remember Nokia sold 103 million mobile phones in the second quarter of 2009. That&#8217;s almost 13 mobile devices every second if I calculated that correctly. The firepower Nokia is putting together in Berlin is very credible and I just hope that they have good management, mentors, facilitators and others to bound them together as a team quickly.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As Tom Peters said, you need to destroy and start over sometimes. So now a group of people is starting over in something location aware, that connects you with your friends, via a device that is the most personal thing you carry around with yourself. They are attacking Facebook from the other side. Users using Facebook via their mobile phone are more engaged, and this is where Nokia is starting at.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;One tip: The best explanation I have up till now on the success of the iPhone is that it&#8217;s the first phone that I will pull out when waiting in a short line somewhere. I wouldn&#8217;t have done that previously. So that should be the focus. No feature has any importance if it is not used.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am really looking forward to see this unfold, with first products and/or new acquisitions. It&#8217;s a good time of acquisitions if you have the money and it&#8217;s good to see Nokia building up its software development chops.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Update 20090923: <a href="http://bit.ly/11c2wY">And now Dopplr</a>.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Matt Thinks about starting a Bank]]></title>
+    <link href="http://thylmann.net/blog/2009/09/04/matt-thinks-about-starting-a-bank/"/>
+    <updated>2009-09-04T14:59:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/09/04/matt-thinks-about-starting-a-bank</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Matt Mullenweg has a great post called <a href="http://ma.tt/2009/08/starting-a-bank/">Starting a Bank</a> and I&#8217;d love it if he would think more about it. Of course having used Citibank some time ago, I know how much US banking interfaces must suck, at least compared to stuff like Comdirect. In Germany <a href="https://ficoba.fidor.de/">Ficoba</a> might actually be going down that route a little bit. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;What the focus should be is really a bank by the people for the people. Hell, make it a non profit if you have to. Many people would love to have somebody take care of their money in a transparent way. Possibly the system could even use other banks. e.g. if you want to trade stocks, you can do so but it will be handled via different systems wherever it is cheapest. Above that it would be all public what costs the bank what and you just carry that cost and add something like $5 per month just because you get everything very cheap and how no hidden costs.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then add the Mint way to give you suggestions on how to save money. There would be a lot of ways to make money and if it could be bootstrapped then you wouldn&#8217;t need to please investors. Can it possibly even be open source?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Maybe you take two companies, like one building the first bank based on the second company that just has APIs and acts more like a VISA system. Creating a standard that any new bank can use. But there are most likely already banking services available somewhere.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Please continue thinking people. This is one market really in need of some radical changes.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[WebFinger to free them all]]></title>
+    <link href="http://thylmann.net/blog/2009/09/03/webfinger-to-free-them-all/"/>
+    <updated>2009-09-03T09:16:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/09/03/webfinger-to-free-them-all</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Oh how I love what is currently coming out of Google. I mean <a href="http://thylmann.net/blog/2009/8/12/the-hubbub-about-pubsubhubbub.html">Pubsub Hubbub is already nice</a>, and now <a href="http://code.google.com/p/webfinger/">WebFinger</a>, with <a href="http://bradfitz.com/">Brad Fitzpatrick</a> again. Brett Slatkin seems to be in on it too and T<a href="http://www.techcrunch.com/2009/08/14/google-points-at-webfinger-your-gmail-address-could-soon-be-your-id/">echcrunch has a good rundown</a> on what this is about.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I still remember having used Finger (and Gopher to be exact ;)) in the early days. Especially when studying physics it was nice just taking a look at whether somebody was on his computer or something. So this is perfect to be extended to the web. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Here is a good <a href="http://www.hueniverse.com/hueniverse/2009/08/introducing-webfinger.html">intro</a> as well as an i<a href="http://www.hueniverse.com/hueniverse/2009/09/implementing-webfinger.html">mplementation guideline</a> on Hueniverse. Seems to be easy enough. It doesn&#8217;t allow for real portability but that is really why you should have your own domain anyway and give that one out and have WebFinger on your own Domain, so that you can move the underlying system around. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;So another thing to monitor. Grrr&#8230;. fun stuff coming out.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The perfect Term Sheet]]></title>
+    <link href="http://thylmann.net/blog/2009/08/18/the-perfect-term-sheet/"/>
+    <updated>2009-08-18T07:00:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/08/18/the-perfect-term-sheet</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;It does not exist, obviously, because perfect is different for everyone involved, but there is a great discussion going on at the moment how something as close as possible to perfect could look like. Thing biggest thing I agree with is that there should be a good template to use because these things are so freaking expensive, especially because lawyers from two different sides are payed to drag the talks along as they are paid by the hour, so you really have to have good lawyers and make sure they understand that this is about an easy deal.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am very fortunate to have had good contracts, with wonderful investors, but I&#8217;d like to link you through the discussion because there is a lot to be learned here.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;It all started with Chris Dixon&#8217;s wonderful post on &quot;<a href="http://www.cdixon.org/?p=271">Ideal first round funding terms</a>&quot;. He says to make it work like this:&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;
+&lt;li&gt;Investors get common stock or 1x non-participating preferred stock. That really means that if an investor invests a million for 20% and you sell the company for less than 5 million, they get their million plus dividends, and you split the rest, but if you sell for more, they can convert to common and get 20% of whatever the sale price was. While I still think common is best, I get the point here, because what Chris says and I agree, is that getting their million and then still 20% from the rest or even more (multiple liquidation preference of e.g. 3 giving them 3 million before anyone else get something) is just stupid. You are in one boat, or at least you should be. &lt;/li&gt;
+&lt;li&gt;Pro rata rights are fully ok too, meaning they can, if they hold 20%, get 20% of the next round to keep their 20%. This is just how this stuff works. Of course you have to understand that in a down round you might end up loosing a lot of shares.&lt;/li&gt;
+&lt;li&gt;Founder vesting with acceleration on change of control is really only valid if you have options. But you should be able to sell some of your holdings at some time, with everybody having a right of first refusal.&lt;/li&gt;
+&lt;li&gt;That might end up costing your $10k, which should be the max. &lt;/li&gt;
+&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;The only thing that should be clear is that an investment contract is full of &quot;communicating pipes&quot; as one investor put it to me. A wonderful term. If they want preferred stock instead of common, the valuation goes up as their downside goes down for example. They might want a term you do not like, then something ends up in the contract they might not like. But as Chris said, it should just be a standard contract and then we can save all of us a lot of time and money.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Chris also suggests going with a law firm that knows startup financing and yes this is very important. As for board seats, which is more a US thing, you should have something like 1 investor, 1 founder, and 1 independent. Possibly make that 2/2/1. This is really something we agreed on here in the voting rights. The idea is that if all investors and one independent director say X, then X is something I as a founder should accept. Sounds harsh, and you can move that around to saying that at least one founder should agree, and then you are fully fine. Just make sure that not everyone has to agree :)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Founders salaries should be at a level where the founder cannot really save money, but does not have to think about it either. If angels invest next to VCs they get the same rights excluding control rights. The other option here is to pool people. Because the thing is that it can be a pain to track down 10 angels just to do a small thing because they all have to agree. And these are busy folks. :) Options should be in the contract somewhere so it is sure what else will be distributed.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then discuss valuation and amount raised, so that you are relatively sure that you can beat your post-money valuation in a next round.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;All in all, very good points.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then comes Fred Wilson with <a href="http://www.avc.com/a_vc/2009/08/the-ideal-first-round-term-sheet.html">more points</a>, namely that he agrees (good :)) and that they are actually using something like this. he ads another good point: if your first contract is that simple, further rounds do not have to start complicated. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Then comes Brad Feld with <a href="http://www.feld.com/wp/archives/2009/08/terms-terms-and-first-round-terms.html">his post</a>. The good thing he points out is that what would be even better would be if we really had one set of documents that people agree on. Because even though templates might be similar they are always slightly different. I really hope this will happen as it would make things a lot more simpler. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Another thing would then be somewhere where investors and companies could say that they used that contract for their investment, editing only X and Y. This would mean that both investors and companies could point to it and say: they did it too, now stop arguing.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Oh how easy life would be ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Update: and while I am at it, check out this post by Fred Wilson on <a href="http://www.avc.com/a_vc/2009/08/milestone-based-investing.html">milestone based investing</a>. I couldn&#8217;t agree more. Especially because you end up discussing milestones in a much too early stage.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Evolution of my Rememberall]]></title>
+    <link href="http://thylmann.net/blog/2009/08/15/the-evolution-of-my-rememberall/"/>
+    <updated>2009-08-15T12:42:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/08/15/the-evolution-of-my-rememberall</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I am a technology addict, and I love trying new things. One thing that has always been important to me is how they all work together to form a greater whole. Above that, some weeks ago, together with my Squarespace move, I decided to not have personal servers anymore. Not sure how long this will hold, but I will try. Servers at home are excluded, and &#8230; a never mind, you get the point. E.g. I love <a href="http://noserub.com/">Noserub</a>, but I will run it hosted by somebody else.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;But back to the main point. My Rememberall. There is so much stuff going on around you that you really need an infrastructure to keep yourself sane enough. It is probably easiest to understand how I use things by going through the day.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;A) E-Mail:&lt;/strong&gt; To start of I check my mail, yeah, I still do, and make sure only stuff I have to answer remains. Things I can answer now, are answered, things that I want to answer later remain, and things that are ToDo&#8217;s are forwarded to my private E-Mail address at <a href="http://rememberthemilk.com/">Remember The Milk</a> so they end up becoming (unsorted) ToDo&#8217;s. All else is archived directly through a Keyboard shortcut (thanks Mail Act-On). I say archived because all mails are in GMail and never deleted.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;B) RSS:&lt;/strong&gt; Yes, RSS is not dead for me yet. I use Google Reader and am very happy with it. I always read the &quot;All Items&quot; list, navigating through keyboard shortcuts. Especially on the iPhone, where I use Byline which syncs with Reader, I mark things as Favorite that I want to closer read later. If I already know that I like it but want to share it with the world, I &quot;share&quot; it potentially with note, which is automatically ending up in my Tumblr Blog at <a href="http://stuff.thylmann.net/">stuff.thylmann.net</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;C) Twitter:&lt;/strong&gt; Some here, I use favorites to mark things I want to read later. I am switching clients on the Desktop but on the iPhone I end up using Tweetie, even though I tried several others. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;D) <a href="http://readitlaterlist.com/">Read it Later</a>:&lt;/strong&gt; This wonderful service actually is used to add anything that I want to read later while in the browser. It includes an iPhone app that syncs via Nocat and hence I have lots of stuff to read later on my iPhone to read whenever I have the time. It also brings me to my next point. There also are two Bookmark lists for reading very shortly and reading some time, but let&#8217;s see where they end up at in a few weeks.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;E) Remembering:&lt;/strong&gt; I leave that with <a href="http://evernote.com/">Evernote</a> really. Whatever I have read and liked, whatever I think I would like to save, whatever I want to remember, it ends up in Evernote. Either through a forward in Read it Later, via a Bookmarklet or right from the Mac. And it ends up in Spotlight on the Mac too. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;F) Friendfeed:&lt;/strong&gt; I am actually not sure what to od with this now. I was actually setting it up as my personal search engine. I ended up adding people I think are emm&#8230; intelligent and as they add all their personal feeds to their accounts, I presume in the long term it will/would have allow(ed) me to get very good search results. Sadly now they have been bought by Facebook so I will have to revisit Noserub again but that is against my idea of not having a server. Maybe just locally. ;)&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;G) What is missing:&lt;/strong&gt; I still need one thing that aggregates it all really. I&#8217;d like all that is being shared with notes to end up somewhere, full content, all items in evernote, all my twitter messages, all my blog posts, all my photos, whatever. It is still a little bit too distributed. But as distributed is the way of the future I am looking forward to using this setup now and re-integrating that. I am hoping for a few things for the new Social Timeline being developed by Squarespace. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;So what are you using as your rememberall.&lt;/p&gt;</p>
+
+<p>&lt;script src=&quot;http://ads.adcloud.net/s/129.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Hubbub about PubSubHubbub]]></title>
+    <link href="http://thylmann.net/blog/2009/08/12/the-hubbub-about-pubsubhubbub/"/>
+    <updated>2009-08-12T19:42:00+02:00</updated>
+    <id>http://thylmann.net/blog/2009/08/12/the-hubbub-about-pubsubhubbub</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Ok, you have to love the name. <a href="http://code.google.com/p/pubsubhubbub/">Pubsubhubbub</a> is simply the best name for a technology for ages, period. And it is currently pitted as the better step towards a <a href="http://wave.google.com/">Google Wave</a> like future than Google Wave itself.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So what is PubSubHubbub:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;A simple, open, server-to-server web-hook-based pubsub (publish/subscribe) protocol as an extension to Atom (and RSS).&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;In longer terms, it is part of a system that removes the need for Google Reader to query my RSS feed every few hours to see if there is something new, instead allowing for Google Reader to be notified when something changes. The argument is that it gives us the live web and it decreases resource need. For a better into check out <a href="http://twit.tv/twig2">This Week in Google Episode 2</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;I really like it and so does Anil Dash as visible in his post <a href="http://dashes.com/anil/2009/08/what-works-the-web-way-vs-the-wave-way.html">The Web Way vs. The Wave Way</a>.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;There is just one thing that makes me wonder. I remember a long time ago when MovableType was it, with everyone arguing that it was better to have the blogging platform publish static HTML files when you published a blog post as you are publishing so few of them in relation to the traffic that the resources are better spent there. But servers got more powerful and Wordpress changed this around to say that you want easy and fast publishing, the possibility to change your design around, the switch things, which makes it better to have the publishing be dynamic. This is what I see again here. We had centralized systems and only a few of them but slowly we are getting more and we want to move around. This changes how the content should be put together. We have friends all over the place and hence on request we do not want them to come from one source but from several, which is starting to become possible due to server power and general infrastructure items like Pubsubhubbub. It&#8217;s push due to the underlying changes in how we interact with each other and what we say is important.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;We somehow want near-real-time communications. The problem I see though with Pubsubhubbub is how the technology scales if you have for example 1 million friends on twitter. With a centralized system this is relatively easy. If each of your posts needs to be published to 300.000 hubs, this starts to become a pain. But with a polling mechanism it would not be live. How much resources are we will to spend for live, and who will pay the bill?&lt;/p&gt;</p>
+]]></content>
+  </entry>
   
 </feed>

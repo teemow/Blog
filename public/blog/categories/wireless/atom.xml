@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Wireless | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/wireless/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Everybody is a Journalist]]></title>
+    <link href="http://thylmann.net/blog/2008/12/30/everybody-is-a-journalist/"/>
+    <updated>2008-12-30T11:03:00+01:00</updated>
+    <id>http://thylmann.net/blog/2008/12/30/everybody-is-a-journalist</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I actually wrote about this in 2002, called <a href="http://blog.thylmann.net/2002/11/11/blogging-goes-wireless/">Blogging goes Wireless,</a> where I said: &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;This is exactly what journalists should be worried about. In a few years, millions of people will have mobile phones with high-quality integrated digital cameras. Whenever something happens anywhere in the world, pictures and eyewitness accounts will be up there on the web for everyone to see in no time. Of course, journalists will still rush to the scene to get the scoop - but the scoop will already be long gone, and journalists will almost never be the first on the scene anymore. It might not be good spelling or reporting, and it might not be objective, but it will be diverse, real and full of emotions. That’s the new way of spreading the news fast - so welcome the wireless blog, everyone.This is exactly what journalists should be worried about. In a few years, millions of people will have mobile phones with high-quality integrated digital cameras. Whenever something happens anywhere in the world, pictures and eyewitness accounts will be up there on the web for everyone to see in no time. Of course, journalists will still rush to the scene to get the scoop - but the scoop will already be long gone, and journalists will almost never be the first on the scene anymore. It might not be good spelling or reporting, and it might not be objective, but it will be diverse, real and full of emotions. That’s the new way of spreading the news fast - so welcome the wireless blog, everyone.&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;clear: both&quot;&gt;Now sadly blogging hasn't been taken up so much that this is really the case yet. We are getting there though, especially with every mobile phone having a good enough camera and internet flatrates getting more common, or at least big enough data plans. &lt;/p&gt;&lt;p&gt;Now the Next web writes that <a href="http://thenextweb.com/2008/12/23/when-twitter-gets-mainstream-we-wont-miss-anything/">when Twitter becomes mainstream, we won't miss anything</a>, making much the same point. The point is that somebody on an airplane crash twittered it live. This is actually what was missing in blogging, because you felt you needed to give some thought to it. For Twitter, just just send a Tweet and be done with it. It has to be short so it can't really have too much thought put into it. It's very easy, as SMS is, just like an SMS sent to everybody. This is why adoption can become higher and we get more messages out there. It's a mixture of more people and faster posting.&lt;/p&gt;&lt;p&gt;I love seeing that and am really looking forward to seeing this system develop.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The iPhone and Number Portability in Germany]]></title>
+    <link href="http://thylmann.net/blog/2008/07/15/the-iphone-and-number-portability-in-germany/"/>
+    <updated>2008-07-15T15:39:00+02:00</updated>
+    <id>http://thylmann.net/blog/2008/07/15/the-iphone-and-number-portability-in-germany</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;Houston we have a problem! I can't get an iPhone now. This is related to some constraints that I will further elaborate. Dirk just sent me a link to <a href="http://www.pottblog.de/2008/07/15/t-mobile-und-das-mysterium-der-rufnummernmitnahme/">this post</a> by Jens Matheuszik from Pottblog who has the same problem (post in German) and I was contacted by one founder of a big startup that has since left that has the same problem again. So, where are we.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;The iPhone is out, but we can't get it ... because we want to keep our old mobile phone number. Now there is something called &quot;Bundesnetzagentur&quot; here in Germany that sets some basic rules that the carriers (all of them) and gase providers and the like have to abide to. It's done to foster competition. Some years ago one thing was done to allow you to more easily switch your mobile phone providers: You could take your number with you. As a background for the non-germans here, in Germany previously every carrier had their own number (e.g. 0171 xxxxxxx) for T-Mobile and that has now changed. There are some basic rules for how this works.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Let's presume you are moving from Base (my current carrier) to T-Mobile. You can cancel you contract at Base at any time. As soon as there are 4 months (123 days to be exact) left in your current contract you can go to your new carrier and get a new contract with a request for number portability. You can do that later, but at the latest 4 weeks after your old contract ran out. Those are the rules by the Regulierungsbehörde. But remember, those are the minimum rules, how Jens above so wonderfully found out.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Back to my case. I cancelled my contract and I can theoretically get a new contract this Friday, when there are 123 days left on my old contract, requesting my number to be ported. The problem that now appeared is that T-Mobile says: Very good sir, please sign here, and as your contract ends on the 17th of October, we will be sending you your iPhone a few days before that with your new SIM card and you will have your new contract on the 18th of October, thank you for signing up.&quot;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;WHAT?!?!? Yes, you read correctly, I would get the phone only at the end of my contract. Obviously I couldn't let it rest at that, like Jens. Here are some things that do not work:&lt;/p&gt;</p>
+
+<p>&lt;ul&gt;</p>
+
+<pre><code>&amp;lt;li&amp;gt;I cannot make Base cancel my contract sooner, even though I would offer to pay all the remaining fee.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I cannot make Base to give free the number and give me a temporary one.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I have to admit that I can understand Base's reasoning.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I cannot get the iPhone now from T-Mobile even though the contract would start in October. It is not important here that I would pay them the sign-up fee and so on now.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I cannot get the iPhone now and let the contract start now and get a temporary number from T-Mobile up until the old number is transferred (making them instant money)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I also cannot get the iPhone and use another contract I have at T-Mobile that is still running for a few weeks (end of September, never mind why that is, not important as I do not want to keep that number) making them instantly more money.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;It is not possible to extend my old T-Mobile contract with an old number and move the new number over when the old contract at Base expires.&amp;lt;/li&amp;gt;
+</code></pre>
+
+<p>&lt;/ul&gt;</p>
+
+<p>&lt;p&gt;I am out of options. I sent them a mail to ask for a solution but have not received an answer yet. That mails is 3 days old now. But Jens has some interesting learnings that I can also confirm. Other carriers will give you a temporary number if you want to start a contract with them now and port the number over later. T-Mobile says that they can't because the Regulierungsbehörde says so, but that is not true. They only say that the porting of the number cannot be requested sooner than 4 months before contract end and 1 month after contract end. Theoretically I should be able to go to T-Mobile at any date, say I want a new contract, get that, and port my old number over later. It's not that hard in theory, unless of course all their billing system rely on not a customer number but on the mobile phone number, which again would be weird because I have a customer number in my online interface for the old contract. So again that can't be the case. So they are not forbidden to give out temporary numbers. They are not forbidden to port over numbers to existing contracts. They are not forbidden to give me my phone now even though the contract starts later I would presume (and don't tell me that I can cancel everything until the contract start, I would have to give back the phone then without having used that or I can't or you have bad lawyers writing your contracts and I doubt that ;)). In any case, with T-Mobile being the biggest carrier in germany, or second biggest after Vodafone, no clue, I would presume they can handle giving me a temporary number, or letting me use my existing one if they don't have one free anymore! This can't be that hard.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;In any case, this saga continues and I am looking forward to seeing if we find a resolution. Please leave a comment if you have similar problems, here or at Jens post. Thanks.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: I got an update from an email I sent. There is nothing they can do if I want to keep my number. The phone will be sent and the contract will start when my old contract expires. So I presume we need to go to PR and or Headquarters with this one :)&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The iPhone Saga with Number Portability]]></title>
+    <link href="http://thylmann.net/blog/2008/07/11/the-iphone-saga-with-number-portability/"/>
+    <updated>2008-07-11T12:28:00+02:00</updated>
+    <id>http://thylmann.net/blog/2008/07/11/the-iphone-saga-with-number-portability</id>
+    <content type="html"><![CDATA[<p>Oh damn. I was feeling all good about getting the new iPhone until a short while ago. A bit of background is needed.</p>
+
+<p>I have a contract at another carrier, called Base, and cancelled my contract there, which ends 17th of October 2008 now. I do want to port over my number from Base to T-Mobile though. There is a rule that the number portability can be requested 4 months before the end of the contract, 18th of July in my case. I thought i would be getting a temporary number at T-Mobile then, but as I have just learnt, this is not the case. I can order now, and they can request the number porting on the 18th, but I will only get t he iPhone and the new contract in October. I am not sure why I should order now then ;)</p>
+
+<p>There is a time limited pricing option for the iPhone introduction which might make me order the iPhone sooner but I am feeling a bit weird as I am sure that in 3 months a lot can happen and there might be some price changes again and other new options. I even called Base to see if they would not free up my number sooner, but that does not seem to work, which is another bad thing. The only thing I could do now is use my old number and get an iphone with that one, using the Base number through a Pre-Paid card, but that sounds like a really nutty idea.</p>
+
+<p>Life is hard some times. No iPhone for me for another 3 months it seems. Good that my Parents gave me a gift-certificate for part of the price of the iPhone for my birthday a few weeks back. It will always be christmas until I check that now ;)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android on the Nokia N810]]></title>
+    <link href="http://thylmann.net/blog/2008/07/09/android-on-the-nokia-n810/"/>
+    <updated>2008-07-09T07:33:00+02:00</updated>
+    <id>http://thylmann.net/blog/2008/07/09/android-on-the-nokia-n810</id>
+    <content type="html"><![CDATA[<p>Nokia was kind enough to give me a Nokia N810 some time ago and it is a really nice tool. Recently a new release came out, called <a href="http://maemo.org/news/announcements/view/os2008_feature_upgrade-reflash_your_tablet-for_the_last_time.html">Diablo</a> and I suggest you update to that first. There is a slight problem with the Flasher for OS X in that you will have to not start flashing until your table boots with the USB sign in the top right. You get that by keeping the top button on the left side of your screen pressed and then turning it on.</p>
+
+<p>Next up <a href="http://www.talkandroid.com/134-android-nokia-n810-install/">go to Talk Android</a> to get all the stuff you need. For those who know how to use gainroot to get root access on the device, I suggest editing their /usr/bin/android.sh with the information in <a href="http://www.internettablettalk.com/forums/showpost.php?p=198852&amp;amp;postcount=6">this post</a>, adding the stuff just below the 'echo &quot;starting Android ...&quot;' bit. Also, if you want Internet Access from within Android then you will need to log in to a nocat hotspot from within Diablo first. If you install further apps just put them in /android/system/app on the MMC card you installed android on.</p>
+
+<p>Have fun running Android :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nokia getting serious with Open Source Symbian]]></title>
+    <link href="http://thylmann.net/blog/2008/06/24/nokia-getting-serious-with-open-source-symbian/"/>
+    <updated>2008-06-24T08:53:00+02:00</updated>
+    <id>http://thylmann.net/blog/2008/06/24/nokia-getting-serious-with-open-source-symbian</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;What a day. First <a href="http://www.techcrunch.com/2008/06/23/breaking-germanys-plazes-acquired-by-nokia/">Nokia bought Plazes</a> (Congrats!) and now they <a href="http://www.nokia.com/A4136001?newsid=1230415">offer to buy the remaining 52% of Symbian</a> and have <a href="http://www.nokia.com/A4136001?newsid=1230416">launched</a> the <a href="http://www.symbianfoundation.org/">Symbian Foundation</a>, which will drive the open sourcing of Symbian over the next 2 years. Of course the Symbian Foundation has wide adoption, same as the <a href="http://www.openhandsetalliance.com/">Open Handset Alliance</a> around <a href="http://code.google.com/android/">Android</a>, but we might want to dig a bit deeper to see if this is a lost cause by Nokia as Google will simply win with Android, or not.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First to start of with one thing. Nokia sells as many phones in a few days as Apple has sold iPhones in total. So there is a bit of a market power there. Of course, Apple might be able to scale down, and Android might be nice, but there is power behind the Symbian Foundation, real power.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Another question is who is now building mobile phones. Nokia, Sony Ericsson, Samsung, Lg, Ericsson, Motorola ... all members of Symbian and many of them missing from Google's Alliance. One also has to say that these companies have real relations to carriers and real experience to get phones through testing with the FCC and others.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Also, Google lists China Mobile as part of the Open Handset Alliance, but they seem to <a href="http://www.techcrunch.com/2008/06/23/googles-android-hits-snags-with-mobile-carriers/">have problems getting chinese working on Android</a>, and <a href="http://www.symbian.com/developer/techlib/v9.2docs/doc_source/toolsandutilities/installing-ref/pkg_format/pkg_languages_table.html">Chinese does work on Symbian obviously</a>, and with Open Sourcing the platform, there are no longer any real licensing fees and China Mobile might have an easier access route with Symbian to get their own Smartphones.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;So yes, Nokia needs to build up their developer relations work to get some serious buzz around new apps for Symbian, but this is something that can be done because it is a really good base. I still want an iPhone but I will keep my N95 and I will likely get a Nokia phone again in the future. It's just that I want back to T-Mobile anyway (reception at Base sucks some times) and the iPhone is nice indeed. It has the buzz factor at the moment. Android is too far away. And possibly Nokia will have some really compelling items out at the end of the year. And hey, just imagine them adding Plazes to a few of their phones. Give it a month and there will be more Plazes installations on phones than iPhones out there. So long Loopt. Nice to have met you.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+</feed>

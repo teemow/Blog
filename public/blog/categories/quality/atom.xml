@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quality | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/quality/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Summary of Terms]]></title>
+    <link href="http://thylmann.net/blog/2003/04/03/summary-of-terms/"/>
+    <updated>2003-04-03T12:05:00+02:00</updated>
+    <id>http://thylmann.net/blog/2003/04/03/summary-of-terms</id>
+    <content type="html"><![CDATA[<p>This again is only a summary of the terms used in the Managing Customers and Quality part of the course.</p>
+
+<p>Customers v. Consumers v. Stakeholders</p>
+
+<p>Customers are those who buy your products while consumers are those who use it (e.g. Pet food, Public Services).</p>
+
+<p>Stakeholders are those who have an interest in an organisation and can affect or be affected by it.</p>
+
+<p>&quot;A central task of top management is reconciling these deverging and partly conflicting interests.</p>
+
+<p>Decision Making Process and Influences</p>
+
+<p>A logical sequence of steps people may go through to make a decision.</p>
+
+<ol>
+<li>Problem Recognition: See a problem or need. The company cannot do a lot to influence this (exept possibly Advertising)</li>
+<li>Information Search: How can it be solved. The company should make this info available.</li>
+<li>Information Evaluation: To destinguish product 1 and 2. This of this as a series of filters like friends and other resources.</li>
+<li>Decision: Filtered and matched against criteria and possibly with adding new criteria based on the products found.</li>
+<li>Post-purchase-evaluation: Here you are trying to convine yourself that the decision is right and it does live up to expectations. This is something that the automotive industry is trying to do with ads.</li>
+</ol>
+
+
+<p>In problem solving there are different modes:
+- routine problem solving: e.g. food
+- limited problem solving: e.g. holiday, dentist, moderately expensive and durable
+- extended problem solving: e.g. houses and cars</p>
+
+<p>Influences are:</p>
+
+<p>Individual: perception, motivation and attitude. Perception lages behind reality (e.g. Skode). Remember hierarchy of needs: Hunger and thirst, security, protection, affection, success, status, personal fulfilment
+Group: conform to values, belong
+Supplier: manage 4Cs
+Situational: context of external environment</p>
+
+<p>Targetting</p>
+
+<p>There are different types of targetting.</p>
+
+<ol>
+<li>Undifferentiated targeting: differences between segments are ignored and everything everywhere is targetted. The benefit of this are the economies of scale and it is used for commodities a lot (e.g. Salt, Ford Model T)</li>
+<li>Differentiated Targeting: Target more than one segment and the product changes dependant on the segment. (e.g. Airlines Business Class and First Class...)</li>
+<li>Focused Targeting: Concentrate on one segment. (e.g. Ryan air)</li>
+<li>Customized Targeting: This is when you customize everything for one specific client. (e.g. Amazon).</li>
+</ol>
+
+
+<p>Relationship Ladder</p>
+
+<p>Prospect -&gt; Customer -&gt; Client -&gt; Supporter -&gt; Advocate -&gt; Partner</p>
+
+<p>A company should try to move customers up the the relationship ladder. A good example might be Amazon with partners in terms of reviews of books and BeOS with a lot of advocates that bring in new customers to the company.</p>
+
+<p>Other examples might be.</p>
+
+<p>Donor pyramid: Enquirers -&gt; Responders -&gt; Occasional donors and subscribers -&gt; Committed donors -&gt; Large gift -&gt; Legacies</p>
+
+<p>Supporter pyramid: Potential supporter -&gt; casual supporter -&gt; reliable supporter -&gt; active supporter -&gt; leaders
+(this could also apply for BeOS and is moving to closer and more long-term relationships)</p>
+
+<p>Cost of Quality</p>
+
+<p>Quality can cost 20-30% of a companies revenue. There are different costs to take into account.</p>
+
+<ol>
+<li><p>The costs of conformance
+Appraisal costs: costs of inspections and its associated activities
+Prevention costs: associated with designing, implementing and maintaining a quality management system to prevent quality problems.</p></li>
+<li><p>The costs of non-conformance
+Internal failure costs: scrapping defects, repeating work, trying a second time
+External failure costs: when poor quality reaches the customer
+Costs of exceeding requirements: specification for a product goes beyond what the customers want. Especially if features do not add value.</p></li>
+</ol>
+
+
+<p>Traditionally you tried to mix those two costs so that you would be at a minimum, meaning that you have low costs in both fields. Today it is more frequent to believe that there is no optimum level but you just need to decide that now you spent enough.</p>
+
+<p>External and Internal Exchange Process</p>
+
+<p>In this exchange process there must be something that is exchanged that is of mutual value. There must be the belief on both sides that the exchange is fair and equitable. This means that you shouldn't add features that the customer does not want and that this exchange could  be non-monetary.</p>
+
+<p>A customer</p>
+]]></content>
+  </entry>
+  
+</feed>

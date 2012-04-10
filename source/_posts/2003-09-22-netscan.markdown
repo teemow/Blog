@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Netscan"
+date: 2003-09-22 05:49
+comments: true
+categories: Web Development
+author: Oliver Thylmann
+---
+
+
+I just found the &lt;a title=&quot;MSR Netscan - Usenet Social Accounting Search Engine&quot; href=&quot;http://netscan.research.microsoft.com/ReportCard.asp?timespan=m&amp;searchfor=alt.binaries.mp3&amp;searchdate=7%2F31%2F2003&quot;&gt;MSR Netscan - Usenet Social Accounting Search Engine&lt;/a&gt; (done by [Marc Smith](http://research.microsoft.com/~masmith/)) via [Dan Gilmor's post about eBay's privacy debacle](http://weblog.siliconvalley.com/column/dangillmor/archives/001358.shtml). Read the discussion by the way, great stuff.
+
+

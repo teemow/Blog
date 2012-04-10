@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Oliver Thylmann</title>
+  <meta name="author" content="Oliver Thylmann">
+
+  
+  <meta name="description" content="Mena and Ben have posted a note on the recent TypePad performance problems entitled &lt;a title=&quot; Six Apart - Mena&#8217;s Corner: The Ups &amp &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://thylmann.net/blog/page/53">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Oliver Thylmann" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-51635-10']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Oliver Thylmann</a></h1>
+  
+    <h2>The ramblings of somebody that likes to do that.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:thylmann.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/27/typepad-growth-problems/">TypePad Growth Problems</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-27T06:43:00+02:00" pubdate data-updated="true">Oct 27<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Mena and Ben have posted a note on the recent TypePad performance problems entitled &lt;a title=&quot; Six Apart - Mena&#8217;s Corner: The Ups &amp; Downs of a Successful Service&quot; href=&quot;http://www.sixapart.com/about/corner/2005/10/the_ups_downs_o.html&quot;&gt;The Ups &amp; Downs of a Successful Service&lt;/a&gt;. I can fully relate to how hard it is to get a system to be really scalable and get the power you need. It&#8217;s not easy to run a fast growing web site and when running the IT side of one of the biggest performance based advertising networks in Germany (now <a href="http://www.ligatus.de/">Ligatus</a> part of <a href="http://www.onvista-group.de/">OnVista Group</a>) I was fortunate enough to have an existing infrastructure to base everything on as OnVista was already running <a href="http://onvista.de">onvista.de</a>, the biggest bank indepedent financial portal in Germany.</p>
+
+<p>Looking for a hosting facility is a fun business, especially if you need it scalable and if you then start thinking about the immense power that Blade Servers need you start to sweat. IBM for example will only allow you to put stuff into their racks or racks that pull in cold air in the front and push it back out through the back of the racks. Some hosting centers push air into the racks from below the floor and pull it back out at the top but the fans, or rather turbines that are in the blade centers pull from the front and push out in the back and as they are so big, the airflow could get problematic if it needs to be diverted to the top. You also need A LOT of power. A fully equipped blade center needs at least 2 lines of 16A power, but for failover, you need 4. Now if you put 3 blade centers in one rack, you kind of need 8 lines of power (sharing two between two centers) and that&#8217;s already well above the standard setting that man centers provide.</p>
+
+<p>As recently posted by Cringely the climate control systems need 3 times the power than a rack pulls in, so you kind of need 8 + 24 lines of power (ok, not really, but still a lot) and if the blade center boots up, it sucks all the power it can get. It actually sounds like an airplane starting. Very funny.</p>
+
+<p>At the 240mbps that Ben quotes, and presuming you pull 5mbps on each server, you need 48 servers already. That&#8217;s without factoring in that you need failovers and database servers in the backend, and load balancing and and and.</p>
+
+<p>I was fortunate enough to be able to offload a huge deal of the traffic to <a href="http://www.akamai.com/">Akamai</a>, as the ads can be cached, pulling load and traffic of the backend and making the entire system immensely scalable in terms of advertisements delivered.</p>
+
+<p>So people of TypePad, I feel with you. Your task is a lot bigger than mine was. Hang in there, better times will come. I for one will stay loyal.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/27/omid-kordestani-interview/">Omid Kordestani Interview</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-27T06:27:00+02:00" pubdate data-updated="true">Oct 27<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Omid is the business guy behind Google and John did an interview with him which you can find here: &lt;a title=&quot;John Battelle&#8217;s Searchblog: Titans Column: Omid Kordestani&quot; href=&quot;http://battellemedia.com/archives/001974.php&quot;&gt;John Battelle&#8217;s Searchblog: Titans Column: Omid Kordestani&lt;/a&gt;.</p>
+
+<p>One part of it actually rang a bell:</p>
+
+<p>&lt;blockquote cite=&quot;http://battellemedia.com/archives/001974.php&quot;&gt;&lt;p&gt;The measurability of online advertising will extend broadly to all areas of media. You have companies spending billions of dollars on television. As more and more consumers adopt technologies like TiVo, I think you&#8217;ll be able to have much more useful forms of advertising &#8211; more targeted, more measurable, and with new pricing models. Just imagine if we made it possible for our advertisers to quickly publish relevant ads that could range from the local plumber on one end to Super Bowl commercials on the other.&lt;/p&gt;&lt;/blockquote&gt;</p>
+
+<p>I absolutely agree. A lot of things will open up for performance advertising. We will just need to exploit technology to allow us to do that. Did you know for example that easyJet prints different phone numbers on posters everywhere to be able to track which ones and where work best? Did you know that Jamba seems to be booking their ring tone ads on a performance basis on TV channels? And this is just the start. Just imagine if you can set up an API to let your ad be automatically queried from your servers just seconds before it runs on TV.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/google-base-almost-landed/">Google Base Almost Landed</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T19:18:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Ok, Google Base has almost landed. As Reported on several spots, like <a href="http://arstechnica.com/news.ars/post/20051025-5480.html">here</a>, Google is about to launch <a href="http://base.google.com/">Google Base</a> and I have now gotten one step further than an error message. I now get a login prompt, but it does not accept my password.</p>
+
+<p>&lt;img alt=&quot;Picture_1_1&quot; src=&quot;http://owt.typepad.com/photos/uncategorized/picture_1_1.png&quot; border=&quot;0&quot; /&gt;</p>
+
+<p>Let&#8217;s see what happens next.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/quasi-invest-in-fon/">Quasi Invest in FOn</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T19:03:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Are you a top blogger in germany? I probably miss the mark a little bit. But if you are, check out <a href="http://english.martinvarsavsky.net/fon/bloggers-of-the-world-uniteand-join-our-board.html">this post</a> by Martin where he offers top bloggers in every country a 1% share in FON of that country as well as a seat on the board. Really building a cool grass roots system there.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/kiva-the-africa-vc/">Kiva - the Africa VC</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T12:55:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Ok, so you are not getting a return on invest in monetary terms but you do potentially get a very good feeling.&lt;a title=&quot;
+Kiva&quot; href=&quot;http://www.kiva.org/index.php&quot;&gt;
+Kiva&lt;/a&gt; allows you to give money, something between $300 and $500 to entrepreneurs in Africa, who will repay you that money from the profits they make in their new business. The foundation behind it is payed for by other means, so your $300 seem to go to the guy or girl on the street. Interesting concept.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/law-and-order-in-cologne/">Law and Order in Cologne</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T10:47:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>&lt;div&gt; <a href="http://www.flickr.com/photos/oliver/56251505/"> title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/30/56251505_ed707920d3.jpg&quot; alt=&quot;&quot; /&gt;</a>&lt;br /&gt;  <a href="http://www.flickr.com/photos/oliver/56251505/">law and order in cologne</a>, originally uploaded by <a href="http://www.flickr.com/people/oliver/">owt</a>.&lt;/div&gt;              &lt;p&gt;   &lt;/p&gt;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/yeald-dot-com-rocks/">YEALD.com Rocks</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T08:41:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There are lots of newspapers out there but one company really got what good design, a good methodolgy and a community spirit means. That company, or rather that news site, is &lt;a title=&quot;YEALD.com The Challenging Investor Journal&quot; href=&quot;http://www.yeald.com/Yeald/index.html&quot;&gt;YEALD.com The Challenging Investor Journal&lt;/a&gt;. So what is Yeald? You can check the <a href="http://www.yeald.com/Yeald/faq.html">FAQ</a> to see that everyone can write. Everyone can rate. Everyone can contribute, share and give his opinion, lots of AJAX action included. They actually have another company that is part of this Yeald system that I really like and will talk about another time. Looks like a really great company. It revolves around the fact that all equity management is biased as long as there are fees to be made that are not aligned to an increase of the clients money. Looking forward to playing with the site some more.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/26/odeo-opens-studio/">Odeo Opens Studio</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-26T07:43:00+02:00" pubdate data-updated="true">Oct 26<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Woohooo&#8230; I can go podcasting. Relax, I won&#8217;t. At least I am not actively thinking about it, but Odeo users, at least I, now got access to the &lt;a title=&quot;Studio&quot; href=&quot;http://odeo.com/create/studio&quot;&gt;Odeo: Studio&lt;/a&gt;. This is a really simple way to record a bit of audio from anywhere where there is a mic. This might lead to some interesting things.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/25/les-blog-2-dot-0-program-is-out/">Les Blog 2.0 Program Is Out</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-25T07:44:00+02:00" pubdate data-updated="true">Oct 25<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There you go. The <a href="http://lesblogs.typepad.com/blog/2005/10/les_blogs_20_pr.html">les blogs 2.0 preliminary program</a> is out and looks mighty interesting. I will miss the opening remarks, Robert Scoble and Shel Israel, first Networking Break and possibly parts of the first blogging panel. But I do hope to be there at the networking lunch sponsored by <a href="http://www.fon.es/">Fon</a>. The program looks great and Loic already put a Wiki up <a href="http://www.socialtext.net/loicwiki/member/index.cgi?lesblogs20">here</a>. Go contribute.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2005/10/25/the-google-growth-lie/">The Google Growth Lie</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-25T07:17:00+02:00" pubdate data-updated="true">Oct 25<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Amr posted about Wallstreet buying <a href="http://blog.360.yahoo.com/amr?p=167">the Google Growth Lie</a>. While I wouldn&#8217;t put it so harshly, as growth is growth, it is true that the options for growth for Google are decreasing. Prices on AdWords are not gowing to grow forever, prices they have to pay for AdSense users will increase, their own site will not grow at 100% a year for much longer, additional services will not make the same revenue as search via ads, optimization can go far, but not in 100% increases, and the competition is rising. Next quarter will be interesting as they won&#8217;t be able to say that their profit increased as much. One thing to keep in mind though is that the last quarter is really a place where advertisers tend to spend more money.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/54/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/52/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/06/05/the-story-of-bitcoin/">The Story of Bitcoin</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/01/07/last-post-in-may/">Last post in May</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/24/the-privacy-concern-zuckerberg-did-not-answer/">The privacy concern Zuckerberg did not answer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/05/23/android-killed-the-iphone-long-live-the-iphone/">Android killed the iPhone - Long live the iPhone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2010/02/20/the-solutions-for-the-plain-text-nut/">The solutions for the plain text nut</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/othylmann">@othylmann</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'othylmann',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("othylmann", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/othylmann" class="twitter-follow-button" data-show-count="true">Follow @othylmann</a>
+  
+</section>
+
+
+<section>
+  <h1>My Pinboard</h1>
+  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
+  <p><a href="http://pinboard.in/u:othylmann">My Pinboard Bookmarks &raquo;</a></p>
+</section>
+<script type="text/javascript">
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "othylmann"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.type = 'text/javascript';
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Oliver Thylmann -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

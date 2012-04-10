@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Computers | Oliver Thylmann]]></title>
+  <link href="http://thylmann.net/blog/categories/computers/atom.xml" rel="self"/>
+  <link href="http://thylmann.net/"/>
+  <updated>2012-04-10T11:31:57+02:00</updated>
+  <id>http://thylmann.net/</id>
+  <author>
+    <name><![CDATA[Oliver Thylmann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Is the iPad just a new BeIA?]]></title>
+    <link href="http://thylmann.net/blog/2010/02/10/is-the-ipad-just-a-new-beia/"/>
+    <updated>2010-02-10T20:24:00+01:00</updated>
+    <id>http://thylmann.net/blog/2010/02/10/is-the-ipad-just-a-new-beia</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;It was nagging me for some time and now I found back the pages about the wonderful BeIA. Remember the time Apple bought Next? The other company that was in the pitch was Be, Inc. At the time Be, Inc. had BeOS as a Desktop operating system and was getting ready to release the first versions of BeIA, a tablet OS.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;&lt;span class=&quot;full-image-block ssNonEditable&quot;&gt;&lt;span&gt;&lt;img src=&quot;/storage/post-images/beia_webpad.jpg?__SQUARESPACE_CACHEVERSION=1265834176909&quot; alt=&quot;&quot;/&gt;&lt;/span&gt;&lt;br /&gt;Source: <a href="http://www.geek.com/articles/news/be-to-be-on-web-tablets-20000810/">Be to be on Web Tablets</a>&lt;/span&gt;&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Just check out this little bit from the <a href="http://web.archive.org/web/20010608092643/www.be.com/products/beiafaq.html">BeIA FAQ</a>:&lt;/p&gt;</p>
+
+<p>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Why won't everyone just use a computer to log on to the Internet?&lt;/strong&gt;&lt;/p&gt;</p>
+
+<p>  &lt;p&gt;The PC, although it is a wonderfully expandable and open device, has several drawbacks as a dedicated Internet device. First, it takes an inordinate amount of time to get on line. It requires a large amount of knowledge to use it. It is not responsive and stable like a consumer electronic device. The PC forces people to work in ways that may not be right for the task at hand. For instance, you do not have to &quot;boot&quot; your television or &quot;shut down&quot; your CD player. PCs are often in the wrong part of the house to accomplish what you want to do. In order for the web to truly become ubiquitous, new classes of devices, with purpose-built user experiences, will be created. The PC is great for business style applications, but it isn't the right tool for every use.&lt;/p&gt;
+&lt;/blockquote&gt;</p>
+
+<p>&lt;p&gt;You can look at other parts of like the <a href="http://web.archive.org/web/20010602203842/http://www.be.com/products/beiadatasheet.html">BeIA Datasheet</a> and find more things. I could have pasted more things but I presume you can read it yourself.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;It has already been said that Apple did not think about using the iPhone OS on the iPad otherwise they would not have named it iPhone OS. What Jobs might have thought is that Jean-Louis Gassee had a nice idea with BeIA but wanted to wait for a time when hardware is ripe to really allow for this kind of tablet to exist. Be was seriously too soon with it as the device itself would have been too clunky and ugly, but still. See the icons on the screen? The simplicity? Always on? No boot times?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Not bad for an idea of 2001 ey?&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome OS is not more multitasking than the iPad]]></title>
+    <link href="http://thylmann.net/blog/2010/02/03/chrome-os-is-not-more-multitasking-than-the-ipad/"/>
+    <updated>2010-02-03T07:52:00+01:00</updated>
+    <id>http://thylmann.net/blog/2010/02/03/chrome-os-is-not-more-multitasking-than-the-ipad</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;I am starting to wonder if people have no clue or if I am just clueless and I seriously do not want to believe that. The thing is that everybody is complaining that Apple's iPad is not doing multitasking. Fine by me. Most things do not really need multitasking though and if the modal screens for push messages is improved you can stay online in your skype account or do other things. Sure it would be nice to be able to move a video to a small screen and continue browsing the web, but we will survive.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;What drives me nuts though is people starting to speculate that Chrome OS will kill the iPad because it has <a href="http://www.readwriteweb.com/cloud/2010/02/the-pros-and-cons-of-a-google.php">multitasking</a> or <a href="http://www.readwriteweb.com/archives/googles_tablet_versus_apples_ipad.php">doesn't have flash</a>? What?&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First the multitasking. Yes, Android does multitasking, but Chrome OS is a browser and you can do multiple tabs, but that is not multitasking and something the iPad can do just fine. So this is really a non-point. Chrome OS is first still in development and second focussed on all being in a browser and hence not multitasking as such.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;As for flash, yes some sites will not run but Youtube is already working as they are making special iPhone versions of videos and many others will try to incorporate HTML5. Just check out the <a href="http://jilion.com/sublime/video">SublimeVideo Player</a> to see what is possible. Amazing stuff.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;Oh and one thing for everyone: Not everyone has to or will buy an iPad and it is not the end-all device and not built as such. I actually chose a Mac because I wanted it to work after hacking around in servers and linux and windows boxes for ages. The iPad is just taking it one step further. Talk to people who have an iPhone. Most of them stopped hacking them because it is fine as it is or you move to e.g. Android. And Android is multitasking.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Google Chrome OS really means]]></title>
+    <link href="http://thylmann.net/blog/2009/12/02/what-google-chrome-os-really-means/"/>
+    <updated>2009-12-02T20:28:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/12/02/what-google-chrome-os-really-means</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;All focus is currently on <a href="http://en.wikipedia.org/wiki/Google_Chrome_OS">Google Chrome OS</a> and what it will mean for our beloved NetBooks. I somehow have the feeling people are not thinking far enough because our geeky NetBooks are totally irrelevant. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Google does stuff with very much focus, a lot more focus than often is visible on first sight. You can actually always think back to a) making all content available and b) more people online means more ads to display.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;And there are a lot of different implementations of Google Chrome OS that will further those goals. First of all you can obviously tell people to attach their digital cameras and pictures and videos are automatically uploaded to Youtube and Picasa, but that is the braindead move. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Remember that they are building very clear hardware specifications allowing them to say that the system is rock solid if the specs are used. The important part here is x86 or ARM and solid state drives. In summary, that means a good CPU that can also render diverse video streams in high quality as well as a totally silent drive that is cheap in small sizes and only holds the OS. The OS itself will be rock solid as there is really nothing much installed.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;This as such is the perfect implementation for TVs! Just imagine having your TV and being able to turn on Chrome OS to read your mail, look at youtube, search the web, automatically upload your photos, and so on. That in a silent system that boots as quickly as your TV turns on, or almost. It doesn't need to be running at all time then which saves energy and Google is suddenly in all living rooms. Hell the OS is free or even better than free with Google paying the TV company for ads served to the user. The TVs have network interfaces already anyway. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;The other thing is that there are LARGE groups of people in developing countries that might not have the money for a full blown PC and Google could potentially make this thing very cheap and possibly even free together with a data provider. They would get millions of new users that are available to their advertisers that are probably really begging for more users to advertise to in these countries. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;I am really looking forward to seeing where they are going with this. Because I will keep my Mac, no questions there, but in my TV ... sure ... in my car ... of course. Imaging this being the one laptop per Child system. Things get interesting when thinking further than normal Netbooks.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wolfram Alpha not for average joe]]></title>
+    <link href="http://thylmann.net/blog/2009/03/09/wolfram-alpha-not-for-average-joe/"/>
+    <updated>2009-03-09T08:21:00+01:00</updated>
+    <id>http://thylmann.net/blog/2009/03/09/wolfram-alpha-not-for-average-joe</id>
+    <content type="html"><![CDATA[<p>&lt;p&gt;There is lots of rage currently about Wolfram's new Venture <a href="http://www.wolframalpha.com/">Wolfram Alph</a>a. A lot about it can be learned from <a href="http://www.techcrunch.com/2009/03/08/wolfram-alpha-computes-answers-to-factual-questions-this-is-going-to-be-big/">this article</a> on Techcrunch. I wanted to add a few thoughts though.&lt;/p&gt;</p>
+
+<p>&lt;p&gt;First of all, how can 100 people working on a knowledge engine go undetected for years??!?!? Then again, it proves again we are in a deep echo chamber and it already points us to the second thing. This is something that fits very well with Wolfram's previous work. <a href="http://www.wolfram.com/">Mathematica</a> is something I still remember from my Physics studies and it is an amazing tool to say the least. It's something the scientific world has been using for ages and this is Wolfram's world. The second step in Wolfram's quest to leave a lasting mark in science was A <a href="http://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088/">new Kind of Science</a>, for which he took a bit of time of and which he wrote during the night if I remember correctly. It's a highly discussed book to say the least. &lt;/p&gt;</p>
+
+<p>&lt;p&gt;Now comes Wolfram Alpha (does that guy have a god complex by the way naming all his companies after himself ? ;)) and he again tries to prove, I feel, to the science world that he is the man. It is very likely that he succeeds I have to say. But what needs to be remembered is that this tool is really a science tool and not something for the guy next door. Depending on the knowledge catalogue they have added to the system you will be able to ask things like &quot;What's the best time to climb Mount Everest?&quot; or &quot;What is the best age to get married and what are other influencing factors to stay together forever?&quot; or &quot;What molecule structures should I emphasize for curing Aids?&quot; (made the last one up ;)). &lt;/p&gt;</p>
+
+<p>&lt;p&gt;It will be interesting to see where this goes. Looking forward to the launch.&lt;/p&gt;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Does RSS Help the Internet Economy]]></title>
+    <link href="http://thylmann.net/blog/2008/12/15/does-rss-help-the-internet-economy/"/>
+    <updated>2008-12-15T08:28:00+01:00</updated>
+    <id>http://thylmann.net/blog/2008/12/15/does-rss-help-the-internet-economy</id>
+    <content type="html"><![CDATA[<p>The thinking here again was started by a post by Martin, looking at the question <a href="http://english.martinvarsavsky.net/general/blogs-vs-rss-and-the-overall-question-of-internet-value-creationdestruction.html">whether the Internet creates or destructs value</a>. I really think that the internet creates value, but the only problem in that statement is that value is not only monetary.</p>
+
+<p>Monetary wise the internet has and will destroy a lot of money in the short and medium term and only then grow up to really create money due to the fact that we need to learn to live with it. One thing that is really important to understand that the Internet, Web 2.0, Blogging, Twitter and the like create an Economy of Truth. What I mean with that is that it is the end of bullshitting, you can't just give out a product and have an immense marketing campaign saying it is the best thing since sliced bread, when in all honesty it's total crap. You need to build good things, do good deads, be a good person, in the long run, because all the other crap will get out. This of course means that lots of things need to change in product development and marketing and in the mean time some things will fail.</p>
+
+<p>But more importantly, in relation to RSS and Blogs and the like, it does create a system where it is easy to consume news and share news. My media consumption is so different from my parents and it will become more different as we go along. This in itself does not destroy anything though. The problem is that traditional newspapers have not jumped on that wagon full force yet, and are just trying out things. And with it, advertising has changed.</p>
+
+<p>Google is no white knight here but rather the devil that was bound to appear. Measurability was there before Google but now you want a direct ROI, something you never had or have in TV Advertising or Newspapers, at least not the same as on the all-trackable-internet. And due to the fact that, again, the Newspapers can't make up their mind (Do I take the performance money or do I remain a CPM only shop?) and are doing it half baked, there is now the problem that it is not fully clear where this will all turn. Lots of people now book standard banners on CPC basis, or high CPM, which makes no sense once you did it through a CPC deal. At the same time the money earned from performance only deals is not enough by far to pay for the very very very expensive writers (who might be crunching out 10-20 articles a day but these articles don't as such pay their salaries). At the same time sales of hardcopy newspapers are going down and will remain to go that way, all moving into measurable media.</p>
+
+<p>One solution might be to go performance only, meaning that to get a branding campaign you will pay through the nose as you will have to overpay any performance deal on the pages you want to be on. Another option would be to say you only do high CPM deals. But in any case, the easy times from 20 years ago are gone and online properties would never survive alone. One important step in any case is to not give people branding that do not pay for it. That way, people will still feel the need to paying for branding.</p>
+
+<p>And then there is the really big problem of giving an agency the option to spend 500k in a meaningful and profitable way on the internet, in a month, or less, without much work.</p>
+
+<p>So overall we can't live without the internet, but for newspapers, it is destroyed a lot of value and will remain to do that, so some rethinking has to happen.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "my view"
+date: 2005-01-16 12:41
+comments: true
+categories: Moblog
+author: Oliver Thylmann
+---
+
+
+[ title=&quot;my view&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/3422156_61978edc8f_m.jpg&quot; alt=&quot;my view&quot; /&gt;](http://www.flickr.com/photos/oliver/3422156/)&lt;p&gt;45k people will be hear in the end&lt;/p&gt;
+
+

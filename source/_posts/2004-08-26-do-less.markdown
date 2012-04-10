@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Do Less"
+date: 2004-08-26 07:18
+comments: true
+categories: Business
+author: Oliver Thylmann
+---
+
+
+So this will be the first [ChangeThis](http://www.changethis.com/) manifesto that I will like to. Seth Godin's [Do Less](http://www.changethis.com/2.DoLess). First of all it is a very nice and short read and it is true. &lt;i&gt;Big doesn't equal successful&lt;/I&gt;, at elast in many cases. Is your business really about volume? Volume in clients? Do you need more people or just less negative-EVA projects? We moved from huge factories to projects but do we really putthe same power into analysing which projects we do in relation to how we analyse which factories to build and run? Sure, projects are often smaller beasts, but it remains true. &lt;i&gt;We can't have everything.&lt;/i&gt; Leaving out the worst bits improves profitability and our life! The only problem with this is that we often don't know which projects will turn out to be the most profitable beforehand. In this case we probably have to take the leap and kill the early. Start, Test, Measure, Stop, Optimize, Test, Measure, Stop. Cancel or go on from there. And no, that's not as easy as it sounds. :)
+
+

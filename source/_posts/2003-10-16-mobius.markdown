@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;a title=&quot;Mobius 2003 Article&quot; href=&quot;http://www.the-gadgeteer.com/mobius2003-article.html&quot;&gt;Here is a very good summary of this years Mobius, a meeting of wireless, phone, pda freaks that Microsoft organises once or twice a year to tell them about their views of the future of MS in this very interesting space. Beginning of last year I actually spoke at Mobius about mobile technologies and met some of the people which was simply amazing. All very nice people.
+&lt;a title=&quot;Mobius 2003 Article&quot; href=&quot;http://www.the-gadgeteer.com/mobius2003-article.html&quot;&gt;Here&lt;/a&gt; is a very good summary of this years Mobius, a meeting of wireless, phone, pda freaks that Microsoft organises once or twice a year to tell them about their views of the future of MS in this very interesting space. Beginning of last year I actually spoke at Mobius about mobile technologies and met some of the people which was simply amazing. All very nice people.
 
 

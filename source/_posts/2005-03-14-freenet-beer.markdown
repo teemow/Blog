@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;freenet beer&quot;&gt;&lt;img src=&quot;http://photos7.flickr.com/6532878_e06a4a468f_m.jpg&quot; alt=&quot;freenet beer&quot; /&gt;](http://www.flickr.com/photos/oliver/6532878/)In the vip bottle
+[ title=&quot;freenet beer&quot;&gt;&lt;img src=&quot;http://photos7.flickr.com/6532878_e06a4a468f_m.jpg&quot; alt=&quot;freenet beer&quot; /&gt;](http://www.flickr.com/photos/oliver/6532878/)&lt;p&gt;In the vip bottle&lt;/p&gt;
 
 

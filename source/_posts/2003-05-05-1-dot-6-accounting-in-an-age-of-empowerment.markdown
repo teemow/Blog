@@ -11,7 +11,7 @@ author: Oliver Thylmann
 There are three perspectives to accounting. The technical-rational (what you should do in general), institutional (the image your give of yourself) and the socio-political (to get power).
 
 
-
+&lt;!-- more --&gt;
 
 
 The management control function sits between the operational/task control and strategic planning/strategy formulation. Managers are called upon to be both planners and controllers.

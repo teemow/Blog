@@ -11,7 +11,7 @@ author: Oliver Thylmann
 A few days ago I posted [Internet: Your Lego City](http://owt.typepad.com/blog/2005/01/internet_your_l.html) and it has resulted in some interesting exchanges and I think I need to clarify a few things because as always, I kept a lot hidden in my head without knowing about it. That's another thing about writing your own blog that is very important: It helps you clarify your thoughts! In a sense I am trying to publish my embrained knowledge and externalize my tacit knowledge similar to [Nonaka and Takeuchi's SECI model](http://owt.typepad.com/oubs/2005/01/managing_knowle.html). So bare with me for a few more thoughts.
 
 
-
+&lt;!-- more --&gt;
 
 
 First of all, as Thijs noticed in a comment, what I am trying to do is get some new conceptual model built for thinking about internet advertising and how RSS Readers like [Bloglines](http://www.bloglines.com/) provide a huge opportunity. They will become my Lego like built Internet City where I live in and marketers will need to try to break into that. I make up my newspaper and potentially my street within this RSS reader, in a lot more powerful way than in eMail. eMail is a communication medium while RSS is just an access medium, enabling communication as one potential additional step.

@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;250&quot;&gt;&lt;img src=&quot;http://photos5.flickr.com/4993354_98cd54d712_m.jpg&quot; alt=&quot;250&quot; /&gt;](http://www.flickr.com/photos/oliver/4993354/)30 minutes probably
+[ title=&quot;250&quot;&gt;&lt;img src=&quot;http://photos5.flickr.com/4993354_98cd54d712_m.jpg&quot; alt=&quot;250&quot; /&gt;](http://www.flickr.com/photos/oliver/4993354/)&lt;p&gt;30 minutes probably&lt;/p&gt;
 
 

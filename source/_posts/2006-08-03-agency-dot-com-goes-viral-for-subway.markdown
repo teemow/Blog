@@ -17,9 +17,9 @@ Great stuff, and [thanks for the pointer](http://www.hebig.com/archives/003925.s
 
 P.S.: Already bought the [t-shirt](http://www.spreadshirt.net/shop.php?op=article&amp;article_id=3404773#) :)
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Agency.com&quot;&gt;Agency.com&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Spreadshirt&quot;&gt;Spreadshirt&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Subway&quot;&gt;Subway&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/T-Shirt&quot;&gt;T-Shirt&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 

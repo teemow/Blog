@@ -11,7 +11,7 @@ author: Oliver Thylmann
 It seems that TAC (Traffic Acquisition Costs) for Overture (now part of Yahoo!) has been growing steadily due to increased competition in the market. This comes from [an article](http://news.com.com/2100-1030-5140499.html) about the release of Yahoo!'s new numbers, the first time with Overture included. The market we are talking about here is that of paid placement text links. Where did all this come from?
 
 
-
+&lt;!-- more --&gt;
 
 
 It started out with goto.com, now Overture, which had a paid search engine, with the idea that if somebody paid well for a given term, it would also be interesting for the user. Still, the site remained relatively small, unteil they decide to just place their top 3 search results on top of standard search results on other search engines, like Yahoo!, giving part of the revenue earned to those search engines. This was kind of the start of TAC. Then Google came and started (after Sponsored Listings which I will leave out) AdWords, which puts these ads (which they now are) to the right of their search results to make sure that they are seen as a seperate thing. They are still working wonderfully, especially because Google has a lot of traffic. 

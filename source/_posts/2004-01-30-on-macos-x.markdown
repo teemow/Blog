@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Andy Rasking just bought a new computer, a G4 Powerbook from Apple to be exact, and he [posted about it on the Business 2.0 blog](http://business2.blogs.com/business2blog/2004/01/ing_amazing.html). I'd like to quote a few lines here as I totally agree. Unexplainable, but true:
 
 
-*First, I typed the lead sentence of my nextBusiness 2.0 story in a Word document on a Vaio running XP. Then I typed the same sentence in a Word document on a PowerBook running OS X. And this, ladies and gentlemen, is the genius of Steve Jobs: The sentence looked cooler, weightier, hipper, more worth paying attention to -- on the PowerBook. Writers and other creative artists know that this cannot be explained rationally. It just is, and it's worth money.*
+&lt;I&gt;First, I typed the lead sentence of my nextBusiness 2.0 story in a Word document on a Vaio running XP. Then I typed the same sentence in a Word document on a PowerBook running OS X. And this, ladies and gentlemen, is the genius of Steve Jobs: The sentence looked cooler, weightier, hipper, more worth paying attention to -- on the PowerBook. Writers and other creative artists know that this cannot be explained rationally. It just is, and it's worth money.&lt;/I&gt;
 
 So there you have it, I am weird. On a side note, I tried out [Wordpress](http://www.wordpress.org/), a blogging tool which [Russel Beattie posted about](http://www.russellbeattie.com/notebook/1005956.html), yesterday and it does feel nice. Really. If you are looking for a blogging tool, check it out.
 

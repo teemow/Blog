@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/33/90327554_7ecb471997.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/90327554/)	[Dld button](http://www.flickr.com/photos/oliver/90327554/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					Mon 23/01/2006 21:08 23012006112 In the lift in the bayerischer hof
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/33/90327554_7ecb471997.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/90327554/)&lt;br /&gt;	[Dld button](http://www.flickr.com/photos/oliver/90327554/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Mon 23/01/2006 21:08 23012006112 In the lift in the bayerischer hof&lt;/p&gt;
 
 

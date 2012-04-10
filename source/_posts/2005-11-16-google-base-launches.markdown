@@ -17,5 +17,5 @@ In the meantime, Google is also advertising Google Analytics in their blogs and 
 
 ... [Henning](http://www.henninglange.com/) just walked in the door. He has stats! Of course, his 2 PIs are easy to count ;)
 
-{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google&quot;&gt;Google, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Analytics&quot;&gt;Google Analytics, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Base&quot;&gt;Google Base}
+{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Analytics&quot;&gt;Google Analytics&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google+Base&quot;&gt;Google Base&lt;/a&gt;}
 

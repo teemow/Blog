@@ -13,7 +13,7 @@ author: Oliver Thylmann
 
 
 
-If you want to know a bit more about what Les Blogs 2.0 was like, I suggest taking a look at [the videos](http://maartenschenk.be/video/lesblogs/) (**Update**: That link doesn't work anymore, please go [here](http://lesblogs.vpod.tv/).) from the event. I can especially suggest [Eight Ideas that will revolutionize the centry](http://maartenschenk.be/video/lesblogs/Eight%20ideas%20that%20will%20really%20revolutionize%20the%2021st%20century.wmv) by [Ben Hammersley](http://www.benhammersley.com/), who did a very very good talk. The guy is great to listen to.
+If you want to know a bit more about what Les Blogs 2.0 was like, I suggest taking a look at [the videos](http://maartenschenk.be/video/lesblogs/) (&lt;strong&gt;Update&lt;/strong&gt;: That link doesn't work anymore, please go [here](http://lesblogs.vpod.tv/).) from the event. I can especially suggest [Eight Ideas that will revolutionize the centry](http://maartenschenk.be/video/lesblogs/Eight%20ideas%20that%20will%20really%20revolutionize%20the%2021st%20century.wmv) by [Ben Hammersley](http://www.benhammersley.com/), who did a very very good talk. The guy is great to listen to.
 
 But a bit of feedback about that one. Ben Hammersly did his speech and I sadly could not ask a question because I had to leave before he was finished. What he said is very valid. In previous times stuff you did, did not scale as easily. As Hugh MacLeod said: &quot;Real people don't scale.&quot; If you built swords then those swords could not make better swords. Race horses can only go this fast. But in our IT world, a better software will help you make better software. Better tools allow you to build better tools. It is quasi self-priming. He said that we might suddenly have something that will always get better and that there will not really need to be one big step forward, like with the car which replaced the horse.
 
@@ -23,9 +23,9 @@ All this is great, but we need to redistribute money differently, or need to all
 
 Just a few things to think about. But I am looking forward to Ben's book.
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ben%20Hammersley&quot;&gt;Ben Hammersley&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Free%20Knowledge&quot;&gt;Free Knowledge&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Future&quot;&gt;Future&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/lesblogs&quot;&gt;lesblogs&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/video&quot;&gt;video&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 

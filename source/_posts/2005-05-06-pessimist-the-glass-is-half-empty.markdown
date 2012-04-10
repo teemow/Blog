@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;[ title=&quot;the glass is half empty&quot;&gt;&lt;img src=&quot;http://photos11.flickr.com/12677089_275110cbab.jpg&quot; alt=&quot;the glass is half empty&quot; /&gt;](http://www.flickr.com/photos/oliver/12677089/)Optimist: but not for long :)&lt;/div&gt;
+&lt;div&gt;[ title=&quot;the glass is half empty&quot;&gt;&lt;img src=&quot;http://photos11.flickr.com/12677089_275110cbab.jpg&quot; alt=&quot;the glass is half empty&quot; /&gt;](http://www.flickr.com/photos/oliver/12677089/)&lt;p&gt;Optimist: but not for long&lt;br /&gt;&lt;br /&gt; :)&lt;/p&gt;&lt;/div&gt;
 
 

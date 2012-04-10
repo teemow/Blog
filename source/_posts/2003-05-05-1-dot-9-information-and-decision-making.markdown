@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This needs feedback on the action taken and back. It requires a problem definition, a decision maker and a feedback loop.
 
 
-
+&lt;!-- more --&gt;
 
 
 Implicit here would be that there is data available about goals to create this feedback loop and have measurements in place (balancing loop). This is often called negative feedback because you convey information on how it is not desired.

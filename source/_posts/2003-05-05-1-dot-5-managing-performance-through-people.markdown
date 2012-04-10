@@ -11,7 +11,7 @@ author: Oliver Thylmann
 The definition used in this book is: Human resource management concerns all management decisions and actions that affect the relationship between an organization and its members.
 
 
-
+&lt;!-- more --&gt;
 
 
 There are many potential frameworks and one divides HRM into:

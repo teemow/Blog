@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-Here are some thoughts about Irak. It's in German though: &lt;a title=&quot;Die Zeit 07 / 2003 - Richard Rorty: Demokratie für alle oder Herrschaft über die Welt&quot; href=&quot;http://www.zeit.de/2003/07/Umfrage&quot;&gt;Die Zeit 07 / 2003 - Richard Rorty: Demokratie für alle oder Herrschaft über die Welt
+Here are some thoughts about Irak. It's in German though: &lt;a title=&quot;Die Zeit 07 / 2003 - Richard Rorty: Demokratie für alle oder Herrschaft über die Welt&quot; href=&quot;http://www.zeit.de/2003/07/Umfrage&quot;&gt;Die Zeit 07 / 2003 - Richard Rorty: Demokratie für alle oder Herrschaft über die Welt&lt;/a&gt;
 
 It includes the viewpoints of several US Professors and similar though. You might be able to use [Babelfish](http://babelfish.altavista.com/).
 

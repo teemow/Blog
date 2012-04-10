@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 I just looked through my [Quotes](http://www.ennead.de/quote.php) and found this one:
 
-*I calibrate my ability to predict the future by saying that in 1980 if you'd asked me about the most important applications of the microprocessor, I probably would have missed the PC. In 1990 I would have missed the Internet. So here we are just past 2000, I'm probably missing something very important. - Gordon Moore, Intel Founder *
+&lt;I&gt;I calibrate my ability to predict the future by saying that in 1980 if you'd asked me about the most important applications of the microprocessor, I probably would have missed the PC. In 1990 I would have missed the Internet. So here we are just past 2000, I'm probably missing something very important. - Gordon Moore, Intel Founder &lt;/I&gt;
 
 Ok. So we had the processor as the enabler, followed by the internet as the connector. Looking at it like this now comes the exploitation of the enabled connections. Perhaps the next big thing won't be technology after all. Mobility, integrated circuits, distributed servers, instant messaging, P2P, ... are all just bolted upon that, enhancing what is already there. In the end, what is possible is the stark alteration of how content is and can be treated. Maybe this decade is all about content, freeing it, putting it back in the box, trying to find a way to make it worthwhile for everyone. As somebody else said recently, the information revolution hasn't even started yet. Interesting times to live in.
 

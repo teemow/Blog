@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 I read this ages ago, I think via one of Cal Evans' articles. I highly suggest reading [Nerd Herding](http://www.calevans.com/articles/nerdHearding.php) by the way. Now Markus Breuer [pointed](http://notizen.typepad.com/aus_der_provinz/2004/12/schnell_und_bil.html) me to a very nice graphical representation of the idea.
 
-[&lt;img alt=&quot;Holy_triangle&quot; src=&quot;http://owt.typepad.com/photos/uncategorized/holy_triangle.gif&quot; border=&quot;0&quot; /&gt;](http://owt.typepad.com/photos/uncategorized/holy_triangle.gif)
+[&lt;img alt=&quot;Holy_triangle&quot; src=&quot;http://owt.typepad.com/photos/uncategorized/holy_triangle.gif&quot; border=&quot;0&quot; /&gt;](http://owt.typepad.com/photos/uncategorized/holy_triangle.gif)&lt;br /&gt;
 &lt;font size=&quot;-2&quot;&gt;Source: [CreativeBits: Lessons Clients Need to Learn](http://iraszl.brinkster.net/creativebits/2004/11/lesson-clients-need-to-learn.html)&lt;/font&gt;
 
 This one is really true to a very good degree. It's interesting to think about this in the light of outsourcing though, moving parts of your company somewhere else, focusing on what you really do well. If you move software development to India for example, it would likely be cheaper than in germany, and possibly even faster due to more people coding. The above image would then say that it will be worse quality. What about outsourcing your development to some eastern countries, at least to a big part. Many seem to be doing really well with it. 

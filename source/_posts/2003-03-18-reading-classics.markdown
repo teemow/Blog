@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Tufts University has set up the &lt;a title=&quot;Perseus Digital Library&quot; href=&quot;http://www.perseus.tufts.edu/&quot;&gt;Perseus Digital Library. They have a huge repository of books in there for everybody's enjoyment. I might be able to read some classics easily after all ;)
+Tufts University has set up the &lt;a title=&quot;Perseus Digital Library&quot; href=&quot;http://www.perseus.tufts.edu/&quot;&gt;Perseus Digital Library&lt;/a&gt;. They have a huge repository of books in there for everybody's enjoyment. I might be able to read some classics easily after all ;)
 
 

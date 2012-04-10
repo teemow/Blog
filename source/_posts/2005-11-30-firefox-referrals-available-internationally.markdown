@@ -22,10 +22,10 @@ And as I [posted some time ago](http://blog.thylmann.net/2005/09/still_time_to_i
 
 So now go make me some money :)
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/AdSense&quot;&gt;AdSense&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Advertising&quot;&gt;Advertising&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Attention%20Trust&quot;&gt;Attention Trust&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Firefox&quot;&gt;Firefox&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google%20Toolbar&quot;&gt;Google Toolbar&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/puppy&quot;&gt;puppy&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Root%20Markets&quot;&gt;Root Markets&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

@@ -8,5 +8,5 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;electric fly zapper&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/1167783_078ea3e402.jpg&quot; alt=&quot;electric fly zapper&quot; /&gt;](http://www.flickr.com/photos/oliver/1167783/)The racket part is electrified when the green light is lit to electrecute flies and other things.
+[ title=&quot;electric fly zapper&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/1167783_078ea3e402.jpg&quot; alt=&quot;electric fly zapper&quot; /&gt;](http://www.flickr.com/photos/oliver/1167783/)&lt;p&gt;The racket part is electrified when the green light is lit to electrecute flies and other things.&lt;/p&gt;
 

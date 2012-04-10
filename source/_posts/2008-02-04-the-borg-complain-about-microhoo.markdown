@@ -15,7 +15,7 @@ author: Oliver Thylmann
 
 The cries are going back and forth and it's fun to watch. Of course we all know the offer done by Microsoft, being close to $45 billion for Yahoo! Google obviously couldn't let it rest and now has an official response entitled: [Yahoo! and the future of the internet](http://googleblog.blogspot.com/2008/02/yahoo-and-future-of-internet.html).
 
-*Could Microsoft now attempt to exert the same sort of inappropriate and illegal influence over the Internet that it did with the PC?*
+&lt;em&gt;Could Microsoft now attempt to exert the same sort of inappropriate and illegal influence over the Internet that it did with the PC?&lt;/em&gt;
 
 Like [Michael](http://www.techcrunch.com/2008/02/03/google-cries-wolf-on-microsoft-yahoo-deal-irony-comes-up-blank-in-google-search/) I can more or less smile at that because with Google having a 40% market share of internet advertising revenues, something like Microhoo would only be good competition against Google, which they of course don't like. The bigger question really is how to integrate all of them and there I am [with John Battelle](http://battellemedia.com/archives/003610.php) with the idea that Microsoft should become more like GE. They are already on their way but they can push it. Let's see how this one will continue.
 

@@ -17,8 +17,8 @@ The biggest new that came in now is that has a c[ost of $265 per 8GB iPhone](htt
 
 The thing is that the first adopters will buy it no matter what. It will be interesting to see if the run on the phone keeps up. The first few days/weeks are always good for Apple. Let's see how it goes. I for one am happy about my Apple stock :)
 
-**Update:**Â  [Paul has](http://paul.kedrosky.com/archives/2007/07/03/best_shorter_ip.html) a great [link](http://www.moconews.net/entry/419-iphone-reality-sets-in/) to a very short review:
+&lt;strong&gt;Update:&lt;/strong&gt;Â  [Paul has](http://paul.kedrosky.com/archives/2007/07/03/best_shorter_ip.html) a great [link](http://www.moconews.net/entry/419-iphone-reality-sets-in/) to a very short review:
 
-*Â Looking at the iPhone as an alpha, itâ€™s a heck of a feat. Gorgeous. Groundbreaking. Full of promise and a lot of delivery. Unfortunately, weâ€™re paying for a full-release version.*
+&lt;em&gt;Â Looking at the iPhone as an alpha, itâ€™s a heck of a feat. Gorgeous. Groundbreaking. Full of promise and a lot of delivery. Unfortunately, weâ€™re paying for a full-release version.&lt;/em&gt;
 
 

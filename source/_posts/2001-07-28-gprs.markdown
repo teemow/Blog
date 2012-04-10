@@ -1,0 +1,16 @@
+---
+layout: post
+title: "GPRS"
+date: 2001-07-28 11:18
+comments: true
+categories: Wireless
+author: Oliver Thylmann
+---
+
+
+If anyone wants to know how GRPS really works ...
+
+http://www.protocols.com/pbook/gprs.htm
+
+:)
+

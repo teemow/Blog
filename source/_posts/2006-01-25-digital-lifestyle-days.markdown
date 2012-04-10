@@ -23,10 +23,10 @@ Then we had the panel about &quot;The Next Big Thing&quot;, with [Esther Dyson](
 
 To sum it up, I did love the event, even though it was a bit too big from time to time. It might also be good to have higher mixed panel discussions between small start-ups and the bigger guys, which might create some more discussions. Thanks again to Burda (company and person) for creating this conference and the team behind it (including all the waiters, technicians, helpers and all) that made it happen! I had a great time.
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Bayerischer%20Hof&quot;&gt;Bayerischer Hof&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Burda&quot;&gt;Burda&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Digital%20Lifestyle%20Days&quot;&gt;Digital Lifestyle Days&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/DLD&quot;&gt;DLD&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/dld06&quot;&gt;dld06&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

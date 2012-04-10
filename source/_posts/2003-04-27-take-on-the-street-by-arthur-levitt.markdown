@@ -8,15 +8,15 @@ author: Oliver Thylmann
 ---
 
 
-The sub title of this book by the ex SEC Chairman Arthur Levitt ist: *What Wall Street and Corporate America Don't Want You to Know - What You Can Do to Fight Back* and this exactly what he is telling you in this book. Here is a Chapter overview to help you decide if this is a book for you:
+The sub title of this book by the ex SEC Chairman Arthur Levitt ist: &lt;i&gt;What Wall Street and Corporate America Don't Want You to Know - What You Can Do to Fight Back&lt;/i&gt; and this exactly what he is telling you in this book. Here is a Chapter overview to help you decide if this is a book for you:
 
 
-
+&lt;!-- more --&gt;
 
 
 How to sleep as well as your broker
 
-&quot;*Brokers may seem like clever financial experts, but they are first and foremost salespeople.*&quot; This is something that [TMF](http://www.fool.com/) and others have started to tell the world about a long time ago, but it is simply true. They are paid based on the commissions they generate, which can take many forms, including something called spreads, the difference between what the firm paid for something and what you will end up paying. 
+&quot;&lt;I&gt;Brokers may seem like clever financial experts, but they are first and foremost salespeople.&lt;/I&gt;&quot; This is something that [TMF](http://www.fool.com/) and others have started to tell the world about a long time ago, but it is simply true. They are paid based on the commissions they generate, which can take many forms, including something called spreads, the difference between what the firm paid for something and what you will end up paying. 
 
 The seven deadly sins of mutual funds
 

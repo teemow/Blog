@@ -8,15 +8,15 @@ author: Oliver Thylmann
 ---
 
 
-I love what Ricardo Semler is doing, just so we are clear on that one. I suggest you read [Maverick by Ricardo Semler](http://owt.typepad.com/blog/2002/04/book_review_mav.html), a great read. But anyone. To start with this article, a short quote from the third line: *no one in the company really knows how many people we employ*.
+I love what Ricardo Semler is doing, just so we are clear on that one. I suggest you read [Maverick by Ricardo Semler](http://owt.typepad.com/blog/2002/04/book_review_mav.html), a great read. But anyone. To start with this article, a short quote from the third line: &lt;i&gt;no one in the company really knows how many people we employ&lt;/i&gt;.
 
 
-
+&lt;!-- more --&gt;
 
 
 First the employment and contractual relationships are very complex and second Ricardo believes it is useless information. They have employees, part-time employees, ex-employees, and other people on their premises. Some work for them, some for themsleves. Most on Semco's machines. Others on othre machines. It can be frustrating as it is uncontrollable and requires a daily leap of faith and has serious implications for corporate security. It has been working very well for three years. 
 
-Ricardo goes on by saying: *I think that strategic planning and vision are often barriers to success.* He also believes in responsibility, disputes the value of growth, and doesn't think you can measure success in numbers. He doesn't govern Semco, owns the capital but not the company and it is run based on three values: employee participation, profit shring, open information systems. They are treating their employees like responsible adults. Participation gives people control of their work, profit sharing gives them a reason to do it better and information tells them what's working and what isn't. 
+Ricardo goes on by saying: &lt;I&gt;I think that strategic planning and vision are often barriers to success.&lt;/I&gt; He also believes in responsibility, disputes the value of growth, and doesn't think you can measure success in numbers. He doesn't govern Semco, owns the capital but not the company and it is run based on three values: employee participation, profit shring, open information systems. They are treating their employees like responsible adults. Participation gives people control of their work, profit sharing gives them a reason to do it better and information tells them what's working and what isn't. 
 
 This also means that they needed to accept democratic decisions they disliked. In general Semco survived because they surrounded themselves with people who look at everything they do and think about doing it better, cheaper, faster or just totally different.
 

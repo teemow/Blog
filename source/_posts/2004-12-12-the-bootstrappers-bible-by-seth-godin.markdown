@@ -16,5 +16,5 @@ Some time ago (yes, I am somehow behind in my writing) I read Seth Godin's [Boot
 * It should be adjustable
 * It should have an exit strategy (optional)
 
-That's a good list to think about when going into business. A good point follows: &quot;*Successful bootstrappers know this: Your business is about the process, it's not about the product.*&quot; Another important item is to redo the business plan and mission statement every three months. This thing should be short, but it gives a guiding light that needs to be pointing in the right direction.
+That's a good list to think about when going into business. A good point follows: &quot;&lt;i&gt;Successful bootstrappers know this: Your business is about the process, it's not about the product.&lt;/i&gt;&quot; Another important item is to redo the business plan and mission statement every three months. This thing should be short, but it gives a guiding light that needs to be pointing in the right direction.
 

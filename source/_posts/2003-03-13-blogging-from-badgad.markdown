@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;a title=&quot;Where is Raed ?&quot; href=&quot;http://dear_raed.blogspot.com/&quot;&gt;Where is Raed ? ... it's a site from sombody (supposedly) in Bagdad. It's an interesting read to say the least and seems to be real.
+&lt;a title=&quot;Where is Raed ?&quot; href=&quot;http://dear_raed.blogspot.com/&quot;&gt;Where is Raed ?&lt;/a&gt; ... it's a site from sombody (supposedly) in Bagdad. It's an interesting read to say the least and seems to be real.
 
 

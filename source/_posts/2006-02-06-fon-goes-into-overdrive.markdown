@@ -23,13 +23,13 @@ I truly believe in the power behind FON and that he will make it succeed. I just
 
 I'd like to highlight one thing in Martin's post:
 
-* Showing up from Spain with a business plan in my pocket and getting the support of two of the largest internet companies in the world in less than one month made me realize how it is that American dominates the internet. ItÂ´s all about willing to take risks.*
+&lt;em&gt; Showing up from Spain with a business plan in my pocket and getting the support of two of the largest internet companies in the world in less than one month made me realize how it is that American dominates the internet. ItÂ´s all about willing to take risks.&lt;/em&gt;
 
 Currently funding my [own business](http://www.ormigo.com/), I can fully relate. Germany, or even Europe, does seem to be a lot less entrepreneurial. It might be because there are less deals to back and hence less options to distribute your investment over several companies, but in large part, the important difference seems to be that while you talk about a grand vision and the possibility to be huge in the US, you talk about your numbers and exact way to profitability here. While that is ok, it means that to a large part you will see companies founded that are a copy of US companies or that do not think so big. The backers behind FON clearly think big, and yes, there are a lot of problems they will have to tackle, like making this easy to install (on a router no normal person ever accesses unless they enter a password for their broadband access) or regulations with your ISP that forbid you to share your bandwidth to name just a few. But they can and will pull it off. Maybe there is a seat available in their blogger board after all :)
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/FON&quot;&gt;FON&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Index%20Ventures&quot;&gt;Index Ventures&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Investment&quot;&gt;Investment&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/nocat&quot;&gt;nocat&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Sequoia%20Capital&quot;&gt;Sequoia Capital&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Skype&quot;&gt;Skype&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/WiFi&quot;&gt;WiFi&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

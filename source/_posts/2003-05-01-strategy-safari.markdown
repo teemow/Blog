@@ -11,7 +11,7 @@ author: Oliver Thylmann
 I once again finished reading a book. I might have to revisit it from time to time though because the content is complex and challenging. It fits wonderfully with my current MBA course &quot;Strategy&quot; though. The book my am talking about is &quot;Strategy Safari&quot; by Henry Mintzberg, Bruce Ahlstrand and Joseph Lampel. Without writing too much here, the book talks about the following strategy formation schools:
 
 
-
+&lt;!-- more --&gt;
 
 
 - The Design School (think SWOT ;)), is about finding a match between internal capabilities and external possibilities. You design your strategy.
@@ -36,6 +36,6 @@ I once again finished reading a book. I might have to revisit it from time to ti
 
 In the last chapter they integrate everything a bit again, saying though, that the real integration happens in the head of the reader. They can't force that. It's really good to read and I like it that they critique every single school and also look at the weak sides. It's a very good overview of where Strategy Formation has been and where it is going to. Now I will have to see how much of this is covered in the MBA Course ... or how much more ;)
 
-**Update**: Ok, the book was very good and the course seems to be very thorough and covers lot of ground. This will be interesting.
+&lt;b&gt;Update&lt;/b&gt;: Ok, the book was very good and the course seems to be very thorough and covers lot of ground. This will be interesting.
 
 

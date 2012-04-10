@@ -34,10 +34,10 @@ Q4 Profit Margin on own sites: ($372 - $170) / ($1919 - $799 - $22) = $202 / $10
 Here their margin decreased even more, admitting that all their extra costs are attributed to their own sites.
 
 They are saved by still growing, but slower than anticipated and the competition is rising. Looking forward what the open market brings and if the stock will tank further.
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/GOOG&quot;&gt;GOOG&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

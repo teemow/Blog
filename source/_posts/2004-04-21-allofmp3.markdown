@@ -12,6 +12,6 @@ I made the leap. I am fearless. After reading [Heiko's post on Allofmp3](http://
 
 The files came back just fine, with full ID3 tages and great sound. For now I am happy. The question might be if that is really legal outside of russia, because I am in Germany and they are paying people in Russia. I have no clue really but I do presume that it is ok. We will see how it goes, especially what will be deducted from my card. For now, a good experience I have to say.
 
-**Update:** You can get a list of all the files you want to download from &quot;List all files&quot; in the My Downloads section. Copy that into a text file and you can use something like wget on unix/osx with the --input-file= argument to download them one by one.
+&lt;b&gt;Update:&lt;/b&gt; You can get a list of all the files you want to download from &quot;List all files&quot; in the My Downloads section. Copy that into a text file and you can use something like wget on unix/osx with the --input-file= argument to download them one by one.
 
 

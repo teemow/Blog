@@ -10,13 +10,13 @@ author: Oliver Thylmann
 
 Brand Eins is a very good german magazine and they have partnered with McKinsey to bring a special series focussing on subjects like Change, Risk, Knowledge, and other fields. In the most recent one, labled restart, there was an article about the European Molecular Biology Laboratory ( [EMBL](http://www.embl-heidelberg.de/) ). The EMBL was founded 1974 to let the best researchers of 16 Member Countries work on the basis of biology. The system is set up to flow from idea to invention/discovery, patenting to the &quot;Start Up&quot;. The article is very interesting on it's own but why I post here is [Cellzome](http://www.cellzome.com/), one of the companies who's foundation comes from EMBL. It's said to change the world, or so they say. From their own web site, it's a little less interesting, which is good as they are still small and shouldn't scream out that they are allmighty. For anyone interesting in biotechnology, this might be an interesting target to watch though. They just finished round C finanzing and will likely go public eventuelly and that's something to keep an eye on I'd say. 
 
-*Founded at the European Molecular Biology Laboratory ( EMBL ), Cellzome has combined scientific leadership with pharmaceutical industry management. Some of the biotech industry's most experienced investors, with a track record of building successful companies, form Cellzome's Supervisory Board. 
+&lt;I&gt;Founded at the European Molecular Biology Laboratory ( EMBL ), Cellzome has combined scientific leadership with pharmaceutical industry management. Some of the biotech industry's most experienced investors, with a track record of building successful companies, form Cellzome's Supervisory Board. 
 
 Cellzome's technological breakthrough in large scale proteomics exploits the pharmaceutical industry's accumulated medicinal chemistry knowledge to mine the human genome for the systematic discovery of new Lead|Target pairs for important diseases. 
 
 An international team of 100 researchers based in Heidelberg, Germany, and London, UK, is focused on building an innovative drug discovery process that will generate a strong pipeline of drug candidates. 
 
-This unique combination of scientific excellence, pharmaceutical industry leadership and biotech industry financial expertise, is driving a company focused on the need to significantly improve drug discovery productivity and create novel medicines. *
+This unique combination of scientific excellence, pharmaceutical industry leadership and biotech industry financial expertise, is driving a company focused on the need to significantly improve drug discovery productivity and create novel medicines. &lt;/I&gt;
 
 I just thought I'd share. &lt;B&gt;Killesberg Baby&lt;/B&gt; from the album &quot;Solo&quot; by [ThomasD](http://www.google.com/search?q=%22ThomasD%22)
 

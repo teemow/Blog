@@ -11,7 +11,7 @@ author: Oliver Thylmann
 There are two outlooks here, the long-term one about annual in- and outflows that make up the organisations activities over years and the short-term ones associated with current transactions. Maintaining a balance between those two is important for an organisation.
 
 
-
+&lt;!-- more --&gt;
 
 
 To interpret financial statement they have to be received first and some companies need to publish financial results, e.g. publicly traded ones. You should read the data, draw your first conclusions and then calculate some ratios (ROCE, ROI, asset turnover, return on sales, current, liquidity, stock turnover, debtors and creditors turnover,). Outside parties could use these statements to assess creditworthiness as it gives clue to its ability to survive and grow. Internal data can be analysed in the same way and remember that external documents are under review to see if bad sides cannot be hidden in compliance with governing body's laws.

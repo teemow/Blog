@@ -17,10 +17,10 @@ Ormigo is the name of our company we are currently setting up by the way, but yo
 
 (Update: That person seems to have searched for some subjects, probably dropped by one of Henning's posts, then searched on OpenBC, found the company name, ... :))
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/OpenBC&quot;&gt;OpenBC&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ormigo&quot;&gt;Ormigo&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Quotatis&quot;&gt;Quotatis&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

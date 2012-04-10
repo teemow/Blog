@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;save the world&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/651436_c50fc7ac46.jpg&quot; alt=&quot;save the world&quot;&gt;](http://www.flickr.com/photos/oliver/651436/)
+[ title=&quot;save the world&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/651436_c50fc7ac46.jpg&quot; alt=&quot;save the world&quot;&gt;](http://www.flickr.com/photos/oliver/651436/)&lt;p&gt;&lt;/p&gt;
 
 

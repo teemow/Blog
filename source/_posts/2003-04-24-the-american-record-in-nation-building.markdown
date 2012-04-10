@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-&lt;a title=&quot;Carnegie Endowment&quot; href=&quot;http://www.ceip.org/files/Publications/2003-04-11-peipolicybrief.asp?from=pubtitle&quot;&gt;The American Record in Nation-Building  is a report by the Carnegie Endowment for Internaltion Peace. I haven't read more than the Executive Summary yet, but it sounds like something interesting.
+&lt;a title=&quot;Carnegie Endowment&quot; href=&quot;http://www.ceip.org/files/Publications/2003-04-11-peipolicybrief.asp?from=pubtitle&quot;&gt;The American Record in Nation-Building &lt;/a&gt; is a report by the Carnegie Endowment for Internaltion Peace. I haven't read more than the Executive Summary yet, but it sounds like something interesting.
 
 Oh... I'm back from my holiday. More later.
 

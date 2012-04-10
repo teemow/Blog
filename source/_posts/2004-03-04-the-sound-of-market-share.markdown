@@ -12,7 +12,7 @@ The last three of Joi's post have hit the cord of wireless and warrant mentionin
 
 Sometimes you just read something fun, as this entry from [Joi](http://joi.ito.com/):
 
-*When I was traveling in Europe this trip, I heard the default ringtone of the Nokia 6600 everywhere I went and it was confusing because I always thought it was my phone. I mentioned this to someone and they said, &quot;that's the sound of market share.&quot; ;-)*
+&lt;I&gt;When I was traveling in Europe this trip, I heard the default ringtone of the Nokia 6600 everywhere I went and it was confusing because I always thought it was my phone. I mentioned this to someone and they said, &quot;that's the sound of market share.&quot; ;-)&lt;/I&gt;
 
 Then there is the  [South Korean Company that has sacked 161 employees via SMS](http://joi.ito.com/archives/2004/03/04/sacked_by_sms.html). 
 

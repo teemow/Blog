@@ -17,7 +17,7 @@ I have been wondering how they do it for some time. The thing is that I can easi
 
 There is one other solution though, which seems to gain credibility through [this post](http://www.webbythoughts.com/66/google-adsense-click-reporting-oddity/) on Webby Thoughts.
 
-*It makes me wonder whether Google has algorithms in place to notice when certain posts get traffic spikes and consider a higher percentage of those clicks as invalid clicks. *
+&lt;em&gt;It makes me wonder whether Google has algorithms in place to notice when certain posts get traffic spikes and consider a higher percentage of those clicks as invalid clicks. &lt;/em&gt;
 
 That is exactly the thing and the only thing how this can work. They will just monitor traffic over the entire network and they for one know that distribution of ads and distribution of content will remain relatively stable, so if something spikes in the distribution curve then they will presume it to be fraud and remove the spike. That seems what has happened in the above case.
 

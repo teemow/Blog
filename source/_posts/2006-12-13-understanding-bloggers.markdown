@@ -18,7 +18,7 @@ I remember that when chatting with [FranÃ§ois Bayrou](http://en.wikipedia.org/
 
 And beyond that, just read David Weinbergers [summary](http://www.hyperorg.com/blogger/mtarchive/leweb_sarkousi_conservative_ca.html) of the monologue of Mr. Sarkozy. As David says, he is contradicting himself every step of the way. I love this bit.
 
-&lt;font size=&quot;2&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; color=&quot;#330000&quot;&gt;Let us make the new Internet continent the continent of new liberties, that includes rather than excludes. Let us make the Internet continent of the transmission of knowledge, and not the transmission of lies. The continent of sharing of cultures, not of the leveling of values. [*Wow. Does he know he's contradicting himself sentence after sentence?*]&lt;/font&gt;
+&lt;font size=&quot;2&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; color=&quot;#330000&quot;&gt;Let us make the new Internet continent the continent of new liberties, that includes rather than excludes. Let us make the Internet continent of the transmission of knowledge, and not the transmission of lies. The continent of sharing of cultures, not of the leveling of values. [&lt;em&gt;Wow. Does he know he's contradicting himself sentence after sentence?&lt;/em&gt;]&lt;/font&gt;
 
 Wow. All very strange.Â Â  Â  &lt;a href=&quot;http://en.wikipedia.org/wiki/Nicolas_Sarkozy&quot; /&gt;
 

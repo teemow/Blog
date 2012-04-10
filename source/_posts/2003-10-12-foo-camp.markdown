@@ -8,9 +8,9 @@ author: Oliver Thylmann
 ---
 
 
-Some days ago I started to find out that some people on my reading list are going to a camp. Now I know which one: &lt;a title=&quot;HomePage&quot; href=&quot;http://wiki.oreillynet.com/foo-camp/csp?HomePage&quot;&gt;Foo Camp, organised by O'Reilly.
+Some days ago I started to find out that some people on my reading list are going to a camp. Now I know which one: &lt;a title=&quot;HomePage&quot; href=&quot;http://wiki.oreillynet.com/foo-camp/csp?HomePage&quot;&gt;Foo Camp&lt;/a&gt;, organised by O'Reilly.
 
-*We've invited about 200 people who're doing interesting work in fields such as wireless, web services, open source programming, GPS, and all manner of emerging technologies to share their work-in-progess, show off the latest tech toys and hardware hacks, and tackle challenging problems together. *
+&lt;I&gt;We've invited about 200 people who're doing interesting work in fields such as wireless, web services, open source programming, GPS, and all manner of emerging technologies to share their work-in-progess, show off the latest tech toys and hardware hacks, and tackle challenging problems together. &lt;/I&gt;
 
 [This will be a wiki to watch.](http://wiki.oreillynet.com/foo-camp/csp?HomePage)
 

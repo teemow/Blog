@@ -18,7 +18,7 @@ author: Oliver Thylmann
 
 
 We have a start-up in town and it's called [Shoppero](http://shoppero.com/). The general idea of a user driven review system, sharing the revenue with the users, allowing widgets to be placed on web sites with your review, ... all that is good and I can see this thing succeed to some extent. The problem is that it is (was?) way over-hyped. We all know that [Nico](http://lumma.de/) is very optimistic about the future and with [Jens Kunath](http://www.jenskunath.eu/) joining in, things are sure to get hot in the current investment climate. Underpromise and Overdeliver guys.
-In times such as these, it is no failure to fall short of realizing all that we might dream, - the failure is to fall short of dreaming all that we might realize. We must try. - Dee Hock
+&lt;blockquote&gt;In times such as these, it is no failure to fall short of realizing all that we might dream, - the failure is to fall short of dreaming all that we might realize. We must try. - Dee Hock&lt;/blockquote&gt;
 They are going in the right direction, even though we already hear of all the problems, first and foremost huge holes in the platform. Werblogger [wrote](http://www.werbeblogger.de/2007/05/04/der-shoppero-schocker/) some things together and also pointed to [this post](http://blog.thinkphp.de/archives/215-shoppero.com-gleich-erstes-Opfer-von-Second-Order-XSS-Attacks.html) on thinkphp about the big XSS hacks. Werblogger also pointed to the problem of the general rules of the platform, but Nico already [corrected the point](http://blog.shoppero.com/?p=5) that they will not use your email for spamming. Didn't expect that and I know that you will write your rules a bit more carefully if you are in a hurry.
 
 But they need to be fast, because the platform is fairly simple to build. Hell, they did it in 6 weeks for a first release. Signing up you will get an Amazon aStore for example, but that is very easy to build and it [took me a few minutes](http://astore.amazon.de/oliverthylman-21) (store in german for now). Of course they will connect more affiliate systems but Amazon is really working on having almost everything available, so you are mostly fine there. And if you are big enough to turn any meaningful revenue for other stuff, you can do that too. Of course, this is long tail, but as said, this thing could work.
@@ -40,6 +40,6 @@ As a summary. I think for special niche blogs or for pages with reviews, Shopper
 Good luck with your start-up, it's interesting times.
 
 Update: There are other things than only monetary reward for using a system. This is something that Shoppero can play, because they are the nice guys. One of their biggest benefits that is. :)
-
+&lt;pre&gt;&lt;/pre&gt;
 
 

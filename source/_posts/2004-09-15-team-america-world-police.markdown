@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-You could also say [Thunderbirds](http://www.imdb.com/title/tt0057790/) are back! The makers of South Park are coming out with a new movie. Check out the Trailer: &lt;a title=&quot;Team America&quot; href=&quot;http://www.apple.com/trailers/paramount/team_america/large.html&quot;&gt;Team America: World Police
+You could also say [Thunderbirds](http://www.imdb.com/title/tt0057790/) are back! The makers of South Park are coming out with a new movie. Check out the Trailer: &lt;a title=&quot;Team America&quot; href=&quot;http://www.apple.com/trailers/paramount/team_america/large.html&quot;&gt;Team America: World Police&lt;/a&gt;
 
 

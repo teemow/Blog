@@ -12,7 +12,7 @@ Ok, I made the move, even though [Nico](http://www.lumma.de/) from [Blogg.de](ht
  everything ;)
 
 
-
+&lt;!-- more --&gt;
 
 
 But anyway. For the sake of simplicity and to not have to worry about updates and everything, I opted to move all my stuff from MovableType to TypePad, with my Homepage currently building up at [oliver.thylmann.com](http://oliver.thylmann.com/). I am already feeling happy with TypePad even though I will likely have to make some suggestions in the next few weeks for improvements. At the moment you can only do moblogging to one blog or photo album for example. It works via a secret eMail I can send stuff to and it would be easy (I believe) to allow me to have 3 of those eMails.

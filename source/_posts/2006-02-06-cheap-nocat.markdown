@@ -15,10 +15,10 @@ Ejovi has a good post entitled [Community Internet?](http://www.ejovi.net/2006/0
 
 If you put your mind to it, this can be an interesting methodology in a lot of places. Great thoughts.
 
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ejovi&quot;&gt;Ejovi&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/FON&quot;&gt;FON&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Harlem&quot;&gt;Harlem&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/nocat&quot;&gt;nocat&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/WiFi&quot;&gt;WiFi &lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

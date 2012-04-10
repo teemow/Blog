@@ -26,10 +26,10 @@ The most interesting part is that &quot;The ad network will be commoditized over
 They are also expanding to print, radio, TV and direct mails, which is just logical and was to be expected. I am really expecting a lot of door opening from Google here. They are also moving more into landing page quality, which I presume they will do with the quality score and similar efforts, taking into account conversions in rankings.
 
 The mention of new ad formats is interesting and I do know the power that brings from having developed the platform at [Ligatus](http://www.ligatus.de/). The problem with all of that is that to support different ad platforms you need to have the required input. Having the distributed over an entire network that you don't manage yourself, might get interesting, especially in the optimization itself. If a selected campaign performs very well but doesn't have the required ad type, then it cannot run under that ad type and the performance is not important anymore. I am looking forward to seeing some more innovation on the market out there in that respect. Yahoo! is actually doing well in terms of adding images to their ads based on a topic fitting image search over their network of images. Nice solution there.
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/AdSense&quot;&gt;AdSense&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Advertising&quot;&gt;Advertising&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/eCPM&quot;&gt;eCPM&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ligatus&quot;&gt;Ligatus&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Optimization&quot;&gt;Optimization&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ormigo&quot;&gt;Ormigo&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Performance%20Maketing&quot;&gt;Performance Maketing&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

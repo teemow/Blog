@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 This was mailed to me and I have to admit that it makes you think...
 
-*Question 1:
+&lt;I&gt;Question 1:
 If you knew a woman who was pregnant, who had 8 kids already, three who were
 deaf, two who were blind, one mentally retarded, and she had syphilis, would
 you recommend that she have an abortion?
@@ -35,23 +35,23 @@ drinks an occasional beer and never cheated on his wife.
 Which of these candidates would be your choice
 
 Decide first, no peeking, then scroll down for the answer.
-*
+&lt;/I&gt;
 
 The answer follows...
 
 
-
+&lt;!-- more --&gt;
 
 
 ... So here are the candidates.
 
-*Candidate A is Franklin D. Roosevelt.
+&lt;I&gt;Candidate A is Franklin D. Roosevelt.
 
 Candidate B is Winston Churchill.
 
 Candidate C is Adolph Hitler.
 
 And, by the way, the answer to the abortion question:
-If you said yes, you just killed Beethoven. Pretty interesting isn't it? Makes a person think before judging someone.*
+If you said yes, you just killed Beethoven. Pretty interesting isn't it? Makes a person think before judging someone.&lt;/i&gt;
 
 

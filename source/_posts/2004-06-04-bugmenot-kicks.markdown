@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Tired of having to register to read an article somewhere? The end is near: &lt;a title=&quot;BugMeNot.com&quot; href=&quot;http://www.bugmenot.com/&quot;&gt;BugMeNot.com :)
+Tired of having to register to read an article somewhere? The end is near: &lt;a title=&quot;BugMeNot.com&quot; href=&quot;http://www.bugmenot.com/&quot;&gt;BugMeNot.com&lt;/a&gt; :)
 
 

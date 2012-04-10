@@ -31,7 +31,7 @@ He held a speech in front of lots of CEOs which he called idiots it seems. He co
 16. Tolerate less than Excellence, do not insist upon &quot;Experiences that make me 'Gasp.'&quot;
 17. Deliver more on Short-term Earnings rather than Long-term Yearnings. 
 18. FAIL TO INSPIRE ME BY THE AUDACITY OF THEIR DREAMS. (Too much: &quot;Dream&quot; = &quot;Buy MarketShare, Get BIGGER, Cut Costs.&quot;)
-
+&lt;/blockquote&gt;
 
 The full post is [here](http://www.tompeters.com/entries.php?rss=1&amp;note=http://www.tompeters.com/blogs/main/007341.php).
 

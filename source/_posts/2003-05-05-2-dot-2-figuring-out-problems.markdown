@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This booklet includes two case studies.
 
 
-
+&lt;!-- more --&gt;
 
 
 A: The wrong number planning problem

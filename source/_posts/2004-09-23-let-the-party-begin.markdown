@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;let the party begin&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/542469_a3d4f405ae.jpg&quot; alt=&quot;let the party begin&quot;&gt;](http://www.flickr.com/photos/oliver/542469/)
+[ title=&quot;let the party begin&quot;&gt;&lt;img src=&quot;http://www.flickr.com/photos/542469_a3d4f405ae.jpg&quot; alt=&quot;let the party begin&quot;&gt;](http://www.flickr.com/photos/oliver/542469/)&lt;p&gt;&lt;/p&gt;
 
 

@@ -8,10 +8,10 @@ author: Oliver Thylmann
 ---
 
 
-&lt;a title=&quot;lonely&quot; href=&quot;http://www.flickr.com/photos/oliver/1585866/&quot;&gt;&lt;img alt=&quot;lonely&quot; src=&quot;http://www.flickr.com/photos/1585866_99c313c60d_m.jpg&quot; /&gt;
+&lt;p&gt;&lt;a title=&quot;lonely&quot; href=&quot;http://www.flickr.com/photos/oliver/1585866/&quot;&gt;&lt;img alt=&quot;lonely&quot; src=&quot;http://www.flickr.com/photos/1585866_99c313c60d_m.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-People shouldn't be alone on a trainstation on a saturday morning! PERIOD!
+&lt;p&gt;People shouldn't be alone on a trainstation on a saturday morning! PERIOD!&lt;/p&gt;
 
-
+&lt;p&gt;&lt;/p&gt;
 
 

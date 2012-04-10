@@ -11,7 +11,7 @@ author: Oliver Thylmann
 (Originally published on infoSync) Back in the day, your phone would ring, and the tone would be so annoying that you just had to notice it and pick up the phone. That&amp;rsquo;s how it went, and for many, that&amp;rsquo;s how it was supposed to be. There were many people out there who changed their ring tones frequently to have one that fit their style - but whichever one they chose, a phone sounded like a phone.
 
 
-
+&lt;!-- more --&gt;
 
 
 Recently, I received a new phone to play with, the Samsung SGH-T100 (a review will follow shortly), which is my second phone with support for polyphonic ring tones. The first one was the NEC N21i, the only phone available for the German I-mode service by E-Plus. As a short reminder, polyphony support means that a phone can play more than one chord at the same time, which commonly ranges from 4 to up to 64 chords, dependant on the engine available within the phone. Another factor is the quality of the speaker of the phone, seeing as how a poor speaker results in poor sound no matter how many notes you play at the same time.

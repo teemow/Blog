@@ -27,7 +27,7 @@ The general idea is that at the top of the curve, the hype around something is a
 
 So one big part of all of this is Web 2.0. Social Network Analysis is obviously one thing and I have to agree that with reasonably big sets of data, this can get really interesting. Ajax is the second item on their list and they also see a lot of potential there, but I like this part:
 
-*High levels of impact and business value can only be achieved when the development process encompasses innovations in usability and reliance on complementary server-side processing (as is done in Google Maps).*
+&lt;em&gt;High levels of impact and business value can only be achieved when the development process encompasses innovations in usability and reliance on complementary server-side processing (as is done in Google Maps).&lt;/em&gt;
 
 One thing that is also important here is that with the current hype around frameworks and splitting code in a Model-View-Controller fashion again, the general way of working with JavaScript is a real problem. A lot of controller parts are suddenly back in the view and you don't want that. Having been able to get some very good developers on board at [Ormigo](http://ormigo.com/), I am happy to say that we seem to have found a good solution though. [Timo](http://teemow.com/) has already [posted about it](http://cakebakery.de/2006/08/17/waschmittel-in-der-kuche/) on [Cake Bakery](http://cakebakery.de). What Timo and [Dirk](http://olbertz.de/) developed is a model-view-controller system for Ajax, with the help of things like JSON and [jQuery](http://jquery.com/). Our templates are now fully free of JavaScript and the entire Ajax Framework is being tested via Unit Tests. Of course there are still some rough edges but things are moving along nicely and we are thinking about putting the entire system on Google Code or something similar in the not too distant future.
 
@@ -35,21 +35,21 @@ Management Tip: Buy your coders all the books they want to read because there ar
 
 Collective Intelligence is another big term that Gartner throws around and boy do I believe it to be true. While we often think about speed to delivery, which might make a command control system more worthwhile, many people forget that software is more like art. There is not one way to do something, but a million and diversity of opinion might slow you down in the short term, but make you more agile in the long term. Additionally, switching costs on the net are close to zero (in the absence of interlinking users for example and allowing for internal networks to build) and that means that the small things make a difference. These small things mean that you need collective intelligence to find them. You need to rely on your users and be able to adapt fast. Uncertainty is a big thing that management will have to deal with in the future. I'd like to quote somebody here:
 
-*People are not afraid of change. They fear the unknown. - Dick Brown, chairman CEO of EDS*
+&lt;em&gt;People are not afraid of change. They fear the unknown. - Dick Brown, chairman CEO of EDS&lt;/em&gt;
 
 With no clear view of what will happen next, the known will have to become that things are unclear. Change needs to become part of the development system. For that, you need the right people.
 
-*If you don't like change, you're going to like irrelevance even less. - General Eric Shinseki, Chief of Staff, U.S. Army*
+&lt;em&gt;If you don't like change, you're going to like irrelevance even less. - General Eric Shinseki, Chief of Staff, U.S. Army&lt;/em&gt;
 
 ;)
 
 Mashups are also mentioned but I believe their importance to be rated as moderate only because the idea of the mashup is so diverse. I sure as hell can host my static files on Amazon S3, get Maps via Google, Geocode via a third party, score data via somebody else and ... . You get the idea. That's a mashup if you want.
 
 All in all, the future is continuing to be interesting, but I am repeating myself.
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ajax&quot;&gt;Ajax&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Change&quot;&gt;Change&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Collective%20Intelligence&quot;&gt;Collective Intelligence&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Gartner&quot;&gt;Gartner&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Mashups&quot;&gt;Mashups&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Uncertainty&quot;&gt;Uncertainty&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Web%202.0&quot;&gt;Web 2.0&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

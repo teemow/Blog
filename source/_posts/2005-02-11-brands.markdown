@@ -8,49 +8,49 @@ author: Oliver Thylmann
 ---
 
 
-(comment: As originally posted on the OUBS Blog)
+&lt;p&gt;(comment: As originally posted on the OUBS Blog)&lt;/p&gt;
 
-&quot;In the future the brand will be the most important asset of the firm.&quot; - Jean Noel Kapferer (1992)
+&lt;p&gt;&quot;In the future the brand will be the most important asset of the firm.&quot; - Jean Noel Kapferer (1992)&lt;/p&gt;
 
-Brands can take many forms, from FMCG to pop stars and places. They make the ware stand out in functional performance and psycho-social emotions. The ware is augmented, featuring tangible and intangible assets. When these are unique and relevant they can have a powerful influence on customer's choice.
+&lt;p&gt;Brands can take many forms, from FMCG to pop stars and places. They make the ware stand out in functional performance and psycho-social emotions. The ware is augmented, featuring tangible and intangible assets. When these are unique and relevant they can have a powerful influence on customer's choice.&lt;/p&gt;
 
-As brands are a lot less easy to copy, the provide a lot of strategic value to companies. Good brands lead to potential for premium prices, more bargaining power in the value chain and more customer loyalty. Brands help leverage resources and makes them unique, very important in the resource based view of strategy.
+&lt;p&gt;As brands are a lot less easy to copy, the provide a lot of strategic value to companies. Good brands lead to potential for premium prices, more bargaining power in the value chain and more customer loyalty. Brands help leverage resources and makes them unique, very important in the resource based view of strategy.&lt;/p&gt;
 
-There are different forms of knowledge needed for managing a brand.
-&lt;img width=&quot;512&quot; vspace=&quot;4&quot; hspace=&quot;4&quot; height=&quot;253&quot; border=&quot;1&quot; align=&quot;middle&quot; alt=&quot;Brand-Knowledge&quot; src=&quot;http://owt.typepad.com/oubs/images/Brand-Knowledge.jpg&quot; /&gt;
+&lt;p&gt;There are different forms of knowledge needed for managing a brand.
+&lt;img width=&quot;512&quot; vspace=&quot;4&quot; hspace=&quot;4&quot; height=&quot;253&quot; border=&quot;1&quot; align=&quot;middle&quot; alt=&quot;Brand-Knowledge&quot; src=&quot;http://owt.typepad.com/oubs/images/Brand-Knowledge.jpg&quot; /&gt;&lt;/p&gt;
 
-This does show the idea that brand management is about applied knowledge management. You need to manage knowledge at the:
+&lt;p&gt;This does show the idea that brand management is about applied knowledge management. You need to manage knowledge at the:
 - customer level: needs, wants, ... knowing and exceeding them
 - intra-organizational level: understanding and consensus among staff about the brand
-- inter-organizational level: all stakeholders that have influence on the brand
+- inter-organizational level: all stakeholders that have influence on the brand&lt;/p&gt;
 
-Then there is the customer level: You cannot control but influence how customers make sense of your messages. Using communication and ICT is key here. There are several levels of communication:
+&lt;p&gt;Then there is the customer level: You cannot control but influence how customers make sense of your messages. Using communication and ICT is key here. There are several levels of communication:&lt;/p&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Traditional Communication: Change attitudes through planned messages. Assumes a passive recipient.&lt;/li&gt;
+&lt;li&gt;Integrated Communication: controlling and coordinating multiple flows of information; more personalized messages; does not believe in shared attitudes of all customers; critical recipient.&lt;/li&gt;
+&lt;li&gt;Value Added Communication: Coordinating multiple sources and giving the customers information when, where and how they choose to want it; interactive communication; building relationships&lt;/li&gt;
+&lt;/ul&gt;
 
-* Traditional Communication: Change attitudes through planned messages. Assumes a passive recipient.
-* Integrated Communication: controlling and coordinating multiple flows of information; more personalized messages; does not believe in shared attitudes of all customers; critical recipient.
-* Value Added Communication: Coordinating multiple sources and giving the customers information when, where and how they choose to want it; interactive communication; building relationships
+&lt;p&gt;Distributors often know a lot more about the customer than manufacturers, but they might be willing to share that EPOS and loyalty card data. Consumer to consumer interaction is also rising, moving the power back to the individual. It goes as far as the buyer becoming the advertiser by announcing  their will to buy (Schultz 1996)&lt;/p&gt;
 
+&lt;p&gt;A company needs to understand the purchase decision process and be available at the right steps. Managing the brand internally is important as brands can be linked to living entities who start their lives internally. Employees that know the brand value are more likely to deliver that value externally. If you want to be seen as innovative you need to foster an innovative spirit internally. Everybody needs to know and feel that in advance of outside communication.&lt;/p&gt;
 
-Distributors often know a lot more about the customer than manufacturers, but they might be willing to share that EPOS and loyalty card data. Consumer to consumer interaction is also rising, moving the power back to the individual. It goes as far as the buyer becoming the advertiser by announcing  their will to buy (Schultz 1996)
+&lt;p&gt;All this then needs to be extended to other (external) stakeholders that the company might interact with, meaning that you need shared knowledge and communication channel going over the corporate boundaries.&lt;/p&gt;
 
-A company needs to understand the purchase decision process and be available at the right steps. Managing the brand internally is important as brands can be linked to living entities who start their lives internally. Employees that know the brand value are more likely to deliver that value externally. If you want to be seen as innovative you need to foster an innovative spirit internally. Everybody needs to know and feel that in advance of outside communication.
+&lt;p&gt;&lt;strong&gt;Managing Knowledge and Brand Creation&lt;/strong&gt;&lt;/p&gt;
 
-All this then needs to be extended to other (external) stakeholders that the company might interact with, meaning that you need shared knowledge and communication channel going over the corporate boundaries.
-
-**Managing Knowledge and Brand Creation**
-
-It's about communication, functional and emotional. Strong relationships build on:
+&lt;p&gt;It's about communication, functional and emotional. Strong relationships build on:
 - honesty
 - trustworthiness
 - reliability
-- predictability
+- predictability&lt;/p&gt;
 
-You need to understand the beliefs and value systems of the company. &quot;Information becomes knowledge when it is interpreted [...] 'truth', 'goodness' and 'beauty' are in the eye of the beholder.&quot; - Nonaka et al.
+&lt;p&gt;You need to understand the beliefs and value systems of the company. &quot;Information becomes knowledge when it is interpreted [...] 'truth', 'goodness' and 'beauty' are in the eye of the beholder.&quot; - Nonaka et al.&lt;/p&gt;
 
-Nonaka's SECI Model can be helpful here as brand knowledge is just a special form of knowledge. Based on epistemological pluralism there are a lot of ways to know things and all facets play a role in brand knowledge.
+&lt;p&gt;Nonaka's SECI Model can be helpful here as brand knowledge is just a special form of knowledge. Based on epistemological pluralism there are a lot of ways to know things and all facets play a role in brand knowledge.&lt;/p&gt;
 
-A brand can be seen as:
+&lt;p&gt;A brand can be seen as:
 - a legal instrument
 - a logo (but it is not something to do to consumers but something they do things with)
 - a company (gives a coherent focus)
@@ -59,92 +59,92 @@ here you look at the brand's values, create a vision from that and then move to 
 - an image in consumers' minds (facing the challenge of consumers' perception)
 - as a personality to go beyond copyable functional advantages
 - as a relationship to further extend the personification
-- as a cluster of values
+- as a cluster of values&lt;/p&gt;
 
-**Managing knowledge in different brand contexts**
+&lt;p&gt;&lt;strong&gt;Managing knowledge in different brand contexts&lt;/strong&gt;&lt;/p&gt;
 
-So we need to manage different kinds of knowledge at three levels. But now we look at the different contexts.
+&lt;p&gt;So we need to manage different kinds of knowledge at three levels. But now we look at the different contexts.&lt;/p&gt;
 
-*A: Consumer Brands*
+&lt;p&gt;&lt;em&gt;A: Consumer Brands&lt;/em&gt;&lt;/p&gt;
 
-Consumers go through similar decision processes all the time and brands help them in their search and evaluation work. For one there is the topology of the buying process:
+&lt;p&gt;Consumers go through similar decision processes all the time and brands help them in their search and evaluation work. For one there is the topology of the buying process:&lt;/p&gt;
 
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Extended problem solving happens when there is high consumer involvement and significant perceived brand difference. You move through: Problem recognition -&gt; Information Search -&gt; Evaluation of alternatives -&gt; Purchase -&gt; Post purchase evaluation (Solomon et al. 1999)
+With these kind of products consumers likely use a lot of different channels and you need to make sure that you are presenting a consistent message over all those channels.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dissonance reduction is needed with high involvement but little brand difference. Advice by friends or others gain more importance and people are generally unsure of their purchase after the fact. This leads to the following process: Problem recognition -&gt; Purchase decision made -&gt; Brands then evaluated -&gt; Brand beliefs formed by active learning and information search&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-* Extended problem solving happens when there is high consumer involvement and significant perceived brand difference. You move through: Problem recognition -&gt; Information Search -&gt; Evaluation of alternatives -&gt; Purchase -&gt; Post purchase evaluation (Solomon et al. 1999)
-With these kind of products consumers likely use a lot of different channels and you need to make sure that you are presenting a consistent message over all those channels.
-* Dissonance reduction is needed with high involvement but little brand difference. Advice by friends or others gain more importance and people are generally unsure of their purchase after the fact. This leads to the following process: Problem recognition -&gt; Purchase decision made -&gt; Brands then evaluated -&gt; Brand beliefs formed by active learning and information search
+&lt;p&gt;In this case you need brand re-assurers reducing the perceived risk of choosing the wrong thing.&lt;/p&gt;
 
+&lt;ol&gt;
+&lt;li&gt;Limited problem solving no matter what the involvement means that the cost of information search and evaluation is seen as too high. You go through the following process: Problem recognition -&gt; Brand beliefs formed from passive learning recalled from memory -&gt; Purchase made -&gt; Brands may or may not be evaluated afterwards.&lt;/li&gt;
+&lt;/ol&gt;
 
-In this case you need brand re-assurers reducing the perceived risk of choosing the wrong thing.
+&lt;p&gt;Here you need to make sure that your brand is in stock at the POS, keep things simple and keep the brand at the top of the consumer's head through advertising.&lt;/p&gt;
 
+&lt;p&gt;This brings us to the idea of brand loyalty; meaning that consumers remove the effort of search and evaluation by sticking to one brand. You need to understand the consumer and try to get into their repertoire of brands. A relationship helps here and all staff need to be aware of this and the importance of a consistent communication of build the brand.&lt;/p&gt;
 
-* Limited problem solving no matter what the involvement means that the cost of information search and evaluation is seen as too high. You go through the following process: Problem recognition -&gt; Brand beliefs formed from passive learning recalled from memory -&gt; Purchase made -&gt; Brands may or may not be evaluated afterwards.
+&lt;p&gt;This also means a company cannot misuse the information at there disposal in relation to consumers needs and wants. Consumers need to feel that they get value for the information they gave.&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;B: B2B Brands&lt;/em&gt;&lt;/p&gt;
 
-Here you need to make sure that your brand is in stock at the POS, keep things simple and keep the brand at the top of the consumer's head through advertising.
+&lt;p&gt;In B2B markets the specification between brands will be similar but some can maintain a higher market share and premium prices, which is linked to the perception of superior value. You need to look at the multiple facts that provide value to the perceiver/customer. The value to the customer depends on the transaction as a whole, shown through the pinwheel of brand value (Mudambi et al, 1997). It has several different facets:&lt;/p&gt;
 
-This brings us to the idea of brand loyalty; meaning that consumers remove the effort of search and evaluation by sticking to one brand. You need to understand the consumer and try to get into their repertoire of brands. A relationship helps here and all staff need to be aware of this and the importance of a consistent communication of build the brand.
-
-This also means a company cannot misuse the information at there disposal in relation to consumers needs and wants. Consumers need to feel that they get value for the information they gave.
-
-*B: B2B Brands*
-
-In B2B markets the specification between brands will be similar but some can maintain a higher market share and premium prices, which is linked to the perception of superior value. You need to look at the multiple facts that provide value to the perceiver/customer. The value to the customer depends on the transaction as a whole, shown through the pinwheel of brand value (Mudambi et al, 1997). It has several different facets:
-
-Product performance:
+&lt;p&gt;Product performance:
 - Tangible: Fit, Defects
-- Intangible: Reliable, highly technological
+- Intangible: Reliable, highly technological&lt;/p&gt;
 
-Distribution performance:
+&lt;p&gt;Distribution performance:
 - Tangible: lead time, JIT, online ordering
-- Intangible: reliable, hassle free
+- Intangible: reliable, hassle free&lt;/p&gt;
 
-Support Services performance
+&lt;p&gt;Support Services performance
 - Tangible: range of services
-- Intangible: expertise, rapport
+- Intangible: expertise, rapport&lt;/p&gt;
 
-Company performance (as a whole):
+&lt;p&gt;Company performance (as a whole):
 - Tangible: profitability, market share
-- Intangible: Reputation, image
+- Intangible: Reputation, image&lt;/p&gt;
 
-The most successful B2B brands have a well balanced pinwheel.
+&lt;p&gt;The most successful B2B brands have a well balanced pinwheel.&lt;/p&gt;
 
-You can enhance the value of your brand through building relationships with others. This is most favorable if there is little risk involved but a potential high value added in terms of brand value transfer. While the functional capabilities might fit you should also look at the emotional values. Here you can look at Schein's three layers manifesting culture and values:
+&lt;p&gt;You can enhance the value of your brand through building relationships with others. This is most favorable if there is little risk involved but a potential high value added in terms of brand value transfer. While the functional capabilities might fit you should also look at the emotional values. Here you can look at Schein's three layers manifesting culture and values:
 - artefacts
 - values
-- basic assumptions (mental models)
+- basic assumptions (mental models)&lt;/p&gt;
 
-*C: Service Brands*
+&lt;p&gt;&lt;em&gt;C: Service Brands&lt;/em&gt;&lt;/p&gt;
 
-Service brands are more based on the intra-organizational level because they rely more on people. You need to focus on knowledge management to deliver consistent high level of service. There are several distinctive characteristics:
+&lt;p&gt;Service brands are more based on the intra-organizational level because they rely more on people. You need to focus on knowledge management to deliver consistent high level of service. There are several distinctive characteristics:
 - Inseparability of production and consumption (you need to try to keep employees on one level, but obviously not at the lowest)
 - Intangibility, meaning difficulty of sharpness of differentiation (difficult to judge QOS before the fact)
 - Heterogeneity. They are difficult to standardize and might even have to be variable on a per customer basis. You need to build up a tacit knowledge and reinforce that internally.
-- Perishability as it cannot be stored
+- Perishability as it cannot be stored&lt;/p&gt;
 
-To execute the service brand strategy you need to remember that employees pay a larger role and open communication is needed to pull together all employees, making sure their efforts result in customer satisfaction and increased sales, which then feeds back to motivation through a job well done.
+&lt;p&gt;To execute the service brand strategy you need to remember that employees pay a larger role and open communication is needed to pull together all employees, making sure their efforts result in customer satisfaction and increased sales, which then feeds back to motivation through a job well done.&lt;/p&gt;
 
-**Brand Evaluation**
+&lt;p&gt;&lt;strong&gt;Brand Evaluation&lt;/strong&gt;&lt;/p&gt;
 
-You might need to know what your brands is worth. First you should look at the stages in your customer decision processes and evaluate how much value is created for you through your brand at each step.
+&lt;p&gt;You might need to know what your brands is worth. First you should look at the stages in your customer decision processes and evaluate how much value is created for you through your brand at each step.
 - Awareness: familiarity and unaided recall are measures here
 - Perception and Attitudes: here different attributes are ranked via different brands
 - Preference: What brand do you prefer, x or y?
 - Choice of intentions: Do you prefer but do not need the brand? It might be the best ice cream but it still doesn't sell as you don't want ice.
-- Actual choice
+- Actual choice&lt;/p&gt;
 
-Why should you evaluate brand value though?
+&lt;p&gt;Why should you evaluate brand value though?
 - To buy or sell a brand
 - To measure brand management effectiveness
 - To determine the appropriate level of future brand support.
 - To make financial forecasts
-- To identify underlying sources of brand value
+- To identify underlying sources of brand value&lt;/p&gt;
 
-Methods of measuring brands can be:
+&lt;p&gt;Methods of measuring brands can be:
 - price premium (focussed on the past)
 - market share
 - a combined price premium and market share, looking at the rise of the curve seeing how much your market share drops with increases in price. The steeper the better.
-- proprietary measures
+- proprietary measures&lt;/p&gt;
 
 
 

@@ -11,7 +11,7 @@ author: Oliver Thylmann
 I will drive stuff like this ...
 
 
-
+&lt;!-- more --&gt;
 
 
 &lt;img alt=&quot;tierpark.JPG&quot; src=&quot;http://www.ennead.de/blog/archives/tierpark.JPG&quot; width=&quot;640&quot; height=&quot;480&quot; border=&quot;0&quot; /&gt;

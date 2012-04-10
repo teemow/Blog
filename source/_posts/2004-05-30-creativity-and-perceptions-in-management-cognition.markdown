@@ -11,10 +11,10 @@ author: Oliver Thylmann
 Here we look at cognition in relation to creativity, how the brain works, intuitivity in management as well as the influence of beliefs.
 
 
+&lt;!-- more --&gt;
 
 
-
-**Tacit Knowledge**
+&lt;b&gt;Tacit Knowledge&lt;/b&gt;
 
 Some management educators are now acknoledging having neglected the unconscious know-how and local knowledge, that play a part in the innovative endavour. Intuitive, tacit ways of knowing are critical when working with less than clear situations. 
 
@@ -30,7 +30,7 @@ Based on studies, professionals often base decisions on hunch and intuition. The
 
 The important item here is that the unconscious is very important in learning, decision making and a lot of other things.
 
-*Intuitive Management*
+&lt;i&gt;Intuitive Management&lt;/i&gt;
 
 Studies show that managers spend very little time really planning. Even senior managers devote a large part of their time to the implementation rather than the formulation of strategy. Mintzberg (1976, 1994a) argues that management is normally about complex, ambiguous and uncertain situations which need more of simultaneous, relational and holistic kind of knowing, often placed in the right hemisphere. 
 
@@ -46,7 +46,7 @@ We have several judgement biases in general:
 - we tend to be overconfident with our own opinions
 - hindsight bias is about being more confident initially than we really are
 
-**Mind-Sets**
+&lt;b&gt;Mind-Sets&lt;/b&gt;
 
 We can't absorb everything arround us, which means we choose what to attend to, namely things that interest us and that fit our world view. Our understanding of the world is therefore partial. These relatively fixed ways of thinking are often referred to as mind-sets. We try to impose order on chaos, simplify complexity and make the inconsistent consistent. These mind-sets are conditioned by our past experiences and values. Unnecessary assumptions limite the range of possibilites we are considering. 
 

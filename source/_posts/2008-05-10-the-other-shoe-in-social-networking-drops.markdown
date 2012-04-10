@@ -15,11 +15,11 @@ author: Oliver Thylmann
 
 
 Things are really hotting up now in the social networking space and it goes in the right direction due to peer pressure. For the news I am talking about you can [read this Techcrunch piece](http://www.techcrunch.com/2008/05/09/threes-company-google-to-launch-friend-connect-on-monday/), but in short:
-
-	* MySpace launched Data Availability (see [Mashable](http://mashable.com/2008/05/08/breaking-myspace-announces-data-availability-with-yahoo-ebay-and-others/))
-	* Facebook answered with [Facebook Connect](http://developers.facebook.com/news.php?blog=1&amp;story=108)
-	* Google is coming with something they call &quot;Friend Connect&quot; on Monday as of Techcrunch
-
+&lt;ul&gt;
+	&lt;li&gt;MySpace launched Data Availability (see [Mashable](http://mashable.com/2008/05/08/breaking-myspace-announces-data-availability-with-yahoo-ebay-and-others/))&lt;/li&gt;
+	&lt;li&gt;Facebook answered with [Facebook Connect](http://developers.facebook.com/news.php?blog=1&amp;story=108)&lt;/li&gt;
+	&lt;li&gt;Google is coming with something they call &quot;Friend Connect&quot; on Monday as of Techcrunch&lt;/li&gt;
+&lt;/ul&gt;
 While this is not real [Data Portability](http://www.dataportability.org/) it is a good first step that has actually been a lot more likely. The race is now going full throttle in terms of who will be your identity provider on the internet, meaning everywhere in the long run.
 
 The basic idea is that you can use your MySpace/Facebook/Google information and give access to it on other sites. So I might register somewhere else and give it access to granular bits of my identity, giving the new service information about my friends, hobbies, most clicked ads, brand affinity, ... you name it. This will go a lot further than simply moving your friends around. Especially because this is only Data Availability (with all 3) not portability, so you are not moving anything around.

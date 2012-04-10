@@ -20,19 +20,19 @@ Ken posted about [Sling Media receiving big funding](http://web.corante.com/edit
 
 Take a few lines of the nerdy talk from the [Slingbox page](http://www.slingmedia.com/slingbox/).
 
-*Slingbox is powered by a high-performance digital signal processor from Texas Instruments, and leverages Microsoftâ€™s latest Windows Media Video technologies to provide superior video quality. Plus, our engineering dudes developed the SlingStream optimization algorithms that automatically adapt to changing network conditions. This means that we can give you the best video quality consistently, personalized to your connection.*
+&lt;em&gt;Slingbox is powered by a high-performance digital signal processor from Texas Instruments, and leverages Microsoftâ€™s latest Windows Media Video technologies to provide superior video quality. Plus, our engineering dudes developed the SlingStream optimization algorithms that automatically adapt to changing network conditions. This means that we can give you the best video quality consistently, personalized to your connection.&lt;/em&gt;
 
 Now you might want to take a look at the [Triple Play Video](http://videos.digital-lifestyle-day.com/index.php) from [DLD06](http://www.dld06.com/). Go. Especially watch Rainer Beaujean from T-Online.
 
 Ok, now after you watched this, let's take a look at what Adam Curry recently said in one of his Daily Source Code podcasts. The big thing with podcasting is that you remove two constraints. Frequence and time. Suddenly you have all the frequency your pipe can handle, and time is no issue anymore as you can record shows that are as long as you want, when you want,  and they can be listened whenever the listener feels like it. That is a HUGE shift.
 
-The same thing will be true with TV. You will suddenly not only have on demand download shows/films/series/...  on a pay model but also for standard advertising based shows. And you will get them via your broadband pipe, something that is already being developed as part of T-Vision. What Sling Media has created is a box that will allow people to get used to watching TV on a computer and with Apple possibly coming out with a big Mac Mini Plasma TV, this will be getting easier. Now read a small bit from above again: *[...] SlingStream optimization algorithms that automatically adapt to changing network conditions [...]*
+The same thing will be true with TV. You will suddenly not only have on demand download shows/films/series/...  on a pay model but also for standard advertising based shows. And you will get them via your broadband pipe, something that is already being developed as part of T-Vision. What Sling Media has created is a box that will allow people to get used to watching TV on a computer and with Apple possibly coming out with a big Mac Mini Plasma TV, this will be getting easier. Now read a small bit from above again: &lt;em&gt;[...] SlingStream optimization algorithms that automatically adapt to changing network conditions [...]&lt;/em&gt;
 
 With their solution already allowing you to watch your TV from on the road via a Microsoft Smartphone (in internal testing), there is no reason to not possibly use the entire technology to stream from a hosting facility to that device. Of course, they do save bandwidth the way they do it now, and with a TiVo you can watch what you recorded from anywhere. But in the future bandwidth costs will go fully towards zero, and that will not be a problem anymore. All in all, the solution is already big now, but with the disruption of the frequency play and removal of the option to time TV shows to be aired at the right time, Sling Media is very well positioned to play a huge part in the future of TV distribution, vodcasting if you want to use some weird term that might show where this is going.
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/broadcasting&quot;&gt;broadcasting&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/venture%20capital&quot;&gt;venture capital&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Sling%20Media&quot;&gt;Sling Media&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Slingbox&quot;&gt;Slingbox&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/streaming&quot;&gt;streaming&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/television&quot;&gt;television&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/video&quot;&gt;video&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/vodcasting&quot;&gt;vodcasting&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

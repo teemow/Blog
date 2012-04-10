@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Management control is largely monetary control but done to reach strategic goals. Improved management control can be a starting point for improving performance.
 
 
-
+&lt;!-- more --&gt;
 
 
 As a great deal of management control information is monetary it is important that you understand how this information was gathered as well as how it is shown. The wrong kinds of information can distort decision making. Different ways of allocating costs can lead to different decisions.

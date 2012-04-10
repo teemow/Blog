@@ -10,11 +10,11 @@ author: Oliver Thylmann
 
 Just read this on [Birdhouse](http://birdhouse.org/blog/archives/001049.php):
 
-*How much is $87 billion? For that amount of money, America could: 
+&lt;I&gt;How much is $87 billion? For that amount of money, America could: 
 Solve the school budget crisis in every one of our communities,
 OR
 Provide health insurance for every uninsured American child for 15 years,
 OR
-Provide food for all 6 million of the children who die from hunger around the world for 7 years.*
+Provide food for all 6 million of the children who die from hunger around the world for 7 years.&lt;/I&gt;
 
 

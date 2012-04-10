@@ -15,7 +15,7 @@ Marketing department marketing: All marketing activities (advertising, sales, ma
 Marketing as a Management process: Marketing as an exchange process/relationship. Marketing should help facilitate that mutually satisfying exchange.
 
 
-
+&lt;!-- more --&gt;
 
 
 &quot;Marketing consists of individual and organizational activities that facilitate and expedite satisfying exchange relationships in a dynamic environment through the creation, distribution, promotion and pricing of goods, services and ideas.&quot; Dibb et al, 1997

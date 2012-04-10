@@ -16,10 +16,10 @@ This sunday I read the [June Issue](http://mag1.olivesoftware.com/am/welcome/BSN
 For now, I am not sure we are bullet proof, but things are progressing nicely.
 
 On and by the way, the system above to read Business 2.0 online rocks. Thanks Loic for [the pointer](http://www.loiclemeur.com/english/2006/07/web2_european_s.html).
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Business%202.0&quot;&gt;Business 2.0&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Office&quot;&gt;Office&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Ormigo&quot;&gt;Ormigo&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/Startup&quot;&gt;Startup&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 
 

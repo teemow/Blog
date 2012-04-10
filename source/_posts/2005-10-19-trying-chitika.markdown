@@ -12,6 +12,6 @@ I tried [Chitika](https://chitika.com/mm_overview.php?refid=othylmann) for a few
 
 Ok, that was a lame excuse to post something, but I truely like Chitika, have heard lots of good stuff about them and if anyone wants to use me as a referral, then go right ahead. 
 
-**Update**: You can  still try it out, but I ended up using it very little and now they have gone to the obvious problem that they have a lot of clicks that are really not relevant. See more [here](http://www.jensense.com/archives/2005/11/eminimalls_ad_u.html).
+&lt;b&gt;Update&lt;/b&gt;: You can  still try it out, but I ended up using it very little and now they have gone to the obvious problem that they have a lot of clicks that are really not relevant. See more [here](http://www.jensense.com/archives/2005/11/eminimalls_ad_u.html).
 
 

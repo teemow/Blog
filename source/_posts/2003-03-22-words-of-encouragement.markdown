@@ -8,9 +8,9 @@ author: Oliver Thylmann
 ---
 
 
-I am copying this from &lt;a title=&quot;kuro5hin.org || A commander's words to his men&quot; href=&quot;http://www.kuro5hin.org/story/2003/3/20/95334/1309&quot;&gt;kuro5hin.org || A commander's words to his men. It's a speech given by Lieutenant Colonel Tim Collins to the 1st Battalion of the Royal Irish Regiment in relation to the war in Irak.
+I am copying this from &lt;a title=&quot;kuro5hin.org || A commander's words to his men&quot; href=&quot;http://www.kuro5hin.org/story/2003/3/20/95334/1309&quot;&gt;kuro5hin.org || A commander's words to his men&lt;/a&gt;. It's a speech given by Lieutenant Colonel Tim Collins to the 1st Battalion of the Royal Irish Regiment in relation to the war in Irak.
 
-*&quot;We go to liberate not to conquer. We will not fly our flags in their country.
+&lt;I&gt;&quot;We go to liberate not to conquer. We will not fly our flags in their country.
 We are entering Iraq to free a people and the only flag which will be flown in that ancient land is their own. Show respect for them.
 
 There are some who are alive at this moment who will not be alive shortly. Those who do not wish to go on that journey, we will not send.
@@ -27,6 +27,6 @@ Don't treat them as refugees for they are in their own country. Their children w
 
 If there are casualties of war then remember that when they woke up and got dressed in the morning they did not plan to die this day.
 
-Allow them dignity in death. Bury them properly and mark their graves.&quot;*
+Allow them dignity in death. Bury them properly and mark their graves.&quot;&lt;/I&gt;
 
 

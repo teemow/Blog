@@ -18,6 +18,6 @@ Ross just posted about [Socialtext raising Series B funding](http://ross.typepad
 
 ... will get 5 year long seats for Socialtext. :)
 
-He even adds a fun little line: *Our competitors could win as all that hard work has to pay off sometime and we want everyone to have better tools.* ... sounds like a very tongue in check comment about some other Wiki company ;) Good one. Congratulations Ross.
+He even adds a fun little line: &lt;I&gt;Our competitors could win as all that hard work has to pay off sometime and we want everyone to have better tools.&lt;/I&gt; ... sounds like a very tongue in check comment about some other Wiki company ;) Good one. Congratulations Ross.
 
 

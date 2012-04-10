@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/29/42047980_9a3de03ff0.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/42047980/)	[getting dark](http://www.flickr.com/photos/oliver/42047980/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/29/42047980_9a3de03ff0.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/42047980/)&lt;br /&gt;	[getting dark](http://www.flickr.com/photos/oliver/42047980/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	&lt;/p&gt;
 
 

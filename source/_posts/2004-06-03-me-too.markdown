@@ -8,5 +8,5 @@ author: Oliver Thylmann
 ---
 
 
-I have to agree with this one: &lt;a title=&quot;I hate Vi&quot; href=&quot;http://sundown.greyledge.net/pages/2004/03/i_hate_vi.html&quot;&gt;I hate Vi. It's really that simple. Whenever I install a unix machine vi ends up being the default and one of the first things I do is install pine with pico. Why? Because vi is a simple pain to use, especially if you use it only occasionally. I often end up just killing the ssh connection or something because I can't even close the damn text file because I ended up somewhere I shouldn't have!!! Grrr... So much for getting back into the blogging bit. Venting. Feels good. ;)
+I have to agree with this one: &lt;a title=&quot;I hate Vi&quot; href=&quot;http://sundown.greyledge.net/pages/2004/03/i_hate_vi.html&quot;&gt;I hate Vi&lt;/a&gt;. It's really that simple. Whenever I install a unix machine vi ends up being the default and one of the first things I do is install pine with pico. Why? Because vi is a simple pain to use, especially if you use it only occasionally. I often end up just killing the ssh connection or something because I can't even close the damn text file because I ended up somewhere I shouldn't have!!! Grrr... So much for getting back into the blogging bit. Venting. Feels good. ;)
 

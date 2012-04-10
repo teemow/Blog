@@ -16,6 +16,6 @@ The only people who will get around this, are people who are at T-Mobile and alr
 
 (Not that I don't have a monthly subscription for KVB and don't need a ticket but a geek is a geek.)
 
-Source (German): &lt;a title=&quot;KVB startet Handy-Ticket in Koeln (koeln.de)&quot; href=&quot;http://www.koeln.de/cms/artikel.php/107/19954/artikel.html&quot;&gt;KVB startet Handy-Ticket in Koeln (koeln.de).
+Source (German): &lt;a title=&quot;KVB startet Handy-Ticket in Koeln (koeln.de)&quot; href=&quot;http://www.koeln.de/cms/artikel.php/107/19954/artikel.html&quot;&gt;KVB startet Handy-Ticket in Koeln (koeln.de)&lt;/a&gt;.
 
 

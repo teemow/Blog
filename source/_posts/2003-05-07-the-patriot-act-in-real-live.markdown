@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-The following is a story on somebody being witness of what he called &quot;&lt;a title=&quot;t r u t h o u t - Patriot Raid&quot; href=&quot;http://truthout.org/docs_03/050403A.shtml&quot;&gt;Patriot Raid&quot;.
+The following is a story on somebody being witness of what he called &quot;&lt;a title=&quot;t r u t h o u t - Patriot Raid&quot; href=&quot;http://truthout.org/docs_03/050403A.shtml&quot;&gt;Patriot Raid&lt;/a&gt;&quot;.
 
 

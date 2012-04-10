@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-I just read over at [news.com](http://news.com/) that [Second Life](http://secondlife.com/) has just become &lt;a title=&quot;'Second Life' membership now free | CNET News.com&quot; href=&quot;http://news.com.com/Second Life membership now free/2100-1043_3-5855481.html?tag=nefd.top&quot;&gt;free for all. For all those not in the know, Second Life is a virtual world... a real world, just virtual.
+I just read over at [news.com](http://news.com/) that [Second Life](http://secondlife.com/) has just become &lt;a title=&quot;'Second Life' membership now free | CNET News.com&quot; href=&quot;http://news.com.com/Second Life membership now free/2100-1043_3-5855481.html?tag=nefd.top&quot;&gt;free for all&lt;/a&gt;. For all those not in the know, Second Life is a virtual world... a real world, just virtual.
 
 When they started out they also employed an economist to set up the economy within that world, the way of buying and trading stuff. Of course to buy things within Second Life you need to buy Lindenbucks. And Voila ... welcome Second Life the bank. Or rather Linden Labs the bank, as they run the place.
 

@@ -11,7 +11,7 @@ author: Oliver Thylmann
 IT systems will not make all the company internal information available. This means IT will not replace other means of exchanging information but just enhances it.
 
 
-
+&lt;!-- more --&gt;
 
 
 Information can most fittingly be defined as something that the receiver knows or would like to know.

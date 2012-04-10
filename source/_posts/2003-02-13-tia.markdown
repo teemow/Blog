@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Frank Boosman posted the old IAO (the US Information Awareness Office) and the new TIA (Total Information Awareness) logo to his &lt;a title=&quot;pseudorandom&quot; href=&quot;http://www.boosman.com/blog/2003_02_01_blogarchive.html#90316112&quot;&gt;pseudorandom blog. Interesting to see the two side by side. A quick search brings up their pages. The IAO site can be found [here](http://www.darpa.mil/iao/) and the objectives of TIA [here](http://www.darpa.mil/iao/TIASystems.htm). Cryptome has some [stuff](http://cryptome.org/tia-eyeball.htm) to read as well, which is likely the different side of the coin. Always good to keep stuff like this in the head.
+Frank Boosman posted the old IAO (the US Information Awareness Office) and the new TIA (Total Information Awareness) logo to his &lt;a title=&quot;pseudorandom&quot; href=&quot;http://www.boosman.com/blog/2003_02_01_blogarchive.html#90316112&quot;&gt;pseudorandom&lt;/a&gt; blog. Interesting to see the two side by side. A quick search brings up their pages. The IAO site can be found [here](http://www.darpa.mil/iao/) and the objectives of TIA [here](http://www.darpa.mil/iao/TIASystems.htm). Cryptome has some [stuff](http://cryptome.org/tia-eyeball.htm) to read as well, which is likely the different side of the coin. Always good to keep stuff like this in the head.
 
 

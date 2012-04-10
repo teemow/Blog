@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-So what would Engadget have looked like in 1985? Check it out: &lt;a title=&quot;Engadget 1985 - Engadget - www.engadget.com&quot; href=&quot;http://www.engadget.com/entry/1234000430055334/&quot;&gt;Engadget 1985.
+So what would Engadget have looked like in 1985? Check it out: &lt;a title=&quot;Engadget 1985 - Engadget - www.engadget.com&quot; href=&quot;http://www.engadget.com/entry/1234000430055334/&quot;&gt;Engadget 1985&lt;/a&gt;.
 
 

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "OSX on AMD?"
+date: 2002-04-07 19:19
+comments: true
+categories: Computers
+author: Oliver Thylmann
+---
+
+
+Seems that there are rumors out there that OSX might come to AMD Clawhammer CPUs.
+
+http://www.theinquirer.net/07040202.htm
+
+What I presume though is that Apple would require AMD to make a little tweak in their CPU so that it only runs on the CPUs given to Apple. Now I don't know if that is possible but it would sound like an interesting move.
+
+

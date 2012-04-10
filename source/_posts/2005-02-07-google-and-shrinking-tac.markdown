@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-Jeremy posted a question: &lt;a title=&quot;Google Hoarding the Pie?&quot; href=&quot;http://jeremy.zawodny.com/blog/archives/004137.html&quot;&gt;Google Hoarding the Pie?. The question posed there is why Google's TAC (Traffic Acquisition Costs) have gone down quarter over quarter and Jeremy wonders if the are slowly decreasing the unpublished revenue share given to standard AdSense users.
+Jeremy posted a question: &lt;a title=&quot;Google Hoarding the Pie?&quot; href=&quot;http://jeremy.zawodny.com/blog/archives/004137.html&quot;&gt;Google Hoarding the Pie?&lt;/a&gt;. The question posed there is why Google's TAC (Traffic Acquisition Costs) have gone down quarter over quarter and Jeremy wonders if the are slowly decreasing the unpublished revenue share given to standard AdSense users.
 
 I don't believe this to be the case. First of all, if you are one of the big publishers you will get a fixed and negotiable % share from Google. It's only the small AdSense sites that do not know what their share is and I presume that this has been left the same the entire time. The decrease of TAC as a % of Network Revenue likely comes from optimization work and lots of deals with fixed prices either per month or CPM based.
 

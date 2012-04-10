@@ -13,7 +13,7 @@ author: Oliver Thylmann
 For a company to survive, the cash flow from operations needs to be enough to cover all financial needs in the medium/long term. The cash flow statement shows the uses and sources of cash during a financial period. If it is not published, it can be calculated from the other statements.
 
 
-
+&lt;!-- more --&gt;
 
 
 The calculation of a cash flow statment serves three purposes:
@@ -38,7 +38,7 @@ The next item is tax payment, which is often done a lot later than the fiscal ye
 
 The next item is relating to dept, and normally interest and lease expenses can be taken from the income statement. In the previous year balance sheet you can normally find a &quot;current portion of long-term dept&quot;, which is the amount that the company would have needed to repay this year. 
 
-This brings us to the *discretionary cash flow*, which is the cash flow available after current operations and metting obligatory payments. The come some things the company can do. 
+This brings us to the &lt;i&gt;discretionary cash flow&lt;/i&gt;, which is the cash flow available after current operations and metting obligatory payments. The come some things the company can do. 
 
 First up on the list are dividends, where you again use those payable at the start of the period, plus declared during the period and still payable at the end. 
 
@@ -57,7 +57,7 @@ When forecasting you should take into account three different cash flows:
 
 If there isn't enough information available, you take Operating Profit and substract taxation to get NOPAT, which is also used a lot in replacement of free operating cash flow.
 
-**cash flow ratios
+&lt;b&gt;cash flow ratios&lt;/a&gt;
 
 These are used to look at the ratios between cash inflows and obligations. (NOPAT / interest paid) shows how well the interest payment was covered. You can then also add in other stuff lke current portion of long-term dept and leases (CPLTD&amp;L) and/or dividends. It really depends on what you want to calculate.
 

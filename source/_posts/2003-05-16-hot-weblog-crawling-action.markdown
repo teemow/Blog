@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-So how many blogs are there out there and what language are they in? Some interesting results in the &lt;a title=&quot;Weblog Crawl Report&quot; href=&quot;http://www.idlewords.com/crawler/crawl_report.pl&quot;&gt;Weblog Crawl Report.
+So how many blogs are there out there and what language are they in? Some interesting results in the &lt;a title=&quot;Weblog Crawl Report&quot; href=&quot;http://www.idlewords.com/crawler/crawl_report.pl&quot;&gt;Weblog Crawl Report&lt;/a&gt;.
 
 

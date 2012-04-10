@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Wired just had a story in their magazine called &quot;The Wired.40&quot;, which was about the masters of innovation, technology and strategic vision as they put it. The &quot;40 companies driving the global economy.&quot; What better place to look for the future investment? Actually, it would be better if nobody else knew about this list but that's not going to happen. These are all highly covered companies, that will not suddenly jumb up in price because some analysts find out about them. Still, if they are really about the future, then this is a good place to look. So here comes my analysis of this list. Read more.
 
 
-
+&lt;!-- more --&gt;
 
 
 1. Google
@@ -24,10 +24,10 @@ Huge, big, profitable, amazing business model, amazing pull through. But too lat
 Very good company, very focussed. I like it. But I just don't have a good feeling in my stomach. I don't see the amazing road ahead. A good one, but not amazing.
 
 4. Genentech
-I actually looked at that company when I was still active at Motley Fool, but then I figured that I didn't understand the drug market good enough to invest there. I opted for investing in Sal. Oppenheim's Pharma wHealth fund, which investing in the space and is run by Sal. Oppenheim together with several pharma consulting companies. I am starting to get more and more of an idea that Genentech really has found a very good model for research and development. Also, with a of below 100 and margins of almost 20%, they might be interesting. **To be looked at.**
+I actually looked at that company when I was still active at Motley Fool, but then I figured that I didn't understand the drug market good enough to invest there. I opted for investing in Sal. Oppenheim's Pharma wHealth fund, which investing in the space and is run by Sal. Oppenheim together with several pharma consulting companies. I am starting to get more and more of an idea that Genentech really has found a very good model for research and development. Also, with a of below 100 and margins of almost 20%, they might be interesting. &lt;b&gt;To be looked at.&lt;/b&gt;
 
 5. eBay
-Should have invested there ages ago. I still don't think they can grow tremendously. There is a great article in FastCompany this time about a consultant team working with them currently to find out what they are about. They have to find something new now to focus their employees and continue to grow. Simply being an auction platform isn't enough. They are opening their API now too though so that others can use their system. Now this excites me! **To be looked at.**
+Should have invested there ages ago. I still don't think they can grow tremendously. There is a great article in FastCompany this time about a consultant team working with them currently to find out what they are about. They have to find something new now to focus their employees and continue to grow. Simply being an auction platform isn't enough. They are opening their API now too though so that others can use their system. Now this excites me! &lt;b&gt;To be looked at.&lt;/b&gt;
 
 6. Samsung Electronics
 That's a giant. They have a great marketing planning system based on a very good article in Harvard Business Review, but other than that they are a giant and I have no clue whatsoever where the profits come from in reality. So this is a nogo.
@@ -45,7 +45,7 @@ Great stuff, but with spitting of of Disney, there is too much stuff unsure now 
 A giant, again. And a giant with lots of product lines and so on. They seem to be very good but I'm sticking with F5 Networks for banking on traffic to be needed to be managed more effectively in the future, as more and more people get online. No thanks.
 
 11. Infosys Technologies
-Didn't know that one yet. They are an outsources of IT, including development, to far away countries with lower salaries. **Needs to be investigated.**
+Didn't know that one yet. They are an outsources of IT, including development, to far away countries with lower salaries. &lt;b&gt;Needs to be investigated.&lt;/b&gt;
 
 12. Dell Computer
 Amazing company that one, period. Too big for me to invest in at this time as I don't really see them going anywhere really soon. Maybe this is just a feeling because they have problems getting into Germany. We have an established system of very cheap PCs that even Dell can't compete with. 
@@ -63,16 +63,16 @@ Already in there and I would be thinking about more if I wouldn't already have a
 Too much competition going into the space. Nope.
 
 17. Monsanto
-I remember a friend saying that without gene modified soja, we wouldn't have the chicken volume we are eating in this world. And he knows, he is responsible for selling this stuff in Europe. So these things are interesting. **Probably worth a look.**
+I remember a friend saying that without gene modified soja, we wouldn't have the chicken volume we are eating in this world. And he knows, he is responsible for selling this stuff in Europe. So these things are interesting. &lt;b&gt;Probably worth a look.&lt;/b&gt;
 
 18. Toyota Motors
 While I do love Toyota from a focus perspective, it's just nothing I'd invest in. It's an automative company. That's dull. ;)
 
 19. Vodafone Group
-Already in there. I truely believe in the wireless future, and while I believe T-Mobile is kicking their butt in Germany, you can neither invest in T-Mobile directly at this time, nor are they as big world wide. &lt;B&gt;Possibly adding a bit**
+Already in there. I truely believe in the wireless future, and while I believe T-Mobile is kicking their butt in Germany, you can neither invest in T-Mobile directly at this time, nor are they as big world wide. &lt;B&gt;Possibly adding a bit&lt;/b&gt;
 
 20. Flextronics
-I thought about them time and time again and maybe it's time to closer look at the numbers. Here it would be important to think about who will build their stuff themselves, and who won't. Who might be their customer. Will they have more. &lt;B&gt;To be looked at.**
+I thought about them time and time again and maybe it's time to closer look at the numbers. Here it would be important to think about who will build their stuff themselves, and who won't. Who might be their customer. Will they have more. &lt;B&gt;To be looked at.&lt;/b&gt;
 
 21. Interactivecorp
 Ok, they are buying up property left and right. Internet property that is. I have to at least understand that. &lt;B&gt;To be looked at.&lt;/B&gt;
@@ -111,7 +111,7 @@ I don't want to go in the semiconductur area at this time.
 Nope.
 
 33. Gen-Probe
-Didn't know that one at all. &lt;B&gt;To be looked at.**
+Didn't know that one at all. &lt;B&gt;To be looked at.&lt;/b&gt;
 
 34. Ryanair
 Nope. I looked at low cost carriers for the MBA once. Hell of an industry. 

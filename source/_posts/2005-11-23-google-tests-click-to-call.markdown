@@ -19,6 +19,6 @@ This is really the thing with eBays buy of Skype. They have full access to the b
 
 The amount of things Google is doing is starting to get a little bit scary, but hey, they are enabling a lot of nice things there and building a market that will be bigger than they are in the end. Good for all of us.
 
-{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Advertising&quot;&gt;Advertising, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google&quot;&gt;Google, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Ingenio&quot;&gt;Ingenio, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Pay+per+Call&quot;&gt;Pay per Call, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Click+to+Call&quot;&gt;Click-to-Call}
+{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Advertising&quot;&gt;Advertising&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Google&quot;&gt;Google&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Ingenio&quot;&gt;Ingenio&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Pay+per+Call&quot;&gt;Pay per Call&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Click+to+Call&quot;&gt;Click-to-Call&lt;/a&gt;}
 
 

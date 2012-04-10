@@ -14,7 +14,7 @@ I didn't want to post about this as there are enough people talking about it and
 
 The picture shows people standing on big public place in Seville/Spain holding up their hands with their palms out.  I'll just add the quotation: 
 
-*Thousands of people gathered at the New Square in Seville, Spain, to protest the terrorist attacks in Madrid. Demonstrators there held up their hands as a signal to stop*
+&lt;i&gt;Thousands of people gathered at the New Square in Seville, Spain, to protest the terrorist attacks in Madrid. Demonstrators there held up their hands as a signal to stop&lt;/i&gt;
 
 Very powerful.
 

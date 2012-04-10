@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;just right&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/4678110_f2827adcd1_m.jpg&quot; alt=&quot;just right&quot; /&gt;](http://www.flickr.com/photos/oliver/4678110/)Either now or in 7-10 years
+[ title=&quot;just right&quot;&gt;&lt;img src=&quot;http://photos3.flickr.com/4678110_f2827adcd1_m.jpg&quot; alt=&quot;just right&quot; /&gt;](http://www.flickr.com/photos/oliver/4678110/)&lt;p&gt;Either now or in 7-10 years&lt;/p&gt;
 
 

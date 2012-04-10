@@ -11,7 +11,7 @@ author: Oliver Thylmann
 All in all we use a lot of metaphors to describe aspects of our lives and this includes organizational life. Morgan (1986, 1997) found eight such metaphors to describe corporations: Machine, Organism, Brain, Culture, Political systems, Psychic prison, Flux and transformation, Instrument of domination.
 
 
-
+&lt;!-- more --&gt;
 
 
 The machine metaphor is characterised by an unfeeling rationality, efficiency, run like clockwork, bureaucracy, Ford's assembly line, ...
@@ -28,11 +28,11 @@ In complexity you see emergence, self-organization, informality and also unpredi
 
 What is the implication of all of this? Metaphors often reflect the values of those that selected them. There is a strong relationship between what we think and what we do and metaphors help in connecting the two. 
 
-**Management Metaphors**
+&lt;b&gt;Management Metaphors&lt;/b&gt;
 
 These are also common, and often based around team sports these days. Others are warlike or spiritual metaphors. We started out as seeing management as a captain, while leaning more towards the idea of a coach these days. An author, jazz musician or potter are other metaphors found. 
 
-**Paradigms**
+&lt;b&gt;Paradigms&lt;/b&gt;
 
 When a school of thought hardens, it becomes a paradigm, an assumption that isn't questioned. The functionalist paradigm sees our world as orderly and understandable, with the organisations having specific goals. The interpretative paradigm sees it as a social relationship. Westerners favor rational analysis and focus on the task. Now we are starting to put more emphasis on the relationship and enterpreneurial forms of managment put more focus on the powers of perception rather than analysis. Firms are decentralizing, going into cells, boundaries moving or going away and more holistic analysis is taking place. A paradigm shift seems to be happening that is not easy.
 

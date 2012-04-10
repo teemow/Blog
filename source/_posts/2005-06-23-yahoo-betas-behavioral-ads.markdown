@@ -9,6 +9,6 @@ author: Oliver Thylmann
 
 
 Interesting things happening in advertising land. MarketingVOX reports that
-*[Yahoo Betas Behavioral Ads, Could Challenge AdSense](http://www.marketingvox.com/archives/2005/06/23/yahoo_betas_behavioral_ads_could_challenge_adsense/index.php?rss1)*. Their using [Revenue Science](http://www.revenuescience.com/default.asp), having hired one of the founders as Chief Data Officer some time ago it seems. I am looking forward to seeing how this turns out.
+&lt;I&gt;[Yahoo Betas Behavioral Ads, Could Challenge AdSense](http://www.marketingvox.com/archives/2005/06/23/yahoo_betas_behavioral_ads_could_challenge_adsense/index.php?rss1)&lt;/I&gt;. Their using [Revenue Science](http://www.revenuescience.com/default.asp), having hired one of the founders as Chief Data Officer some time ago it seems. I am looking forward to seeing how this turns out.
 
 

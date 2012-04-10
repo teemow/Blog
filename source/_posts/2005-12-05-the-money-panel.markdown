@@ -42,9 +42,9 @@ Next item is the question of Mechanical Turk from Amazon and what they think abo
 Rodrigo talked about that there are companies out there that haven't ever taken VC funding, like Spreadshirt who are now 100 people and profitable. David agrees that people don't have to take his money, as he might be a nice guy at meetings, but not nice enough for the amount of share of the company he takes away for that. :)
 
 Some more questions and answers that I didn't write down, but all in all a great panel.
+&lt;!-- technorati tags start --&gt;
 
+Technorati Tags: &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/lesblogs&quot;&gt;lesblogs&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/investing&quot;&gt;investing&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://www.technorati.com/tag/vc&quot;&gt;vc&lt;/a&gt;
 
-
-
-
+&lt;!-- technorati tags end --&gt;
 

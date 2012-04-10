@@ -12,7 +12,7 @@ author: Oliver Thylmann
 
 
 
-[Encyclopedia of Life](http://www.eol.org/home.html) is *an ecosystem of websites that makes all key information about life on Earth accessible to anyone, anywhere in the world.Â *
+[Encyclopedia of Life](http://www.eol.org/home.html) is &lt;em&gt;an ecosystem of websites that makes all key information about life on Earth accessible to anyone, anywhere in the world.Â &lt;/em&gt;
 
 And they do have a very cool video presentation on their site about what they are about to do. Wonderfully done, very well explained.
 

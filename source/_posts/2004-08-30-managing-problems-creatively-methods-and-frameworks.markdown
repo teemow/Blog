@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Here the look goes into the overall methods and frameworks within which techniques can be deployed. In general you are working to come from confusion to clarity. This can just happen because you let it, you can make it happen or you can help it happen. It's hard to classify the different methods that can be used because they are evolving. All this goes back to Socrates (400BC). Slowly ideas were written down and with it problem solving techniques. Now lots of the techniques have matured. Some are even old and might be replaced or improved.
 
 
-
+&lt;!-- more --&gt;
 
 
 A little look at history follows as the methods emerge. In the 30s to 50s Alex Osborn and William J.J. Gordon introduced the idea of brainstorming, splitting up fact-finding, idea-finding and solution-finding. System thinkers were also starting at the same time, and they saw problem solving as a technical and rational process: define, identify, develop, analyse and recommend. Overall, both where saying that you need to clarify the problem, then think up possibilities and go to selecting the best. 
@@ -28,28 +28,28 @@ Checkland's soft systems method (SSM) is about orchestrating debate, as teh book
 
 Friend and Hickling's strategic choice approach is about mapping all the options, seeing uncertainties, removing the immpossible ones and continuing this to choose. 
 
-Next to looking for the problem, **facilitation** was a real concern. You can either get a person that knows what she is doing or make the methods easy enough to do. Nominal Group Technique (NGT) and Brainwriting are easy enough to use methods for example. 
+Next to looking for the problem, &lt;b&gt;facilitation&lt;/b&gt; was a real concern. You can either get a person that knows what she is doing or make the methods easy enough to do. Nominal Group Technique (NGT) and Brainwriting are easy enough to use methods for example. 
 
-Also important: **incorporating the non-rational**: This got growing attention, with logic being seen as a special way of thinking. This became more acceptable as a view point in the 60s and 70s. The intuitive was more plausible, but was still routed in the clarify, think, select approach. But maybe the solution was already inside you. Emotional intelligence (Goleman) is important in this respect.
+Also important: &lt;b&gt;incorporating the non-rational&lt;/b&gt;: This got growing attention, with logic being seen as a special way of thinking. This became more acceptable as a view point in the 60s and 70s. The intuitive was more plausible, but was still routed in the clarify, think, select approach. But maybe the solution was already inside you. Emotional intelligence (Goleman) is important in this respect.
 
 Some techniques here are NLP for example, neuro-linguistic programming. It helps you to become more skilled at reading yourself. 
 
-**Maturity and the Future**
+&lt;b&gt;Maturity and the Future&lt;/b&gt;
 
 The 80s and 90s can be called maturity. Here we are repackaging and finding new paradigms. Methods are put together to form new things, adapted to special areas, software used to improve them or exploit them. The role of IT and more importance of other kinds of thinking need to be mentioned. We are starting to understand the brain better but this understanding hasn't even started yet. Post-modernism is about the notion that there might be lots of possible approaches and agreement is more about negotiation than about objective proof. 
 
-**Future Trends**
+&lt;b&gt;Future Trends&lt;/b&gt;
 
 Maybe all of this will go to the mass user market, help busy managers by being extremely easy and swift to use, it developments might help to further them, or consultants will drive new methods to make money. There are numerous possible scenarios.
 
-**Frameworks**
+&lt;b&gt;Frameworks&lt;/b&gt;
 
 There are different ones that are brought forward here.
 
-*Framework 1* Problem solving as answering
-*Framework 2* Problem solving as searching
-*Framework 3* Problem solving as cultivation
-*Framework 4* Problem solving as mapping
-*Framework 5* Problem solving as debate
-*Framework 6* Problem solving as reperception
+&lt;I&gt;Framework 1&lt;/i&gt; Problem solving as answering
+&lt;i&gt;Framework 2&lt;/i&gt; Problem solving as searching
+&lt;i&gt;Framework 3&lt;/i&gt; Problem solving as cultivation
+&lt;i&gt;Framework 4&lt;/i&gt; Problem solving as mapping
+&lt;i&gt;Framework 5&lt;/i&gt; Problem solving as debate
+&lt;i&gt;Framework 6&lt;/i&gt; Problem solving as reperception
 

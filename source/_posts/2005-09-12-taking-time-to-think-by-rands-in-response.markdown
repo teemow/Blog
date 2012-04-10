@@ -8,7 +8,7 @@ author: Oliver Thylmann
 ---
 
 
-Rands in Response has a great post indeed called &lt;a title=&quot;Taking Time to Think&quot; href=&quot;http://www.randsinrepose.com/archives/2005/08/30/taking_time_to_think.html&quot;&gt;Taking Time to Think. You should read it in full but I will try to summarize the general idea here.
+Rands in Response has a great post indeed called &lt;a title=&quot;Taking Time to Think&quot; href=&quot;http://www.randsinrepose.com/archives/2005/08/30/taking_time_to_think.html&quot;&gt;Taking Time to Think&lt;/a&gt;. You should read it in full but I will try to summarize the general idea here.
 
 First for the sake of the idea, imagine you have two half-brains, something that is actually very true. One half is the creative one, which is your source for inspiration, thriving on new ideas. It needs to soak these up, get new ones, not constraint by time or place and never done. But it cannot be timed because of that and hence not plannable and budgetable.
 

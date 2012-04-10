@@ -16,6 +16,6 @@ Both [Timo](http://teemow.com/2006/10/24/barcamp-cologne/) and [Nico](http://lum
 
 The [registration](http://barcampcologne.pbwiki.com/Teilnehmer) page is filling quickly with the candidates that you would expect. I am looking forward to a nice few days with some interesting subjects.
 
-&lt;center&gt;&lt;a title=&quot;barcamp Cologne&quot; href=&quot;http://barcampcologne.pbwiki.com/&quot;&gt;&lt;img width=&quot;200&quot; height=&quot;60&quot; border=&quot;0&quot; alt=&quot;barcamp Cologne&quot; src=&quot;http://static.flickr.com/96/275169063_81087de6df_o.gif&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;a title=&quot;barcamp Cologne&quot; href=&quot;http://barcampcologne.pbwiki.com/&quot;&gt;&lt;img width=&quot;200&quot; height=&quot;60&quot; border=&quot;0&quot; alt=&quot;barcamp Cologne&quot; src=&quot;http://static.flickr.com/96/275169063_81087de6df_o.gif&quot; /&gt;&lt;/a&gt;&lt;/center&gt;
 
 

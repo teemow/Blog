@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Nokia today has their Nokia Capital Markets Day, which you can follow [here](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NOK&amp;script=1010&amp;item_id=807318). Below is a bit of a summary for the interesting tidbits. :)
 
 
-
+&lt;!-- more --&gt;
 
 
 In the [opening remarks](http://media.corporate-ir.net/media_files/webcast/2003/nov03/Nokia/PPT/OpeningRemarks.pdf) Jorma Ollila points out the sources of competitive advantage of Nokia being: Products; Brand; Sourcing, logistics and manufacturing; Technology; Economies of scale; Software.... An interesting mix, even though I am not sure many of them qualify as a sustainable competitive advantage. They serve best at showing what Nokia wants to focus on in the future. 
@@ -33,14 +33,14 @@ As for media, Nokia has a business unit that is already licensing content it see
 The N-Gage will have 100 titles by the end of 2004. They are in it for the long run and people will need to understand that. 
 
 As for the operator problem, being that they want to push their own brand, here are Nokia's answers, what Nokia brings:
-*
+&lt;I&gt;
 - World class brand - creates consumer pull
 - Easy of use - enables higher ARPU
 - High quality - less need for customer service
-- Enabling operator differentiation* (see the skinnability of 6600 above)
-*- Wide product range
+- Enabling operator differentiation&lt;/I&gt; (see the skinnability of 6600 above)
+&lt;I&gt;- Wide product range
 - Have the best support resources
 - Best partner for end to end data services market
-*
+&lt;/i&gt;
 
 

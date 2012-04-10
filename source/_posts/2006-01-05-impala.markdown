@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/41/82636493_4fb05cd3ca.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/82636493/)	[Impala](http://www.flickr.com/photos/oliver/82636493/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					Thu 05/01/2006 21:06 05012006094 Very tasty
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/41/82636493_4fb05cd3ca.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/82636493/)&lt;br /&gt;	[Impala](http://www.flickr.com/photos/oliver/82636493/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	Thu 05/01/2006 21:06 05012006094 Very tasty&lt;/p&gt;
 
 

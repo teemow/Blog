@@ -12,7 +12,7 @@ Reuters has the news: [eBay buys Skype](http://yahoo.reuters.com/financeQuoteCom
 
 That press release holds in information why this is _VERY_ important: 
 
-*The acquisition also enables eBay and Skype to pursue entirely new lines of business.  For example, in addition to eBayâ€™s current transaction-based fees, ecommerce communications could be monetized on a pay-per-call basis through Skype.  Pay-per-call communications opens up new categories of ecommerce, especially for those sectors that depend on a lead-generation model such as personal and business services, travel, new cars, and real estate.  eBayâ€™s other shopping websites -- Shopping.com, Rent.com, Marktplaats.nl and Kijiji â€“ can also benefit from the integration of Skype. *
+&lt;I&gt;The acquisition also enables eBay and Skype to pursue entirely new lines of business.  For example, in addition to eBayâ€™s current transaction-based fees, ecommerce communications could be monetized on a pay-per-call basis through Skype.  Pay-per-call communications opens up new categories of ecommerce, especially for those sectors that depend on a lead-generation model such as personal and business services, travel, new cars, and real estate.  eBayâ€™s other shopping websites -- Shopping.com, Rent.com, Marktplaats.nl and Kijiji â€“ can also benefit from the integration of Skype. &lt;/I&gt;
 
 'Nuff said.
 

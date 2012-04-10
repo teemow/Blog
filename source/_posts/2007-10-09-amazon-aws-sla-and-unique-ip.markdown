@@ -19,7 +19,7 @@ Lots of great news from the Amazon AWS team. First of all [there is now](http://
 
 The one that excited me even more, and I am happy to quiz one of their evangelists when he comes over to cologne next month, is from an [eWeek article](http://www.eweek.com/article2/0,1759,2190210,00.asp):
 
-*Andy Jassy, senior vice president of Amazon Web Services, told the audience that the offering was currently working on static IP technology.*
+&lt;em&gt;Andy Jassy, senior vice president of Amazon Web Services, told the audience that the offering was currently working on static IP technology.&lt;/em&gt;
 
 Wow! Kick ass. I just really need one, and a way to manage which server gets that IP. Sure I could use some dyndns like service, or even [Neustar Ultra Services](http://www.neustarultraservices.biz/) or something but having one unique IP that is up and that can be bound to a load balancer would be great. Add [WeoCeo](http://weoceo.weogeo.com/) and I am set. :)
 

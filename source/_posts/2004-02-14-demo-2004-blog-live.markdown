@@ -10,6 +10,6 @@ author: Oliver Thylmann
 
 There we go, the [Demo 2004 Blog](http://demo2004.blogs.com/weblog/) is live. It will be very interesting to see who will demo there, among others the people behind TypePad by the way, who are also hosting the blog. Cool.
 
-**Update**: Here is a [List of Demonstrators](http://www.demo.com/demo/demonstrators/2004/index.html) at Demo 2004.
+&lt;b&gt;Update&lt;/b&gt;: Here is a [List of Demonstrators](http://www.demo.com/demo/demonstrators/2004/index.html) at Demo 2004.
 
 

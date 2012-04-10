@@ -19,8 +19,8 @@ var wikiwin =  window.open(&quot;http://gollum.easycp.de/gollum/gollum.php?a=cor
 wikiwin.focus();
 }
 
-Having the required script in this post, would allow me to simple link &lt;a title=&quot;Term in Wikipedia look up&quot; href=&quot;http://blog.thylmann.net/gollum('Germany','en','en')&quot;&gt;Germany and clicking the word would end up opening the browser with the Wikipedia Definition on it. I could of course simply link, but this would be only half as cool, wouldn't it?
+Having the required script in this post, would allow me to simple link &lt;a title=&quot;Term in Wikipedia look up&quot; href=&quot;http://blog.thylmann.net/gollum('Germany','en','en')&quot;&gt;Germany&lt;/a&gt; and clicking the word would end up opening the browser with the Wikipedia Definition on it. I could of course simply link, but this would be only half as cool, wouldn't it?
 
-{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Web+2.0&quot;&gt;Web 2.0, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Gollum&quot;&gt;Gollum, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Ajax&quot;&gt;Ajax, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Wikipedia&quot;&gt;Wikipedia}
+{&lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Web+2.0&quot;&gt;Web 2.0&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Gollum&quot;&gt;Gollum&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Ajax&quot;&gt;Ajax&lt;/a&gt;, &lt;a rel=&quot;tag&quot; href=&quot;http://technorati.com/tag/Wikipedia&quot;&gt;Wikipedia&lt;/a&gt;}
 
 

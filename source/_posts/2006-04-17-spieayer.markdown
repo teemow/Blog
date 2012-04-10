@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/53/130376532_a12d6ae3f2.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/130376532/)	[SpieÃŸer](http://www.flickr.com/photos/oliver/130376532/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					This was under our windschield and they had a lot of space i might ad This was under our windschield and they had a lot of space i might ad
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/53/130376532_a12d6ae3f2.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/130376532/)&lt;br /&gt;	[SpieÃŸer](http://www.flickr.com/photos/oliver/130376532/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	This was under our windschield and they had a lot of space i might ad This was under our windschield and they had a lot of space i might ad&lt;/p&gt;
 
 

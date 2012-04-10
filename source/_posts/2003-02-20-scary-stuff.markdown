@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-Now &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/6/29408.html&quot;&gt;this is scary stuff. Seems like airlines might hand over all the data they have about you in case you fly to the US.
+Now &lt;a title=&quot;The Register&quot; href=&quot;http://www.theregister.co.uk/content/6/29408.html&quot;&gt;this&lt;/a&gt; is scary stuff. Seems like airlines might hand over all the data they have about you in case you fly to the US.
 
 

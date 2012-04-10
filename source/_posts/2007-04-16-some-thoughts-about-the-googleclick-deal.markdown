@@ -16,9 +16,9 @@ One weekend you relax, and come late to the news, and [Google has bought Doublec
 
 This also becomes clear in the [FAQ](http://services.google.com/blog_resources/Liberty_FAQ_final_041307.pdf) that Google put up. They have lots of questions they answer in great detail (especially privacy stuff ;)) and then there is one question they can answer very clearly:
 
-*Q. Will advertisers and agencies be able to serve ads to Google network sites through DoubleClick?*
+&lt;em&gt;Q. Will advertisers and agencies be able to serve ads to Google network sites through DoubleClick?&lt;/em&gt;
 
-*A. Yes*
+&lt;em&gt;A. Yes&lt;/em&gt;
 
 Ahhhh... there you go. That's the reason they bought Doubleclick. Agencies get X Million USD to manage and distribute and they want to track everything via one tool. Above that, [Paul Kedrosky thinks](http://paul.kedrosky.com/archives/2007/04/13/googleclick_and.html) that $1 Billion is really just to be a pain for Microsoft. Above that, this really puts Yahoo! back on the map for lots of people he thinks.
 

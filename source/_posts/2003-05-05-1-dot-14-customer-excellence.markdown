@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Here the focus is on the market choice within Piercy's pathway to customer orientation, which also includes the value proposition and key relationships which are not discussed here.
 
 
-
+&lt;!-- more --&gt;
 
 
 1. Market choices

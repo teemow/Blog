@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[Very nice article on FastCompany](http://fastcompany.com/magazine/42/pp_waldroop.html): *Knowledge workers have met the enemy, and it is us. More than ever before, people have opportunities earlier in their careers to start companies, lead business units, run projects, and make a difference. So why do so many of us seem to blow it? As business psychologists and directors of Harvard Business School's MBA Career Development Programs, James Waldroop and Timothy Butler have helped some of the best and the brightest wrestle with that question.*
+[Very nice article on FastCompany](http://fastcompany.com/magazine/42/pp_waldroop.html): &lt;I&gt;Knowledge workers have met the enemy, and it is us. More than ever before, people have opportunities earlier in their careers to start companies, lead business units, run projects, and make a difference. So why do so many of us seem to blow it? As business psychologists and directors of Harvard Business School's MBA Career Development Programs, James Waldroop and Timothy Butler have helped some of the best and the brightest wrestle with that question.&lt;/I&gt;
 
 

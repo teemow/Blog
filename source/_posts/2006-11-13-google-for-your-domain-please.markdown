@@ -17,5 +17,5 @@ Ok, now I am starting to have enough. Google is now [posting on their blog](http
 
 Otherwise I'd like to hear anyones suggestions for a hosted corporate email system. Fusemail currently has SMTP Problems again for many hours and while they are otherwise good, I am not so thrilled that I wouldn't move.
 
-**Update**: Not even 24 hours later, the problem is solved! Thank you Google Team :)
+&lt;strong&gt;Update&lt;/strong&gt;: Not even 24 hours later, the problem is solved! Thank you Google Team :)
 

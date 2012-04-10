@@ -10,7 +10,7 @@ author: Oliver Thylmann
 
 The Land of Sisu is a great board on [TMF](http://fool.com/) and today I found this here. Bad for me that I study in english ;)
 
-*
+&lt;I&gt;
 For those of you who watch what you eat...
 
 Here's the final word on nutrition and health. It's a relief to know the truth after all those conflicting medical studies.
@@ -25,6 +25,6 @@ Here's the final word on nutrition and health. It's a relief to know the truth a
 
 5. The Germans drink a lot of beer and eat lots of sausages and fats and suffer fewer heart attacks than the British or Americans.
 
-CONCLUSION: Eat and drink what you like. Speaking English is apparently what kills you.*
+CONCLUSION: Eat and drink what you like. Speaking English is apparently what kills you.&lt;/I&gt;
 
 

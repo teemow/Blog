@@ -9,12 +9,12 @@ author: Oliver Thylmann
 
 
 I was just looking through communities at [Orkut](http://www.orkut.com/) when I found the Tyco Community, Tyco being the company. Here is what it said: 
-*
+&lt;I&gt;
 T - Tomorrow 
 Y - Your 
 C - Company is 
 O - Ours
-*
+&lt;/I&gt;
 
 :)
 

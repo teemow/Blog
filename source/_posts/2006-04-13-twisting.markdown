@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/48/127870519_4009261c58.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/127870519/)	[twisting](http://www.flickr.com/photos/oliver/127870519/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;					If this ad is correct then the second cam could twist which it can't
+&lt;div&gt;	[ title=&quot;photo sharing&quot;&gt;&lt;img class=&quot;flickr-photo&quot; src=&quot;http://static.flickr.com/48/127870519_4009261c58.jpg&quot; alt=&quot;&quot; /&gt;](http://www.flickr.com/photos/oliver/127870519/)&lt;br /&gt;	[twisting](http://www.flickr.com/photos/oliver/127870519/), originally uploaded by [owt](http://www.flickr.com/people/oliver/).&lt;/div&gt;				&lt;p&gt;	If this ad is correct then the second cam could twist which it can't&lt;/p&gt;
 
 

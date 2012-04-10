@@ -8,6 +8,6 @@ author: Oliver Thylmann
 ---
 
 
-[ title=&quot;packed&quot;&gt;&lt;img src=&quot;http://photos4.flickr.com/4406905_ac194b680c_m.jpg&quot; alt=&quot;packed&quot; /&gt;](http://www.flickr.com/photos/oliver/4406905/)
+[ title=&quot;packed&quot;&gt;&lt;img src=&quot;http://photos4.flickr.com/4406905_ac194b680c_m.jpg&quot; alt=&quot;packed&quot; /&gt;](http://www.flickr.com/photos/oliver/4406905/)&lt;p&gt;&lt;/p&gt;
 
 

@@ -10,12 +10,12 @@ author: Oliver Thylmann
 
 Again something from TMF. so how do you understand the number &quot;billion&quot;. A US ad agency put it like this. 
 
-*A billion seconds ago it was 1959. 
+&lt;I&gt;A billion seconds ago it was 1959. 
 
 A billion minutes ago Jesus was alive 
 
 A billion hours ago our ancestors were living in the Stone Age. 
 
-A billion dollars ago was only 8 hours and 20 minutes, at the rate Washington spends it. *
+A billion dollars ago was only 8 hours and 20 minutes, at the rate Washington spends it. &lt;/I&gt;
 
 

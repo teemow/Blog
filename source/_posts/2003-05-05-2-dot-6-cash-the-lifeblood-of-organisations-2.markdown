@@ -11,7 +11,7 @@ author: Oliver Thylmann
 This is a case study about Weatherfield Community Services, a non-profit organisation that provides meals and home-help services for the elderly in their own homes. They got a new accountant and all really seemed fine. Then the company financials suddenly deteriorated. There are some things that one should be looking at when looking at the financials of a company.
 
 
-
+&lt;!-- more --&gt;
 
 
 1.	Look at the rate of expansion in different areas

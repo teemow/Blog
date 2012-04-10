@@ -11,7 +11,7 @@ author: Oliver Thylmann
 Google has for some time now run Ads on their search results in terms of so called AdWords (check [here](http://www.google.com/ads/). This is ok, and interesting and all that and it seems to be making them good money. On top of that, it might allow googles to share revenue with bloggers, giving them the option to put AdWords on their blogs.
 
 
-
+&lt;!-- more --&gt;
 
 
 The interesting part came to me now. Google is running ads! Yes! But! What they are doing is running ads on other sites which display a set number of AdWords from a category that fits to the site that they ad is on. You go to a jewlery shop, which also runs ads, and suddenly there is an ad with 4 text links to other jewlery shops. Great great targetting to say the least, especially because through their search engine, Google more or less knows what kind of site they currently need to send an ad to. 
